@@ -1,6 +1,7 @@
 import anytree
 class video:
-    def __init__(self, title, content_creator, description, date, views, comments, likes, dislikes, transcript, tags, video_length, url, ad, id):
+    def __init__(self, url, title=None, content_creator=None, description=None, date=None, views=None, comments=None, likes=None, dislikes=None, transcript=None, tags=None, video_length=None, ad=None, id=None):
+        self.url = url
         self.title = title
         self.content_creator = content_creator
         self.description = description
@@ -12,7 +13,6 @@ class video:
         self.transcript = transcript
         self.tags = tags
         self.video_length = video_length
-        self.url = url
         self.id = id
         self.ad = ad
         self.category = None
@@ -20,10 +20,6 @@ class video:
 
     #takes in array of comments, outputs linkedList of comments where head is top comment and nextval is the next reply
     def comment_processing(self, comments):
-        pass
-
-    #parses the url for the video id
-    def url_to_id(self, url):
         pass
 
     #parse dataset to get channel category
