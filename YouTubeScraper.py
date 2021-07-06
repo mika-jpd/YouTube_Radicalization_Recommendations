@@ -45,7 +45,11 @@ class YouTubeScraper:
     def video_processing(self, url) -> object:
 
         self.driver.get(url)
-
+        time.sleep(1)
+        try:
+            self.driver.find_elements_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button/span')[0].click()
+        except:
+            pass
         #skip ad
         ad = self.check_ad()
         while(self.check_ad() == True):
@@ -71,7 +75,7 @@ class YouTubeScraper:
         return video, recommended
 
     def start_video(self):
-        time.sleep(3)
+        time.sleep(2)
 
         #click on the button to start if
         try:
@@ -105,12 +109,15 @@ class YouTubeScraper:
     # wait minutes to simulate watching a video, length is the video's length
     def wait_seconds(self, length):
         if (length < self.max_wait):
-            WebDriverWait(driver=self.driver, timeout=length)
+            #WebDriverWait(driver=self.driver, timeout=length)
+            time.sleep(length)
         else:
-            WebDriverWait(driver=self.driver, timeout=self.max_wait)
+            #WebDriverWait(driver=self.driver, timeout=self.max_wait)
+            time.sleep(self.max_wait)
 
     def collect_data(self, url, length, ads):
-        time.sleep(2)
+        time.sleep(1)
+        self.driver.execute_script('window.scrollTo(0, 540)')
 
         #prepare beautiful soup for webpage extraction
         session = HTMLSession()
@@ -163,10 +170,12 @@ class YouTubeScraper:
 
     def get_likes_dislikes(self, soup):
         likes_list = soup.find_all("yt-formatted-string", {"id": "text", "class": "ytd-toggle-button-renderer"})
-        likes = ''.join([ c for c in likes_list[1].attrs.get("aria-label") if c.isdigit() ])
+
+        #change once have VPN that'll put you in Canada
+        likes = ''.join([ c for c in likes_list[1].attrs.get("aria-label").split('clics')[0] if c.isdigit() ])
         likes = 0 if likes == '' else int(likes)
 
-        dislikes = ''.join([ c for c in likes_list[2].attrs.get("aria-label") if c.isdigit() ])
+        dislikes = ''.join([ c for c in likes_list[2].attrs.get("aria-label").split('clics')[0] if c.isdigit() ])
         dislikes = 0 if dislikes == '' else int(dislikes)
         return likes, dislikes
 
@@ -189,7 +198,6 @@ class YouTubeScraper:
         soup.find("span", {"class": "ytp-time-duration"}).text
 
     def get_video_recommendations(self):
-        time.sleep(2)
         recommended_videos = []
 
         #here the 1 is an index that you can use to cycle through recommended videos
@@ -214,7 +222,7 @@ def test_deque():
         scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
                                  category='Alt-right',
                                  seed_url=url,
-                                 max_wait=2)
+                                 max_wait=1)
         video, recommendations = scraper.video_processing(x)
         node = None
         if (root.url == None):
@@ -222,11 +230,12 @@ def test_deque():
             root.video = video
             node = root
         else:
-            node = anytree.search.findall(root, filter_= lambda node: node.url == video.url)
+            nodes = anytree.search.findall(root, filter_= lambda node: node.url == video.url)
+
             #should be unique
-            for i in node:
+            for i in nodes:
                 i.video = video
-                node = root
+                node = i
 
         for i in recommendations:
             de.append(i)
