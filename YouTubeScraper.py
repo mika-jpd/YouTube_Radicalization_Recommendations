@@ -214,7 +214,11 @@ class YouTubeScraper:
 
         return recommended_videos
 
-
+    def get_by_xpath(self, xpath):
+        try:
+            return self.driver.find_element_by_xpath(xpath=xpath)
+        except:
+            return 'Error found'
 def test_deque():
     #problem to solve: parent is not upating
     url = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
