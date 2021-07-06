@@ -95,7 +95,7 @@ class YouTubeScraper:
             #first make sure it can be skipped by finding the ad text button
             element = self.driver.find_elements_by_xpath('//*[contains(@id, "ad-text:")]')
             for i in element:
-                if('Skip ads' in i.text):
+                if(i.text == 'Skip Ads'):
                     self.driver.find_elements_by_xpath('//*[@class="ytp-ad-skip-button ytp-button"]')[0].click()
                     break
 
@@ -110,7 +110,6 @@ class YouTubeScraper:
             WebDriverWait(driver=self.driver, timeout=self.max_wait)
 
     def collect_data(self, url, length, ads):
-        self.driver.execute_script('window.scroll(0, 590)')
         time.sleep(2)
 
         #prepare beautiful soup for webpage extraction
@@ -123,7 +122,7 @@ class YouTubeScraper:
 
         #need to process all of these in video object
         title = self.get_title(soup=soup)
-        creator = soup.find("yt-formatted-string", {"class": "ytd-channel-name"}).find("a").text
+        creator = self.get_creator(soup)
         description = self.get_description(soup=soup)
         dates = self.get_date(soup=soup)
         views = self.get_views(soup=soup)
@@ -174,6 +173,9 @@ class YouTubeScraper:
     def get_title(self, soup):
         return soup.find("h1").text.strip()
 
+    def get_creator(self, soup):
+        return soup.find("yt-formatted-string", {"class": "ytd-channel-name"}).find("a").text
+
     def get_views(self, soup):
         return int(''.join([ c for c in soup.find("span", attrs={"class": "view-count"}).text if c.isdigit() ]))
 
@@ -202,6 +204,7 @@ class YouTubeScraper:
 
 
 def test_deque():
+    #problem to solve: parent is not upating
     url = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
     de = deque([url])
     root = AnyNode(id=url, parent=None, url=None, video=None)
