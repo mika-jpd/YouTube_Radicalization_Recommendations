@@ -122,7 +122,7 @@ class YouTubeScraper:
 
         #need to process all of these in video object
         title = self.get_title(soup=soup)
-        creator = self.get_creator(soup)
+        creator = self.get_creator(soup=soup)
         description = self.get_description(soup=soup)
         dates = self.get_date(soup=soup)
         views = self.get_views(soup=soup)
