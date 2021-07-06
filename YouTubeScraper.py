@@ -255,5 +255,5 @@ if __name__ == '__main__':
 
 
 # moving forward: clicking on videos and tab management!
-# put all the feature extracting in some form of try catch thing
+# put all the feature extracting in some form of try catch thing to avoid the huge number of errors that can pop up
 # updating the code so to incorporate asynchronous features
