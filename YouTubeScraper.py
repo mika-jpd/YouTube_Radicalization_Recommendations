@@ -49,6 +49,10 @@ class YouTubeScraper:
         try:
             self.driver.find_elements_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button/span')[0].click()
         except:
+            try:
+                self.driver.find_elements_by_xpath('/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[2]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a/tp-yt-paper-button/yt-formatted-string')[0].click()
+            except:
+                pass
             pass
         #skip ad
         ad = self.check_ad()
@@ -217,7 +221,7 @@ def test_deque():
     de = deque([url])
     root = AnyNode(id=url, parent=None, url=None, video=None)
 
-    for i in range(0, 10):
+    for i in range(0, 100):
         x = de.popleft()
         scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
                                  category='Alt-right',
@@ -251,3 +255,4 @@ if __name__ == '__main__':
 
 
 # moving forward: clicking on videos and tab management!
+# updating the code so to incorporate asynchronous features
