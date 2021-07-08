@@ -106,7 +106,7 @@ class YouTubeScraper:
             #first make sure it can be skipped by finding the ad text button
             element = self.driver.find_elements_by_xpath('//*[contains(@id, "ad-text:")]')
             for i in element:
-                if(i.text == 'Skip Ads'):
+                if(i.text == 'Skip Ads' or i.text == 'Skip Ad'):
                     self.driver.find_elements_by_xpath('//*[@class="ytp-ad-skip-button ytp-button"]')[0].click()
                     break
 
@@ -149,9 +149,9 @@ class YouTubeScraper:
         url = url
         id = self.video_url_to_id(url)
 
-        #likes, dislikes = self.get_likes_dislikes(soup=soup)
+        likes, dislikes = self.get_likes_dislikes(soup=soup)
 
-        #tags = self.get_tags(soup=soup)
+        tags = self.get_tags(soup=soup)
 
         length = length
         ads = ads
@@ -181,15 +181,12 @@ class YouTubeScraper:
         return tags
 
     def get_likes_dislikes(self, soup):
-        likes_list = soup.find_all("yt-formatted-string", {"id": "text", "class": "ytd-toggle-button-renderer"})
+        result = [i.get_attribute("aria-label") for i in self.driver.find_elements_by_xpath('//yt-formatted-string[@id="text"]') if i.get_attribute("aria-label") != None]
 
-        #change once have VPN that'll put you in Canada
-        likes = ''.join([ c for c in likes_list[1].attrs.get("aria-label").split('clics')[0] if c.isdigit() ])
-        likes = 0 if likes == '' else int(likes)
+        likes = [i for i in result if ('like' in i) and ('dislike' not in i)]
+        dislikes = [i for i in result if ' dislike' in i]
 
-        dislikes = ''.join([ c for c in likes_list[2].attrs.get("aria-label").split('clics')[0] if c.isdigit() ])
-        dislikes = 0 if dislikes == '' else int(dislikes)
-        return likes, dislikes
+        return likes[0] if (len(likes) != 0) else 'Unavailable', dislikes[0] if (len(dislikes) != 0) else ' Unavailable'
 
     def get_title(self):
         return self.driver.find_elements_by_xpath('//*[@id="container"]/h1/yt-formatted-string')[0].text
@@ -233,7 +230,7 @@ def test_deque():
     de = deque([url])
     root = AnyNode(id=url, parent=None, url=None, video=None)
 
-    for i in range(0, 100):
+    for i in range(0, 500):
         x = de.popleft()
         scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
                                  category='Alt-right',
