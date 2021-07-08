@@ -198,7 +198,8 @@ class YouTubeScraper:
         return self.driver.find_elements_by_xpath('//*[@id="count"]/ytd-video-view-count-renderer/span[1]')[0].text
 
     def get_description(self, soup):
-        return self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string/span[1]')[0].text
+        #self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string/span[1]')[0].text
+        return self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string')[0].text
 
     def get_date(self, soup):
         return self.driver.find_elements_by_xpath('//*[@id="info-strings"]/yt-formatted-string')[0].text
@@ -230,7 +231,7 @@ def test_deque():
     de = deque([url])
     root = AnyNode(id=url, parent=None, url=None, video=None)
 
-    for i in range(0, 500):
+    for n in range(0, 10):
         x = de.popleft()
         scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
                                  category='Alt-right',
