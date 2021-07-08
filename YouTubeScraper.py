@@ -31,6 +31,7 @@ class YouTubeScraper:
         options.add_argument("--disable-infobars")
         options.add_argument("--disable-extensions")
         options.add_argument("--window-size=1920,1080")
+        options.add_argument("--mute-audio")
 
         return webdriver.Chrome(executable_path=self.path, options=options)
 
@@ -55,9 +56,11 @@ class YouTubeScraper:
                 pass
             pass
         #skip ad
+        time.sleep(2)
         ad = self.check_ad()
         while(self.check_ad() == True):
             self.skip_ad()
+            time.sleep(2)
 
         if (ad == False):
             self.start_video()
@@ -122,29 +125,33 @@ class YouTubeScraper:
     def collect_data(self, url, length, ads):
         time.sleep(1)
         self.driver.execute_script('window.scrollTo(0, 540)')
+        time.sleep(2)
 
         #prepare beautiful soup for webpage extraction
         session = HTMLSession()
         response = session.get(url)
         # execute Javascript
-        response.html.render(sleep=1)
+        response.html.render(timeout=30)
         # create beautiful soup object to parse HTML
         soup = bs(response.html.html, "html.parser")
 
         #need to process all of these in video object
-        title = self.get_title(soup=soup)
+        title = self.get_title()
         creator = self.get_creator(soup=soup)
         description = self.get_description(soup=soup)
         dates = self.get_date(soup=soup)
         views = self.get_views(soup=soup)
 
-        number_comments = self.driver.find_element_by_xpath('//*[@id="count"]/yt-formatted-string/span[1]').text
+        number_comments = self.get_by_xpath('//*[@id="count"]/yt-formatted-string/span[1]')
+        if(number_comments != 'Error found'):
+            number_comments = number_comments.text
+
         url = url
         id = self.video_url_to_id(url)
 
-        likes, dislikes = self.get_likes_dislikes(soup=soup)
+        #likes, dislikes = self.get_likes_dislikes(soup=soup)
 
-        tags = self.get_tags(soup=soup)
+        #tags = self.get_tags(soup=soup)
 
         length = length
         ads = ads
@@ -157,7 +164,8 @@ class YouTubeScraper:
                           video_length=length, url=url,
                           ad=ads, id=id)
 
-
+        response.close()
+        session.close()
         #find a way to cycle through comments
 
         return vid
@@ -183,20 +191,20 @@ class YouTubeScraper:
         dislikes = 0 if dislikes == '' else int(dislikes)
         return likes, dislikes
 
-    def get_title(self, soup):
-        return soup.find("h1").text.strip()
+    def get_title(self):
+        return self.driver.find_elements_by_xpath('//*[@id="container"]/h1/yt-formatted-string')[0].text
 
     def get_creator(self, soup):
-        return soup.find("yt-formatted-string", {"class": "ytd-channel-name"}).find("a").text
+        return self.driver.find_elements_by_xpath('//*[@id="text"]/a')[1].text
 
     def get_views(self, soup):
-        return int(''.join([ c for c in soup.find("span", attrs={"class": "view-count"}).text if c.isdigit() ]))
+        return self.driver.find_elements_by_xpath('//*[@id="count"]/ytd-video-view-count-renderer/span[1]')[0].text
 
     def get_description(self, soup):
-        return soup.find("yt-formatted-string", {"class": "content"}).text
+        return self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string/span[1]')[0].text
 
     def get_date(self, soup):
-        return soup.find("span", {"id": "dot"}).next.contents[0]
+        return self.driver.find_elements_by_xpath('//*[@id="info-strings"]/yt-formatted-string')[0].text
 
     def get_duration(self, soup):
         soup.find("span", {"class": "ytp-time-duration"}).text
