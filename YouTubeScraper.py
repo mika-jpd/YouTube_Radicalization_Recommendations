@@ -16,7 +16,7 @@ from collections import deque
 import asyncio
 
 class YouTubeScraper:
-    def __init__(self, path_driver, category, seed_url, max_wait, history=False):
+    def __init__(self, path_driver, category, seed_url, max_wait, trial_id, history=False):
         self.path = path_driver
         self.driver = self.create_chrome_driver()
         self.driverconst = self.driver.title
@@ -24,7 +24,7 @@ class YouTubeScraper:
         self.seed_url = seed_url
         self.history = history
         self.max_wait = max_wait
-
+        self.trial_id = trial_id
     def create_chrome_driver(self):
         options = webdriver.ChromeOptions()
         options.add_argument("--no-sandbox")
@@ -43,10 +43,15 @@ class YouTubeScraper:
 
 
 ###### Video Processing #################
-    def video_processing(self, url) -> object:
+    def video_processing(self, url, main_tab, current_tab) -> object:
 
+        self.driver.switch_to.window(current_tab)
         self.driver.get(url)
+
+        #wait for the video to be loaded
         time.sleep(1)
+
+        #skip the data protection button
         try:
             self.driver.find_elements_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button/span')[0].click()
         except:
@@ -55,19 +60,21 @@ class YouTubeScraper:
             except:
                 pass
             pass
+
         #skip ad
         time.sleep(2)
-        ad = self.check_ad()
+        ad = None
         while(self.check_ad() == True):
+            ad = True
             self.skip_ad()
             time.sleep(2)
 
-        if (ad == False):
+        if (ad == None):
             self.start_video()
 
         # extract the video length with the JavaScript code
         # use JavaScript since the element isn't always visible
-        length = self.driver.execute_script("return document.getElementById('movie_player').getDuration()")
+        length = self.get_length()
 
         #watch the video for a little, simulate a person
         self.wait_seconds(length)
@@ -78,12 +85,14 @@ class YouTubeScraper:
         #get the recommended videos
         recommended = self.get_video_recommendations()
 
+        self.driver.switch_to.window(current_tab)
         self.driver.close()
+        self.driver.switch_to.window(main_tab)
+
         return video, recommended
 
     def start_video(self):
         time.sleep(2)
-
         #click on the button to start if
         try:
             element = self.driver.find_element_by_xpath("//button[@class='ytp-large-play-button ytp-button']")
@@ -121,6 +130,9 @@ class YouTubeScraper:
         else:
             #WebDriverWait(driver=self.driver, timeout=self.max_wait)
             time.sleep(self.max_wait)
+
+    def get_length(self):
+        return self.driver.execute_script("return document.getElementById('movie_player').getDuration()")
 
     def collect_data(self, url, length, ads):
         time.sleep(1)
@@ -170,6 +182,12 @@ class YouTubeScraper:
 
         return vid
 
+    def get_num_comments(self):
+        try:
+            return self.get_by_xpath('//*[@id="count"]/yt-formatted-string/span[1]').text
+        except:
+            return 'Error found'
+
     def video_url_to_id(self, url):
         s = url.split('=')
         return s[1]
@@ -177,35 +195,60 @@ class YouTubeScraper:
     def get_tags(self, soup):
         # open("index.html", "w").write(response.html.html)
         # initialize the result
-        tags = ', '.join([ meta.attrs.get("content") for meta in soup.find_all("meta", {"property": "og:video:tag"}) ])
-        return tags
+        try:
+            tags = ', '.join([ meta.attrs.get("content") for meta in soup.find_all("meta", {"property": "og:video:tag"}) ])
+            return tags
+        except:
+            return 'Error found'
+
 
     def get_likes_dislikes(self, soup):
-        result = [i.get_attribute("aria-label") for i in self.driver.find_elements_by_xpath('//yt-formatted-string[@id="text"]') if i.get_attribute("aria-label") != None]
+        try:
+            result = [i.get_attribute("aria-label") for i in self.driver.find_elements_by_xpath('//yt-formatted-string[@id="text"]') if i.get_attribute("aria-label") != None]
 
-        likes = [i for i in result if ('like' in i) and ('dislike' not in i)]
-        dislikes = [i for i in result if ' dislike' in i]
+            likes = [i for i in result if ('like' in i) and ('dislike' not in i)]
+            dislikes = [i for i in result if ' dislike' in i]
 
-        return likes[0] if (len(likes) != 0) else 'Unavailable', dislikes[0] if (len(dislikes) != 0) else ' Unavailable'
+            return likes[0] if (len(likes) != 0) else 'Unavailable', dislikes[0] if (len(dislikes) != 0) else ' Unavailable'
+        except:
+            return 'Error found'
 
     def get_title(self):
-        return self.driver.find_elements_by_xpath('//*[@id="container"]/h1/yt-formatted-string')[0].text
+        try:
+            return self.driver.find_elements_by_xpath('//*[@id="container"]/h1/yt-formatted-string')[0].text
+        except:
+            return 'Error found'
 
     def get_creator(self, soup):
-        return self.driver.find_elements_by_xpath('//*[@id="text"]/a')[1].text
+        try:
+            return self.driver.find_elements_by_xpath('//*[@id="text"]/a')[1].text
+        except:
+            'Error found'
 
     def get_views(self, soup):
-        return self.driver.find_elements_by_xpath('//*[@id="count"]/ytd-video-view-count-renderer/span[1]')[0].text
+        try:
+            return self.driver.find_elements_by_xpath('//*[@id="count"]/ytd-video-view-count-renderer/span[1]')[0].text
+        except:
+            return 'Error found'
 
     def get_description(self, soup):
-        #self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string/span[1]')[0].text
-        return self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string')[0].text
+        try:
+            #self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string/span[1]')[0].text
+            return self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string')[0].text
+        except:
+            return 'Error found'
 
     def get_date(self, soup):
-        return self.driver.find_elements_by_xpath('//*[@id="info-strings"]/yt-formatted-string')[0].text
+        try:
+            return self.driver.find_elements_by_xpath('//*[@id="info-strings"]/yt-formatted-string')[0].text
+        except:
+            return 'Error found'
 
     def get_duration(self, soup):
-        soup.find("span", {"class": "ytp-time-duration"}).text
+        try:
+            soup.find("span", {"class": "ytp-time-duration"}).text
+        except:
+            return 'Error found'
 
     def get_video_recommendations(self):
         recommended_videos = []
@@ -225,6 +268,49 @@ class YouTubeScraper:
             return self.driver.find_element_by_xpath(xpath=xpath)
         except:
             return 'Error found'
+
+
+    def test_scraper(self, url_seed):
+        queue = deque([url_seed])
+        root = AnyNode(id=url_seed, parent=None, video=None, title=None)
+
+        main_window = self.driver.window_handles[-1]
+        for n in range(0, 50):
+            #returns a url
+            x = queue.popleft()
+
+            handles_before = self.driver.window_handles
+            self.driver.execute_script("window.open('');")
+
+            #returns the last tab that was opened
+            new_tab = self.driver.window_handles.pop()
+
+            video, recommendations = self.video_processing(x, main_window, new_tab)
+            node = None
+
+            #find the parent of the video since it is stored in the tree before it is watched
+            if(root.video==None):
+                root.video = video
+                root.title = video.title
+                node = root
+            else:
+                node = anytree.search.find(root, filter_= lambda nodes : nodes.id == video.url)
+                node.title = video.title
+                node.video = video
+
+            #add all the recommended videos to the tree in url form
+            #add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
+            for i in recommendations:
+                res = anytree.search.findall(root, filter_= lambda nodes : nodes.id == i)
+                if(len(res) == 0):
+                    queue.append(i)
+                    AnyNode(id=i, parent=node, video=None, title=None)
+                else:
+                    AnyNode(id=i, parent=node, video=res[0].video, title=res[0].video.title)
+        print(RenderTree(root, style=ContStyle()))
+
+
+#--------OLD TESTER-------------
 def test_deque():
     #problem to solve: parent is not upating
     url = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
@@ -236,7 +322,8 @@ def test_deque():
         scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
                                  category='Alt-right',
                                  seed_url=url,
-                                 max_wait=1)
+                                 max_wait=1,
+                                 trial_id=1)
         video, recommendations = scraper.video_processing(x)
         node = None
         if (root.url == None):
@@ -257,9 +344,14 @@ def test_deque():
     print(RenderTree(root, style=ContStyle()))
 
 def main():
-    test_deque()
+    url_seed = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
+    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
+                   category='Alt-right',
+                   seed_url=url_seed,
+                   max_wait=1,
+                   trial_id=1)
+    scraper.test_scraper(url_seed)
 
-    print('done')
 if __name__ == '__main__':
     main()
 
