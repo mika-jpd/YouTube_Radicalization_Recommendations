@@ -35,7 +35,7 @@ class YouTubeScraper:
         options.add_argument("--disable-extensions")
         options.add_argument("--window-size=1920,1080")
         options.add_argument("--mute-audio")
-        options.add_argument('--headless')
+        #options.add_argument('--headless')
 
         return webdriver.Chrome(executable_path=self.path, options=options)
 
