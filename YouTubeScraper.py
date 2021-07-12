@@ -30,11 +30,12 @@ class YouTubeScraper:
 
     def create_chrome_driver(self):
         options = webdriver.ChromeOptions()
-        options.add_argument("--no-sandbox")
+        #options.add_argument("--no-sandbox")
         options.add_argument("--disable-infobars")
         options.add_argument("--disable-extensions")
         options.add_argument("--window-size=1920,1080")
         options.add_argument("--mute-audio")
+        options.add_argument('--headless')
 
         return webdriver.Chrome(executable_path=self.path, options=options)
 
@@ -298,7 +299,8 @@ class YouTubeScraper:
         root = AnyNode(id=url_seed, parent=None, video=None, title=None)
 
         main_window = self.driver.window_handles[-1]
-        for n in range(0, 5):
+        max_depth = False
+        for n in range(0, 60):
             #returns a url
             x = queue.popleft()
 

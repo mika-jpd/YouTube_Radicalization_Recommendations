@@ -3,95 +3,1629 @@
     {
       "children": [
         {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=CdYev31IYgg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=S7LPhIxof9c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=oMPprNYRzs4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=782P0YcOOOQ",
+                  "title": "Christopher Clark: The 1848 Revolutions",
+                  "video": {
+                    "ad": null,
+                    "comments": "178",
+                    "content creator": "London Review of Books (LRB)",
+                    "date": "Feb 27, 2019",
+                    "description": "In his Winter Lecture, Christopher Clark asks why we should think about the Revolutions of 1848 now. Recorded at the British Museum on 15 February 2019.\n\nRead a published version of this lecture in the LRB here: ",
+                    "dislikes": "71 dislikes",
+                    "id": "782P0YcOOOQ",
+                    "likes": "1,708 likes",
+                    "tags": "1848, Revolutions, Otto von Bismarck, Arab Spring",
+                    "title": "Christopher Clark: The 1848 Revolutions",
+                    "url": "https://www.youtube.com/watch?v=782P0YcOOOQ",
+                    "video_length": 4244.341,
+                    "views": "128,547 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=06Rx2YBZ1u0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dMEFg_-26Ms",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=CdYev31IYgg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=kqJsKRtiBOQ",
+                  "title": "The Ending of World War I: The Road to 11 November",
+                  "video": {
+                    "ad": null,
+                    "comments": "10",
+                    "content creator": "Gresham College",
+                    "date": "Nov 21, 2018",
+                    "description": "This lecture re-examines how the First World War ended. Why did Germany request a ceasefire and why did the Allies and America grant one?\n\nA lecture by David Stevenson, Professor of International History at LSE 7 November 2018",
+                    "dislikes": "11 dislikes",
+                    "id": "kqJsKRtiBOQ",
+                    "likes": "326 likes",
+                    "tags": "Gresham, Gresham College, Education, Lecture, Public, London, Debate, Academia, Knowledge, gresham college, gresham, gresham lecture, free lecture, free public lecture, public lecture, lecture, education, war, world war 1, armistice day, november 11, allies, Wagon 2419D, military, diplomacy, passchendaele, 1917, 14-18, 1914",
+                    "title": "The Ending of World War I: The Road to 11 November",
+                    "url": "https://www.youtube.com/watch?v=kqJsKRtiBOQ",
+                    "video_length": 2981.261,
+                    "views": "27,117 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=CdYev31IYgg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5hv4HfLQGlw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=oizhVJstxC4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=dx_V4NAUuW8",
+                  "title": "Christopher Clark, France and the Origins of the Great War",
+                  "video": {
+                    "ad": null,
+                    "comments": "135",
+                    "content creator": "HFrance2",
+                    "date": "Oct 22, 2014",
+                    "description": "H-France Salon, Volume 6, Issue 13\nSociety for French Historical Studies\nPlenary Session \n26 April 2014",
+                    "dislikes": "47 dislikes",
+                    "id": "dx_V4NAUuW8",
+                    "likes": "692 likes",
+                    "tags": "World War I (Military Conflict), France (Country)",
+                    "title": "Christopher Clark, France and the Origins of the Great War",
+                    "url": "https://www.youtube.com/watch?v=dx_V4NAUuW8",
+                    "video_length": 6236.761,
+                    "views": "79,824 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=5hv4HfLQGlw",
+              "title": "How Europe Went to War in 1914. Tans Lecture Maastricht University",
+              "video": {
+                "ad": null,
+                "comments": "864",
+                "content creator": "Maastricht University",
+                "date": "Nov 18, 2014",
+                "description": "Christopher Clark revisits the century-old debate on the outbreak of the First World War, highlighting the complexity of a crisis that involved sudden changes in the international system. Clark proposes fresh perspectives on an old question.",
+                "dislikes": "350 dislikes",
+                "id": "5hv4HfLQGlw",
+                "likes": "3,947 likes",
+                "tags": "3896578415001, lecture, _youtube, christopher clark, Universiteit maastricht, WO1, Tans, lezing, eerste wereldoorlog, _SG, Clark, woi, First World War, maastricht university",
+                "title": "How Europe Went to War in 1914. Tans Lecture Maastricht University",
+                "url": "https://www.youtube.com/watch?v=5hv4HfLQGlw",
+                "video_length": 6445.821,
+                "views": "499,538 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=MGyygiXMzRk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=E0JjNKwJIss",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=8rv-4aUbZxQ",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=RnKVdN2NNYc",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=8yT4RZy1t3s",
+                          "title": "Justice: What's The Right Thing To Do? Episode 05: \"HIRED GUNS\"",
+                          "video": {
+                            "ad": null,
+                            "comments": "773",
+                            "content creator": "Harvard University",
+                            "date": "Sep 9, 2009",
+                            "description": "To register for the 2015 course, visit https://www.edx.org/course/justice-ha.... \n\nPART ONE:  HIRED GUNS\nDuring the Civil War, men drafted into war had the option of hiring substitutes to fight in their place. Professor Sandel asks students whether they consider this policy just.  Many do not, arguing that it is unfair to allow the affluent to avoid serving and risking their lives by paying less privileged citizens to fight in their place. This leads to a classroom debate about war and conscription.  Is todays voluntary army open to the same objection?  Should military service be allocated by the labor market or by conscription?  What role should patriotism play, and what are the obligations of citizenship?  Is there a civic duty to serve ones country? And are utilitarians and libertarians able to account for this duty?\n\nPART TWO:  MOTHERHOOD: FOR SALE\n\nIn this lecture, Professor Sandel examines the principle of free-market exchange in light of the contemporary controversy over reproductive rights.  Sandel begins with a humorous discussion of the business of egg and sperm donation.  He then describes the case of Baby M\"\u2014a famous legal battle in the mid-eighties that raised the unsettling question, Who owns a baby?\" In 1985, a woman named Mary Beth Whitehead signed a contract with a New Jersey couple, agreeing to be a surrogate mother in exchange for a fee of $10,000.  However, after giving birth, Ms. Whitehead decided she wanted to keep the child, and the case went to court. Sandel and students debate the nature of informed consent, the morality of selling a human life, and the meaning of maternal rights.",
+                            "dislikes": "206 dislikes",
+                            "id": "8yT4RZy1t3s",
+                            "likes": "5,984 likes",
+                            "tags": "Harvard University, Michael Sandel, WGBH, Justice",
+                            "title": "Justice: What's The Right Thing To Do? Episode 05: \"HIRED GUNS\"",
+                            "url": "https://www.youtube.com/watch?v=8yT4RZy1t3s",
+                            "video_length": 3309.921,
+                            "views": "1,060,630 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=Qw4l1w0rkjs",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=na-_GXHtm-I",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=0O2Rq4HJBxw",
+                      "title": "Justice: What's The Right Thing To Do? Episode 02: \"PUTTING A PRICE TAG ON LIFE\"",
+                      "video": {
+                        "ad": null,
+                        "comments": "2,308",
+                        "content creator": "Harvard University",
+                        "date": "Sep 8, 2009",
+                        "description": "To register for the 2015 course, visit https://www.edx.org/course/justice-ha.... \n\nPART ONE: PUTTING A PRICE TAG ON LIFE\n\nToday, companies and governments often use Jeremy Benthams utilitarian logic under the name of cost-benefit analysis. Sandel presents some contemporary cases in which cost-benefit analysis was used to put a dollar value on human life. The cases give rise to several objections to the utilitarian logic of seeking the greatest good for the greatest number. Should we always give more weight to the happiness of a majority, even if the majority is cruel or ignoble? Is it possible to sum up and compare all values using a common measure like money?\n\nPART TWO: HOW TO MEASURE PLEASURE\n\nSandel introduces J.S. Mill, a utilitarian philosopher who attempts to defend utilitarianism against the objections raised by critics of the doctrine. Mill argues that seeking the greatest good for the greatest number is compatible with protecting individual rights, and that utilitarianism can make room for a distinction between higher and lower pleasures. Mills idea is that the higher pleasure is always the pleasure preferred by a well-informed majority. Sandel tests this theory by playing video clips from three very different forms of entertainment: Shakespeares Hamlet, the reality show Fear Factor, and The Simpsons. Students debate which experience provides the higher pleasure, and whether Mills defense of utilitarianism is successful.",
+                        "dislikes": "701 dislikes",
+                        "id": "0O2Rq4HJBxw",
+                        "likes": "25,309 likes",
+                        "tags": "Harvard University, Michael Sandel, WGBH, Justice",
+                        "title": "Justice: What's The Right Thing To Do? Episode 02: \"PUTTING A PRICE TAG ON LIFE\"",
+                        "url": "https://www.youtube.com/watch?v=0O2Rq4HJBxw",
+                        "video_length": 3309.521,
+                        "views": "3,482,730 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Qw4l1w0rkjs",
+                  "title": "Justice: What's The Right Thing To Do? Episode 03: \"FREE TO CHOOSE\"",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,231",
+                    "content creator": "Harvard University",
+                    "date": "Sep 9, 2009",
+                    "description": "To register for the 2015 course, visit https://www.edx.org/course/justice-ha.... \n\nART ONE:  FREE TO CHOOSE\n\nSandel introduces the libertarian conception of individual rights, according to which only a minimal state is justified. Libertarians argue that government shouldnt have the power to enact laws that 1) protect people from themselves, such as seat belt laws, 2) impose some peoples moral values on society as a whole, or 3) redistribute income from the rich to the poor. Sandel explains the libertarian notion that redistributive taxation is akin to forced labor with references to Bill Gates and Michael Jordan. \n\nPART TWO:  WHO OWNS ME?\n\nLibertarian philosopher Robert Nozick makes the case that taxing the wealthy\u2014to pay for housing, health care, and education for the poor\u2014is a form of coercion.  Students first discuss the arguments behind redistributive taxation. Dont most poor people need the social services they receive in order to survive?  If you live in a society that has a system of progressive taxation, arent you obligated to pay your taxes?  Dont many rich people often acquire their wealth through sheer luck or family fortune?  A group of students dubbed Team Libertarian volunteers to defend the libertarian philosophy against these objections.",
+                    "dislikes": "436 dislikes",
+                    "id": "Qw4l1w0rkjs",
+                    "likes": "14,058 likes",
+                    "tags": "Harvard University, Michael Sandel, WGBH, Justice",
+                    "title": "Justice: What's The Right Thing To Do? Episode 03: \"FREE TO CHOOSE\"",
+                    "url": "https://www.youtube.com/watch?v=Qw4l1w0rkjs",
+                    "video_length": 3307.661,
+                    "views": "2,314,318 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=0O2Rq4HJBxw",
+                  "title": "Justice: What's The Right Thing To Do? Episode 02: \"PUTTING A PRICE TAG ON LIFE\"",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,308",
+                    "content creator": "Harvard University",
+                    "date": "Sep 8, 2009",
+                    "description": "To register for the 2015 course, visit https://www.edx.org/course/justice-ha.... \n\nPART ONE: PUTTING A PRICE TAG ON LIFE\n\nToday, companies and governments often use Jeremy Benthams utilitarian logic under the name of cost-benefit analysis. Sandel presents some contemporary cases in which cost-benefit analysis was used to put a dollar value on human life. The cases give rise to several objections to the utilitarian logic of seeking the greatest good for the greatest number. Should we always give more weight to the happiness of a majority, even if the majority is cruel or ignoble? Is it possible to sum up and compare all values using a common measure like money?\n\nPART TWO: HOW TO MEASURE PLEASURE\n\nSandel introduces J.S. Mill, a utilitarian philosopher who attempts to defend utilitarianism against the objections raised by critics of the doctrine. Mill argues that seeking the greatest good for the greatest number is compatible with protecting individual rights, and that utilitarianism can make room for a distinction between higher and lower pleasures. Mills idea is that the higher pleasure is always the pleasure preferred by a well-informed majority. Sandel tests this theory by playing video clips from three very different forms of entertainment: Shakespeares Hamlet, the reality show Fear Factor, and The Simpsons. Students debate which experience provides the higher pleasure, and whether Mills defense of utilitarianism is successful.",
+                    "dislikes": "701 dislikes",
+                    "id": "0O2Rq4HJBxw",
+                    "likes": "25,309 likes",
+                    "tags": "Harvard University, Michael Sandel, WGBH, Justice",
+                    "title": "Justice: What's The Right Thing To Do? Episode 02: \"PUTTING A PRICE TAG ON LIFE\"",
+                    "url": "https://www.youtube.com/watch?v=0O2Rq4HJBxw",
+                    "video_length": 3309.521,
+                    "views": "3,482,730 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=8yT4RZy1t3s",
+                  "title": "Justice: What's The Right Thing To Do? Episode 05: \"HIRED GUNS\"",
+                  "video": {
+                    "ad": null,
+                    "comments": "773",
+                    "content creator": "Harvard University",
+                    "date": "Sep 9, 2009",
+                    "description": "To register for the 2015 course, visit https://www.edx.org/course/justice-ha.... \n\nPART ONE:  HIRED GUNS\nDuring the Civil War, men drafted into war had the option of hiring substitutes to fight in their place. Professor Sandel asks students whether they consider this policy just.  Many do not, arguing that it is unfair to allow the affluent to avoid serving and risking their lives by paying less privileged citizens to fight in their place. This leads to a classroom debate about war and conscription.  Is todays voluntary army open to the same objection?  Should military service be allocated by the labor market or by conscription?  What role should patriotism play, and what are the obligations of citizenship?  Is there a civic duty to serve ones country? And are utilitarians and libertarians able to account for this duty?\n\nPART TWO:  MOTHERHOOD: FOR SALE\n\nIn this lecture, Professor Sandel examines the principle of free-market exchange in light of the contemporary controversy over reproductive rights.  Sandel begins with a humorous discussion of the business of egg and sperm donation.  He then describes the case of Baby M\"\u2014a famous legal battle in the mid-eighties that raised the unsettling question, Who owns a baby?\" In 1985, a woman named Mary Beth Whitehead signed a contract with a New Jersey couple, agreeing to be a surrogate mother in exchange for a fee of $10,000.  However, after giving birth, Ms. Whitehead decided she wanted to keep the child, and the case went to court. Sandel and students debate the nature of informed consent, the morality of selling a human life, and the meaning of maternal rights.",
+                    "dislikes": "206 dislikes",
+                    "id": "8yT4RZy1t3s",
+                    "likes": "5,984 likes",
+                    "tags": "Harvard University, Michael Sandel, WGBH, Justice",
+                    "title": "Justice: What's The Right Thing To Do? Episode 05: \"HIRED GUNS\"",
+                    "url": "https://www.youtube.com/watch?v=8yT4RZy1t3s",
+                    "video_length": 3309.921,
+                    "views": "1,060,630 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=kBdfcR-8hEY",
+              "title": "Justice: What's The Right Thing To Do? Episode 01 \"THE MORAL SIDE OF MURDER\"",
+              "video": {
+                "ad": null,
+                "comments": "11,398",
+                "content creator": "Harvard University",
+                "date": "Sep 5, 2009",
+                "description": "To register for the 2015 course, visit https://www.edx.org/course/justice-ha.... \n\nPART ONE: THE MORAL SIDE OF MURDER\nIf you had to choose between (1) killing one person to save the lives of five others and (2) doing nothing even though you knew that five people would die right before your eyes if you did nothing\u2014what would you do?  What would be the right thing to do?  Thats the hypothetical scenario Professor Michael Sandel uses to launch his course on moral reasoning.  After the majority of students votes for killing the one person in order to save the lives of five others, Sandel presents three similar moral conundrums\u2014each one artfully designed to make the decision more difficult.  As students stand up to defend their conflicting choices, it becomes clear that the assumptions behind our moral reasoning are often contradictory, and the question of what is right and what is wrong is not always black and white. \n\nPART TWO: THE CASE FOR CANNIBALISM\n\nSandel introduces the principles of utilitarian philosopher, Jeremy Bentham, with a famous nineteenth century legal case involving a shipwrecked crew of four.  After nineteen days lost at sea, the captain decides to kill the weakest amongst them, the young cabin boy, so that the rest can feed on his blood and body to survive.   The case sets up a classroom debate about the moral validity of utilitarianism\u2014and its doctrine that the right thing to do is whatever produces \"the greatest good for the greatest number.\"",
+                "dislikes": "3,523 dislikes",
+                "id": "kBdfcR-8hEY",
+                "likes": "158,474 likes",
+                "tags": "Michael Sandel, Justice, Harvard University, WGBH, humanities, philosophy, citizenship",
+                "title": "Justice: What's The Right Thing To Do? Episode 01 \"THE MORAL SIDE OF MURDER\"",
+                "url": "https://www.youtube.com/watch?v=kBdfcR-8hEY",
+                "video_length": 3296.001,
+                "views": "14,454,110 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ov78eDUoF0M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=s6ym9B6I3UM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=yoKPd-Lu84U",
+                  "title": "Ideas for Tomorrow | Vladimir Pozner, Russian Journalist and Author",
+                  "video": {
+                    "ad": null,
+                    "comments": "287",
+                    "content creator": "Cleveland Clinic",
+                    "date": "Apr 5, 2012",
+                    "description": "Join Vladimir Pozner, Russian Journalist and Author and past Cleveland Clinic CEO and President, Toby Cosgrove, MD for this series.\n\nIdeas for Tomorrow is an ongoing speaker series that provides a forum for the world\u2019s most distinguished thinkers, speakers and personalities to engage in a dialogue with members of our community.\n\nFor more information on upcoming speakers, please visit ",
+                    "dislikes": "96 dislikes",
+                    "id": "yoKPd-Lu84U",
+                    "likes": "1,875 likes",
+                    "tags": "cleveland clinic, ideas for tomorrow, russian, vladimir pozner, ift, ideas for tomorrow cleveland clinic, ideas for tomorrow speakers, toby cosgrove, dr toby cosgrove, russian journalist vladimir pozner, vladimir pozner interview, russian journalist, author vladimir pozner",
+                    "title": "Ideas for Tomorrow | Vladimir Pozner, Russian Journalist and Author",
+                    "url": "https://www.youtube.com/watch?v=yoKPd-Lu84U",
+                    "video_length": 3780.101,
+                    "views": "178,364 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Unzc731iCUY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                      "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                      "video": {
+                        "ad": null,
+                        "comments": "396",
+                        "content creator": "CNBC Television",
+                        "date": "Streamed live on Dec 11, 2018",
+                        "description": "The House Judiciary Committee holds a hearing on \"Transparency and Accountability: Examining Google and Data Collection, Use and Filtering Practices.\"\n\u00bb Subscribe to CNBC: http://cnb.cx/SubscribeCNBC",
+                        "dislikes": "233 dislikes",
+                        "id": "-ENrcvPICow",
+                        "likes": "1,235 likes",
+                        "tags": "CNBC, business news, finance stock, stock market, news channel, news station, breaking news, us news, world news, cable, cable news, finance news, money, money tips, Google CEO, Sundar Pichai, Sundar Pichai testitfies on Capitol Hill, #CNBCLivestreams, goog, google plus, sundar pichai, google stock, google ceo, google ceo testify, house judiciary live stream, google ceo live stream, google stock price, alphabet stock price, alphabet stock",
+                        "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                        "url": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                        "video_length": 13030.601,
+                        "views": "368,437 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=oizhVJstxC4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3G1EyvRZmOs",
+                  "title": "When China Rules the World",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "The University of Melbourne",
+                    "date": "Sep 20, 2012",
+                    "description": "Presented by: Martin Jacques\n\nAs part of a public lecture series questioning Australia's Role in the World, Asialink is proud to present best-selling author and leading China expert Martin Jacques, for the launch of an updated version of his critically-acclaimed book \"When China Rules the World: the End of the Western World and the Birth of a New Global Order\"",
+                    "dislikes": " Unavailable",
+                    "id": "3G1EyvRZmOs",
+                    "likes": "Unavailable",
+                    "tags": "unimelb, asialink, martin jacques",
+                    "title": "When China Rules the World",
+                    "url": "https://www.youtube.com/watch?v=3G1EyvRZmOs",
+                    "video_length": 5648.961,
+                    "views": "2,916,611 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                  "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,197",
+                    "content creator": "DW Documentary",
+                    "date": "Jun 9, 2019",
+                    "description": "The rich in Germany been never been as well-off as they are today and assets have never been so unevenly distributed. But who are they? How do they live? And what do they think of their country? A journey into the discreet world of the super-rich.\n\nOne percent of Germans own over a quarter of the country's assets, whilst half of the country\u2019s citizens have no assets at all. But while the German media report on the growing poverty in the country on a daily basis, little is known about the super-rich. They keep a very low profile and can walk the streets unrecognized. \"Manager Magazin\u201d says there were around 200 billionaires living in Germany in 2018, and their numbers are increasing. The documentary \"Top of the World\" asks why rich Germans are so unwilling to talk about their wealth. Its author immerses himself in the discreet world of big money and meets financial advisors with 800 years of family tradition behind them and billionaires such as drugstore king Dirk Rossmann and mail-order company heir Michael Otto -  as well as a self-made businessmen such as Rainer Schaller. They talk about their notions of money and justice, the origins of their wealth and their fear of social envy.\n\n\n--------------------------------------------------------------------\n\nDW Documentary gives you knowledge beyond the headlines. Watch high-class documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary.\n\nSubscribe to DW Documentary:",
+                    "dislikes": "3,594 dislikes",
+                    "id": "NXaVLXSZdEw",
+                    "likes": "64,272 likes",
+                    "tags": "Documentary, Germany, assets, wealth, poverty, multimillionaires, money, justice, social envy, film, super-rich, rich, discrete lives, Berlin, work, multi millionaires, entrepreneur, DW, DW Documentary, Deutsche Welle, envy, Greed, inequality, income inequality, economic inequality",
+                    "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                    "url": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                    "video_length": 2545.701,
+                    "views": "8,542,039 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=8X7Ng75e5gQ",
+              "title": "Vladimir Pozner: How the United States Created Vladimir Putin",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "YaleUniversity",
+                "date": "Oct 2, 2018",
+                "description": "On September 27, 2018, Yale's Program in Russian, East European and Eurasian Studies, and the Poynter Fellowship for Journalism hosted Vladimir Pozner, the acclaimed Russian-American journalist and broadcaster. Pozner spoke on the impact of US foreign policy towards Russia after the Soviet Union has been disbanded, and shared his opinions on a range of issues raised by the audience, from the alleged Russian interference in the 2016 US presidential elections, to Skripal poisoning, to the state of independent media in Russia and the US.",
+                "dislikes": "3,625 dislikes",
+                "id": "8X7Ng75e5gQ",
+                "likes": "25,211 likes",
+                "tags": "vladimir pozner, vladimir posner, poynter journalism, poynter, poynter fellowship, european studies, european studies yale, pozner yale, yale, russian studies yale, reees, reees yale, russian studies, How the United States created Vladimir Putin, eu-russia relations, foreign relations, russian journalist, pozner, talk, lecture, discussion, vladimir putin, putin, us-russia relations, international journalism, russian interference; doug rogers; douglas rogers, active measures",
+                "title": "Vladimir Pozner: How the United States Created Vladimir Putin",
+                "url": "https://www.youtube.com/watch?v=8X7Ng75e5gQ",
+                "video_length": 6783.661,
+                "views": "1,508,685 views"
+              }
+            }
+          ],
           "id": "https://www.youtube.com/watch?v=FbY0VpyjtuI",
-          "title": null,
-          "video": null
+          "title": "Vladimir Putin interviewed by the Financial Times | FT",
+          "video": {
+            "ad": null,
+            "comments": "17,673",
+            "content creator": "Financial Times",
+            "date": "Jul 5, 2019",
+            "description": "The Financial Times is the first major international newspaper to be granted an interview with the Russian leader for 16 years. Here is the exclusive interview with editor Lionel Barber and Moscow bureau chief Henry Foy in full",
+            "dislikes": "1,320 dislikes",
+            "id": "FbY0VpyjtuI",
+            "likes": "23,702 likes",
+            "tags": "FT, Financial Times, international news, global news, putin, Vladimir Putin, Russia, Russian politics, putin interview, lionel barber, FT news, Putin interivew, Putin 2019, putin on liberalism, putin on trump",
+            "title": "Vladimir Putin interviewed by the Financial Times | FT",
+            "url": "https://www.youtube.com/watch?v=FbY0VpyjtuI",
+            "video_length": 5405.341,
+            "views": "2,747,152 views"
+          }
         },
         {
-          "id": "https://www.youtube.com/watch?v=yhwTbug-9NY",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PEPyE2h6P4k",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oizhVJstxC4",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fk_SyN2fbHs",
-          "title": null,
-          "video": null
-        },
-        {
+          "children": [
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=Unzc731iCUY",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                  "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                  "video": {
+                    "ad": null,
+                    "comments": "396",
+                    "content creator": "CNBC Television",
+                    "date": "Streamed live on Dec 11, 2018",
+                    "description": "The House Judiciary Committee holds a hearing on \"Transparency and Accountability: Examining Google and Data Collection, Use and Filtering Practices.\"\n\u00bb Subscribe to CNBC: http://cnb.cx/SubscribeCNBC",
+                    "dislikes": "233 dislikes",
+                    "id": "-ENrcvPICow",
+                    "likes": "1,235 likes",
+                    "tags": "CNBC, business news, finance stock, stock market, news channel, news station, breaking news, us news, world news, cable, cable news, finance news, money, money tips, Google CEO, Sundar Pichai, Sundar Pichai testitfies on Capitol Hill, #CNBCLivestreams, goog, google plus, sundar pichai, google stock, google ceo, google ceo testify, house judiciary live stream, google ceo live stream, google stock price, alphabet stock price, alphabet stock",
+                    "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                    "url": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                    "video_length": 13030.601,
+                    "views": "368,437 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=oizhVJstxC4",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=3G1EyvRZmOs",
+              "title": "When China Rules the World",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "The University of Melbourne",
+                "date": "Sep 20, 2012",
+                "description": "Presented by: Martin Jacques\n\nAs part of a public lecture series questioning Australia's Role in the World, Asialink is proud to present best-selling author and leading China expert Martin Jacques, for the launch of an updated version of his critically-acclaimed book \"When China Rules the World: the End of the Western World and the Birth of a New Global Order\"",
+                "dislikes": " Unavailable",
+                "id": "3G1EyvRZmOs",
+                "likes": "Unavailable",
+                "tags": "unimelb, asialink, martin jacques",
+                "title": "When China Rules the World",
+                "url": "https://www.youtube.com/watch?v=3G1EyvRZmOs",
+                "video_length": 5648.961,
+                "views": "2,916,611 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=oPS7MawmLTU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=TAuXOoiMckM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7RI2opj11Z0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=_dFK2Wxd2FI",
+                  "title": "Can America and China Avoid a Collision?",
+                  "video": {
+                    "ad": null,
+                    "comments": "615",
+                    "content creator": "Columbia SIPA",
+                    "date": "Mar 8, 2018",
+                    "description": "Kishore Mahbubani, an expert on Asian and world affairs who spent many years in Singapore\u2019s diplomatic service, gives the annual George Ball Lecture at Columbia SIPA.\n\nMahbubani is currently a senior advisor (for university and global relations) and professor in the practice of public policy at the National University of Singapore, where he served from 2004 to 2017 as dean of the Lee Kuan Yew School of Public Policy.\n\nEvent date: February 21, 2018.",
+                    "dislikes": "222 dislikes",
+                    "id": "_dFK2Wxd2FI",
+                    "likes": "1,286 likes",
+                    "tags": "Columbia SIPA, Columbia University, School of International and Public Affairs, Kishore Mahbubani",
+                    "title": "Can America and China Avoid a Collision?",
+                    "url": "https://www.youtube.com/watch?v=_dFK2Wxd2FI",
+                    "video_length": 5597.421,
+                    "views": "164,734 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=AlFnLMKotoc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=mQmpcuCP-hc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IlwlkYYIcQI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=hpwPciW74b8",
+                  "title": "An investigative interview: Singapore 50 years after independence - 45th St. Gallen Symposium",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,570",
+                    "content creator": "StGallenSymposium",
+                    "date": "May 8, 2015",
+                    "description": "Tharman Shanmugaratnam (SG), Deputy Prime Minister & Minister for Finance of Singapore\nTopic Leader: Stephen Sackur (GB), Presenter, BBC HARDtalk",
+                    "dislikes": "399 dislikes",
+                    "id": "hpwPciW74b8",
+                    "likes": "9,348 likes",
+                    "tags": "St. Gallen, Symposium, Proudly Small, Switzerland, Dialogue, Debate, International, Students, Committee, Leaders, Conference",
+                    "title": "An investigative interview: Singapore 50 years after independence - 45th St. Gallen Symposium",
+                    "url": "https://www.youtube.com/watch?v=hpwPciW74b8",
+                    "video_length": 2930.061,
+                    "views": "1,069,143 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=4R9HITn7HBw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=gUFYIxYS7so",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dYBAHLSN_lI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=hR4vYylSneY",
+                  "title": "Renewal: The Chinese State and the New Global History",
+                  "video": {
+                    "ad": null,
+                    "comments": "11",
+                    "content creator": "Lee Kuan Yew School of Public Policy",
+                    "date": "Sep 25, 2013",
+                    "description": "On 28 August, the LKY School launched the book Renewal: The Chinese State and the New Global History by historian Prof Wang Gungwu, Chairman of the Governing Board of the School.  The book, which he explained was a collection of his thoughts and contemplations on China's roots and routes along its modernisation trajectory, probes into the Chinese perception of its place in world history, and traces the unique features that propelled the country onto its modern transformation. During the launch, he engagingly provided excerpts that depict the travails of renewal that China had to face and keen insights to China's position in today's interconnected world.\n----------------------------------------------------------------\n\n28 August 2013 Book Launch\n\nTitle of Event:\nRenewal: The Chinese State and the New Global History\n\nSpeaker: \nProf. Wang Gungwu, Chairman of the Governing Board, Lee Kuan Yew School of Public Policy\n\nDate: Wednesday, 28 August 2013 \nTime: ",
+                    "dislikes": "19 dislikes",
+                    "id": "hR4vYylSneY",
+                    "likes": "142 likes",
+                    "tags": "China (Country), History, LKYSPP, LKY School, NUS, Wang Gungwu, Public Policy (Field Of Study), Book Launch, 20130828",
+                    "title": "Renewal: The Chinese State and the New Global History",
+                    "url": "https://www.youtube.com/watch?v=hR4vYylSneY",
+                    "video_length": 4706.901,
+                    "views": "15,239 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=lcAdFKsdweU",
+              "title": "[Lecture] Has the West Lost it? by Prof Kishore Mahbubani",
+              "video": {
+                "ad": null,
+                "comments": "628",
+                "content creator": "Lee Kuan Yew School of Public Policy",
+                "date": "Jun 27, 2018",
+                "description": "The West's centuries-old status as the centre of global wealth and power is coming to an end. As the new powers - China and India from Asia and others from Africa and Latin America - rise to the top of the world's pecking order, how should the West react? Kishore Mahbubani argues passionately and provocatively that the West can no longer impose its power and ideals on the world at large, and - paradoxically - that only by admitting its decline can the West set itself up for strategic success in the long term. Mahbubani examines the myths and self-delusions of Western power with an outsider's critical eye, and the shocking freshness of his geopolitical analysis will give all Westerners and political thinkers pause for thought.\n\n================================================\nProf Kishore Mahbubani is Senior Advisor (University & Global Relations) and Professor in the Practice of Policy National University of Singapore. He is also the founding Dean of the Lee Kuan Yew School of Public Policy. \n\nThis event is moderated by Prof. Danny Quah, Dean and Li Ka Shing Professor in Economics at the Lee Kuan Yew School of Public Policy.\n\n================================================\n\nVisit us \nWebsite: ",
+                "dislikes": "226 dislikes",
+                "id": "lcAdFKsdweU",
+                "likes": "2,567 likes",
+                "tags": "kishore mahbubani, west, economy, power, politics, policy, public policy, danny quah, china, india, soft power, international relations, geopolitics, lky school, lkyspp, lee kuan yew school of public policy, NUS, has the west lost it, lee kuan yew, lecture, cgtn, has, john mearsheimer, decline of the west, singapore, trade war, jeffrey sachs, parag khanna, has the west lost it kishore mahbubani, kishore mahbubani debate, munk debates",
+                "title": "[Lecture] Has the West Lost it? by Prof Kishore Mahbubani",
+                "url": "https://www.youtube.com/watch?v=lcAdFKsdweU",
+                "video_length": 3773.921,
+                "views": "249,257 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=SAURpBfGA1I",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1epOMiF_nfc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ipE7R-OXt3k",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Oy-x7BLlBYg",
+                  "title": "Carl Gustav Jung & The Red Book (part 1)",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Library of Congress",
+                    "date": "Aug 7, 2013",
+                    "description": "\"Carl Gustav Jung and the Red Book,\" an all day symposium, featured presentations by prominent Jungian scholars.\n\nSpeaker Biography: Jung scholar Sonu Shamdasani is a London-based author, editor, and professor at the Wellcome Trust Centre for the History of Medicine at University College London WIHM/UCL. Shamdasani works discuss the history of psychiatry and psychology from the mid-nineteenth century to current times. Shamdasani holds a BA from Bristol University, followed by MSc, History of Science and Medicine, University College London/Imperial College and gained his Ph.D. in History of Medicine from WIHM/UCL.\n\nSpeaker Biography: James Hillman is a psychologist, scholar, international lecturer, pioneer psychologist, and the author of more than twenty books. Hillman has held teaching positions at Yale University, the University of Chicago, Syracuse University, the University of Chicago, and the University of Dallas, where he cofounded the Dallas Institute of Humanities and Culture.\n\nSpeaker Biography: Ann Ulanov is a professor of psychiatry and religion at the Union Theological Seminary in New York City. She is the author of several books, including Religion and the Spiritual in Carl Jung and The Healing Imagination: The Meeting of Psyche and Soul.\n\nFor captions, transcript, and more information visit ",
+                    "dislikes": "270 dislikes",
+                    "id": "Oy-x7BLlBYg",
+                    "likes": "4,108 likes",
+                    "tags": "Library of Congress",
+                    "title": "Carl Gustav Jung & The Red Book (part 1)",
+                    "url": "https://www.youtube.com/watch?v=Oy-x7BLlBYg",
+                    "video_length": 8974.181,
+                    "views": "507,388 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=CdYev31IYgg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=VG9evHIafx4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=09s-T778ciA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=782P0YcOOOQ",
+                  "title": "Christopher Clark: The 1848 Revolutions",
+                  "video": {
+                    "ad": null,
+                    "comments": "178",
+                    "content creator": "London Review of Books (LRB)",
+                    "date": "Feb 27, 2019",
+                    "description": "In his Winter Lecture, Christopher Clark asks why we should think about the Revolutions of 1848 now. Recorded at the British Museum on 15 February 2019.\n\nRead a published version of this lecture in the LRB here: ",
+                    "dislikes": "71 dislikes",
+                    "id": "782P0YcOOOQ",
+                    "likes": "1,708 likes",
+                    "tags": "1848, Revolutions, Otto von Bismarck, Arab Spring",
+                    "title": "Christopher Clark: The 1848 Revolutions",
+                    "url": "https://www.youtube.com/watch?v=782P0YcOOOQ",
+                    "video_length": 4244.341,
+                    "views": "128,547 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=0WmmaZ-iHVM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=91OmO2YMiDM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=mYcLuWHzfmE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=0mw6UJc6tYA",
+                  "title": "The War of 1914: An Avoidable Catastrophe - Sean McMeekin",
+                  "video": {
+                    "ad": null,
+                    "comments": "85",
+                    "content creator": "National WWI Museum and Memorial",
+                    "date": "Nov 24, 2014",
+                    "description": "Sean McMeekin is Professor of History at Bard College in Annandale-on-Hudson, N.Y. \n\nRejecting earlier accounts of the outbreak of World War I, which emphasized structural factors or German \u2018premeditation,\u2019 McMeekin proposes instead a series of contingent occurrences stretching from the assassination of Archduke Franz Ferdinand in Sarajevo on June 28 to the British ultimatum to Berlin on Aug. 4, 1914. Far from fated by the alliance system or the arms race, the war of 1914 was an eminently avoidable catastrophe brought on by the opportunistic scheming by a small handful of statesmen, often driven as much by personal complexes and rivalries as by compelling reasons of state. Though aware, in some sense, of the risks they were running, none of the men responsible could have imagined the scale of the human catastrophe they were about to unleash.\n\nPresented November 7, 2014 as part of the National World War I Museum and United States World War I Centennial Commission 2014 Symposium, \"1914: Global War & American Neutrality.\" \n\nThe Symposium was held in association with The Western Front Association East Coast Branch and the World War I Historical Association. Sponsored by Colonel J's, the Neighborhood Tourist Development Fund and Verlag Militaria.\n\nFor more information about the National WWI Museum and Memorial visit ",
+                    "dislikes": "95 dislikes",
+                    "id": "0mw6UJc6tYA",
+                    "likes": "800 likes",
+                    "tags": "World War I (Military Conflict), Sean McMeekin, Bard College (College/University), United States World War I Centennial Commission, Symposium (Type Of Conference), Western Front Association, World War I Historical Association",
+                    "title": "The War of 1914: An Avoidable Catastrophe - Sean McMeekin",
+                    "url": "https://www.youtube.com/watch?v=0mw6UJc6tYA",
+                    "video_length": 4188.721,
+                    "views": "97,439 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=5hv4HfLQGlw",
+              "title": "How Europe Went to War in 1914. Tans Lecture Maastricht University",
+              "video": {
+                "ad": null,
+                "comments": "864",
+                "content creator": "Maastricht University",
+                "date": "Nov 18, 2014",
+                "description": "Christopher Clark revisits the century-old debate on the outbreak of the First World War, highlighting the complexity of a crisis that involved sudden changes in the international system. Clark proposes fresh perspectives on an old question.",
+                "dislikes": "350 dislikes",
+                "id": "5hv4HfLQGlw",
+                "likes": "3,946 likes",
+                "tags": "3896578415001, lecture, _youtube, christopher clark, Universiteit maastricht, WO1, Tans, lezing, eerste wereldoorlog, _SG, Clark, woi, First World War, maastricht university",
+                "title": "How Europe Went to War in 1914. Tans Lecture Maastricht University",
+                "url": "https://www.youtube.com/watch?v=5hv4HfLQGlw",
+                "video_length": 6445.821,
+                "views": "499,538 views"
+              }
+            }
+          ],
           "id": "https://www.youtube.com/watch?v=RO3izbn201s",
-          "title": null,
-          "video": null
+          "title": "What Happens When China Becomes Number One?",
+          "video": {
+            "ad": null,
+            "comments": "8,773",
+            "content creator": "Harvard Kennedy School's Institute of Politics",
+            "date": "Mar 16, 2021",
+            "description": "What Happens When China Becomes Number One?\nDate: Wednesday, April 08, 2015 - 06:00PM\nMore video info at https://iop.harvard.edu/node/1582",
+            "dislikes": "2,726 dislikes",
+            "id": "RO3izbn201s",
+            "likes": "18,624 likes",
+            "tags": "Business & Economics, South & Central Asia, Trade Relations",
+            "title": "What Happens When China Becomes Number One?",
+            "url": "https://www.youtube.com/watch?v=RO3izbn201s",
+            "video_length": 4424.681,
+            "views": "1,718,301 views"
+          }
         },
         {
+          "children": [
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=cYP_wMJsgyg",
+                  "title": "Rich and poor \u2013 the inequality gap (2/3) | DW Documentary",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,593",
+                    "content creator": "DW Documentary",
+                    "date": "Dec 12, 2018",
+                    "description": "Christoph Gr\u00f6ner is one of the richest people in Germany. The son of two teachers, he has worked his way to the top. He believes that many children in Germany grow up without a fair chance and wants to step in. But can this really ease inequality?\n\nChristoph Gr\u00f6ner does everything he can to drum up donations and convince the wealthy auction guests to raise their bids. The more the luxury watch for sale fetches, the more money there will be to pay for a new football field, or some extra tutoring, at a children's home. Christoph Gr\u00f6ner is one of the richest people in Germany - his company is now worth one billion euros, he tells us. For seven months, he let our cameras follow him - into board meetings, onto construction sites, through his daily life, and in his charity work. He knows that someone like him is an absolute exception in Germany. His parents were both teachers, and he still worked his way to the top. He believes that many children in Germany grow up without a fair chance. \"What we see here is total failure across the board,\u201d he says. \"It starts with parents who just don\u2019t get it and can\u2019t do anything right. And then there\u2019s an education policy that has opened the gates wide to the chaos we are experiencing today.\" Chistoph Gr\u00f6ner wants to step in where state institutions have failed. But can that really ease inequality? \n\nIn Germany, getting ahead depends more on where you come from than in most other industrialized countries, and social mobility is normally quite restricted. Those on top stay on top. The same goes for those at the bottom. A new study shows that Germany\u2019s rich and poor both increasingly stay amongst themselves, without ever intermingling with other social strata. Even the middle class is buckling under the mounting pressure of an unsecure future. \"Land of Inequality\" searches for answers as to why. We talk to families, an underpaid nurse, as well as leading researchers and analysts such as economic Nobel Prize laureate Joseph Stiglitz, sociologist Jutta Allmendinger or the economist Raj Chetty, who conducted a Stanford investigation into how the middle class is now arming itself to improve their children\u2019s outlooks.\n\nPart 1: ",
+                    "dislikes": "423 dislikes",
+                    "id": "cYP_wMJsgyg",
+                    "likes": "9,119 likes",
+                    "tags": "Documentary, inequality, charity, child poverty, Joseph Stiglitz, Christoph Gr\u00f6ner, Germany, DW Documentary, Documentary 2018, rich people, donations, raj Chetty, deutsche welle documentary, dw",
+                    "title": "Rich and poor \u2013 the inequality gap (2/3) | DW Documentary",
+                    "url": "https://www.youtube.com/watch?v=cYP_wMJsgyg",
+                    "video_length": 2545.401,
+                    "views": "1,328,051 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                  "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,197",
+                    "content creator": "DW Documentary",
+                    "date": "Jun 9, 2019",
+                    "description": "The rich in Germany been never been as well-off as they are today and assets have never been so unevenly distributed. But who are they? How do they live? And what do they think of their country? A journey into the discreet world of the super-rich.\n\nOne percent of Germans own over a quarter of the country's assets, whilst half of the country\u2019s citizens have no assets at all. But while the German media report on the growing poverty in the country on a daily basis, little is known about the super-rich. They keep a very low profile and can walk the streets unrecognized. \"Manager Magazin\u201d says there were around 200 billionaires living in Germany in 2018, and their numbers are increasing. The documentary \"Top of the World\" asks why rich Germans are so unwilling to talk about their wealth. Its author immerses himself in the discreet world of big money and meets financial advisors with 800 years of family tradition behind them and billionaires such as drugstore king Dirk Rossmann and mail-order company heir Michael Otto -  as well as a self-made businessmen such as Rainer Schaller. They talk about their notions of money and justice, the origins of their wealth and their fear of social envy.\n\n\n--------------------------------------------------------------------\n\nDW Documentary gives you knowledge beyond the headlines. Watch high-class documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary.\n\nSubscribe to DW Documentary:",
+                    "dislikes": "3,594 dislikes",
+                    "id": "NXaVLXSZdEw",
+                    "likes": "64,272 likes",
+                    "tags": "Documentary, Germany, assets, wealth, poverty, multimillionaires, money, justice, social envy, film, super-rich, rich, discrete lives, Berlin, work, multi millionaires, entrepreneur, DW, DW Documentary, Deutsche Welle, envy, Greed, inequality, income inequality, economic inequality",
+                    "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                    "url": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                    "video_length": 2545.701,
+                    "views": "8,542,039 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=C6wY2b9amnA",
+                  "title": "China's competition for living space | DW Documentary",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,727",
+                    "content creator": "DW Documentary",
+                    "date": "May 30, 2021",
+                    "description": "More than 60 percent of China's population of 1.4 billion currently lives in cities. Within a decade, the share of urban dwellers is expected to increase to 75 percent. Construction is booming and competition for residential land is fierce.\n\nBut the right to live in a city in China is conditional. Authorities want their modern cities to be peopled with well-educated, highly-qualified or politically well-connected residents. As a result, certain standards have to be met to be eligible for a modern, urban home. Only members of China's political classes and the financially successful have a hope of qualifying. Yet more than half of the people who live in cities are so-called \"migrant workers.\" They come from rural communities and have no official rights to settle in cities. They are there to work. With no proper rights, they are merely tolerated while they serve as merchants, servants, waitstaff, cleaners, construction workers and tradespeople. But while they are indispensable to daily life in the cities, they are unable to afford their exorbitant rents. This documentary looks at how and where these workers live, and asks whether middle and working class Chinese even figure in the official vision of shiny, high-tech cities. The filmmakers also look at what happens to those who oppose official plans, or stand in the way of the building boom.",
+                    "dislikes": "1,525 dislikes",
+                    "id": "C6wY2b9amnA",
+                    "likes": "16,250 likes",
+                    "tags": "Documentary, Documentaries, documentaries, DW documentary, full documentary, DW, documentary 2021, documentary, China, building boom in China, social inequality, urban growth, cities, migrant workers",
+                    "title": "China's competition for living space | DW Documentary",
+                    "url": "https://www.youtube.com/watch?v=C6wY2b9amnA",
+                    "video_length": 2546.021,
+                    "views": "1,351,155 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=AFIxi7BiScI",
+              "title": "Inequality \u2013 how wealth becomes power (1/3) | DW Documentary",
+              "video": {
+                "ad": null,
+                "comments": "6,290",
+                "content creator": "DW Documentary",
+                "date": "Aug 18, 2018",
+                "description": "Germany is one of the world\u2019s richest countries, but inequality is on the rise. The wealthy are pulling ahead, while the poor are falling behind. \n\nFor the middle classes, work is no longer a means of advancement. Instead, they are struggling to maintain their position and status. Young people today have less disposable income than previous generations. This documentary explores the question of inequality in Germany, providing both background analysis and statistics. The filmmakers interview leading researchers and experts on the topic. And they accompany Christoph Gr\u00f6ner, one of Germany\u2019s biggest real estate developers, as he goes about his work. \"If you have great wealth, you can\u2019t fritter it away through consumption. If you throw money out the window, it comes back in through the front door,\u201d Gr\u00f6ner says. The real estate developer builds multi-family residential units in cities across Germany, sells condominium apartments, and is involved in planning projects that span entire districts. \"Entrepreneurs are more powerful than politicians, because we\u2019re more independent,\u201d Gr\u00f6ner concludes. Leading researchers and experts on the topic of inequality also weigh in, including Nobel-prize winning economist Joseph Stiglitz, economist Thomas Piketty, and Brooke Harrington, who carried out extensive field research among investors from the ranks of the international financial elite. Branko Milanovi\u0107, a former lead economist at the World Bank, says that globalization is playing a role in rising inequality. The losers of globalization are the lower-middle class of affluent countries like Germany. \"These people are earning the same today as 20 years ago,\" Milanovi\u0107 notes. \"Just like a century ago, humankind is standing at a crossroads. Will affluent countries allow rising equality to tear apart the fabric of society? Or will they resist this trend?\u201d\n\nPart 1: ",
+                "dislikes": "2,144 dislikes",
+                "id": "AFIxi7BiScI",
+                "likes": "31,699 likes",
+                "tags": "documentary, inequality, power, wealth, capitalism, poverty, economics, social inequality, world inequality report 2018, criticism of capitalism, inequality what can be done, income, rich, DW, poor, Deutsche Welle, DW Documentary, class, middle class, basic income, gini index",
+                "title": "Inequality \u2013 how wealth becomes power (1/3) | DW Documentary",
+                "url": "https://www.youtube.com/watch?v=AFIxi7BiScI",
+                "video_length": 2510.701,
+                "views": "3,417,605 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=CVuVlk2E_e4",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=5WiDIhIkPoM",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=Hh1Do3PQCWA",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=cYP_wMJsgyg",
+                      "title": "Rich and poor \u2013 the inequality gap (2/3) | DW Documentary",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,593",
+                        "content creator": "DW Documentary",
+                        "date": "Dec 12, 2018",
+                        "description": "Christoph Gr\u00f6ner is one of the richest people in Germany. The son of two teachers, he has worked his way to the top. He believes that many children in Germany grow up without a fair chance and wants to step in. But can this really ease inequality?\n\nChristoph Gr\u00f6ner does everything he can to drum up donations and convince the wealthy auction guests to raise their bids. The more the luxury watch for sale fetches, the more money there will be to pay for a new football field, or some extra tutoring, at a children's home. Christoph Gr\u00f6ner is one of the richest people in Germany - his company is now worth one billion euros, he tells us. For seven months, he let our cameras follow him - into board meetings, onto construction sites, through his daily life, and in his charity work. He knows that someone like him is an absolute exception in Germany. His parents were both teachers, and he still worked his way to the top. He believes that many children in Germany grow up without a fair chance. \"What we see here is total failure across the board,\u201d he says. \"It starts with parents who just don\u2019t get it and can\u2019t do anything right. And then there\u2019s an education policy that has opened the gates wide to the chaos we are experiencing today.\" Chistoph Gr\u00f6ner wants to step in where state institutions have failed. But can that really ease inequality? \n\nIn Germany, getting ahead depends more on where you come from than in most other industrialized countries, and social mobility is normally quite restricted. Those on top stay on top. The same goes for those at the bottom. A new study shows that Germany\u2019s rich and poor both increasingly stay amongst themselves, without ever intermingling with other social strata. Even the middle class is buckling under the mounting pressure of an unsecure future. \"Land of Inequality\" searches for answers as to why. We talk to families, an underpaid nurse, as well as leading researchers and analysts such as economic Nobel Prize laureate Joseph Stiglitz, sociologist Jutta Allmendinger or the economist Raj Chetty, who conducted a Stanford investigation into how the middle class is now arming itself to improve their children\u2019s outlooks.\n\nPart 1: ",
+                        "dislikes": "423 dislikes",
+                        "id": "cYP_wMJsgyg",
+                        "likes": "9,119 likes",
+                        "tags": "Documentary, inequality, charity, child poverty, Joseph Stiglitz, Christoph Gr\u00f6ner, Germany, DW Documentary, Documentary 2018, rich people, donations, raj Chetty, deutsche welle documentary, dw",
+                        "title": "Rich and poor \u2013 the inequality gap (2/3) | DW Documentary",
+                        "url": "https://www.youtube.com/watch?v=cYP_wMJsgyg",
+                        "video_length": 2545.401,
+                        "views": "1,328,051 views"
+                      }
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=QozGSS7QY_U",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=Oki0kftEm-Y",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=O90PShJVu58",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=C6wY2b9amnA",
+                      "title": "China's competition for living space | DW Documentary",
+                      "video": {
+                        "ad": null,
+                        "comments": "4,727",
+                        "content creator": "DW Documentary",
+                        "date": "May 30, 2021",
+                        "description": "More than 60 percent of China's population of 1.4 billion currently lives in cities. Within a decade, the share of urban dwellers is expected to increase to 75 percent. Construction is booming and competition for residential land is fierce.\n\nBut the right to live in a city in China is conditional. Authorities want their modern cities to be peopled with well-educated, highly-qualified or politically well-connected residents. As a result, certain standards have to be met to be eligible for a modern, urban home. Only members of China's political classes and the financially successful have a hope of qualifying. Yet more than half of the people who live in cities are so-called \"migrant workers.\" They come from rural communities and have no official rights to settle in cities. They are there to work. With no proper rights, they are merely tolerated while they serve as merchants, servants, waitstaff, cleaners, construction workers and tradespeople. But while they are indispensable to daily life in the cities, they are unable to afford their exorbitant rents. This documentary looks at how and where these workers live, and asks whether middle and working class Chinese even figure in the official vision of shiny, high-tech cities. The filmmakers also look at what happens to those who oppose official plans, or stand in the way of the building boom.",
+                        "dislikes": "1,525 dislikes",
+                        "id": "C6wY2b9amnA",
+                        "likes": "16,250 likes",
+                        "tags": "Documentary, Documentaries, documentaries, DW documentary, full documentary, DW, documentary 2021, documentary, China, building boom in China, social inequality, urban growth, cities, migrant workers",
+                        "title": "China's competition for living space | DW Documentary",
+                        "url": "https://www.youtube.com/watch?v=C6wY2b9amnA",
+                        "video_length": 2546.021,
+                        "views": "1,351,155 views"
+                      }
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=b58b-BvWEpo",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=CVuVlk2E_e4",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=QozGSS7QY_U",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                      "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                      "video": {
+                        "ad": null,
+                        "comments": "10,197",
+                        "content creator": "DW Documentary",
+                        "date": "Jun 9, 2019",
+                        "description": "The rich in Germany been never been as well-off as they are today and assets have never been so unevenly distributed. But who are they? How do they live? And what do they think of their country? A journey into the discreet world of the super-rich.\n\nOne percent of Germans own over a quarter of the country's assets, whilst half of the country\u2019s citizens have no assets at all. But while the German media report on the growing poverty in the country on a daily basis, little is known about the super-rich. They keep a very low profile and can walk the streets unrecognized. \"Manager Magazin\u201d says there were around 200 billionaires living in Germany in 2018, and their numbers are increasing. The documentary \"Top of the World\" asks why rich Germans are so unwilling to talk about their wealth. Its author immerses himself in the discreet world of big money and meets financial advisors with 800 years of family tradition behind them and billionaires such as drugstore king Dirk Rossmann and mail-order company heir Michael Otto -  as well as a self-made businessmen such as Rainer Schaller. They talk about their notions of money and justice, the origins of their wealth and their fear of social envy.\n\n\n--------------------------------------------------------------------\n\nDW Documentary gives you knowledge beyond the headlines. Watch high-class documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary.\n\nSubscribe to DW Documentary:",
+                        "dislikes": "3,594 dislikes",
+                        "id": "NXaVLXSZdEw",
+                        "likes": "64,272 likes",
+                        "tags": "Documentary, Germany, assets, wealth, poverty, multimillionaires, money, justice, social envy, film, super-rich, rich, discrete lives, Berlin, work, multi millionaires, entrepreneur, DW, DW Documentary, Deutsche Welle, envy, Greed, inequality, income inequality, economic inequality",
+                        "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                        "url": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                        "video_length": 2545.701,
+                        "views": "8,542,039 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AFIxi7BiScI",
+                  "title": "Inequality \u2013 how wealth becomes power (1/3) | DW Documentary",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,290",
+                    "content creator": "DW Documentary",
+                    "date": "Aug 18, 2018",
+                    "description": "Germany is one of the world\u2019s richest countries, but inequality is on the rise. The wealthy are pulling ahead, while the poor are falling behind. \n\nFor the middle classes, work is no longer a means of advancement. Instead, they are struggling to maintain their position and status. Young people today have less disposable income than previous generations. This documentary explores the question of inequality in Germany, providing both background analysis and statistics. The filmmakers interview leading researchers and experts on the topic. And they accompany Christoph Gr\u00f6ner, one of Germany\u2019s biggest real estate developers, as he goes about his work. \"If you have great wealth, you can\u2019t fritter it away through consumption. If you throw money out the window, it comes back in through the front door,\u201d Gr\u00f6ner says. The real estate developer builds multi-family residential units in cities across Germany, sells condominium apartments, and is involved in planning projects that span entire districts. \"Entrepreneurs are more powerful than politicians, because we\u2019re more independent,\u201d Gr\u00f6ner concludes. Leading researchers and experts on the topic of inequality also weigh in, including Nobel-prize winning economist Joseph Stiglitz, economist Thomas Piketty, and Brooke Harrington, who carried out extensive field research among investors from the ranks of the international financial elite. Branko Milanovi\u0107, a former lead economist at the World Bank, says that globalization is playing a role in rising inequality. The losers of globalization are the lower-middle class of affluent countries like Germany. \"These people are earning the same today as 20 years ago,\" Milanovi\u0107 notes. \"Just like a century ago, humankind is standing at a crossroads. Will affluent countries allow rising equality to tear apart the fabric of society? Or will they resist this trend?\u201d\n\nPart 1: ",
+                    "dislikes": "2,144 dislikes",
+                    "id": "AFIxi7BiScI",
+                    "likes": "31,699 likes",
+                    "tags": "",
+                    "title": "Inequality \u2013 how wealth becomes power (1/3) | DW Documentary",
+                    "url": "https://www.youtube.com/watch?v=AFIxi7BiScI",
+                    "video_length": 2510.701,
+                    "views": "3,417,605 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=O0D0E42AA4I",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=Unzc731iCUY",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=pni_kDv9BsU",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=e_EgdShO1K8",
+                      "title": "Education For Whom and For What?",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "The University of Arizona",
+                        "date": "Feb 17, 2012",
+                        "description": "Noam Chomsky, a world-renowned linguist, intellectual and political activist, spoke at the University of Arizona on Feb. 8, 2012. His lecture, \"Education: For Whom and For What?\" featured a talk on the state of higher education, followed by a question-and-answer session. \n\nChomsky, an Institute Professor and a Professor Emeritus of Linguistics at the Massachusetts Institute of Technology where he worked for more than 50 years, has been concerned with a range of education-related issues in recent years. Among them: How do we characterize the contemporary state of the American education system? What happens to the quality of education when public universities become more privatized? Are public universities in danger of being converted into facilities that produce graduates-as-commodities for the job market? What is the role of activism in education? With unprecedented tuition increases and budget struggles occurring across American campuses, these are questions that are more relevant than ever.",
+                        "dislikes": " Unavailable",
+                        "id": "e_EgdShO1K8",
+                        "likes": "Unavailable",
+                        "tags": "Noam, Chomsky, linguistics, higher, education, University, Arizona, public, lectures, privatization, activism, campuses",
+                        "title": "Education For Whom and For What?",
+                        "url": "https://www.youtube.com/watch?v=e_EgdShO1K8",
+                        "video_length": 7167.441,
+                        "views": "1,662,625 views"
+                      }
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=CVuVlk2E_e4",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=QozGSS7QY_U",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=O90PShJVu58",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                      "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                      "video": {
+                        "ad": null,
+                        "comments": "10,197",
+                        "content creator": "DW Documentary",
+                        "date": "Jun 9, 2019",
+                        "description": "The rich in Germany been never been as well-off as they are today and assets have never been so unevenly distributed. But who are they? How do they live? And what do they think of their country? A journey into the discreet world of the super-rich.\n\nOne percent of Germans own over a quarter of the country's assets, whilst half of the country\u2019s citizens have no assets at all. But while the German media report on the growing poverty in the country on a daily basis, little is known about the super-rich. They keep a very low profile and can walk the streets unrecognized. \"Manager Magazin\u201d says there were around 200 billionaires living in Germany in 2018, and their numbers are increasing. The documentary \"Top of the World\" asks why rich Germans are so unwilling to talk about their wealth. Its author immerses himself in the discreet world of big money and meets financial advisors with 800 years of family tradition behind them and billionaires such as drugstore king Dirk Rossmann and mail-order company heir Michael Otto -  as well as a self-made businessmen such as Rainer Schaller. They talk about their notions of money and justice, the origins of their wealth and their fear of social envy.\n\n\n--------------------------------------------------------------------\n\nDW Documentary gives you knowledge beyond the headlines. Watch high-class documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary.\n\nSubscribe to DW Documentary:",
+                        "dislikes": "3,594 dislikes",
+                        "id": "NXaVLXSZdEw",
+                        "likes": "64,272 likes",
+                        "tags": "Documentary, Germany, assets, wealth, poverty, multimillionaires, money, justice, social envy, film, super-rich, rich, discrete lives, Berlin, work, multi millionaires, entrepreneur, DW, DW Documentary, Deutsche Welle, envy, Greed, inequality, income inequality, economic inequality",
+                        "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                        "url": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                        "video_length": 2546,
+                        "views": "8,541,971 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                      "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                      "video": {
+                        "ad": null,
+                        "comments": "396",
+                        "content creator": "CNBC Television",
+                        "date": "Streamed live on Dec 11, 2018",
+                        "description": "The House Judiciary Committee holds a hearing on \"Transparency and Accountability: Examining Google and Data Collection, Use and Filtering Practices.\"\n\u00bb Subscribe to CNBC: http://cnb.cx/SubscribeCNBC",
+                        "dislikes": "233 dislikes",
+                        "id": "-ENrcvPICow",
+                        "likes": "1,235 likes",
+                        "tags": "CNBC, business news, finance stock, stock market, news channel, news station, breaking news, us news, world news, cable, cable news, finance news, money, money tips, Google CEO, Sundar Pichai, Sundar Pichai testitfies on Capitol Hill, #CNBCLivestreams, goog, google plus, sundar pichai, google stock, google ceo, google ceo testify, house judiciary live stream, google ceo live stream, google stock price, alphabet stock price, alphabet stock",
+                        "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                        "url": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                        "video_length": 13030.601,
+                        "views": "368,437 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3G1EyvRZmOs",
+                  "title": "When China Rules the World",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "The University of Melbourne",
+                    "date": "Sep 20, 2012",
+                    "description": "Presented by: Martin Jacques\n\nAs part of a public lecture series questioning Australia's Role in the World, Asialink is proud to present best-selling author and leading China expert Martin Jacques, for the launch of an updated version of his critically-acclaimed book \"When China Rules the World: the End of the Western World and the Birth of a New Global Order\"",
+                    "dislikes": " Unavailable",
+                    "id": "3G1EyvRZmOs",
+                    "likes": "Unavailable",
+                    "tags": "unimelb, asialink, martin jacques",
+                    "title": "When China Rules the World",
+                    "url": "https://www.youtube.com/watch?v=3G1EyvRZmOs",
+                    "video_length": 5648.961,
+                    "views": "2,916,611 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=QozGSS7QY_U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=8qS7eyUo_uk",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=dp8PhLsUcFE",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=J2xGBlT0cqY",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                      "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                      "video": {
+                        "ad": null,
+                        "comments": "396",
+                        "content creator": "CNBC Television",
+                        "date": "Streamed live on Dec 11, 2018",
+                        "description": "The House Judiciary Committee holds a hearing on \"Transparency and Accountability: Examining Google and Data Collection, Use and Filtering Practices.\"\n\u00bb Subscribe to CNBC: http://cnb.cx/SubscribeCNBC",
+                        "dislikes": "233 dislikes",
+                        "id": "-ENrcvPICow",
+                        "likes": "1,235 likes",
+                        "tags": "CNBC, business news, finance stock, stock market, news channel, news station, breaking news, us news, world news, cable, cable news, finance news, money, money tips, Google CEO, Sundar Pichai, Sundar Pichai testitfies on Capitol Hill, #CNBCLivestreams, goog, google plus, sundar pichai, google stock, google ceo, google ceo testify, house judiciary live stream, google ceo live stream, google stock price, alphabet stock price, alphabet stock",
+                        "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                        "url": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                        "video_length": 13030.601,
+                        "views": "368,437 views"
+                      }
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=WXuK6gekU1Y",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=CVuVlk2E_e4",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=xi6r3hZe5Tg",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=SGJ5cZnoodY",
+                      "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities",
+                      "video": {
+                        "ad": null,
+                        "comments": "6,917",
+                        "content creator": "WIRED UK",
+                        "date": "Jul 5, 2016",
+                        "description": "Future Cities, a full-length documentary strand from WIRED Video, takes us inside the bustling Chinese city of Shenzhen. \nSubscribe to WIRED\u25ba\u25ba http://po.st/SubscribeWired",
+                        "dislikes": "5,811 dislikes",
+                        "id": "SGJ5cZnoodY",
+                        "likes": "88,441 likes",
+                        "tags": "Shenzhen, china, china shenzhen, shenzhen city, shenzen, shenzhen 2011, the future, hardware, prototype, shanzhai, copycat, bootleg, startup, hardware prototype, Future Cities, documentary, silicon valley of hardware, evolution, technology, Wired uk, wired, wired magazine, wired video, David Rowan, pop culture, science, politics, business, conde nast, health, topics, news, gadgets",
+                        "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities",
+                        "url": "https://www.youtube.com/watch?v=SGJ5cZnoodY",
+                        "video_length": 4070.741,
+                        "views": "13,041,747 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=JovtmKFxi3c",
+                  "title": "China: Power and Prosperity -- Watch the full documentary",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Nov 22, 2019",
+                    "description": "As China has risen in prosperity, influence and military strength, what are the social, economic and political forces at play? Come along with PBS NewsHour as we travel around the globe to explore the emerging superpower and its relationship with the United States.\n\n\"China: Power and Prosperity\" covers the country\u2019s powerful leader, his signature foreign policy, U.S.-China trade and technology wars, how Chinese technology helps stifle dissent, and more. A collaboration with the Pulitzer Center on Crisis Reporting, PBS NewsHour conducted more than 70 on-camera interviews in eight Chinese cities and across eight countries.\n\nSupport your local PBS station here: ",
+                    "dislikes": "19,239 dislikes",
+                    "id": "JovtmKFxi3c",
+                    "likes": "54,099 likes",
+                    "tags": "China, prosperity, global economy, global influence, China Power and Prosperity, super, power, united states, Belt and Road Initiative, belt and road, Indonesia, poverty, infrastructure, rail, construction, Xi Jinping, Beijing, PBS, PBS NewsHour, Donald Trump, trade war, tariffs, u.s. economy, trade, Hong Kong, protests, democracy, nick schifrin, Uyghurs, Muslims, islamaphobia, communist china, religious minority, xinjiang, human rights, car, electirc, surviellance, art, artists, billionaires, rich",
+                    "title": "China: Power and Prosperity -- Watch the full documentary",
+                    "url": "https://www.youtube.com/watch?v=JovtmKFxi3c",
+                    "video_length": 6269.941,
+                    "views": "11,499,462 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=t6m49vNjEGs",
+              "title": "How the rich get richer \u2013 money in the world economy | DW Documentary",
+              "video": {
+                "ad": null,
+                "comments": "6,871",
+                "content creator": "DW Documentary",
+                "date": "Jul 5, 2017",
+                "description": "Exploding real estate prices, zero interest rate and a rising stock market \u2013 the rich are getting richer. What danger lies in wait for average citizens? \n\nFor years, the world\u2019s central banks have been pursuing a policy of cheap money. The first and foremost is the ECB (European Central Bank), which buys bad stocks and bonds to save banks, tries to fuel economic growth and props up states that are in debt. But what relieves state budgets to the tune of hundreds of billions annoys savers: interest rates are close to zero.\n\nThe fiscal policies of the central banks are causing an uncontrolled global deluge of money. Experts are warning of new bubbles. In real estate, for example: it\u2019s not just in German cities that prices are shooting up. In London, a one-bed apartment can easily cost more than a million Euro. More and more money is moving away from the real economy and into the speculative field. Highly complex financial bets are taking place in the global casino - gambling without checks and balances. The winners are set from the start: in Germany and around the world, the rich just get richer. Professor Max Otte says: \"This flood of money has caused a dangerous redistribution. Those who have, get more.\" But with low interest rates, any money in savings accounts just melts away. Those with debts can be happy. But big companies that want to swallow up others are also happy: they can borrow cheap money for their acquisitions. Coupled with the liberalization of the financial markets, money deals have become detached from the real economy. But it\u2019s not just the banks that need a constant source of new, cheap money today. So do states. They need it to keep a grip on their mountains of debt. It\u2019s a kind of snowball system. What happens to our money? Is a new crisis looming? The film 'The Money Deluge' casts a new and surprising light on our money in these times of zero interest rates.\n_______\n\nExciting, powerful and informative \u2013 DW Documentary is always close to current affairs and international events. Our eclectic mix of award-winning films and reports take you straight to the heart of the story. Dive into different cultures, journey across distant lands, and discover the inner workings of modern-day life. Subscribe and explore the world around you \u2013 every day, one DW Documentary at a time.\n\nSubscribe to DW Documentary:",
+                "dislikes": "4,002 dislikes",
+                "id": "t6m49vNjEGs",
+                "likes": "61,904 likes",
+                "tags": "financial system, financial crisis, money, European Central Bank, zero interest, DW, documentary, Deutsche Welle",
+                "title": "How the rich get richer \u2013 money in the world economy | DW Documentary",
+                "url": "https://www.youtube.com/watch?v=t6m49vNjEGs",
+                "video_length": 2544.741,
+                "views": "7,533,321 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=p5Ac7ap_MAY",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=QozGSS7QY_U",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=3A6l60knEzI",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=-YgFDZNXPyg",
+              "title": "How Britain's Bankers Made Billions From The End Of Empire | Timeline",
+              "video": {
+                "ad": null,
+                "comments": "615",
+                "content creator": "Timeline - World History Documentaries",
+                "date": "Aug 20, 2019",
+                "description": "How Britain transformed from a colonial power into a global financial power. At the demise of empire, City of London financial interests created a web of offshore secrecy jurisdictions that captured wealth from across the globe and hid it behind obscure financial structures in a web of offshore islands.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                "dislikes": "132 dislikes",
+                "id": "-YgFDZNXPyg",
+                "likes": "3,325 likes",
+                "tags": "History, Full Documentary, Documentaries, Full length Documentaries, Documentary, TV Shows - Topic, Documentary Movies - Topic, 2017 documentary, BBC documentary, Channel 4 documentary, history documentary, documentary history, the spiders web, tax havens, britains second empire, tax justice network, nicholas shaxson, city of london, peter cain, british empire, john christensen, origins of offshore, what is financial crisis, the financial crisis, history of the world",
+                "title": "How Britain's Bankers Made Billions From The End Of Empire | Timeline",
+                "url": "https://www.youtube.com/watch?v=-YgFDZNXPyg",
+                "video_length": 4580.541,
+                "views": "222,464 views"
+              }
+            }
+          ],
           "id": "https://www.youtube.com/watch?v=wEufTD39xrw",
-          "title": null,
-          "video": null
+          "title": "Money and power \u2013 how much influence do the super rich have? (3/3) | DW Documentary",
+          "video": {
+            "ad": null,
+            "comments": "1,018",
+            "content creator": "DW Documentary",
+            "date": "Mar 24, 2019",
+            "description": "How much power do people with a lot of money really have? Who decides how Germany should look? These questions are the subject of the film \"Land of Inequality - Power.\u201d \n\nMany studies show that a small but wealthy part of society defines a country\u2019s political direction. It\u2019s the same all over the world. German researchers evaluated hundreds of opinion polls on the topics of the economy, environment, foreign policy and finance. They then examined what poor people wanted from politics on these issues - and what the rich did. The differences were clear: \"An obvious example is taxes on property,\u201d says Armin Sch\u00e4fer, a political scientist at the University of Munster. \"Higher income groups are more skeptical about any reintroduction of a property tax, whereas lower income groups definitely want it. So far, we have not reintroduced a property tax in that form.\u201d So who gets to decide what Germany looks like? To find out, our film follows building contractor Christoph Gr\u00f6ner, who has made millions from the construction business. Gr\u00f6ner wants to build an entire new district in Cologne, which is facing a severe housing shortfall and where rents are soaring and the poor in particular feel ignored. But he has faced delays in getting building permits. Cologne Mayor Henriette Reker says: \"It is a city\u2019s job to provide land and grant building permits.\u201d But can\u2019t it do that faster? Gr\u00f6ner says the politicians should take their foot off the brakes. To show how much power money really wields, we go to the places where politics and economics come together - to the district town halls and the VIP box at a Bundesliga stadium. And to Europe's largest real estate show in Cannes, where billionaire investors use their financial clout to shape cities and regions as they wish.\n\nPart 1: ",
+            "dislikes": "264 dislikes",
+            "id": "wEufTD39xrw",
+            "likes": "6,861 likes",
+            "tags": "Documentary, wealth, poverty, social inequality, real estate, Germany, deutsche welle, inequality, economics, richness, richness in Germany, economic inequality, dw, capitalism, power, world inequality report deutschland, world inequality report 2018, criticism of capitalism, poor, class, middle class, basic incom, christoph gr\u00f6ner doku, christoph gr\u00f6ner, Deutsche Welle, dw documentary, gini index",
+            "title": "Money and power \u2013 how much influence do the super rich have? (3/3) | DW Documentary",
+            "url": "https://www.youtube.com/watch?v=wEufTD39xrw",
+            "video_length": 2545.701,
+            "views": "1,200,922 views"
+          }
         }
       ],
       "id": "https://www.youtube.com/watch?v=m6pJd6O_NT0",
       "title": "Exclusive: Full Interview With Russian President Vladimir Putin",
       "video": {
         "ad": null,
-        "comments": "37,401",
+        "comments": "37,406",
         "content creator": "NBC News",
         "date": "Jun 15, 2021",
         "description": "In an NBC News worldwide exclusive, senior international correspondent Keir Simmons sits down with Russian President Vladimir Putin in Moscow for a one-on-one interview, just days ahead of a critical summit with President Biden.\n\u00bb Subscribe to NBC News: ",
         "dislikes": "6,948 dislikes",
         "id": "m6pJd6O_NT0",
-        "likes": "56,561 likes",
+        "likes": "56,566 likes",
         "tags": "vladimir putin, russia, putin",
         "title": "Exclusive: Full Interview With Russian President Vladimir Putin",
         "url": "https://www.youtube.com/watch?v=m6pJd6O_NT0",
         "video_length": 4972.761,
-        "views": "6,089,264 views"
+        "views": "6,089,913 views"
       }
     },
     {
       "children": [
         {
-          "id": "https://www.youtube.com/watch?v=DXVg0Wmn4ts",
-          "title": null,
-          "video": null
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=SGJ5cZnoodY",
+              "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities",
+              "video": {
+                "ad": null,
+                "comments": "6,917",
+                "content creator": "WIRED UK",
+                "date": "Jul 5, 2016",
+                "description": "Future Cities, a full-length documentary strand from WIRED Video, takes us inside the bustling Chinese city of Shenzhen. \nSubscribe to WIRED\u25ba\u25ba http://po.st/SubscribeWired",
+                "dislikes": "5,811 dislikes",
+                "id": "SGJ5cZnoodY",
+                "likes": "88,441 likes",
+                "tags": "Shenzhen, china, china shenzhen, shenzhen city, shenzen, shenzhen 2011, the future, hardware, prototype, shanzhai, copycat, bootleg, startup, hardware prototype, Future Cities, documentary, silicon valley of hardware, evolution, technology, Wired uk, wired, wired magazine, wired video, David Rowan, pop culture, science, politics, business, conde nast, health, topics, news, gadgets",
+                "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities",
+                "url": "https://www.youtube.com/watch?v=SGJ5cZnoodY",
+                "video_length": 4070.741,
+                "views": "13,041,747 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=oizhVJstxC4",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                  "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                  "video": {
+                    "ad": null,
+                    "comments": "396",
+                    "content creator": "CNBC Television",
+                    "date": "Streamed live on Dec 11, 2018",
+                    "description": "The House Judiciary Committee holds a hearing on \"Transparency and Accountability: Examining Google and Data Collection, Use and Filtering Practices.\"\n\u00bb Subscribe to CNBC: http://cnb.cx/SubscribeCNBC",
+                    "dislikes": "233 dislikes",
+                    "id": "-ENrcvPICow",
+                    "likes": "1,235 likes",
+                    "tags": "CNBC, business news, finance stock, stock market, news channel, news station, breaking news, us news, world news, cable, cable news, finance news, money, money tips, Google CEO, Sundar Pichai, Sundar Pichai testitfies on Capitol Hill, #CNBCLivestreams, goog, google plus, sundar pichai, google stock, google ceo, google ceo testify, house judiciary live stream, google ceo live stream, google stock price, alphabet stock price, alphabet stock",
+                    "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                    "url": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                    "video_length": 13030.601,
+                    "views": "368,437 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Unzc731iCUY",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=3G1EyvRZmOs",
+              "title": "When China Rules the World",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "The University of Melbourne",
+                "date": "Sep 20, 2012",
+                "description": "Presented by: Martin Jacques\n\nAs part of a public lecture series questioning Australia's Role in the World, Asialink is proud to present best-selling author and leading China expert Martin Jacques, for the launch of an updated version of his critically-acclaimed book \"When China Rules the World: the End of the Western World and the Birth of a New Global Order\"",
+                "dislikes": " Unavailable",
+                "id": "3G1EyvRZmOs",
+                "likes": "Unavailable",
+                "tags": "unimelb, asialink, martin jacques",
+                "title": "When China Rules the World",
+                "url": "https://www.youtube.com/watch?v=3G1EyvRZmOs",
+                "video_length": 5648.961,
+                "views": "2,916,611 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=TKXldNsmRaw",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=oIF-ujSeQho",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=O90PShJVu58",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=DXVg0Wmn4ts",
+              "title": "How Western Failures Are Fueling China\u2019s Rise",
+              "video": {
+                "ad": null,
+                "comments": "5,481",
+                "content creator": "Bloomberg Quicktake",
+                "date": "Jul 1, 2021",
+                "description": "When China opened up to foreign investment four decades ago, many predicted capitalism would bring democratic change. But they were wrong. Emboldened by the 2008 financial crisis and now America's catastrophic handling of the pandemic, Beijing is offering up its authoritarian model as a thriving alternative to the liberal values of the West.",
+                "dislikes": "1,825 dislikes",
+                "id": "DXVg0Wmn4ts",
+                "likes": "12,017 likes",
+                "tags": "News, bloomberg, quicktake, business, bloomberg quicktake, quicktake originals, bloomberg\nquicktake by bloomberg, documentary, mini documentary, mini doc, doc, us news, world news, finance, science, china, china+, asia, APAC, US, Taiwan, Xi Jinping, CCP, Biden",
+                "title": "How Western Failures Are Fueling China\u2019s Rise",
+                "url": "https://www.youtube.com/watch?v=DXVg0Wmn4ts",
+                "video_length": 1126.561,
+                "views": "496,985 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=SUfjtKtkS2U",
+          "title": "Inside China's Accelerating Bid for Chip Supremacy",
+          "video": {
+            "ad": null,
+            "comments": "7,148",
+            "content creator": "Bloomberg Quicktake",
+            "date": "Jun 2, 2021",
+            "description": "Right now the world is dependent on Taiwan for silicon semiconductors called chips, which give devices like iPhones their functionality. This reliance has the U.S. and China both racing for technological independence.",
+            "dislikes": "2,085 dislikes",
+            "id": "SUfjtKtkS2U",
+            "likes": "39,166 likes",
+            "tags": "News, bloomberg, quicktake, business, bloomberg quicktake, quicktake originals, bloomberg\nquicktake by bloomberg, documentary, mini documentary, mini doc, doc, us news, world news, finance, science, China, Taiwan, semiconductors, microchips, Asia, global trade, computers, technology, Apple",
+            "title": "Inside China's Accelerating Bid for Chip Supremacy",
+            "url": "https://www.youtube.com/watch?v=SUfjtKtkS2U",
+            "video_length": 1189.141,
+            "views": "2,406,835 views"
+          }
         },
         {
-          "id": "https://www.youtube.com/watch?v=OcL932W6E1w",
-          "title": null,
-          "video": null
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+              "title": "Germany: The discreet lives of the super rich | DW Documentary",
+              "video": {
+                "ad": null,
+                "comments": "10,197",
+                "content creator": "DW Documentary",
+                "date": "Jun 9, 2019",
+                "description": "The rich in Germany been never been as well-off as they are today and assets have never been so unevenly distributed. But who are they? How do they live? And what do they think of their country? A journey into the discreet world of the super-rich.\n\nOne percent of Germans own over a quarter of the country's assets, whilst half of the country\u2019s citizens have no assets at all. But while the German media report on the growing poverty in the country on a daily basis, little is known about the super-rich. They keep a very low profile and can walk the streets unrecognized. \"Manager Magazin\u201d says there were around 200 billionaires living in Germany in 2018, and their numbers are increasing. The documentary \"Top of the World\" asks why rich Germans are so unwilling to talk about their wealth. Its author immerses himself in the discreet world of big money and meets financial advisors with 800 years of family tradition behind them and billionaires such as drugstore king Dirk Rossmann and mail-order company heir Michael Otto -  as well as a self-made businessmen such as Rainer Schaller. They talk about their notions of money and justice, the origins of their wealth and their fear of social envy.\n\n\n--------------------------------------------------------------------\n\nDW Documentary gives you knowledge beyond the headlines. Watch high-class documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary.\n\nSubscribe to DW Documentary:",
+                "dislikes": "3,594 dislikes",
+                "id": "NXaVLXSZdEw",
+                "likes": "64,272 likes",
+                "tags": "Documentary, Germany, assets, wealth, poverty, multimillionaires, money, justice, social envy, film, super-rich, rich, discrete lives, Berlin, work, multi millionaires, entrepreneur, DW, DW Documentary, Deutsche Welle, envy, Greed, inequality, income inequality, economic inequality",
+                "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                "url": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                "video_length": 2545.701,
+                "views": "8,542,039 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=wvXDB9dMdEo",
+              "title": null,
+              "video": null
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=JovtmKFxi3c",
+              "title": "China: Power and Prosperity -- Watch the full documentary",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "PBS NewsHour",
+                "date": "Nov 22, 2019",
+                "description": "As China has risen in prosperity, influence and military strength, what are the social, economic and political forces at play? Come along with PBS NewsHour as we travel around the globe to explore the emerging superpower and its relationship with the United States.\n\n\"China: Power and Prosperity\" covers the country\u2019s powerful leader, his signature foreign policy, U.S.-China trade and technology wars, how Chinese technology helps stifle dissent, and more. A collaboration with the Pulitzer Center on Crisis Reporting, PBS NewsHour conducted more than 70 on-camera interviews in eight Chinese cities and across eight countries.\n\nSupport your local PBS station here: ",
+                "dislikes": "19,239 dislikes",
+                "id": "JovtmKFxi3c",
+                "likes": "54,099 likes",
+                "tags": "China, prosperity, global economy, global influence, China Power and Prosperity, super, power, united states, Belt and Road Initiative, belt and road, Indonesia, poverty, infrastructure, rail, construction, Xi Jinping, Beijing, PBS, PBS NewsHour, Donald Trump, trade war, tariffs, u.s. economy, trade, Hong Kong, protests, democracy, nick schifrin, Uyghurs, Muslims, islamaphobia, communist china, religious minority, xinjiang, human rights, car, electirc, surviellance, art, artists, billionaires, rich",
+                "title": "China: Power and Prosperity -- Watch the full documentary",
+                "url": "https://www.youtube.com/watch?v=JovtmKFxi3c",
+                "video_length": 6269.941,
+                "views": "11,499,462 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=t6m49vNjEGs",
+          "title": "How the rich get richer \u2013 money in the world economy | DW Documentary",
+          "video": {
+            "ad": null,
+            "comments": "6,871",
+            "content creator": "DW Documentary",
+            "date": "Jul 5, 2017",
+            "description": "Exploding real estate prices, zero interest rate and a rising stock market \u2013 the rich are getting richer. What danger lies in wait for average citizens? \n\nFor years, the world\u2019s central banks have been pursuing a policy of cheap money. The first and foremost is the ECB (European Central Bank), which buys bad stocks and bonds to save banks, tries to fuel economic growth and props up states that are in debt. But what relieves state budgets to the tune of hundreds of billions annoys savers: interest rates are close to zero.\n\nThe fiscal policies of the central banks are causing an uncontrolled global deluge of money. Experts are warning of new bubbles. In real estate, for example: it\u2019s not just in German cities that prices are shooting up. In London, a one-bed apartment can easily cost more than a million Euro. More and more money is moving away from the real economy and into the speculative field. Highly complex financial bets are taking place in the global casino - gambling without checks and balances. The winners are set from the start: in Germany and around the world, the rich just get richer. Professor Max Otte says: \"This flood of money has caused a dangerous redistribution. Those who have, get more.\" But with low interest rates, any money in savings accounts just melts away. Those with debts can be happy. But big companies that want to swallow up others are also happy: they can borrow cheap money for their acquisitions. Coupled with the liberalization of the financial markets, money deals have become detached from the real economy. But it\u2019s not just the banks that need a constant source of new, cheap money today. So do states. They need it to keep a grip on their mountains of debt. It\u2019s a kind of snowball system. What happens to our money? Is a new crisis looming? The film 'The Money Deluge' casts a new and surprising light on our money in these times of zero interest rates.\n_______\n\nExciting, powerful and informative \u2013 DW Documentary is always close to current affairs and international events. Our eclectic mix of award-winning films and reports take you straight to the heart of the story. Dive into different cultures, journey across distant lands, and discover the inner workings of modern-day life. Subscribe and explore the world around you \u2013 every day, one DW Documentary at a time.\n\nSubscribe to DW Documentary:",
+            "dislikes": "4,002 dislikes",
+            "id": "t6m49vNjEGs",
+            "likes": "61,904 likes",
+            "tags": "financial system, financial crisis, money, European Central Bank, zero interest, DW, documentary, Deutsche Welle",
+            "title": "How the rich get richer \u2013 money in the world economy | DW Documentary",
+            "url": "https://www.youtube.com/watch?v=t6m49vNjEGs",
+            "video_length": 2544.741,
+            "views": "7,533,371 views"
+          }
         },
         {
+          "children": [
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=x3aqWJO4Rso",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                  "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,197",
+                    "content creator": "DW Documentary",
+                    "date": "Jun 9, 2019",
+                    "description": "The rich in Germany been never been as well-off as they are today and assets have never been so unevenly distributed. But who are they? How do they live? And what do they think of their country? A journey into the discreet world of the super-rich.\n\nOne percent of Germans own over a quarter of the country's assets, whilst half of the country\u2019s citizens have no assets at all. But while the German media report on the growing poverty in the country on a daily basis, little is known about the super-rich. They keep a very low profile and can walk the streets unrecognized. \"Manager Magazin\u201d says there were around 200 billionaires living in Germany in 2018, and their numbers are increasing. The documentary \"Top of the World\" asks why rich Germans are so unwilling to talk about their wealth. Its author immerses himself in the discreet world of big money and meets financial advisors with 800 years of family tradition behind them and billionaires such as drugstore king Dirk Rossmann and mail-order company heir Michael Otto -  as well as a self-made businessmen such as Rainer Schaller. They talk about their notions of money and justice, the origins of their wealth and their fear of social envy.\n\n\n--------------------------------------------------------------------\n\nDW Documentary gives you knowledge beyond the headlines. Watch high-class documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary.\n\nSubscribe to DW Documentary:",
+                    "dislikes": "3,594 dislikes",
+                    "id": "NXaVLXSZdEw",
+                    "likes": "64,272 likes",
+                    "tags": "Documentary, Germany, assets, wealth, poverty, multimillionaires, money, justice, social envy, film, super-rich, rich, discrete lives, Berlin, work, multi millionaires, entrepreneur, DW, DW Documentary, Deutsche Welle, envy, Greed, inequality, income inequality, economic inequality",
+                    "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                    "url": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                    "video_length": 2545.701,
+                    "views": "8,542,039 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Yiafb0-gqF4",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=iCjsLXvyXH8",
+              "title": "Why Arizona Is Becoming A Hotbed For Tech",
+              "video": {
+                "ad": null,
+                "comments": "2,550",
+                "content creator": "CNBC",
+                "date": "May 13, 2021",
+                "description": "Arizona has rapidly become an epicenter for electric vehicle and self-driving tech, and it\u2019s now the site of three big new semiconductor factories as the U.S. struggles to increase production during the global chip shortage.\n\nThe Arizona Commerce Authority says it helped 634 companies relocate or expand in Arizona between 2015 and 2020. Big names include Intel, Taiwan Semiconductor Manufacturing Co. and electric vehicle companies Lucid Motors, ElectraMeccanica, Nikola and Atlis Motor Vehicles.\n\nIn 2020, Phoenix attracted more residents than any other U.S. city for the fourth year in a row, as highly skilled remote workers flocked to the lower cost of living and wide open spaces of the Grand Canyon State. \n\nWatch the video to hear from Gov. Doug Ducey, big companies, and Arizonans about why the tech boom is happening and how it\u2019s changing the state.\n\n\u00bb Subscribe to CNBC: ",
+                "dislikes": "449 dislikes",
+                "id": "iCjsLXvyXH8",
+                "likes": "11,759 likes",
+                "tags": "CNBC, business, news, finance stock, stock market, news channel, news station, breaking news, us news, world news, cable, cable news, finance news, money, money tips, financial news, Stock market news, stocks, rise and fall of arizona, arizona tech, semiconductor factories, arizona tech boom, electric vehicle, EVs, Lucid Motors, ElectraMeccanica, Intel, Taiwan Semiconductor Manufacturing Co",
+                "title": "Why Arizona Is Becoming A Hotbed For Tech",
+                "url": "https://www.youtube.com/watch?v=iCjsLXvyXH8",
+                "video_length": 1234.661,
+                "views": "1,033,278 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=Yiafb0-gqF4",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=SGJ5cZnoodY",
+                  "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,917",
+                    "content creator": "WIRED UK",
+                    "date": "Jul 5, 2016",
+                    "description": "Future Cities, a full-length documentary strand from WIRED Video, takes us inside the bustling Chinese city of Shenzhen. \nSubscribe to WIRED\u25ba\u25ba http://po.st/SubscribeWired",
+                    "dislikes": "5,811 dislikes",
+                    "id": "SGJ5cZnoodY",
+                    "likes": "88,441 likes",
+                    "tags": "Shenzhen, china, china shenzhen, shenzhen city, shenzen, shenzhen 2011, the future, hardware, prototype, shanzhai, copycat, bootleg, startup, hardware prototype, Future Cities, documentary, silicon valley of hardware, evolution, technology, Wired uk, wired, wired magazine, wired video, David Rowan, pop culture, science, politics, business, conde nast, health, topics, news, gadgets",
+                    "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities",
+                    "url": "https://www.youtube.com/watch?v=SGJ5cZnoodY",
+                    "video_length": 4070.741,
+                    "views": "13,041,747 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=JvEas_zZ4fM",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=dzejHGniMTQ",
+              "title": "How Costco Became A Massive \"Members Only\" Retailer",
+              "video": {
+                "ad": null,
+                "comments": "2,260",
+                "content creator": "CNBC",
+                "date": "Sep 12, 2020",
+                "description": "Costco makes billions doing what in retail might once have been thought unthinkable: charge people to shop there. The company draws most of its income from membership fees, and has a nearly 90 percent membership renewal rate. It charges very low prices on goods, rotates its inventory, and pays employees better than the retail average. But how long can it last?\n\n\u00bb Subscribe to CNBC: ",
+                "dislikes": "625 dislikes",
+                "id": "dzejHGniMTQ",
+                "likes": "18,150 likes",
+                "tags": "CNBC, business news, finance stock, stock market, news channel, news station, breaking news, us news, world news, cable, cable news, finance news, money, money tips, financial news, Stock market news, stocks, costco hours, costco near me, costco gas, costco travel, costco card, michelle obama ellen costco, how costco gets you to spend, is costco membership worth it, costco membership, mistakes shopping at costco, secrets about costco food court, costco hacks",
+                "title": "How Costco Became A Massive \"Members Only\" Retailer",
+                "url": "https://www.youtube.com/watch?v=dzejHGniMTQ",
+                "video_length": 1321.981,
+                "views": "2,871,642 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=xi6r3hZe5Tg",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=i3if93-5DFY",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=XUwLAvfBCzw",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=SGJ5cZnoodY",
+              "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities",
+              "video": {
+                "ad": null,
+                "comments": "6,917",
+                "content creator": "WIRED UK",
+                "date": "Jul 5, 2016",
+                "description": "Future Cities, a full-length documentary strand from WIRED Video, takes us inside the bustling Chinese city of Shenzhen. \nSubscribe to WIRED\u25ba\u25ba http://po.st/SubscribeWired",
+                "dislikes": "5,811 dislikes",
+                "id": "SGJ5cZnoodY",
+                "likes": "88,441 likes",
+                "tags": "Shenzhen, china, china shenzhen, shenzhen city, shenzen, shenzhen 2011, the future, hardware, prototype, shanzhai, copycat, bootleg, startup, hardware prototype, Future Cities, documentary, silicon valley of hardware, evolution, technology, Wired uk, wired, wired magazine, wired video, David Rowan, pop culture, science, politics, business, conde nast, health, topics, news, gadgets",
+                "title": "Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities",
+                "url": "https://www.youtube.com/watch?v=SGJ5cZnoodY",
+                "video_length": 4071,
+                "views": "13,041,732 views"
+              }
+            }
+          ],
           "id": "https://www.youtube.com/watch?v=Ez90rXhMWjE",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PEPyE2h6P4k",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dp8PhLsUcFE",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MogExZ9NBVI",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=az6NibAUf7Y",
-          "title": null,
-          "video": null
+          "title": "What\u2019s Driving California\u2019s Mass Exodus?",
+          "video": {
+            "ad": null,
+            "comments": "54,151",
+            "content creator": "CNBC",
+            "date": "Jan 23, 2021",
+            "description": "As Oracle, Palantir and Hewlett-Packard Enterprise move their headquarters out of California and Elon Musk moves to Texas, California is considering raising taxes on the wealthy to unprecedented levels. Experts say California needs to find more ways to reverse the trend.\n\n\u00bb Subscribe to CNBC: ",
+            "dislikes": "9,065 dislikes",
+            "id": "Ez90rXhMWjE",
+            "likes": "102,771 likes",
+            "tags": "CNBC, business, news, finance stock, stock market, news channel, news station, breaking news, us news, world news, cable, cable news, finance news, money, money tips, financial news, Stock market news, stocks, Austin tech city, Tesla austin, apple austin, oracle austin, Elon Musk austin, california silicon valley, is texas the new austin, Austin tech companies, Joe Rogan texas, Austin silicon valley, rise and fall of California, california wealth tax",
+            "title": "What\u2019s Driving California\u2019s Mass Exodus?",
+            "url": "https://www.youtube.com/watch?v=Ez90rXhMWjE",
+            "video_length": 1148.961,
+            "views": "8,340,305 views"
+          }
         }
       ],
       "id": "https://www.youtube.com/watch?v=Bmsz3Jn8z2Q",
@@ -102,52 +1636,446 @@
         "content creator": "Bloomberg Quicktake",
         "date": "Jun 10, 2021",
         "description": "The sudden cancellation of Ant Group\u2019s IPO shocked investors, but Beijing's slapdown of Jack Ma was years in the making. And Alibaba and Ant aren't the only tech firms under scrutiny by Chinese regulators.\n\nSign up for our weekly dispatches from Beijing in the Next China newsletter: ",
-        "dislikes": "1,531 dislikes",
+        "dislikes": "1,533 dislikes",
         "id": "Bmsz3Jn8z2Q",
-        "likes": "34,727 likes",
+        "likes": "34,730 likes",
         "tags": "News, bloomberg, quicktake, business, bloomberg quicktake, quicktake originals, bloomberg\nquicktake by bloomberg, documentary, mini documentary, mini doc, doc, us news, world news, finance, science, China+, Asia, alibaba, alipay",
         "title": "How China Lost Patience with Its Loudest Billionaire",
         "url": "https://www.youtube.com/watch?v=Bmsz3Jn8z2Q",
         "video_length": 948.961,
-        "views": "2,296,411 views"
+        "views": "2,296,651 views"
       }
     },
     {
       "children": [
         {
-          "id": "https://www.youtube.com/watch?v=kW97CjpmrXw",
-          "title": null,
-          "video": null
-        },
-        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=IBqeC8ihsO8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=pni_kDv9BsU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7m4L2rfqmIg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=EhmzpMP3bEE",
+                  "title": "What North Koreans Think Of South Korea | STAY CURIOUS #2",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,113",
+                    "content creator": "Asian Boss",
+                    "date": "Jan 12, 2017",
+                    "description": "We'd like to thanks these two for sharing their powerful stories. As we said in the video, please do whatever you can to raise awareness.\n\nYou can watch part 1 of the interview here: ",
+                    "dislikes": "1,436 dislikes",
+                    "id": "EhmzpMP3bEE",
+                    "likes": "123,131 likes",
+                    "tags": "North Korea, South Korea, Donald Trump, Obama, kpop, What North koreans think of North Korea, Kim Jong Un, Life in North Korea, Asian Boss, korean girls try, korean girls try american BBQ, korean girls tastes, korean girls try pizza, koreans try southern BBQ, \ubbf8\uad6d\uc2dd \ubc14\ubca0\ud050, brisket, pulled pork, koreans react, bbq sauce, digitalsoju, Koreans try mexican food, american BBQ, north koreans try american bbq, digitalsojutv",
+                    "title": "What North Koreans Think Of South Korea | STAY CURIOUS #2",
+                    "url": "https://www.youtube.com/watch?v=EhmzpMP3bEE",
+                    "video_length": 1302.121,
+                    "views": "3,975,816 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ZVlZMOB-Sq0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kFDShNH_Kfs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=nIxCEQ97vzc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=GofREVeNbcw",
+                  "title": "Meet me on the bridge: Discovering the truth about my parents after 20 years (FULL FILM) BBC Stories",
+                  "video": {
+                    "ad": null,
+                    "comments": "14,035",
+                    "content creator": "BBC Stories",
+                    "date": "Dec 8, 2017",
+                    "description": "When Kati Pohler was three days old she was left at a market in China. She was later adopted by an American family. \nWhen she was 20, Kati discovered her birth parents had left her a note, and that every year on the same day, they waited for her on a famous bridge in Hangzhou. \n \nFilmed and directed by Changfu Chang.",
+                    "dislikes": "2,415 dislikes",
+                    "id": "GofREVeNbcw",
+                    "likes": "112,690 likes",
+                    "tags": "bbc stories meet me on the bridge, kati pohler now, kati pohler michigan, meet me on the bridge china, kati pohler story, kati pohler adopted, Kati Pohler, biological parents meeting, Meet me on the bridge, biological parents reunion, china adoption, adopted kids meet real parents, biological parents, biological parents search, bbc stories, bbc documentary, adopted, adoption story, adoption, documentary, bbc news, Hangzhou, china, chinese, Xu Lida",
+                    "title": "Meet me on the bridge: Discovering the truth about my parents after 20 years (FULL FILM) BBC Stories",
+                    "url": "https://www.youtube.com/watch?v=GofREVeNbcw",
+                    "video_length": 1536.821,
+                    "views": "7,046,565 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ZL-6MeYBeUs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=arj7oStGLkU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=y-3Pw0V-iUE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=nLeeTVmVrtA",
+                  "title": "The family I lost in North Korea. And the family I gained | Joseph Kim",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,323",
+                    "content creator": "TED",
+                    "date": "Jun 19, 2013",
+                    "description": "A refugee now living in the US, Joseph Kim tells the story of his life in North Korea during the famine years. He's begun to create a new life -- but he still searches for the family he lost.\n\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and much more.\nFind closed captions and translated subtitles in many languages at ",
+                    "dislikes": "321 dislikes",
+                    "id": "nLeeTVmVrtA",
+                    "likes": "45,973 likes",
+                    "tags": "TEDTalk, TEDTalks, TED Talk, TED Talks, TED, TEDGlobal, \\Joseph Kim\\, \\global issues\\, politics",
+                    "title": "The family I lost in North Korea. And the family I gained | Joseph Kim",
+                    "url": "https://www.youtube.com/watch?v=nLeeTVmVrtA",
+                    "video_length": 831.801,
+                    "views": "1,499,678 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=kW97CjpmrXw",
+              "title": "Escaping from North Korea Three Times: Kim Pil-Ju's Story | STAY CURIOUS #6",
+              "video": {
+                "ad": null,
+                "comments": "3,924",
+                "content creator": "Asian Boss",
+                "date": "Aug 21, 2017",
+                "description": "Special thanks to Pil-Ju  for sharing his incredible story.\n\nReach out to Steve (presenter) on Instagram \u25ba https://www.instagram.com/theasianboss",
+                "dislikes": "609 dislikes",
+                "id": "kW97CjpmrXw",
+                "likes": "73,383 likes",
+                "tags": "North korean defectors, north korea, Kim Jong un, escaping from North Korea, Yeonmi Park, My escape from North Korea, The reality of North Korean education system, Being a woman in North Korea, What North Koreans think of North Korea, What north Koreans think of south korea, What North Koreans think of America, Donald Trump, What South koreans think of America",
+                "title": "Escaping from North Korea Three Times: Kim Pil-Ju's Story | STAY CURIOUS #6",
+                "url": "https://www.youtube.com/watch?v=kW97CjpmrXw",
+                "video_length": 1301.981,
+                "views": "2,134,544 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=QmvhhSIdAEM",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Aoq5wDLbIqE",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=lvsqpwI_IfU",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=4Auhr0ujWdw",
+              "title": "Going Undercover in North Korea: Meet Journalist and Author Suki Kim",
+              "video": {
+                "ad": null,
+                "comments": "551",
+                "content creator": "IVY",
+                "date": "Dec 16, 2016",
+                "description": "Journalist and award-winning author Suki Kim did the unimaginable\u2014she worked undercover in North Korea to learn first-hand about life in one of the most famously elusive and tragic parts of the world. She shared her story and insights with IVY members at a special IVY Ideas Night. Learn more by reading her celebrated book, Without You There is No Us. \n\nIVY is the world's first Social University. To learn more, please visit www.ivy.com.",
+                "dislikes": "215 dislikes",
+                "id": "4Auhr0ujWdw",
+                "likes": "3,194 likes",
+                "tags": "Kim Jong-Un, North Korea, Suki Kim, South Korea, DMZ, Korean Demilitarized Zone, North Korea Trump, North Korea Update, Undercover in North Korea, The Interpreter, Without You there is no us: Undercover among the sons of north korea's elite",
+                "title": "Going Undercover in North Korea: Meet Journalist and Author Suki Kim",
+                "url": "https://www.youtube.com/watch?v=4Auhr0ujWdw",
+                "video_length": 4400.301,
+                "views": "246,683 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=wfLseB1vkt8",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=IBqeC8ihsO8",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=YVbfY0Qcpos",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=t9rLqYXTaFI",
+              "title": "We Interviewed A Former Elite North Korean Spy | Stay Curious #36",
+              "video": {
+                "ad": null,
+                "comments": "4,028",
+                "content creator": "Asian Boss",
+                "date": "Jun 15, 2021",
+                "description": "Chul-eun Lee is a former high-ranking North Korean government official who defected to South Korea in 2016. He swam 6km from North to South Korea and started a new life. We asked him about his journey, his former job with the North Korean government, and the differences he sees between North and South Korea. \n\nSpecial thanks to Chul-eun Lee for taking the time to share his story with the world.\n\nIf you're fluent in Korean and English and want to help him with English subtitles, feel free to reach out to him here: lgh871111@gmail.com\n\nFollow us on social media:\nInstagram \u25ba ",
+                "dislikes": "525 dislikes",
+                "id": "t9rLqYXTaFI",
+                "likes": "42,879 likes",
+                "tags": "Asian Boss, Asia, Stay Curious, north korea, spy, south korea, defector, north korean defector, insight, story, personal story",
+                "title": "We Interviewed A Former Elite North Korean Spy | Stay Curious #36",
+                "url": "https://www.youtube.com/watch?v=t9rLqYXTaFI",
+                "video_length": 2419.941,
+                "views": "890,705 views"
+              }
+            }
+          ],
           "id": "https://www.youtube.com/watch?v=YXo-Vov_98Y",
-          "title": null,
-          "video": null
+          "title": "What North Koreans Think of America [Full] | STAY CURIOUS #3",
+          "video": {
+            "ad": null,
+            "comments": "17,607",
+            "content creator": "Asian Boss",
+            "date": "May 24, 2017",
+            "description": "In this extended cut, North Koreans share their honest thoughts on America and Americans. \n\nPil-Ju (striped shirt) is working for an non-profit organization that helps bring North Koreans stuck in China to South Korea and provide them with resources to assimilate into South Korean society. If you are interested, visit: ",
+            "dislikes": "2,902 dislikes",
+            "id": "YXo-Vov_98Y",
+            "likes": "105,806 likes",
+            "tags": "North Korea, Kim Jong Un, Donald Trump, Nuclear weapons, South Korea, kpop, Kdrama, What koreans think of America, What south Koreans think of America, What black people think of Korea, Real news from Asia, CNN, BBC, Asian Boss, Asian Boss news, What Chinese think of North Korea, What north Koreans think of Donald Trump, What south koreans think of Donald Trump, What Indians think of Snapchat, North Korean tensions, Being a woman in North Korea",
+            "title": "What North Koreans Think of America [Full] | STAY CURIOUS #3",
+            "url": "https://www.youtube.com/watch?v=YXo-Vov_98Y",
+            "video_length": 1938.061,
+            "views": "5,186,756 views"
+          }
         },
         {
-          "id": "https://www.youtube.com/watch?v=-rZkdPXP6H4",
-          "title": null,
-          "video": null
+          "children": [
+            {
+              "id": "https://www.youtube.com/watch?v=EhmzpMP3bEE",
+              "title": "What North Koreans Think Of South Korea | STAY CURIOUS #2",
+              "video": {
+                "ad": null,
+                "comments": "8,113",
+                "content creator": "Asian Boss",
+                "date": "Jan 12, 2017",
+                "description": "We'd like to thanks these two for sharing their powerful stories. As we said in the video, please do whatever you can to raise awareness.\n\nYou can watch part 1 of the interview here: ",
+                "dislikes": "1,436 dislikes",
+                "id": "EhmzpMP3bEE",
+                "likes": "123,131 likes",
+                "tags": "North Korea, South Korea, Donald Trump, Obama, kpop, What North koreans think of North Korea, Kim Jong Un, Life in North Korea, Asian Boss, korean girls try, korean girls try american BBQ, korean girls tastes, korean girls try pizza, koreans try southern BBQ, \ubbf8\uad6d\uc2dd \ubc14\ubca0\ud050, brisket, pulled pork, koreans react, bbq sauce, digitalsoju, Koreans try mexican food, american BBQ, north koreans try american bbq, digitalsojutv",
+                "title": "What North Koreans Think Of South Korea | STAY CURIOUS #2",
+                "url": "https://www.youtube.com/watch?v=EhmzpMP3bEE",
+                "video_length": 1302.121,
+                "views": "3,975,816 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+              "title": "Germany: The discreet lives of the super rich | DW Documentary",
+              "video": {
+                "ad": null,
+                "comments": "10,197",
+                "content creator": "DW Documentary",
+                "date": "Jun 9, 2019",
+                "description": "The rich in Germany been never been as well-off as they are today and assets have never been so unevenly distributed. But who are they? How do they live? And what do they think of their country? A journey into the discreet world of the super-rich.\n\nOne percent of Germans own over a quarter of the country's assets, whilst half of the country\u2019s citizens have no assets at all. But while the German media report on the growing poverty in the country on a daily basis, little is known about the super-rich. They keep a very low profile and can walk the streets unrecognized. \"Manager Magazin\u201d says there were around 200 billionaires living in Germany in 2018, and their numbers are increasing. The documentary \"Top of the World\" asks why rich Germans are so unwilling to talk about their wealth. Its author immerses himself in the discreet world of big money and meets financial advisors with 800 years of family tradition behind them and billionaires such as drugstore king Dirk Rossmann and mail-order company heir Michael Otto -  as well as a self-made businessmen such as Rainer Schaller. They talk about their notions of money and justice, the origins of their wealth and their fear of social envy.\n\n\n--------------------------------------------------------------------\n\nDW Documentary gives you knowledge beyond the headlines. Watch high-class documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary.\n\nSubscribe to DW Documentary:",
+                "dislikes": "3,594 dislikes",
+                "id": "NXaVLXSZdEw",
+                "likes": "64,272 likes",
+                "tags": "Documentary, Germany, assets, wealth, poverty, multimillionaires, money, justice, social envy, film, super-rich, rich, discrete lives, Berlin, work, multi millionaires, entrepreneur, DW, DW Documentary, Deutsche Welle, envy, Greed, inequality, income inequality, economic inequality",
+                "title": "Germany: The discreet lives of the super rich | DW Documentary",
+                "url": "https://www.youtube.com/watch?v=NXaVLXSZdEw",
+                "video_length": 2545.701,
+                "views": "8,542,039 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=GofREVeNbcw",
+              "title": "Meet me on the bridge: Discovering the truth about my parents after 20 years (FULL FILM) BBC Stories",
+              "video": {
+                "ad": null,
+                "comments": "14,035",
+                "content creator": "BBC Stories",
+                "date": "Dec 8, 2017",
+                "description": "When Kati Pohler was three days old she was left at a market in China. She was later adopted by an American family. \nWhen she was 20, Kati discovered her birth parents had left her a note, and that every year on the same day, they waited for her on a famous bridge in Hangzhou. \n \nFilmed and directed by Changfu Chang.",
+                "dislikes": "2,415 dislikes",
+                "id": "GofREVeNbcw",
+                "likes": "112,690 likes",
+                "tags": "bbc stories meet me on the bridge, kati pohler now, kati pohler michigan, meet me on the bridge china, kati pohler story, kati pohler adopted, Kati Pohler, biological parents meeting, Meet me on the bridge, biological parents reunion, china adoption, adopted kids meet real parents, biological parents, biological parents search, bbc stories, bbc documentary, adopted, adoption story, adoption, documentary, bbc news, Hangzhou, china, chinese, Xu Lida",
+                "title": "Meet me on the bridge: Discovering the truth about my parents after 20 years (FULL FILM) BBC Stories",
+                "url": "https://www.youtube.com/watch?v=GofREVeNbcw",
+                "video_length": 1536.821,
+                "views": "7,046,565 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=kW97CjpmrXw",
+          "title": "Escaping from North Korea Three Times: Kim Pil-Ju's Story | STAY CURIOUS #6",
+          "video": {
+            "ad": null,
+            "comments": "3,924",
+            "content creator": "Asian Boss",
+            "date": "Aug 21, 2017",
+            "description": "Special thanks to Pil-Ju  for sharing his incredible story.\n\nReach out to Steve (presenter) on Instagram \u25ba https://www.instagram.com/theasianboss",
+            "dislikes": "609 dislikes",
+            "id": "kW97CjpmrXw",
+            "likes": "73,383 likes",
+            "tags": "North korean defectors, north korea, Kim Jong un, escaping from North Korea, Yeonmi Park, My escape from North Korea, The reality of North Korean education system, Being a woman in North Korea, What North Koreans think of North Korea, What north Koreans think of south korea, What North Koreans think of America, Donald Trump, What South koreans think of America",
+            "title": "Escaping from North Korea Three Times: Kim Pil-Ju's Story | STAY CURIOUS #6",
+            "url": "https://www.youtube.com/watch?v=kW97CjpmrXw",
+            "video_length": 1301.981,
+            "views": "2,134,544 views"
+          }
         },
         {
-          "id": "https://www.youtube.com/watch?v=EhmzpMP3bEE",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PEPyE2h6P4k",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=89oJojtDVJk",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IBqeC8ihsO8",
-          "title": null,
-          "video": null
+          "children": [
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=kng_XD8qbwo",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=e_TxH59MclA",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=AyIOZSR08zQ",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=t3rKrTehORY",
+              "title": "Day in the Life of a Japanese Manga Creator",
+              "video": {
+                "ad": null,
+                "comments": "24,176",
+                "content creator": "Paolo fromTOKYO",
+                "date": "Nov 16, 2019",
+                "description": "Mangaka day in the life in Japan also known as a Manga artist and manga creator.  This documentary style video show the life of Mangaka from morning until the evening at the mangaka workplace, home and general mangaka working schedule.  Working in Japan and Tokyo life is unique in itself, but even more unique for a Manga artist creating manga in Tokyo Japan.  Mangaka illustrate manga commonly known as comic book.  Maybe in Western societies, Mangaka are referred to as cartoonist or comic book illustrators.  Manga creators in Japan with rensai status work with publishers to produce weekly manga. This Manga artist day in the life follows Reiji Miyajima \u5bae\u5cf6\u793c\u540f , who lives in Tokyo Japan and creates the manga Kanajo okarishimasu \u5f7c\u5973\u304a\u501f\u308a\u3057\u307e\u3059 which translates to Rent a Girlfriend.  Mangaka working in Japan often work in their home and set aside office space for them and their assistants.  In fact, we also get a look into Mangaka Assistant life as well as how manga is created.  Many Manga Creators work on serial comic books with weekly deadlines, meaning that each day of the work week in Japan is different as the manga creation process has to produce 1 new manga per week.  Manga artist must not only know how to draw and create manga, but they also must know how to manage manga assistants.  We even touch on Mangaka salary for first time manga creators.  An inside look on how manga and comic books are made in Japan.  \n\nWatch more Japan Day in the Life Series (Playlist):\n- ",
+                "dislikes": "3,746 dislikes",
+                "id": "t3rKrTehORY",
+                "likes": "454,506 likes",
+                "tags": "Paolo, \u6f2b\u753b\u5bb6, \u6f2b\u753b\u5bb6\u306e1\u65e5, manga, mangaka, cartoon, cartoonist, manga creator, anime, animator, illustrator, day in the life, day in the life japan, day in the life manga, day in the life mangaka, mangaka day in the life, tokyo, japan, life in tokyo, life in japan, manga artist, manga artist in japan, comic artist, comic book, interview, mangaka interview, mangaka documentary, working in japan, Rent a girlfriend, miyajiima reiji, mangaka workplace, mangaka work schedule, mangaka working, comic",
+                "title": "Day in the Life of a Japanese Manga Creator",
+                "url": "https://www.youtube.com/watch?v=t3rKrTehORY",
+                "video_length": 908.381,
+                "views": "9,868,804 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=gjCzavpZoZI",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=D8A_Hu_WqeQ",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=HObPSeLxmu0",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=qZsdm0RZ18k",
+              "title": "Day in the Life of a Japanese Hotel Worker",
+              "video": {
+                "ad": null,
+                "comments": "5,618",
+                "content creator": "Paolo fromTOKYO",
+                "date": "Apr 10, 2021",
+                "description": "A Day in the life of a Japanese Hotel Worker in Tokyo.  This is working life in Japan if you were to work in the hotel industry.   In Japan, there\u2019s a unique hospitality custom called OMOTENASHI. Directly translated, Omote meaning public face and nashi meaning nothing, combined it means services are always completely genuine and honest.  Because it\u2019s so deeply rooted in Japanese culture, the staff make extra efforts to provide guests with the best experience possible without expecting anything in return.  We follow Yohei's work day in Tokyo from morning until evening .Yohei works as the assistant manager at APA hotel Shinjuku Gyoenmae.  APA is one of the largest hotel chains in japan.  APA hotel uniquely identify as a New Urban style hotel high Quality, High Functionally without all the unnecessary services providing all guests with a good night\u2019s sleep, often mistaken as a Japanese business hotel, which are typically budget style hotels close to the train station, originally intended for Japanese salarymen traveling between cities for business.  Often the rooms are smaller with bare amenities, single bed, desk, tv, refrigerator, unit bath and toilet.  In Japan, tipping is not customary and in some ways can be awkward as it\u2019s unexpected.  It\u2019s ingrained in Japanese culture to take pride in your work no matter at what level, so receiving a tip as an incentive to delivery the best service is viewed as unnecessary, all tying back to Omotenashi.\n\nThe APA Hotel where I filmed (Shinjuku-Gyoenmae)\n- ",
+                "dislikes": "828 dislikes",
+                "id": "qZsdm0RZ18k",
+                "likes": "84,219 likes",
+                "tags": "Paolo, Japan, Japan guide, Japan travel, tokyo, day in the life, life in tokyo, day in te life japan, day in the life hotel worker, hotel worker, hotel worker in japan, japanese hotel worker, hotel worker life, hotel receptionist, hotel in tokyo, hotels in japan, japanese hotel, japan hotel, tokyo hotel, apa hotel, apa hotel tokyo, working hours in japan, japanese work culture, japan work culture, working in japan, japan life, japanse business hotel, salaryman, omotenashi",
+                "title": "Day in the Life of a Japanese Hotel Worker",
+                "url": "https://www.youtube.com/watch?v=qZsdm0RZ18k",
+                "video_length": 855.241,
+                "views": "2,270,551 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/watch?v=KbUTEhoaOKU",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=wfLseB1vkt8",
+                  "title": null,
+                  "video": null
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=I1vp-0Itz0k",
+                  "title": null,
+                  "video": null
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=t9rLqYXTaFI",
+              "title": "We Interviewed A Former Elite North Korean Spy | Stay Curious #36",
+              "video": {
+                "ad": null,
+                "comments": "4,028",
+                "content creator": "Asian Boss",
+                "date": "Jun 15, 2021",
+                "description": "Chul-eun Lee is a former high-ranking North Korean government official who defected to South Korea in 2016. He swam 6km from North to South Korea and started a new life. We asked him about his journey, his former job with the North Korean government, and the differences he sees between North and South Korea. \n\nSpecial thanks to Chul-eun Lee for taking the time to share his story with the world.\n\nIf you're fluent in Korean and English and want to help him with English subtitles, feel free to reach out to him here: lgh871111@gmail.com\n\nFollow us on social media:\nInstagram \u25ba ",
+                "dislikes": "525 dislikes",
+                "id": "t9rLqYXTaFI",
+                "likes": "42,879 likes",
+                "tags": "Asian Boss, Asia, Stay Curious, north korea, spy, south korea, defector, north korean defector, insight, story, personal story",
+                "title": "We Interviewed A Former Elite North Korean Spy | Stay Curious #36",
+                "url": "https://www.youtube.com/watch?v=t9rLqYXTaFI",
+                "video_length": 2419.941,
+                "views": "890,705 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=UzJNEcoCT-o",
+          "title": "Day in the Life of a Japanese Anime Figure Sculptor",
+          "video": {
+            "ad": null,
+            "comments": "6,784",
+            "content creator": "Paolo fromTOKYO",
+            "date": "Jun 19, 2021",
+            "description": "A Day in the Life of a Japanese Manga and Anime Figure Sculptor at Good Smile Company located in Akihabara Tokyo.  This is a typical Japanese working day at the office at one of the top figure production companies in Japan.  Creating all sorts of popular figures like Jujutsu Kaisen, and even Kimetsu no Yaiba! We follow Sho from morning until evening to see what a complete day would be like working at a Japanese figure making company.  Sho works in Japan as a Genkeishi, also known as a Figure Sculptor.  Sho sculpts his anime figure prototypes by hand using Nendo, in English putty or clay, in his case, a polyester putty.  And for his main tools, uses a toothpick to add putty and a sharp q tip to smooth out the surface. Today, he is working on a Nedoroido ( Nendoroid ) style figure.  We also meet and talk to some of the other office workers in the Japanese company and give a full office tour.  This is life in Tokyo for a Japanese anime and manga figure sculptor.  \n\nGood Smile Company\nMain Site - ",
+            "dislikes": "680 dislikes",
+            "id": "UzJNEcoCT-o",
+            "likes": "98,839 likes",
+            "tags": "Paolo, Japan, tokyo, a day in the life, working in japan, day in the life, life in tokyo, life in japan, day in the life japan, anime, manga, figure sculpting, figure sculpture, japanese figure, manga figure, anime figure, good smile company, japanese figure sculptor, anime figure artist, anime figure creator, akihabara, figure maker, anime creator, japan life, Japan working hours, typical japanese work day, figurine, office tour, figure production, nendoroido, nendoroid",
+            "title": "Day in the Life of a Japanese Anime Figure Sculptor",
+            "url": "https://www.youtube.com/watch?v=UzJNEcoCT-o",
+            "video_length": 944.441,
+            "views": "1,637,771 views"
+          }
         }
       ],
       "id": "https://www.youtube.com/watch?v=t9rLqYXTaFI",
@@ -158,103 +2086,32 @@
         "content creator": "Asian Boss",
         "date": "Jun 15, 2021",
         "description": "Chul-eun Lee is a former high-ranking North Korean government official who defected to South Korea in 2016. He swam 6km from North to South Korea and started a new life. We asked him about his journey, his former job with the North Korean government, and the differences he sees between North and South Korea. \n\nSpecial thanks to Chul-eun Lee for taking the time to share his story with the world.\n\nIf you're fluent in Korean and English and want to help him with English subtitles, feel free to reach out to him here: lgh871111@gmail.com\n\nFollow us on social media:\nInstagram \u25ba ",
-        "dislikes": "524 dislikes",
+        "dislikes": "525 dislikes",
         "id": "t9rLqYXTaFI",
-        "likes": "42,863 likes",
+        "likes": "42,879 likes",
         "tags": "Asian Boss, Asia, Stay Curious, north korea, spy, south korea, defector, north korean defector, insight, story, personal story",
         "title": "We Interviewed A Former Elite North Korean Spy | Stay Curious #36",
         "url": "https://www.youtube.com/watch?v=t9rLqYXTaFI",
         "video_length": 2419.941,
-        "views": "890,431 views"
+        "views": "890,680 views"
       }
-    },
-    {
-      "children": [
-        {
-          "id": "https://www.youtube.com/watch?v=LP8uovEwgR4",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tUr-CTU59N4",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oIF-ujSeQho",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eR8xIqRo34s",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=18sFDQsxVOQ",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N8ZuKdnuW5A",
-          "title": null,
-          "video": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XWq5kBlakcQ",
-          "title": null,
-          "video": null
-        }
-      ],
-      "id": "https://www.youtube.com/watch?v=FPiTda2hAHE",
-      "title": "One Country, Two Systems: Hong Kong's Future Under Communist China | CNA Correspondent | Communism",
-      "video": {
-        "ad": null,
-        "comments": "639",
-        "content creator": "CNA Insider",
-        "date": "Jun 23, 2021",
-        "description": "From rising inequality to a worsening political divide, Hong Kong faces a slew of problems with no easy solutions. For now, Beijing's heavy-handed approach has given the city room to breathe, think and reconsider its approach, after violent protests in 2019. But because the city also serves as an important conduit for China businesses, some analysts worry about its uniqueness compared to other mainland cities as it becomes more integrated into China. \n\nThis week on CNA Correspondent, we find out if Hong Kong will become just another Chinese city, as Beijing's political and economic influence grows in the coming years.\n\nMore from CNA Correspondent: ",
-        "dislikes": "52 dislikes",
-        "id": "FPiTda2hAHE",
-        "likes": "319 likes",
-        "tags": "CNA, CNA Insider, Channel NewsAsia, People stories, Asian perspectives, inhouse, full episode, Asia, China, hosted, CNA Correspondent, Asia news, Hong Kong, Beijing, communism, communist, democracy, politics, ideology, Chinese Communist Party, freedom, inequality, poverty, elections, Greater Bay Area, CCP",
-        "title": "One Country, Two Systems: Hong Kong's Future Under Communist China | CNA Correspondent | Communism",
-        "url": "https://www.youtube.com/watch?v=FPiTda2hAHE",
-        "video_length": 1337.061,
-        "views": "33,078 views"
-      }
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=NTpQNNjTBO8",
-      "title": null,
-      "video": null
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=XSPFcztxni8",
-      "title": null,
-      "video": null
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=LnJwH_PZXnM",
-      "title": null,
-      "video": null
     }
   ],
   "id": "https://www.youtube.com/watch?v=sf-qyxEIuHI",
   "title": "Hong Kong billionaire's last interview as a free man - BBC News",
   "video": {
     "ad": true,
-    "comments": "6,207",
+    "comments": "6,210",
     "content creator": "BBC News",
     "date": "Premiered Apr 16, 2021",
     "description": "Jimmy Lai is the billionaire owner of Hong Kong\u2019s last opposition newspaper, Apple Daily, and an outspoken critic of Beijing.\n\nOn Friday he was sentenced to 14 months in prison for unauthorised assembly - for participating in two protests in 2019.\n\nMr Lai is one of the most high profile people to be arrested under Hong Kong's new national security law, as China tightens its grip on the city.\n\nthe BBC\u2019s Danny Vincent interviewed the man prepared to risk it all by speaking out.\n\n\n\n\nPlease subscribe HERE ",
     "dislikes": "1,591 dislikes",
     "id": "sf-qyxEIuHI",
-    "likes": "15,580 likes",
+    "likes": "15,582 likes",
     "tags": "bbc, bbc news, news",
     "title": "Hong Kong billionaire's last interview as a free man - BBC News",
     "url": "https://www.youtube.com/watch?v=sf-qyxEIuHI",
     "video_length": 696.321,
-    "views": "561,705 views"
+    "views": "561,755 views"
   }
 }
