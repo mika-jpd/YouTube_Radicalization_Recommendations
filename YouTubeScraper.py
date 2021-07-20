@@ -5,14 +5,14 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, ElementNotInteractableException
+from selenium.webdriver.common.action_chains import ActionChains
 import time
-import Video
 from requests_html import HTMLSession
+from requests_html import AsyncHTMLSession
 from bs4 import BeautifulSoup as bs
 #from treelib import Node, Tree
 from anytree import Node, AnyNode, NodeMixin,RenderTree, AbstractStyle, ContStyle
 from anytree.exporter import JsonExporter
-from YTQueue import YTQueue, Node
 from collections import deque
 import asyncio
 
@@ -45,9 +45,21 @@ class YouTubeScraper:
     def control(self):
         pass
 
-
 ###### Video Processing #################
-    def video_processing(self, url, main_tab, current_tab) -> object:
+    async def videos_handling(self, url_list:list, main_tab:str, results:list):
+        main_tab = main_tab
+        tasks = []
+
+        for url, i in zip(url_list, list(range(0, len(url_list)))):
+            #open new tab and pass it for new video to watch
+            self.driver.execute_script("window.open('');")
+            new_tab = self.driver.window_handles.pop()
+
+            tasks.append(self.video_processing(url=url, main_tab=main_tab, current_tab=new_tab, res=results, index=i))
+        await asyncio.gather(*tasks)
+
+    #here you watch a single video at a time
+    async def video_processing(self, url:str, main_tab:str, current_tab:str, res:list, index:int):
 
         self.driver.switch_to.window(current_tab)
         self.driver.get(url)
@@ -77,24 +89,25 @@ class YouTubeScraper:
         if (ad == None):
             self.start_video()
 
-        # extract the video length with the JavaScript code
-        # use JavaScript since the element isn't always visible
-        length = self.get_length()
-
-        #watch the video for a little, simulate a person
-        self.wait_seconds(length)
-
-        #collect the features
-        video = self.collect_data(url=url, length=length, ads=ad)
-
-        #get the recommended videos
+        # get the recommended videos
         recommended = self.get_video_recommendations()
+
+        # collect the features
+        # (potentially) make this a asyncio.create_task(collect_data)
+        # asyncio.create_task(self.collect_data(url=url, length=length, ads=ad, video=video))
+        video = self.collect_data(url=url, ads=ad)
+
+        # watch the video for a little, simulate a person
+        try:
+            await asyncio.sleep(min(video['video_length'], self.max_wait))
+        except:
+            video['video_length'] = 'Not watched'
 
         self.driver.switch_to.window(current_tab)
         self.driver.close()
         self.driver.switch_to.window(main_tab)
 
-        return video, recommended
+        res[index] = (video, recommended)
 
     def start_video(self):
         #click on the button to start if
@@ -126,64 +139,51 @@ class YouTubeScraper:
         except TimeoutException:
             pass
 
-    # wait minutes to simulate watching a video, length is the video's length
-    def wait_seconds(self, length):
-        if (length < self.max_wait):
-            #WebDriverWait(driver=self.driver, timeout=length)
-            time.sleep(length)
-        else:
-            #WebDriverWait(driver=self.driver, timeout=self.max_wait)
-            time.sleep(self.max_wait)
-
     def get_length(self):
         return self.driver.execute_script("return document.getElementById('movie_player').getDuration()")
 
-    def collect_data(self, url, length, ads):
+    def collect_data(self, url:str, ads:bool):
         #time.sleep(1)
-        self.driver.execute_script('window.scrollTo(0, 540)')
+        #here add a proper wait (wait for something to show up)
         #time.sleep(2)
 
-        start = time.perf_counter()
+        #start = time.perf_counter()
         #prepare beautiful soup for webpage extraction
-        session = HTMLSession()
-        response = session.get(url)
+        #session = HTMLSession()
+        #session = AsyncHTMLSession()
+        #response = session.get(url)
+        #response = await session.get(url)
         # execute Javascript
-        response.html.render(timeout=30)
-        # create beautiful soup object to parse HTML
-        soup = bs(response.html.html, "html.parser")
-        end =  time.perf_counter()
-        print(f'Time Beuatiful Soup: {end - start:0.4f} second')
+        #response.html.render(timeout=30)
+        # await response.html.arender()
+        #response.html.arender()
 
+        # create beautiful soup object to parse HTML
+        #soup = bs(response.html.html, "html.parser")
+        #end =  time.perf_counter()
+        #print(f'Time Beuatiful Soup: {end - start:0.4f} second')
+        length = self.get_duration_test()
+
+        self.driver.execute_script('window.scrollTo(0, 540)')
         #need to process all of these in video object
         title = self.get_title()
-        creator = self.get_creator(soup=soup)
-        description = self.get_description(soup=soup)
-        dates = self.get_date(soup=soup)
-        views = self.get_views(soup=soup)
+        creator = self.get_creator()
+        description = self.get_description()
+        dates = self.get_date()
+        views = self.get_views()
 
         number_comments = self.get_num_comments()
 
         url = url
         id = self.video_url_to_id(url)
 
-        likes, dislikes = self.get_likes_dislikes(soup=soup)
+        likes, dislikes = self.get_likes_dislikes()
 
-        tags = self.get_tags(soup=soup)
+        #tags = self.get_tags(soup=soup)
 
-        length = length
         ads = ads
 
-        '''
-        vid = Video.video(title=title, content_creator=creator,
-                          description=description, date=dates,
-                          views=views, comments=number_comments,
-                          likes=likes, dislikes=dislikes,
-                          transcript='the transcript', tags=tags,
-                          video_length=length, url=url,
-                          ad=ads, id=id)
-        '''
-
-        vid = {
+        video = {
             'title':title,
             'content creator':creator,
             'description':description,
@@ -192,27 +192,27 @@ class YouTubeScraper:
             'comments':number_comments,
             'likes':likes,
             'dislikes':dislikes,
-            'tags':tags,
+            #'tags':tags,
             'video_length':length,
             'url':url,
             'ad':ads,
             'id':id
         }
 
-        response.close()
-        session.close()
-        #find a way to cycle through comments
+        #response.close()
+        #await session.close()
+        #session.close()
 
-        return vid
+        return video
 
-    def get_num_comments(self):
+    def get_num_comments(self) -> str:
         try:
             #return self.get_by_xpath('//*[@id="count"]/yt-formatted-string/span[1]').text
             return self.driver.find_elements_by_xpath('//*[@id="count"]/yt-formatted-string/span[1]')[0].text
         except:
             return 'Error found'
 
-    def video_url_to_id(self, url):
+    def video_url_to_id(self, url) -> str:
         s = url.split('=')
         return s[1]
 
@@ -225,8 +225,7 @@ class YouTubeScraper:
         except:
             return 'Error found'
 
-
-    def get_likes_dislikes(self, soup):
+    def get_likes_dislikes(self) -> str:
         try:
             result = [i.get_attribute("aria-label") for i in self.driver.find_elements_by_xpath('//yt-formatted-string[@id="text"]') if i.get_attribute("aria-label") != None]
 
@@ -237,44 +236,65 @@ class YouTubeScraper:
         except:
             return 'Error found'
 
-    def get_title(self):
+    def get_title(self) -> str:
         try:
             return self.driver.find_elements_by_xpath('//*[@id="container"]/h1/yt-formatted-string')[0].text
         except:
             return 'Error found'
 
-    def get_creator(self, soup):
+    def get_creator(self) -> str:
         try:
             return self.driver.find_elements_by_xpath('//*[@id="text"]/a')[1].text
         except:
             'Error found'
 
-    def get_views(self, soup):
+    def get_views(self) -> str:
         try:
             return self.driver.find_elements_by_xpath('//*[@id="count"]/ytd-video-view-count-renderer/span[1]')[0].text
         except:
             return 'Error found'
 
-    def get_description(self, soup):
+    def get_description(self) -> str:
         try:
             #self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string/span[1]')[0].text
             return self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string')[0].text
         except:
             return 'Error found'
 
-    def get_date(self, soup):
+    def get_date(self) -> str:
         try:
             return self.driver.find_elements_by_xpath('//*[@id="info-strings"]/yt-formatted-string')[0].text
         except:
             return 'Error found'
 
-    def get_duration(self, soup):
+    def get_duration(self, soup) -> str:
         try:
             soup.find("span", {"class": "ytp-time-duration"}).text
         except:
             return 'Error found'
 
-    def get_video_recommendations(self):
+    def get_duration_test(self) -> str:
+        try:
+            #pause video so that
+            self.driver.find_elements_by_xpath('//*[@class="video-stream html5-main-video"]')[0].click()
+
+            time_element = WebDriverWait(self.driver, 3).until(EC.presence_of_element_located((By.CLASS_NAME, 'ytp-time-duration')))
+
+            duration = time_element.text
+            self.driver.find_elements_by_xpath('//*[@class="video-stream html5-main-video"]')[0].click()
+
+            #go from string to seconds
+            split = duration.split(':')
+            seconds = 0
+            for i, x in zip(list(range(0, len(split))),  list(range(len(split) -1, -1, -1))):
+                seconds = seconds + (int(split[x])) * (60 ** i)
+
+            return seconds
+        except:
+            return 'Error found'
+
+
+    def get_video_recommendations(self) -> list:
         recommended_videos = []
 
         #here the 1 is an index that you can use to cycle through recommended videos
@@ -300,63 +320,57 @@ class YouTubeScraper:
 
         main_window = self.driver.window_handles[-1]
         max_depth = False
+        videos_watched = []
         for n in range(0, 60):
-            #returns a url
-            x = queue.popleft()
-
-            handles_before = self.driver.window_handles
-            self.driver.execute_script("window.open('');")
-
-            #returns the last tab that was opened
-            new_tab = self.driver.window_handles.pop()
-
-            video, recommendations = self.video_processing(x, main_window, new_tab)
-            node = None
-
-            #find the node with the url since it is stored in the tree before it is watched
-            if(root.video==None):
-                root.video = video
-                root.title = video['title']
-                node = root
-            else:
-                for n in anytree.LevelOrderIter(root):
-                    if(len(n.children) != 0):
-                        continue
-                    else:
-                        if(n.id == video['url']):
-                            node = n
-                            node.title = video['title']
-                            node.video = video
-                        else:
+            #returns list of urls
+            tasks = []
+            for i in range(0, min(12, len(queue))):
+                tasks.append(queue.popleft())
+            results = [None for i in tasks]
+            asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
+            #video, recommendations = self.video_processing(x, main_window, new_tab)
+            for r in results:
+                videos_watched.append(r[0]['title'])
+                node = None
+                #find the node with the url since it is stored in the tree before it is watched
+                if(root.video==None):
+                    root.video = r[0]
+                    root.title = r[0]['title']
+                    node = root
+                else:
+                    for n in anytree.LevelOrderIter(root):
+                        if(len(n.children) != 0):
                             continue
+                        else:
+                            if(n.id == r[0]['url']):
+                                node = n
+                                node.title = r[0]['title']
+                                node.video = r[0]
+                            else:
+                                continue
 
-            # add all the recommended videos to the tree in url form
-            # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
-            # you still want to watch seven videos however
+                # add all the recommended videos to the tree in url form
+                # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
+                # you still want to watch seven videos however
 
-            for i in recommendations:
-                queue.append(i)
-                AnyNode(id=i, parent=node, video=None, title=None)
+                for i in r[1]:
+                    queue.append(i)
+                    AnyNode(id=i, parent=node, video=None, title=None)
         #print(RenderTree(root, style=ContStyle()))
         exporter = JsonExporter(indent=2, sort_keys=True)
         with open('Scraper_Json.txt', 'w') as outfile:
             exporter.write(root, outfile)
 
-
-def main():
-    url_seed = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
-    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
-                   category='News',
-                   seed_url=url_seed,
-                   max_wait=0,
-                   trial_id=1,
-                   num_recommendations=3)
-    scraper.test_scraper(url_seed)
-    scraper.driver.quit()
-
-if __name__ == '__main__':
-    main()
-
+#here create the object and call the central unit which launches the first video + parallele videos
+url_seed = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
+scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
+                category='News',
+                seed_url=url_seed,
+                max_wait=10,
+                trial_id=1,
+                num_recommendations=3)
+scraper.test_scraper(url_seed)
+scraper.driver.quit()
 
 # moving forward: clicking on videos and tab management!
 # put all the feature extracting in some form of try catch thing to avoid the huge number of errors that can pop up
