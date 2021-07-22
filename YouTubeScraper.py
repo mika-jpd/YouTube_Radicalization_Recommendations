@@ -10,11 +10,11 @@ import time
 from requests_html import HTMLSession
 from requests_html import AsyncHTMLSession
 from bs4 import BeautifulSoup as bs
-#from treelib import Node, Tree
 from anytree import Node, AnyNode, NodeMixin,RenderTree, AbstractStyle, ContStyle
 from anytree.exporter import JsonExporter
 from collections import deque
 import asyncio
+import numpy as np
 
 class YouTubeScraper:
     def __init__(self, path_driver, category, seed_url, max_wait, trial_id, num_recommendations,history=False):
@@ -30,12 +30,16 @@ class YouTubeScraper:
 
     def create_chrome_driver(self):
         options = webdriver.ChromeOptions()
-        #options.add_argument("--no-sandbox")
+        options.add_argument("--no-sandbox")
         options.add_argument("--disable-infobars")
         options.add_argument("--disable-extensions")
         options.add_argument("--window-size=1920,1080")
         options.add_argument("--mute-audio")
-        #options.add_argument('--headless')
+        options.add_argument("--disable-web-security")
+        options.add_argument('--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"')
+        options.add_argument("--allow-running-insecure-content")
+        options.add_argument("--lang=en-US")
+        options.add_argument('--headless')
 
         return webdriver.Chrome(executable_path=self.path, options=options)
 
@@ -47,9 +51,8 @@ class YouTubeScraper:
 
 ###### Video Processing #################
     async def videos_handling(self, url_list:list, main_tab:str, results:list):
-        main_tab = main_tab
+        print('videos_handling')
         tasks = []
-
         for url, i in zip(url_list, list(range(0, len(url_list)))):
             #open new tab and pass it for new video to watch
             self.driver.execute_script("window.open('');")
@@ -60,54 +63,51 @@ class YouTubeScraper:
 
     #here you watch a single video at a time
     async def video_processing(self, url:str, main_tab:str, current_tab:str, res:list, index:int):
-
-        self.driver.switch_to.window(current_tab)
-        self.driver.get(url)
-
-        #wait for the video to be loaded
-        time.sleep(1)
-
-        #skip the data protection button
+        print('video_processing')
         try:
-            self.driver.find_elements_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button/span')[0].click()
-        except:
+            #self.driver.switch_to_window(current_tab)
+            self.driver.switch_to.window(current_tab)
+            self.driver.get(url)
+            #wait for the video to be loaded
+            time.sleep(1)
+            #skip the data protection button
             try:
-                self.driver.find_elements_by_xpath('/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[2]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a/tp-yt-paper-button/yt-formatted-string')[0].click()
+                self.driver.find_elements_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button/span')[0].click()
             except:
+                try:
+                    self.driver.find_elements_by_xpath('/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[2]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a/tp-yt-paper-button/yt-formatted-string')[0].click()
+                except:
+                    pass
                 pass
-            pass
-
-        #skip ad
-        time.sleep(2)
-        ad = None
-        while(self.check_ad() == True):
-            ad = True
-            self.skip_ad()
+            #skip ad
             time.sleep(2)
+            ad = None
+            while(self.check_ad() == True):
+                ad = True
+                self.skip_ad()
+                time.sleep(2)
+            #change to just check whether the video is playing or not (ie. if the big button is discoverable & no ads)
+            if (ad == None):
+                self.start_video()
 
-        #change to just check whether the video is playing or not (ie. if the big button is discoverable & no ads)
-        if (ad == None):
-            self.start_video()
+            # get the recommended videos
+            recommended = self.get_video_recommendations()
 
-        # get the recommended videos
-        recommended = self.get_video_recommendations()
+            # collect the features
+            video = self.collect_data(url=url, ads=ad)
+            # watch the video for a little, simulate a person
+            try:
+                await asyncio.sleep(min(video['video_length'], self.max_wait))
+            except:
+                video['video_length'] = 'Not watched'
 
-        # collect the features
-        # (potentially) make this a asyncio.create_task(collect_data)
-        # asyncio.create_task(self.collect_data(url=url, length=length, ads=ad, video=video))
-        video = self.collect_data(url=url, ads=ad)
+            self.driver.switch_to.window(current_tab)
+            self.driver.close()
+            self.driver.switch_to.window(main_tab)
 
-        # watch the video for a little, simulate a person
-        try:
-            await asyncio.sleep(min(video['video_length'], self.max_wait))
+            res[index] = (video, recommended)
         except:
-            video['video_length'] = 'Not watched'
-
-        self.driver.switch_to.window(current_tab)
-        self.driver.close()
-        self.driver.switch_to.window(main_tab)
-
-        res[index] = (video, recommended)
+            res[index] = ('Error found', 'Error found')
 
     def start_video(self):
         #click on the button to start if
@@ -132,7 +132,7 @@ class YouTubeScraper:
             #first make sure it can be skipped by finding the ad text button
             element = self.driver.find_elements_by_xpath('//*[contains(@id, "ad-text:")]')
             for i in element:
-                if(i.text == 'Skip Ads' or i.text == 'Skip Ad'):
+                if(i.text == 'Skip Ads' or i.text == 'Skip Ad' or i.text == "Passer les annonces" or i.text == "Ignorer l'annonce"):
                     self.driver.find_elements_by_xpath('//*[@class="ytp-ad-skip-button ytp-button"]')[0].click()
                     break
 
@@ -142,7 +142,53 @@ class YouTubeScraper:
     def get_length(self):
         return self.driver.execute_script("return document.getElementById('movie_player').getDuration()")
 
+#LOGIN the YouTube account with hotmail accounts
+    def login(self, main_tab, username, password):
+        print('login')
+        self.driver.get('https://www.youtube.com/')
+        time.sleep(2)
+        # skip the data protection button
+        try:
+            self.driver.find_elements_by_xpath(
+                '//*[@id="yDmH0d"]/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button/span')[0].click()
+        except:
+            try:
+                self.driver.find_elements_by_xpath(
+                    '/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[2]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a/tp-yt-paper-button/yt-formatted-string')[
+                    0].click()
+            except:
+                pass
+            pass
+
+        WebDriverWait(self.driver, 60).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="buttons"]/ytd-button-renderer/a'))).click()
+        time.sleep(1)
+
+        for i in username:
+            WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.XPATH, '//*[@id="identifierId"]'))).send_keys(i)
+            time.sleep((np.random.randint(3, 7))/10)
+
+        WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.XPATH, '//*[@id="identifierNext"]/div/button/span'))).click()
+
+        #click to avoid error
+        WebDriverWait(self.driver, 60).until(
+            EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).click()
+        for i in password:
+            #//*[@id="passwordNext"]/div/button
+            WebDriverWait(self.driver, 60).until(
+                EC.presence_of_element_located((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).send_keys(i)
+            time.sleep((np.random.randint(3, 7)) / 10)
+        WebDriverWait(self.driver, 60).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="passwordNext"]/div/button'))).click()
+        try:
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, '//*[@aria-label="Notifications"]')))
+        except TimeoutException as e:
+            e.msg = 'Login mistake'
+            raise
+        time.sleep(2)
     def collect_data(self, url:str, ads:bool):
+        print('collecting data')
         #time.sleep(1)
         #here add a proper wait (wait for something to show up)
         #time.sleep(2)
@@ -207,8 +253,10 @@ class YouTubeScraper:
 
     def get_num_comments(self) -> str:
         try:
-            #return self.get_by_xpath('//*[@id="count"]/yt-formatted-string/span[1]').text
-            return self.driver.find_elements_by_xpath('//*[@id="count"]/yt-formatted-string/span[1]')[0].text
+            element = WebDriverWait(self.driver, 5).until(
+                        EC.presence_of_element_located((By.XPATH, '//*[@id="count"]/yt-formatted-string/span[1]')))
+            element = element.text
+            return element
         except:
             return 'Error found'
 
@@ -298,12 +346,17 @@ class YouTubeScraper:
         recommended_videos = []
 
         #here the 1 is an index that you can use to cycle through recommended videos
-        i = 1
-        while(i <= self.num_recommendations):
-            path = '//*[@id="items"]/ytd-compact-video-renderer[{0}]//*[@id="thumbnail"]'.format(i)
-            recommended = self.driver.find_element_by_xpath(path).get_attribute('href')
-            recommended_videos.append(recommended)
-            i += 1
+        x = 0
+
+        #delete if the non-commented one works
+        #path = '//*[@id="related"]/ytd-watch-next-secondary-results-renderer//div[@id="contents"]//*[@class="style-scope ytd-item-section-renderer"]//*[@id="thumbnail"]'
+        path = '//*[@id="related"]/ytd-watch-next-secondary-results-renderer//*[@id="thumbnail"]'
+        recommendations = self.driver.find_elements_by_xpath(path)
+        for i in recommendations:
+            recommended_videos.append(i.get_attribute('href'))
+            x += 1
+            if (x == self.num_recommendations):
+                break
 
         return recommended_videos
 
@@ -319,44 +372,45 @@ class YouTubeScraper:
         root = AnyNode(id=url_seed, parent=None, video=None, title=None)
 
         main_window = self.driver.window_handles[-1]
+        self.login(main_tab=main_window, username='mika.desblancs@hotmail.com', password='Mika180600!')
         max_depth = False
         videos_watched = []
         for n in range(0, 60):
             #returns list of urls
             tasks = []
-            for i in range(0, min(12, len(queue))):
+            for i in range(0, min(8, len(queue))):
                 tasks.append(queue.popleft())
             results = [None for i in tasks]
             asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
             #video, recommendations = self.video_processing(x, main_window, new_tab)
             for r in results:
-                videos_watched.append(r[0]['title'])
-                node = None
-                #find the node with the url since it is stored in the tree before it is watched
-                if(root.video==None):
-                    root.video = r[0]
-                    root.title = r[0]['title']
-                    node = root
-                else:
-                    for n in anytree.LevelOrderIter(root):
-                        if(len(n.children) != 0):
-                            continue
-                        else:
-                            if(n.id == r[0]['url']):
-                                node = n
-                                node.title = r[0]['title']
-                                node.video = r[0]
-                            else:
+                if r[0] != 'Error found':
+                    videos_watched.append(r[0]['title'])
+                    node = None
+                    #find the node with the url since it is stored in the tree before it is watched
+                    if(root.video==None):
+                        root.video = r[0]
+                        root.title = r[0]['title']
+                        node = root
+                    else:
+                        for n in anytree.LevelOrderIter(root):
+                            if(len(n.children) != 0):
                                 continue
+                            else:
+                                if(n.id == r[0]['url']):
+                                    node = n
+                                    node.title = r[0]['title']
+                                    node.video = r[0]
+                                else:
+                                    continue
 
-                # add all the recommended videos to the tree in url form
-                # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
-                # you still want to watch seven videos however
-
-                for i in r[1]:
-                    queue.append(i)
-                    AnyNode(id=i, parent=node, video=None, title=None)
-        #print(RenderTree(root, style=ContStyle()))
+                    # add all the recommended videos to the tree in url form
+                    # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
+                    # you still want to watch seven videos however
+                    for i in r[1]:
+                        queue.append(i)
+                        AnyNode(id=i, parent=node, video=None, title=None)
+        print('writing to file')
         exporter = JsonExporter(indent=2, sort_keys=True)
         with open('Scraper_Json.txt', 'w') as outfile:
             exporter.write(root, outfile)
