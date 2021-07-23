@@ -348,8 +348,6 @@ class YouTubeScraper:
         #here the 1 is an index that you can use to cycle through recommended videos
         x = 0
 
-        #delete if the non-commented one works
-        #path = '//*[@id="related"]/ytd-watch-next-secondary-results-renderer//div[@id="contents"]//*[@class="style-scope ytd-item-section-renderer"]//*[@id="thumbnail"]'
         path = '//*[@id="related"]/ytd-watch-next-secondary-results-renderer//*[@id="thumbnail"]'
         recommendations = self.driver.find_elements_by_xpath(path)
         for i in recommendations:
@@ -375,10 +373,11 @@ class YouTubeScraper:
         self.login(main_tab=main_window, username='mika.desblancs@hotmail.com', password='Mika180600!')
         max_depth = False
         videos_watched = []
-        for n in range(0, 60):
+        for n in range(0, 10):
+            print(f'----Iteration {n}----')
             #returns list of urls
             tasks = []
-            for i in range(0, min(8, len(queue))):
+            for i in range(0, min(12, len(queue))):
                 tasks.append(queue.popleft())
             results = [None for i in tasks]
             asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
