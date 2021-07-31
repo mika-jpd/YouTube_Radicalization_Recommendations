@@ -15,9 +15,10 @@ from anytree.exporter import JsonExporter
 from collections import deque
 import asyncio
 import numpy as np
+import os
 
 class YouTubeScraper:
-    def __init__(self, path_driver, category, seed_url, max_wait, trial_id, num_recommendations,history=False):
+    def __init__(self, path_driver, category, seed_url, max_wait, trial_id, num_recommendations, username, password,history=False):
         self.path = path_driver
         self.driver = self.create_chrome_driver()
         self.driverconst = self.driver.title
@@ -26,7 +27,10 @@ class YouTubeScraper:
         self.history = history
         self.max_wait = max_wait
         self.trial_id = trial_id
-        self.num_recommendations=num_recommendations
+        self.num_recommendations = num_recommendations
+        self.username = username
+        self.password = password
+        self.tree = None
 
     def create_chrome_driver(self):
         options = webdriver.ChromeOptions()
@@ -39,14 +43,14 @@ class YouTubeScraper:
         options.add_argument('--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"')
         options.add_argument("--allow-running-insecure-content")
         options.add_argument("--lang=en-US")
-        options.add_argument('--headless')
+        #options.add_argument('--headless')
 
         return webdriver.Chrome(executable_path=self.path, options=options)
 
     def update_tabs(self):
         pass
 
-    def control(self):
+    def control(self) :
         pass
 
 ###### Video Processing #################
@@ -142,7 +146,6 @@ class YouTubeScraper:
     def get_length(self):
         return self.driver.execute_script("return document.getElementById('movie_player').getDuration()")
 
-#LOGIN the YouTube account with hotmail accounts
     def login(self, main_tab, username, password):
         print('login')
         self.driver.get('https://www.youtube.com/')
@@ -154,8 +157,7 @@ class YouTubeScraper:
         except:
             try:
                 self.driver.find_elements_by_xpath(
-                    '/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[2]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a/tp-yt-paper-button/yt-formatted-string')[
-                    0].click()
+                    '/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[2]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a/tp-yt-paper-button/yt-formatted-string')[0].click()
             except:
                 pass
             pass
@@ -166,7 +168,7 @@ class YouTubeScraper:
 
         for i in username:
             WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.XPATH, '//*[@id="identifierId"]'))).send_keys(i)
-            time.sleep((np.random.randint(3, 7))/10)
+            time.sleep((np.random.randint(1, 4))/10)
 
         WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.XPATH, '//*[@id="identifierNext"]/div/button/span'))).click()
 
@@ -177,41 +179,61 @@ class YouTubeScraper:
             #//*[@id="passwordNext"]/div/button
             WebDriverWait(self.driver, 60).until(
                 EC.presence_of_element_located((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).send_keys(i)
-            time.sleep((np.random.randint(3, 7)) / 10)
+            time.sleep((np.random.randint(2, 5)) / 10)
         WebDriverWait(self.driver, 60).until(
             EC.presence_of_element_located((By.XPATH, '//*[@id="passwordNext"]/div/button'))).click()
         try:
             WebDriverWait(self.driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, '//*[@aria-label="Notifications"]')))
-        except TimeoutException as e:
-            e.msg = 'Login mistake'
+        except Exception as e:
+            e.msg = f'Login mistake:{e}'
             raise
-        time.sleep(2)
+
+    def delete_history(self, main_tab):
+        return_statement = 'History deleted'
+
+        # open window and navigate to the webpage
+        self.driver.execute_script("window.open('');")
+        new_tab = self.driver.window_handles.pop()
+        self.driver.switch_to.window(new_tab)
+        self.driver.get('https://myactivity.google.com/activitycontrols/youtube?hl=en&utm_source=privacy-advisor-youtube')
+        try:
+            delete = WebDriverWait(self.driver, 10).until(
+                     EC.presence_of_all_elements_located((By.XPATH, '//*[@id="gb"]/div[4]/div[2]/div/c-wiz/div/div/nav//div[@class="vwWeec"]'))
+                    )
+            delete = [i for i in delete if ("Delete" in i.text) & ("activity" in i.text)]
+            delete = delete[0]
+            delete.click()
+
+            delete_all_time = WebDriverWait(self.driver, 10).until(
+                              EC.presence_of_element_located((By.XPATH, '//*[@id="yDmH0d"]/div[7]/div/div[2]/span/div[2]/div/c-wiz/div/div[3]/ul/li[3]'))
+                             )
+            delete_all_time.click()
+
+            #if this doesn't go through then we haven't watched any videos
+            try:
+                confirm_delete = WebDriverWait(self.driver, 10).until(
+                               EC.presence_of_element_located((By.XPATH, '//*[@id="yDmH0d"]/div[7]/div/div[2]/span/div[2]/div[1]/c-wiz/div/div[4]/div/div[2]/button'))
+                              )
+                confirm_delete.click()
+
+            except Exception as e:
+                return_statement = f'No history to delete: {e}'
+        except Exception as e:
+            return_statement = f'History delete error: {e}'
+
+        self.driver.close()
+        self.driver.switch_to.window(main_tab)
+
+        return return_statement
+
+
     def collect_data(self, url:str, ads:bool):
         print('collecting data')
-        #time.sleep(1)
-        #here add a proper wait (wait for something to show up)
-        #time.sleep(2)
-
-        #start = time.perf_counter()
-        #prepare beautiful soup for webpage extraction
-        #session = HTMLSession()
-        #session = AsyncHTMLSession()
-        #response = session.get(url)
-        #response = await session.get(url)
-        # execute Javascript
-        #response.html.render(timeout=30)
-        # await response.html.arender()
-        #response.html.arender()
-
-        # create beautiful soup object to parse HTML
-        #soup = bs(response.html.html, "html.parser")
-        #end =  time.perf_counter()
-        #print(f'Time Beuatiful Soup: {end - start:0.4f} second')
-        length = self.get_duration_test()
+        length = self.get_duration()
 
         self.driver.execute_script('window.scrollTo(0, 540)')
-        #need to process all of these in video object
+
         title = self.get_title()
         creator = self.get_creator()
         description = self.get_description()
@@ -244,10 +266,6 @@ class YouTubeScraper:
             'ad':ads,
             'id':id
         }
-
-        #response.close()
-        #await session.close()
-        #session.close()
 
         return video
 
@@ -315,15 +333,8 @@ class YouTubeScraper:
         except:
             return 'Error found'
 
-    def get_duration(self, soup) -> str:
+    def get_duration(self) -> str:
         try:
-            soup.find("span", {"class": "ytp-time-duration"}).text
-        except:
-            return 'Error found'
-
-    def get_duration_test(self) -> str:
-        try:
-            #pause video so that
             self.driver.find_elements_by_xpath('//*[@class="video-stream html5-main-video"]')[0].click()
 
             time_element = WebDriverWait(self.driver, 3).until(EC.presence_of_element_located((By.CLASS_NAME, 'ytp-time-duration')))
@@ -344,18 +355,21 @@ class YouTubeScraper:
 
     def get_video_recommendations(self) -> list:
         recommended_videos = []
-
-        #here the 1 is an index that you can use to cycle through recommended videos
         x = 0
-
         path = '//*[@id="related"]/ytd-watch-next-secondary-results-renderer//*[@id="thumbnail"]'
         recommendations = self.driver.find_elements_by_xpath(path)
         for i in recommendations:
-            recommended_videos.append(i.get_attribute('href'))
-            x += 1
+            video_url = i.get_attribute('href')
+
+            #only add the videos not seen before
+            if(anytree.search.find(self.tree, filter_=lambda node: node.id == video_url) == None):
+                #recommended_videos.append(i.get_attribute('href'))
+                recommended_videos.append(video_url)
+                x += 1
+            else:
+                continue
             if (x == self.num_recommendations):
                 break
-
         return recommended_videos
 
     def get_by_xpath(self, xpath):
@@ -364,65 +378,156 @@ class YouTubeScraper:
         except:
             return 'Error found'
 
+    def run_scraper(self, url_seed:str, videos_parallele:int):
+        results = []
 
-    def test_scraper(self, url_seed):
+        for i in range(0, 5):
+            queue = deque([url_seed])
+            root = AnyNode(id=url_seed, parent=None, video=None, title=None)
+            self.tree = root
+
+            self.driver.quit()
+            self.driver = self.create_chrome_driver()
+            main_window = self.driver.window_handles[-1]
+            self.login(main_tab=main_window, username=self.username, password=self.password)
+            x = self.delete_history(main_tab=main_window)
+            for a in ['https://www.youtube.com/watch?v=ogvxf1VyRzo&pp=sAQA', 'https://www.youtube.com/watch?v=kBwEFz_WIdQ&pp=sAQA', 'https://www.youtube.com/watch?v=a6zu8D05ECY&pp=sAQA']:
+                self.driver.get(a)
+                time.sleep(2)
+            results.append(x)
+        print(results)
+
+
+    def test_scraper(self, url_seed, restart_scraper:bool, videos_parallele:int):
         queue = deque([url_seed])
         root = AnyNode(id=url_seed, parent=None, video=None, title=None)
+        self.tree = root
 
         main_window = self.driver.window_handles[-1]
-        self.login(main_tab=main_window, username='mika.desblancs@hotmail.com', password='Mika180600!')
-        max_depth = False
-        videos_watched = []
-        for n in range(0, 10):
-            print(f'----Iteration {n}----')
-            #returns list of urls
-            tasks = []
-            for i in range(0, min(12, len(queue))):
-                tasks.append(queue.popleft())
-            results = [None for i in tasks]
-            asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
-            #video, recommendations = self.video_processing(x, main_window, new_tab)
-            for r in results:
-                if r[0] != 'Error found':
-                    videos_watched.append(r[0]['title'])
-                    node = None
-                    #find the node with the url since it is stored in the tree before it is watched
-                    if(root.video==None):
-                        root.video = r[0]
-                        root.title = r[0]['title']
-                        node = root
-                    else:
-                        for n in anytree.LevelOrderIter(root):
-                            if(len(n.children) != 0):
-                                continue
-                            else:
-                                if(n.id == r[0]['url']):
-                                    node = n
-                                    node.title = r[0]['title']
-                                    node.video = r[0]
-                                else:
-                                    continue
+        self.login(main_tab=main_window, username=self.username, password=self.password)
+        #self.delete_history(main_window)
 
-                    # add all the recommended videos to the tree in url form
-                    # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
-                    # you still want to watch seven videos however
-                    for i in r[1]:
-                        queue.append(i)
-                        AnyNode(id=i, parent=node, video=None, title=None)
+        max_depth = False
+
+        exec_time = []
+        videos_watched = []
+        if(restart_scraper==False):
+            for n in range(0, 12):
+
+                start_time = time.time()
+                print(f'----Iteration {n}----')
+                #returns list of urls
+                tasks = []
+                for i in range(0, min(videos_parallele, len(queue))):
+                    tasks.append(queue.popleft())
+                results = [None for i in tasks]
+                asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
+                #video, recommendations = self.video_processing(x, main_window, new_tab)
+                for r in results:
+                    if r[0] != 'Error found':
+                        videos_watched.append(r[0]['title'])
+                        node = None
+                        #find the node with the url since it is stored in the tree before it is watched
+                        if(root.video==None):
+                            root.video = r[0]
+                            root.title = r[0]['title']
+                            node = root
+                        else:
+                            for n in anytree.LevelOrderIter(root):
+                                if(len(n.children) != 0):
+                                    continue
+                                else:
+                                    if(n.id == r[0]['url']):
+                                        node = n
+                                        node.title = r[0]['title']
+                                        node.video = r[0]
+                                    else:
+                                        continue
+
+                        # add all the recommended videos to the tree in url form
+                        # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
+                        # you still want to watch seven videos however
+                        for i in r[1]:
+                            queue.append(i)
+                            AnyNode(id=i, parent=node, video=None, title=None)
+                exec_time.append(time.time() - start_time)
+        else:
+            for n in range(0, 12):
+                self.driver.quit()
+
+                self.driver = self.create_chrome_driver()
+                main_window = self.driver.window_handles[-1]
+                self.login(main_tab=main_window, username=self.username, password=self.password)
+
+                start_time = time.time()
+                print(f'----Iteration {n}----')
+                # returns list of urls
+                tasks = []
+                for i in range(0, min(videos_parallele, len(queue))):
+                    tasks.append(queue.popleft())
+                results = [None for i in tasks]
+                asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
+
+                # video, recommendations = self.video_processing(x, main_window, new_tab)
+                for r in results:
+                    if r[0] != 'Error found':
+                        videos_watched.append(r[0]['title'])
+                        node = None
+                        # find the node with the url since it is stored in the tree before it is watched
+                        if (root.video == None):
+                            root.video = r[0]
+                            root.title = r[0]['title']
+                            node = root
+                        else:
+                            for n in anytree.LevelOrderIter(root):
+                                if (len(n.children) != 0):
+                                    continue
+                                else:
+                                    if (n.id == r[0]['url']):
+                                        node = n
+                                        node.title = r[0]['title']
+                                        node.video = r[0]
+                                    else:
+                                        continue
+
+                        # add all the recommended videos to the tree in url form
+                        # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
+                        # you still want to watch seven videos however
+                        for i in r[1]:
+                            queue.append(i)
+                            AnyNode(id=i, parent=node, video=None, title=None)
+                exec_time.append(time.time() - start_time)
+
+        # ---- save time to a file ----
+        exec_time = np.array(exec_time)
+        file = open('C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\speed\\speed_records_{0}_{1}.txt'.format(restart_scraper, videos_parallele), 'w+')
+        for r in exec_time:
+            np.savetxt(fname=file, X=[r])
+        file.close()
+
+        #---Save results to a CSV file----
         print('writing to file')
+        path_to_file = 'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\tree_results\\tree_json_{0}_{1}.txt'.format(restart_scraper, videos_parallele)
         exporter = JsonExporter(indent=2, sort_keys=True)
-        with open('Scraper_Json.txt', 'w') as outfile:
+        with open(path_to_file, 'w+') as outfile:
             exporter.write(root, outfile)
+        outfile.close()
 
 #here create the object and call the central unit which launches the first video + parallele videos
 url_seed = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
 scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
                 category='News',
                 seed_url=url_seed,
-                max_wait=10,
+                max_wait=5,
                 trial_id=1,
-                num_recommendations=3)
-scraper.test_scraper(url_seed)
+                num_recommendations=3,
+                username='mika.desblancs@hotmail.com',
+                password='Mika180600!')
+
+#scraper.run_scraper(url_seed,videos_parallele=13)
+scraper.test_scraper(url_seed=url_seed, videos_parallele=5, restart_scraper=False)
+# 1. do restart scraper = false
+# 2. do restart scraper = true
 scraper.driver.quit()
 
 # moving forward: clicking on videos and tab management!
