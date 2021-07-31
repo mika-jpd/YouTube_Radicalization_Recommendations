@@ -7,10 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, ElementNotInteractableException
 from selenium.webdriver.common.action_chains import ActionChains
 import time
-from requests_html import HTMLSession
-from requests_html import AsyncHTMLSession
-from bs4 import BeautifulSoup as bs
-from anytree import Node, AnyNode, NodeMixin,RenderTree, AbstractStyle, ContStyle
+from anytree import Node, AnyNode, NodeMixin,RenderTree, AbstractStyle, ContStyle, AsciiStyle
 from anytree.exporter import JsonExporter
 from collections import deque
 import asyncio
@@ -163,31 +160,81 @@ class YouTubeScraper:
             pass
 
         WebDriverWait(self.driver, 60).until(
-            EC.presence_of_element_located((By.XPATH, '//*[@id="buttons"]/ytd-button-renderer/a'))).click()
+            EC.element_to_be_clickable((By.XPATH, '//*[@id="buttons"]/ytd-button-renderer/a'))).click()
         time.sleep(1)
 
         for i in username:
-            WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.XPATH, '//*[@id="identifierId"]'))).send_keys(i)
-            time.sleep((np.random.randint(1, 4))/10)
+            WebDriverWait(self.driver, 60).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="identifierId"]'))).send_keys(i)
+            time.sleep((np.random.randint(0, 3))/10)
 
-        WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.XPATH, '//*[@id="identifierNext"]/div/button/span'))).click()
+        WebDriverWait(self.driver, 60).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="identifierNext"]/div/button/span'))).click()
 
-        #click to avoid error
-        WebDriverWait(self.driver, 60).until(
-            EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).click()
+        try:
+            #click to avoid error
+            WebDriverWait(self.driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).click()
+        except:
+            self.driver.save_screenshot('captcha.png')
+            val = input('Send captcha message: ')
+
+            for i in val:
+                WebDriverWait(self.driver, 60).until(
+                    EC.element_to_be_clickable(
+                        (By.XPATH, '//*[@id="ca"]'))).send_keys(i)
+                time.sleep((np.random.randint(0, 3)) / 10)
+            WebDriverWait(self.driver, 60).until(
+                EC.element_to_be_clickable((By.XPATH, '//*[@id="identifierNext"]/div/button'))).click()
+
         for i in password:
             #//*[@id="passwordNext"]/div/button
             WebDriverWait(self.driver, 60).until(
-                EC.presence_of_element_located((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).send_keys(i)
-            time.sleep((np.random.randint(2, 5)) / 10)
+                EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).send_keys(i)
+            time.sleep((np.random.randint(0, 3)) / 10)
         WebDriverWait(self.driver, 60).until(
-            EC.presence_of_element_located((By.XPATH, '//*[@id="passwordNext"]/div/button'))).click()
+            EC.element_to_be_clickable((By.XPATH, '//*[@id="passwordNext"]/div/button'))).click()
+
         try:
             WebDriverWait(self.driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, '//*[@aria-label="Notifications"]')))
         except Exception as e:
-            e.msg = f'Login mistake:{e}'
-            raise
+            self.driver.save_screenshot('login_screenshot.png')
+
+            val = input('Send login type between [phone, email]: ')
+
+            if (val == 'phone'):
+                code = input('Password input the password sent to phone number: ')
+
+                for i in code:
+                    WebDriverWait(self.driver, 60).until(
+                        EC.element_to_be_clickable(
+                            (By.XPATH, '//*[@id="idvPin"]'))).send_keys(i)
+                    time.sleep((np.random.randint(0, 3)) / 10)
+
+                WebDriverWait(self.driver, 60).until(
+                    EC.element_to_be_clickable((By.XPATH, '//*[@id="view_container"]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span'))).click()
+
+            elif (val == 'email'):
+                code = input(f'Code sent to email {self.username}: ')
+
+                for i in code:
+                    WebDriverWait(self.driver, 60).until(
+                        EC.element_to_be_clickable(
+                            (By.XPATH, '//*[@id="idvPinId"]'))).send_keys(i)
+                    time.sleep((np.random.randint(0, 3)) / 10)
+
+                WebDriverWait(self.driver, 60).until(
+                    EC.element_to_be_clickable((By.XPATH, '//*[@id="idvpreregisteredemailNext"]/div/button'))).click()
+            else:
+                e.msg = f'Login mistake:{e}'
+                raise
+
+            try:
+                WebDriverWait(self.driver, 10).until(
+                    EC.presence_of_element_located((By.XPATH, '//*[@aria-label="Notifications"]')))
+
+            except Exception as e:
+                e.msg = f'Login mistake:{e}'
+                raise
 
     def delete_history(self, main_tab):
         return_statement = 'History deleted'
@@ -384,140 +431,86 @@ class YouTubeScraper:
             x = x+num_reco**i
         return x
 
-    def run_scraper(self, url_seed:str, videos_parallele:int):
-        results = []
-
-        for i in range(0, 5):
-            queue = deque([url_seed])
-            root = AnyNode(id=url_seed, parent=None, video=None, title=None)
-            self.tree = root
-
-            self.driver.quit()
-            self.driver = self.create_chrome_driver()
-            main_window = self.driver.window_handles[-1]
-            self.login(main_tab=main_window, username=self.username, password=self.password)
-            x = self.delete_history(main_tab=main_window)
-            for a in ['https://www.youtube.com/watch?v=ogvxf1VyRzo&pp=sAQA', 'https://www.youtube.com/watch?v=kBwEFz_WIdQ&pp=sAQA', 'https://www.youtube.com/watch?v=a6zu8D05ECY&pp=sAQA']:
-                self.driver.get(a)
-                time.sleep(2)
-            results.append(x)
-        print(results)
-
-
-    def test_scraper(self, url_seed, restart_scraper:bool, videos_parallele:int):
+    def run_scraper(self, url_seed:str, num_reco:int, depth:int, videos_parallele:int, trial_id:int):
         queue = deque([url_seed])
         root = AnyNode(id=url_seed, parent=None, video=None, title=None)
         self.tree = root
 
         main_window = self.driver.window_handles[-1]
         self.login(main_tab=main_window, username=self.username, password=self.password)
-        #self.delete_history(main_window)
+        self.delete_history(main_tab=main_window)
 
-        max_depth = False
-
+        num_limit = self.geometric_series_calc(num_reco=num_reco, depth=depth)
         exec_time = []
         videos_watched = []
-        if(restart_scraper==False):
-            for n in range(0, 12):
 
-                start_time = time.time()
-                print(f'----Iteration {n}----')
-                #returns list of urls
-                tasks = []
-                for i in range(0, min(videos_parallele, len(queue))):
-                    tasks.append(queue.popleft())
-                results = [None for i in tasks]
-                asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
-                #video, recommendations = self.video_processing(x, main_window, new_tab)
-                for r in results:
-                    if r[0] != 'Error found':
-                        videos_watched.append(r[0]['title'])
-                        node = None
-                        #find the node with the url since it is stored in the tree before it is watched
-                        if(root.video==None):
-                            root.video = r[0]
-                            root.title = r[0]['title']
-                            node = root
-                        else:
-                            for n in anytree.LevelOrderIter(root):
-                                if(len(n.children) != 0):
-                                    continue
+        iteration = 0
+        while((num_limit-len(videos_watched)) != 0):
+            self.driver.quit()
+
+            #restart driver and login
+            self.driver = self.create_chrome_driver()
+            main_window = self.driver.window_handles[-1]
+            self.login(main_tab=main_window, username=self.username, password=self.password)
+
+            start_time = time.time()
+
+            #HERE: put an indication of what iteration were on through webhook or something
+            print(f'----Iteration {iteration}----')
+            iteration = iteration+1
+
+            tasks = []
+            to_watch = min(videos_parallele, len(queue), num_limit-len(videos_watched))
+
+            for i in range(0, to_watch):
+                x = queue.popleft()
+                tasks.append(x)
+                videos_watched.append(x)
+
+            results = [None for i in tasks]
+            asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
+
+            for r in results:
+                if r[0] != 'Error found':
+                    node = None
+                    # find the node with the url since it is stored in the tree before it is watched
+                    if (root.video == None):
+                        root.video = r[0]
+                        root.title = r[0]['title']
+                        node = root
+                    else:
+                        for n in anytree.LevelOrderIter(root):
+                            if (len(n.children) != 0):
+                                continue
+                            else:
+                                if (n.id == r[0]['url']):
+                                    node = n
+                                    node.title = r[0]['title']
+                                    node.video = r[0]
                                 else:
-                                    if(n.id == r[0]['url']):
-                                        node = n
-                                        node.title = r[0]['title']
-                                        node.video = r[0]
-                                    else:
-                                        continue
-
-                        # add all the recommended videos to the tree in url form
-                        # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
-                        # you still want to watch seven videos however
-                        for i in r[1]:
-                            queue.append(i)
-                            AnyNode(id=i, parent=node, video=None, title=None)
-                exec_time.append(time.time() - start_time)
-        else:
-            for n in range(0, 12):
-                self.driver.quit()
-
-                self.driver = self.create_chrome_driver()
-                main_window = self.driver.window_handles[-1]
-                self.login(main_tab=main_window, username=self.username, password=self.password)
-
-                start_time = time.time()
-                print(f'----Iteration {n}----')
-                # returns list of urls
-                tasks = []
-                for i in range(0, min(videos_parallele, len(queue))):
-                    tasks.append(queue.popleft())
-                results = [None for i in tasks]
-                asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
-
-                # video, recommendations = self.video_processing(x, main_window, new_tab)
-                for r in results:
-                    if r[0] != 'Error found':
-                        videos_watched.append(r[0]['title'])
-                        node = None
-                        # find the node with the url since it is stored in the tree before it is watched
-                        if (root.video == None):
-                            root.video = r[0]
-                            root.title = r[0]['title']
-                            node = root
-                        else:
-                            for n in anytree.LevelOrderIter(root):
-                                if (len(n.children) != 0):
                                     continue
-                                else:
-                                    if (n.id == r[0]['url']):
-                                        node = n
-                                        node.title = r[0]['title']
-                                        node.video = r[0]
-                                    else:
-                                        continue
+                    for i in r[1]:
+                        queue.append(i)
+                        AnyNode(id=i, parent=node, video=None, title=None)
 
-                        # add all the recommended videos to the tree in url form
-                        # add videos that have already been watched to tree BUT not to the queue since you don't want loops in the recommended videos
-                        # you still want to watch seven videos however
-                        for i in r[1]:
-                            queue.append(i)
-                            AnyNode(id=i, parent=node, video=None, title=None)
-                exec_time.append(time.time() - start_time)
-
+            exec_time.append(time.time() - start_time)
+        print(RenderTree(self.tree, style=AsciiStyle()))
         # ---- save time to a file ----
         exec_time = np.array(exec_time)
-        file = open('C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\speed\\speed_records_{0}_{1}.txt'.format(restart_scraper, videos_parallele), 'w+')
+        file = open(
+            'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\speed\\speed_records_{0}.txt'.format(videos_parallele), 'w+')
         for r in exec_time:
             np.savetxt(fname=file, X=[r])
         file.close()
 
-        #---Save results to a CSV file----
+        # ---Save results to a CSV file----
         print('writing to file')
-        path_to_file = 'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\tree_results\\tree_json_{0}_{1}.txt'.format(restart_scraper, videos_parallele)
+        path_to_file = 'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\tree_results\\tree_json_{0}_{1}.txt'.format(videos_parallele)
         exporter = JsonExporter(indent=2, sort_keys=True)
         with open(path_to_file, 'w+') as outfile:
             exporter.write(root, outfile)
         outfile.close()
+
 
 #here create the object and call the central unit which launches the first video + parallele videos
 url_seed = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
@@ -527,15 +520,9 @@ scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
                 max_wait=5,
                 trial_id=1,
                 num_recommendations=3,
-                username='mika.desblancs@hotmail.com',
-                password='Mika180600!')
+                username='ytscraper1@yandex.com',
+                password='396ytscraper1!')
 
 #scraper.run_scraper(url_seed,videos_parallele=13)
-scraper.test_scraper(url_seed=url_seed, videos_parallele=5, restart_scraper=False)
-# 1. do restart scraper = false
-# 2. do restart scraper = true
+scraper.run_scraper(url_seed, num_reco=3, depth=2, videos_parallele=13, trial_id=1)
 scraper.driver.quit()
-
-# moving forward: clicking on videos and tab management!
-# put all the feature extracting in some form of try catch thing to avoid the huge number of errors that can pop up
-# updating the code so to incorporate asynchronous features
