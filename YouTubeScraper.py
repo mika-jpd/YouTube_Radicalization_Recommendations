@@ -40,7 +40,7 @@ class YouTubeScraper:
         options.add_argument('--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"')
         options.add_argument("--allow-running-insecure-content")
         options.add_argument("--lang=en-US")
-        #options.add_argument('--headless')
+        options.add_argument('--headless')
 
         return webdriver.Chrome(executable_path=self.path, options=options)
 
@@ -165,7 +165,7 @@ class YouTubeScraper:
 
         for i in username:
             WebDriverWait(self.driver, 60).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="identifierId"]'))).send_keys(i)
-            time.sleep((np.random.randint(0, 3))/10)
+            time.sleep((np.random.randint(1, 3))/10)
 
         WebDriverWait(self.driver, 60).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="identifierNext"]/div/button/span'))).click()
 
@@ -175,21 +175,30 @@ class YouTubeScraper:
                 EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).click()
         except:
             self.driver.save_screenshot('captcha.png')
-            val = input('Send captcha message: ')
+            while(True):
+                val = input('Send captcha message: ')
 
-            for i in val:
+                for i in val:
+                    WebDriverWait(self.driver, 60).until(
+                        EC.element_to_be_clickable(
+                            (By.XPATH, '//*[@id="ca"]'))).send_keys(i)
+                    time.sleep((np.random.randint(1, 3)) / 10)
                 WebDriverWait(self.driver, 60).until(
-                    EC.element_to_be_clickable(
-                        (By.XPATH, '//*[@id="ca"]'))).send_keys(i)
-                time.sleep((np.random.randint(0, 3)) / 10)
-            WebDriverWait(self.driver, 60).until(
-                EC.element_to_be_clickable((By.XPATH, '//*[@id="identifierNext"]/div/button'))).click()
+                    EC.element_to_be_clickable((By.XPATH, '//*[@id="identifierNext"]/div/button'))).click()
+
+                try:
+                    WebDriverWait(self.driver, 5).until(
+                        EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input')))
+
+                    break
+                except:
+                    continue
 
         for i in password:
             #//*[@id="passwordNext"]/div/button
             WebDriverWait(self.driver, 60).until(
                 EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).send_keys(i)
-            time.sleep((np.random.randint(0, 3)) / 10)
+            time.sleep((np.random.randint(1, 3)) / 10)
         WebDriverWait(self.driver, 60).until(
             EC.element_to_be_clickable((By.XPATH, '//*[@id="passwordNext"]/div/button'))).click()
 
@@ -208,7 +217,7 @@ class YouTubeScraper:
                     WebDriverWait(self.driver, 60).until(
                         EC.element_to_be_clickable(
                             (By.XPATH, '//*[@id="idvPin"]'))).send_keys(i)
-                    time.sleep((np.random.randint(0, 3)) / 10)
+                    time.sleep((np.random.randint(1, 3)) / 10)
 
                 WebDriverWait(self.driver, 60).until(
                     EC.element_to_be_clickable((By.XPATH, '//*[@id="view_container"]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span'))).click()
@@ -220,7 +229,7 @@ class YouTubeScraper:
                     WebDriverWait(self.driver, 60).until(
                         EC.element_to_be_clickable(
                             (By.XPATH, '//*[@id="idvPinId"]'))).send_keys(i)
-                    time.sleep((np.random.randint(0, 3)) / 10)
+                    time.sleep((np.random.randint(1, 3)) / 10)
 
                 WebDriverWait(self.driver, 60).until(
                     EC.element_to_be_clickable((By.XPATH, '//*[@id="idvpreregisteredemailNext"]/div/button'))).click()
@@ -513,16 +522,43 @@ class YouTubeScraper:
 
 
 #here create the object and call the central unit which launches the first video + parallele videos
-url_seed = "https://www.youtube.com/watch?v=sf-qyxEIuHI"
-scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
-                category='News',
-                seed_url=url_seed,
-                max_wait=5,
-                trial_id=1,
-                num_recommendations=3,
-                username='ytscraper1@yandex.com',
-                password='396ytscraper1!')
 
-#scraper.run_scraper(url_seed,videos_parallele=13)
-scraper.run_scraper(url_seed, num_reco=3, depth=2, videos_parallele=13, trial_id=1)
-scraper.driver.quit()
+seeds = ['https://www.youtube.com/watch?v=E7fXAYcMIhQ',
+         'https://www.youtube.com/watch?v=WtftZPL-k7Y',
+         'https://www.youtube.com/watch?v=5cIvH-iZZfA',
+         'https://www.youtube.com/watch?v=O7FtjtF4gM0',
+         'https://www.youtube.com/watch?v=SHZBGidQcEs',
+         'https://www.youtube.com/watch?v=aMcjxSThD54',
+         'https://www.youtube.com/watch?v=XQT-kXSQek0',
+         'https://www.youtube.com/watch?v=XcV1AVNz8P8',
+         'https://www.youtube.com/watch?v=RDmwPGrZkYs'
+         'https://www.youtube.com/watch?v=gWWT-_2zUao']
+
+id_number = 1
+for url_seed in seeds:
+    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
+                    category='News',
+                    seed_url=url_seed,
+                    max_wait=5,
+                    trial_id=1,
+                    num_recommendations=3,
+                    username='ytscraper1@yandex.com',
+                    password='396ytscraper1!')
+
+    scraper.run_scraper(url_seed, num_reco=4, depth=5, videos_parallele=13, trial_id=f'mika_razer_blade_2018_{url_seed}_{id_number}')
+    scraper.driver.quit()
+    id_number = id_number + 1
+
+for url_seed in seeds:
+    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
+                    category='News',
+                    seed_url=url_seed,
+                    max_wait=5,
+                    trial_id=1,
+                    num_recommendations=3,
+                    username='ytscraper1@yandex.com',
+                    password='396ytscraper1!')
+
+    scraper.run_scraper(url_seed, num_reco=4, depth=5, videos_parallele=13, trial_id=f'mika_razer_blade_2018_{url_seed}_{id_number}')
+    scraper.driver.quit()
+    id_number = id_number + 1
