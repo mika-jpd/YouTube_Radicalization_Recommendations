@@ -537,28 +537,28 @@ seeds = ['https://www.youtube.com/watch?v=E7fXAYcMIhQ',
 id_number = 1
 for url_seed in seeds:
     scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
-                    category='News',
+                    category='Conservative YouTube',
                     seed_url=url_seed,
-                    max_wait=5,
-                    trial_id=1,
-                    num_recommendations=3,
+                    max_wait=180,
+                    trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}',
+                    num_recommendations=4,
                     username='ytscraper1@yandex.com',
                     password='396ytscraper1!')
 
-    scraper.run_scraper(url_seed, num_reco=4, depth=5, videos_parallele=13, trial_id=f'mika_razer_blade_2018_{url_seed}_{id_number}')
+    scraper.run_scraper(url_seed, num_reco=4, depth=5, videos_parallele=13, trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}')
     scraper.driver.quit()
     id_number = id_number + 1
 
 for url_seed in seeds:
     scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
-                    category='News',
+                    category='Conservative YouTube',
                     seed_url=url_seed,
-                    max_wait=5,
-                    trial_id=1,
-                    num_recommendations=3,
+                    max_wait=180,
+                    trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}',
+                    num_recommendations=4,
                     username='ytscraper1@yandex.com',
                     password='396ytscraper1!')
 
-    scraper.run_scraper(url_seed, num_reco=4, depth=5, videos_parallele=13, trial_id=f'mika_razer_blade_2018_{url_seed}_{id_number}')
+    scraper.run_scraper(url_seed, num_reco=4, depth=5, videos_parallele=13, trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}')
     scraper.driver.quit()
     id_number = id_number + 1
