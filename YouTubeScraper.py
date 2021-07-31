@@ -503,18 +503,18 @@ class YouTubeScraper:
                         AnyNode(id=i, parent=node, video=None, title=None)
 
             exec_time.append(time.time() - start_time)
-        print(RenderTree(self.tree, style=AsciiStyle()))
+        #print(RenderTree(self.tree, style=AsciiStyle()))
         # ---- save time to a file ----
         exec_time = np.array(exec_time)
         file = open(
-            'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\speed\\speed_records_{0}.txt'.format(videos_parallele), 'w+')
+            'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\speed\\speed_records_{0}.txt'.format(self.video_url_to_id(trial_id)), 'w+')
         for r in exec_time:
             np.savetxt(fname=file, X=[r])
         file.close()
 
         # ---Save results to a CSV file----
         print('writing to file')
-        path_to_file = 'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\tree_results\\tree_json_{0}_{1}.txt'.format(videos_parallele)
+        path_to_file = 'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\tree_results\\tree_json_{0}.txt'.format(self.video_url_to_id(trial_id))
         exporter = JsonExporter(indent=2, sort_keys=True)
         with open(path_to_file, 'w+') as outfile:
             exporter.write(root, outfile)
