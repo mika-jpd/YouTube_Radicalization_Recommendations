@@ -378,6 +378,12 @@ class YouTubeScraper:
         except:
             return 'Error found'
 
+    def geometric_series_calc(self, num_reco:int, depth:int) -> int:
+        x = 0
+        for i in range(0, depth+1):
+            x = x+num_reco**i
+        return x
+
     def run_scraper(self, url_seed:str, videos_parallele:int):
         results = []
 
