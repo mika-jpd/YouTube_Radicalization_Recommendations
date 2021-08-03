@@ -15,18 +15,18 @@ import numpy as np
 import os
 
 class YouTubeScraper:
-    def __init__(self, path_driver, category, seed_url, max_wait, trial_id, num_recommendations, username, password,history=False):
+    def __init__(self, path_driver, history=False):
         self.path = path_driver
         self.driver = self.create_chrome_driver()
         self.driverconst = self.driver.title
-        self.category = category
-        self.seed_url = seed_url
+        self.category = None
+        self.seed_url = None
         self.history = history
-        self.max_wait = max_wait
-        self.trial_id = trial_id
-        self.num_recommendations = num_recommendations
-        self.username = username
-        self.password = password
+        self.max_wait = None
+        self.trial_id = None
+        self.num_recommendations = None
+        self.username = None
+        self.password = None
         self.tree = None
 
     def create_chrome_driver(self):
@@ -40,15 +40,9 @@ class YouTubeScraper:
         options.add_argument('--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"')
         options.add_argument("--allow-running-insecure-content")
         options.add_argument("--lang=en-US")
-        options.add_argument('--headless')
+        #options.add_argument('--headless')
 
         return webdriver.Chrome(executable_path=self.path, options=options)
-
-    def update_tabs(self):
-        pass
-
-    def control(self) :
-        pass
 
 ###### Video Processing #################
     async def videos_handling(self, url_list:list, main_tab:str, results:list):
@@ -92,7 +86,7 @@ class YouTubeScraper:
                 self.start_video()
 
             # get the recommended videos
-            recommended = self.get_video_recommendations()
+            recommended = self.get_video_recommendations(parent_url=url)
 
             # collect the features
             video = self.collect_data(url=url, ads=ad)
@@ -409,18 +403,23 @@ class YouTubeScraper:
             return 'Error found'
 
 
-    def get_video_recommendations(self) -> list:
+    def get_video_recommendations(self, parent_url:str) -> list:
         recommended_videos = []
         x = 0
+        # find the video in the tree
+        node = anytree.search.find(self.tree, filter_=lambda node: node.id == parent_url)
         path = '//*[@id="related"]/ytd-watch-next-secondary-results-renderer//*[@id="thumbnail"]'
         recommendations = self.driver.find_elements_by_xpath(path)
         for i in recommendations:
             video_url = i.get_attribute('href')
 
             #only add the videos not seen before
-            if(anytree.search.find(self.tree, filter_=lambda node: node.id == video_url) == None):
+            if(anytree.search.find(self.tree, filter_=lambda node: node.id == video_url) == None) and not (video_url in recommended_videos) and not (video_url == None):
                 #recommended_videos.append(i.get_attribute('href'))
                 recommended_videos.append(video_url)
+
+                # add recommended videos as children
+                AnyNode(id=video_url, parent=node, video=None, title=None)
                 x += 1
             else:
                 continue
@@ -436,18 +435,23 @@ class YouTubeScraper:
 
     def geometric_series_calc(self, num_reco:int, depth:int) -> int:
         x = 0
-        for i in range(0, depth+1):
+        for i in range(0, depth):
             x = x+num_reco**i
         return x
 
-    def run_scraper(self, url_seed:str, num_reco:int, depth:int, videos_parallele:int, trial_id:int):
+    def run_scraper(self, category:str, url_seed:str, max_wait:int, username:str, password:str, num_reco:int, depth:int, videos_parallele:int, trial_id:str):
         queue = deque([url_seed])
         root = AnyNode(id=url_seed, parent=None, video=None, title=None)
         self.tree = root
+        self.category = category
+        self.max_wait = max_wait
+        self.username = username
+        self.password = password
+        self.num_recommendations = num_reco
 
         main_window = self.driver.window_handles[-1]
-        self.login(main_tab=main_window, username=self.username, password=self.password)
-        self.delete_history(main_tab=main_window)
+        #self.login(main_tab=main_window, username=self.username, password=self.password)
+        #self.delete_history(main_tab=main_window)
 
         num_limit = self.geometric_series_calc(num_reco=num_reco, depth=depth)
         exec_time = []
@@ -460,9 +464,9 @@ class YouTubeScraper:
             #restart driver and login
             self.driver = self.create_chrome_driver()
             main_window = self.driver.window_handles[-1]
-            self.login(main_tab=main_window, username=self.username, password=self.password)
+            #self.login(main_tab=main_window, username=self.username, password=self.password)
 
-            start_time = time.time()
+            #start_time = time.time()
 
             #HERE: put an indication of what iteration were on through webhook or something
             print(f'----Iteration {iteration}----')
@@ -489,28 +493,26 @@ class YouTubeScraper:
                         node = root
                     else:
                         for n in anytree.LevelOrderIter(root):
-                            if (len(n.children) != 0):
-                                continue
+                            if (n.id == r[0]['url']):
+                                node = n
+                                node.title = r[0]['title']
+                                node.video = r[0]
                             else:
-                                if (n.id == r[0]['url']):
-                                    node = n
-                                    node.title = r[0]['title']
-                                    node.video = r[0]
-                                else:
-                                    continue
+                                continue
                     for i in r[1]:
                         queue.append(i)
-                        AnyNode(id=i, parent=node, video=None, title=None)
+                        #AnyNode(id=i, parent=node, video=None, title=None)
 
-            exec_time.append(time.time() - start_time)
+            #exec_time.append(time.time() - start_time)
+
         #print(RenderTree(self.tree, style=AsciiStyle()))
         # ---- save time to a file ----
-        exec_time = np.array(exec_time)
-        file = open(
-            'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\speed\\speed_records_{0}.txt'.format(self.video_url_to_id(trial_id)), 'w+')
-        for r in exec_time:
-            np.savetxt(fname=file, X=[r])
-        file.close()
+        #exec_time = np.array(exec_time)
+        #file = open(
+        #    'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\speed\\speed_records_{0}.txt'.format(self.video_url_to_id(trial_id)), 'w+')
+        #for r in exec_time:
+        #    np.savetxt(fname=file, X=[r])
+        #file.close()
 
         # ---Save results to a CSV file----
         print('writing to file')
@@ -523,9 +525,7 @@ class YouTubeScraper:
 
 #here create the object and call the central unit which launches the first video + parallele videos
 
-seeds = ['https://www.youtube.com/watch?v=E7fXAYcMIhQ',
-         'https://www.youtube.com/watch?v=WtftZPL-k7Y',
-         'https://www.youtube.com/watch?v=5cIvH-iZZfA',
+seeds = ['https://www.youtube.com/watch?v=5cIvH-iZZfA',
          'https://www.youtube.com/watch?v=O7FtjtF4gM0',
          'https://www.youtube.com/watch?v=SHZBGidQcEs',
          'https://www.youtube.com/watch?v=aMcjxSThD54',
@@ -536,29 +536,30 @@ seeds = ['https://www.youtube.com/watch?v=E7fXAYcMIhQ',
 
 id_number = 1
 for url_seed in seeds:
-    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
-                    category='Conservative YouTube',
-                    seed_url=url_seed,
-                    max_wait=180,
-                    trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}',
-                    num_recommendations=4,
-                    username='ytscraper1@yandex.com',
-                    password='396ytscraper1!')
+    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe")
 
-    scraper.run_scraper(url_seed, num_reco=4, depth=5, videos_parallele=13, trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}')
+    scraper.run_scraper(category='Conservative YouTube',
+                        url_seed=url_seed,
+                        max_wait=0,
+                        username='ytscraper1@yandex.com',
+                        password='396ytscraper1!',
+                        num_reco=3,
+                        depth=5,
+                        videos_parallele=18,
+                        trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}_reco-{3}_depth-{5}_Conservative_YouTube')
     scraper.driver.quit()
     id_number = id_number + 1
 
 for url_seed in seeds:
-    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe",
-                    category='Conservative YouTube',
-                    seed_url=url_seed,
-                    max_wait=180,
-                    trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}',
-                    num_recommendations=4,
-                    username='ytscraper1@yandex.com',
-                    password='396ytscraper1!')
+    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe")
 
-    scraper.run_scraper(url_seed, num_reco=4, depth=5, videos_parallele=13, trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}')
+    scraper.run_scraper(category='Conservative YouTube',
+                        url_seed=url_seed, max_wait=180,
+                        username='ytscraper1@yandex.com',
+                        password='396ytscraper1!',
+                        num_reco=3,
+                        depth=5,
+                        videos_parallele=18,
+                        trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}_reco-{3}_depth-{5}_Conservative_YouTube')
     scraper.driver.quit()
     id_number = id_number + 1
