@@ -46,7 +46,7 @@ class YouTubeScraper:
 
 ###### Video Processing #################
     async def videos_handling(self, url_list:list, main_tab:str, results:list):
-        print('videos_handling')
+        #print('videos_handling')
         tasks = []
         for url, i in zip(url_list, list(range(0, len(url_list)))):
             #open new tab and pass it for new video to watch
@@ -58,7 +58,7 @@ class YouTubeScraper:
 
     #here you watch a single video at a time
     async def video_processing(self, url:str, main_tab:str, current_tab:str, res:list, index:int):
-        print('video_processing')
+        #print('video_processing')
         try:
             #self.driver.switch_to_window(current_tab)
             self.driver.switch_to.window(current_tab)
@@ -138,7 +138,7 @@ class YouTubeScraper:
         return self.driver.execute_script("return document.getElementById('movie_player').getDuration()")
 
     def login(self, main_tab, username, password):
-        print('login')
+        #('login')
         self.driver.get('https://www.youtube.com/')
         time.sleep(2)
         # skip the data protection button
@@ -256,30 +256,29 @@ class YouTubeScraper:
             delete.click()
 
             delete_all_time = WebDriverWait(self.driver, 10).until(
-                              EC.presence_of_element_located((By.XPATH, '//*[@id="yDmH0d"]/div[7]/div/div[2]/span/div[2]/div/c-wiz/div/div[3]/ul/li[3]'))
+                              EC.presence_of_element_located((By.XPATH, '/html/body/div[8]/div/div[2]/span/div[2]/div/c-wiz/div/div[3]/ul/li[3]'))
                              )
             delete_all_time.click()
 
             #if this doesn't go through then we haven't watched any videos
             try:
                 confirm_delete = WebDriverWait(self.driver, 10).until(
-                               EC.presence_of_element_located((By.XPATH, '//*[@id="yDmH0d"]/div[7]/div/div[2]/span/div[2]/div[1]/c-wiz/div/div[4]/div/div[2]/button'))
+                               EC.presence_of_element_located((By.XPATH, '/html/body/div[8]/div/div[2]/span/div[2]/div[1]/c-wiz/div/div[4]/div/div[2]/button'))
                               )
                 confirm_delete.click()
 
             except Exception as e:
-                return_statement = f'No history to delete: {e}'
+                print(f'No history to delete')
         except Exception as e:
             return_statement = f'History delete error: {e}'
+            raise ElementNotInteractableException(msg=return_statement)
 
         self.driver.close()
         self.driver.switch_to.window(main_tab)
 
-        return return_statement
-
 
     def collect_data(self, url:str, ads:bool):
-        print('collecting data')
+        #print('collecting data')
         length = self.get_duration()
 
         self.driver.execute_script('window.scrollTo(0, 540)')
@@ -372,7 +371,6 @@ class YouTubeScraper:
 
     def get_description(self) -> str:
         try:
-            #self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string/span[1]')[0].text
             return self.driver.find_elements_by_xpath('//*[@id="description"]/yt-formatted-string')[0].text
         except:
             return 'Error found'
@@ -415,7 +413,6 @@ class YouTubeScraper:
 
             #only add the videos not seen before
             if(anytree.search.find(self.tree, filter_=lambda node: node.id == video_url) == None) and not (video_url in recommended_videos) and not (video_url == None):
-                #recommended_videos.append(i.get_attribute('href'))
                 recommended_videos.append(video_url)
 
                 # add recommended videos as children
@@ -450,11 +447,11 @@ class YouTubeScraper:
         self.num_recommendations = num_reco
 
         main_window = self.driver.window_handles[-1]
-        #self.login(main_tab=main_window, username=self.username, password=self.password)
-        #self.delete_history(main_tab=main_window)
+        self.login(main_tab=main_window, username=self.username, password=self.password)
+        self.delete_history(main_tab=main_window)
 
         num_limit = self.geometric_series_calc(num_reco=num_reco, depth=depth)
-        exec_time = []
+        #exec_time = []
         videos_watched = []
 
         iteration = 0
@@ -464,11 +461,8 @@ class YouTubeScraper:
             #restart driver and login
             self.driver = self.create_chrome_driver()
             main_window = self.driver.window_handles[-1]
-            #self.login(main_tab=main_window, username=self.username, password=self.password)
+            self.login(main_tab=main_window, username=self.username, password=self.password)
 
-            #start_time = time.time()
-
-            #HERE: put an indication of what iteration were on through webhook or something
             print(f'----Iteration {iteration}----')
             iteration = iteration+1
 
@@ -501,65 +495,41 @@ class YouTubeScraper:
                                 continue
                     for i in r[1]:
                         queue.append(i)
-                        #AnyNode(id=i, parent=node, video=None, title=None)
-
-            #exec_time.append(time.time() - start_time)
-
-        #print(RenderTree(self.tree, style=AsciiStyle()))
-        # ---- save time to a file ----
-        #exec_time = np.array(exec_time)
-        #file = open(
-        #    'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\speed\\speed_records_{0}.txt'.format(self.video_url_to_id(trial_id)), 'w+')
-        #for r in exec_time:
-        #    np.savetxt(fname=file, X=[r])
-        #file.close()
 
         # ---Save results to a CSV file----
         print('writing to file')
-        path_to_file = 'C:\\Users\\mikad\\PycharmProjects\\Comp_396_YouTube_Radicalization\\tree_results\\tree_json_{0}.txt'.format(self.video_url_to_id(trial_id))
-        exporter = JsonExporter(indent=2, sort_keys=True)
-        with open(path_to_file, 'w+') as outfile:
-            exporter.write(root, outfile)
-        outfile.close()
+        try:
+            path_to_file = 'D:\\Data Science\\Comp_396\\Project\Results\\tree_json_{0}.txt'.format(self.video_url_to_id(trial_id))
+            exporter = JsonExporter(indent=2, sort_keys=True)
+            with open(path_to_file, 'w+') as outfile:
+                exporter.write(root, outfile)
+            outfile.close()
+        except:
+            path_to_file = 'D:\\Data Science\\Comp_396\\Project\Results\\tree_json_error_opening_file_{0}.txt'.format(np.random.randint(0, 100000))
+            exporter = JsonExporter(indent=2, sort_keys=True)
+            with open(path_to_file, 'w+') as outfile:
+                exporter.write(root, outfile)
+            outfile.close()
 
 
 #here create the object and call the central unit which launches the first video + parallele videos
-
-seeds = ['https://www.youtube.com/watch?v=5cIvH-iZZfA',
-         'https://www.youtube.com/watch?v=O7FtjtF4gM0',
-         'https://www.youtube.com/watch?v=SHZBGidQcEs',
-         'https://www.youtube.com/watch?v=aMcjxSThD54',
-         'https://www.youtube.com/watch?v=XQT-kXSQek0',
-         'https://www.youtube.com/watch?v=XcV1AVNz8P8',
-         'https://www.youtube.com/watch?v=RDmwPGrZkYs'
-         'https://www.youtube.com/watch?v=gWWT-_2zUao']
-
+seed_file = open('seeds_blade.txt', 'r')
+seeds = seed_file.read()
+seeds = seeds.split('\n')
 id_number = 1
-for url_seed in seeds:
-    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe")
 
-    scraper.run_scraper(category='Conservative YouTube',
-                        url_seed=url_seed,
-                        max_wait=0,
-                        username='ytscraper1@yandex.com',
-                        password='396ytscraper1!',
-                        num_reco=3,
-                        depth=5,
-                        videos_parallele=18,
-                        trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}_reco-{3}_depth-{5}_Conservative_YouTube')
-    scraper.driver.quit()
-    id_number = id_number + 1
+for i in [0, 1]:
+    for url_seed in seeds:
+        scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe")
 
-for url_seed in seeds:
-    scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe")
-
-    scraper.run_scraper(category='Conservative YouTube',
-                        url_seed=url_seed, max_wait=180,
-                        username='ytscraper1@yandex.com',
-                        password='396ytscraper1!',
-                        num_reco=3,
-                        depth=5,
-                        videos_parallele=18,
-                        trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}_reco-{3}_depth-{5}_Conservative_YouTube')
-    scraper.driver.quit()
-    id_number = id_number + 1
+        scraper.run_scraper(category='Conservative YouTube',
+                            url_seed=url_seed,
+                            max_wait=5,
+                            username='ytscraper1@yandex.com',
+                            password='396ytscraper1!',
+                            num_reco=3,
+                            depth=5,
+                            videos_parallele=14,
+                            trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}_reco-{3}_depth-{5}_Conservative_YouTube')
+        scraper.driver.quit()
+        id_number = id_number + 1
