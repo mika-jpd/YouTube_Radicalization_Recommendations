@@ -40,7 +40,9 @@ class YouTubeScraper:
         options.add_argument('--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"')
         options.add_argument("--allow-running-insecure-content")
         options.add_argument("--lang=en-US")
-        #options.add_argument('--headless')
+
+        #comment out in order to see the scraper interacting with webpages
+        options.add_argument('--headless')
 
         return webdriver.Chrome(executable_path=self.path, options=options)
 
@@ -58,17 +60,17 @@ class YouTubeScraper:
 
     #here you watch a single video at a time
     async def video_processing(self, url:str, main_tab:str, current_tab:str, res:list, index:int):
-        #print('video_processing')
+
         try:
-            #self.driver.switch_to_window(current_tab)
             self.driver.switch_to.window(current_tab)
             self.driver.get(url)
             #wait for the video to be loaded
             time.sleep(1)
-            #skip the data protection button
+            #skip the data protection button if it appears
             try:
                 self.driver.find_elements_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button/span')[0].click()
             except:
+                # skip the data protection button if it appears
                 try:
                     self.driver.find_elements_by_xpath('/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[2]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a/tp-yt-paper-button/yt-formatted-string')[0].click()
                 except:
@@ -105,7 +107,7 @@ class YouTubeScraper:
             res[index] = ('Error found', 'Error found')
 
     def start_video(self):
-        #click on the button to start if
+        #click on the button to start if the video is not playing (ie. if there were no ads before it)
         try:
             element = self.driver.find_element_by_xpath("//button[@class='ytp-large-play-button ytp-button']")
             element.click()
@@ -127,6 +129,7 @@ class YouTubeScraper:
             #first make sure it can be skipped by finding the ad text button
             element = self.driver.find_elements_by_xpath('//*[contains(@id, "ad-text:")]')
             for i in element:
+                #my code works for both french YouTube and anglohpone YouTube
                 if(i.text == 'Skip Ads' or i.text == 'Skip Ad' or i.text == "Passer les annonces" or i.text == "Ignorer l'annonce"):
                     self.driver.find_elements_by_xpath('//*[@class="ytp-ad-skip-button ytp-button"]')[0].click()
                     break
@@ -168,6 +171,7 @@ class YouTubeScraper:
             WebDriverWait(self.driver, 10).until(
                 EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).click()
         except:
+            #this will happen if we have some sort of catptcha security
             self.driver.save_screenshot('captcha.png')
             while(True):
                 val = input('Send captcha message: ')
@@ -189,7 +193,6 @@ class YouTubeScraper:
                     continue
 
         for i in password:
-            #//*[@id="passwordNext"]/div/button
             WebDriverWait(self.driver, 60).until(
                 EC.element_to_be_clickable((By.XPATH, '//*[@id="password"]/div[1]/div/div[1]/input'))).send_keys(i)
             time.sleep((np.random.randint(1, 3)) / 10)
@@ -197,6 +200,7 @@ class YouTubeScraper:
             EC.element_to_be_clickable((By.XPATH, '//*[@id="passwordNext"]/div/button'))).click()
 
         try:
+            #if this goes through then we're on the homepage and login was a success
             WebDriverWait(self.driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, '//*[@aria-label="Notifications"]')))
         except Exception as e:
@@ -232,6 +236,7 @@ class YouTubeScraper:
                 raise
 
             try:
+                #again if this goes through then we're at the homepage and we've successfully logged in
                 WebDriverWait(self.driver, 10).until(
                     EC.presence_of_element_located((By.XPATH, '//*[@aria-label="Notifications"]')))
 
@@ -278,7 +283,7 @@ class YouTubeScraper:
 
 
     def collect_data(self, url:str, ads:bool):
-        #print('collecting data')
+
         length = self.get_duration()
 
         self.driver.execute_script('window.scrollTo(0, 540)')
@@ -466,7 +471,9 @@ class YouTubeScraper:
             print(f'----Iteration {iteration}----')
             iteration = iteration+1
 
+            #array of video urls to watch
             tasks = []
+            #determines how many videos will be watched at the same time
             to_watch = min(videos_parallele, len(queue), num_limit-len(videos_watched))
 
             for i in range(0, to_watch):
@@ -474,6 +481,7 @@ class YouTubeScraper:
                 tasks.append(x)
                 videos_watched.append(x)
 
+            #this array will receive the results of the scraping
             results = [None for i in tasks]
             asyncio.run(self.videos_handling(url_list=tasks, main_tab=main_window, results=results), debug=True)
 
@@ -499,12 +507,16 @@ class YouTubeScraper:
         # ---Save results to a CSV file----
         print('writing to file')
         try:
+            ###############------=CHANGE PATH=------###############
+            #modify this path to save your file in your own computer
             path_to_file = 'D:\\Data Science\\Comp_396\\Project\Results\\tree_json_{0}.txt'.format(self.video_url_to_id(trial_id))
             exporter = JsonExporter(indent=2, sort_keys=True)
             with open(path_to_file, 'w+') as outfile:
                 exporter.write(root, outfile)
             outfile.close()
         except:
+            ###############------=CHANGE PATH=------###############
+            # modify this path to save your file in your own computer
             path_to_file = 'D:\\Data Science\\Comp_396\\Project\Results\\tree_json_error_opening_file_{0}.txt'.format(np.random.randint(0, 100000))
             exporter = JsonExporter(indent=2, sort_keys=True)
             with open(path_to_file, 'w+') as outfile:
@@ -520,16 +532,25 @@ id_number = 1
 
 for i in [0, 1]:
     for url_seed in seeds:
+        ###############------=CHANGE PATH=------###############
+        #change this path to where you saved the Chromedriver
         scraper = YouTubeScraper(path_driver="C:\Program Files (x86)\chromedriver.exe")
-
         scraper.run_scraper(category='Conservative YouTube',
                             url_seed=url_seed,
                             max_wait=5,
+                            #change username and password
                             username='ytscraper1@yandex.com',
                             password='396ytscraper1!',
                             num_reco=3,
                             depth=5,
                             videos_parallele=14,
+                            #make your own trial_id
                             trial_id=f'{url_seed}_mika_razer_blade_2018_{id_number}_reco-{3}_depth-{5}_Conservative_YouTube')
         scraper.driver.quit()
         id_number = id_number + 1
+
+"""
+To run the script on your computer:
+    - change the path of the Chromedriver 
+    - change the path for where you want to save your trees
+"""
