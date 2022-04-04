@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=ZteAovHJllk",
+                  "sampled_type": "random",
+                  "title": "I can't stop buying weird ads (& getting scammed)",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "https://www.youtube.com/watch?v=UTHKgVPZ-is"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "8,437",
+                    "content creator": "Drew Gooden",
+                    "date": "Dec 31, 2021",
+                    "description": "Sponsored by Current. Head to https://www.current.com/drewholiday and use my code DREWHOLIDAY when signing up for a chance to win $500. \n\nTornado relief funds:",
+                    "dislikes": " Unavailable",
+                    "id": "ZteAovHJllk",
+                    "likes": "195,850 likes",
+                    "title": "I can't stop buying weird ads (& getting scammed)",
+                    "url": "https://www.youtube.com/watch?v=ZteAovHJllk",
+                    "video_length": 1292.201,
+                    "views": "2,936,495 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Gu_tfM3JX9k",
+              "sampled_type": "random",
+              "title": "Jumping the Shark",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=iKnR2pzb4Gg",
+                "https://www.youtube.com/watch?v=iKnR2pzb4Gg&list=RDGu_tfM3JX9k&start_radio=1&rv=Gu_tfM3JX9k",
+                "https://www.youtube.com/watch?v=6YjZYL3ZJpc",
+                "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+                "https://www.youtube.com/watch?v=n5epdtzmx4w",
+                "https://www.youtube.com/watch?v=Gk8jj0q6RzM",
+                "https://www.youtube.com/watch?v=QPwTKSMcAL8",
+                "https://www.youtube.com/watch?v=d_U81BeHy6Y",
+                "https://www.youtube.com/watch?v=aRmo_D00LJc",
+                "https://www.youtube.com/watch?v=BfzXLjK6Pno"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "27,822",
+                "content creator": "Drew Gooden",
+                "date": "Jan 31, 2020",
+                "description": "Thanks to squarespace for sponsoring today's video! Head to https://www.squarespace.com/drew to get 10% your first purchase.",
+                "dislikes": " Unavailable",
+                "id": "Gu_tfM3JX9k",
+                "likes": "169,462 likes",
+                "title": "Jumping the Shark",
+                "url": "https://www.youtube.com/watch?v=Gu_tfM3JX9k",
+                "video_length": 959.381,
+                "views": "3,558,096 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=va4P3RKW7T0",
+          "sampled_type": "random",
+          "title": "Television is a Confusing, Expensive Mess",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=qeAfdT1Ihpg",
+            "https://www.youtube.com/watch?v=8quWUSZCW5g",
+            "https://www.youtube.com/watch?v=bptr7UvrCbQ",
+            "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+            "https://www.youtube.com/watch?v=5KrRqeZbmrs&list=RDva4P3RKW7T0&start_radio=1&rv=va4P3RKW7T0",
+            "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+            "https://www.youtube.com/watch?v=JixfMaTULKY",
+            "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+            "https://www.youtube.com/watch?v=yA-rsBH1NP4",
+            "https://www.youtube.com/watch?v=itWEMxATuJk"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "23,845",
+            "content creator": "Drew Gooden",
+            "date": "Oct 11, 2020",
+            "description": "Use code 80IMALITTLESTINKER to get $80 off across 5 HelloFresh boxes, including free shipping on your first box at https://bit.ly/2WGF2dw",
+            "dislikes": " Unavailable",
+            "id": "va4P3RKW7T0",
+            "likes": "285,662 likes",
+            "title": "Television is a Confusing, Expensive Mess",
+            "url": "https://www.youtube.com/watch?v=va4P3RKW7T0",
+            "video_length": 1462.761,
+            "views": "6,087,407 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=TJvHHgGerJg",
+      "sampled_type": "random",
+      "title": "Vin Diesel: King of Cringe",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=5KrRqeZbmrs",
+        "https://www.youtube.com/watch?v=OrgXCNzdkwA",
+        "https://www.youtube.com/watch?v=sUs8V5fk5xo",
+        "https://www.youtube.com/watch?v=_uX9adalziQ",
+        "https://www.youtube.com/watch?v=sz3aopl4OhI",
+        "https://www.youtube.com/watch?v=fxvq46lH7JY",
+        "https://www.youtube.com/watch?v=bibPGJBDILQ&list=RDTJvHHgGerJg&start_radio=1&rv=TJvHHgGerJg",
+        "https://www.youtube.com/watch?v=dkWKQje05mU",
+        "https://www.youtube.com/watch?v=o1TwluWTnIo",
+        "https://www.youtube.com/watch?v=mE0lczD0y4Y"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "23,946",
+        "content creator": "Drew Gooden",
+        "date": "Sep 21, 2018",
+        "description": "Thanks to Skillshare for sponsoring today's video. The first 1000 people to sign up at http://skl.sh/drewgooden2 will get their first two months of Skillshare for free!\n\nVin Diesel is America's favorite meat puppet; but what is he hiding under that beefy exterior? Turns out it's a lot weirder than you might have thought.\n\nroad work ahead signed signs:",
+        "dislikes": " Unavailable",
+        "id": "TJvHHgGerJg",
+        "likes": "280,100 likes",
+        "title": "Vin Diesel: King of Cringe",
+        "url": "https://www.youtube.com/watch?v=TJvHHgGerJg",
+        "video_length": 1199.501,
+        "views": "7,509,560 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=hpcZmuz2LGY",
+                  "sampled_type": "curated",
+                  "title": "The deadly race to the South Pole",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=g9bkQ7OiEdQ",
+                    "https://www.youtube.com/watch?v=pAoEHR4aW8I",
+                    "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+                    "https://www.youtube.com/watch?v=4gKhm09PKPQ",
+                    "https://www.youtube.com/watch?v=HLxvq_M4218",
+                    "https://www.youtube.com/watch?v=ddiOJLuu2mo",
+                    "https://www.youtube.com/watch?v=91XI7M9l3no",
+                    "https://www.youtube.com/watch?v=dOkFXPblLpU",
+                    "https://www.youtube.com/watch?v=0EIFDSb7tWc",
+                    "https://www.youtube.com/watch?v=Fb9U1uoYCOc"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,796",
+                    "content creator": "Vox",
+                    "date": "Feb 4, 2019",
+                    "description": "Two exploration teams raced to the South Pole. Only one made it out alive. \n\nCorrection: A previous version of this video used an outdated British flag. The error has been corrected. We also occasionally referred to the British team as English. In fact, some members of Scott's team were Scottish and Welsh.\n\nHelp us make our channel more ambitious by joining the Vox Video Lab. Becoming a member brings you closer to our work and gets you exclusive perks, like livestream Q&As with your favorite Vox creators. Learn more at ",
+                    "dislikes": " Unavailable",
+                    "id": "hpcZmuz2LGY",
+                    "likes": "91,056 likes",
+                    "title": "The deadly race to the South Pole",
+                    "url": "https://www.youtube.com/watch?v=hpcZmuz2LGY",
+                    "video_length": 336.521,
+                    "views": "2,993,564 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Mn4VDwaV-oo",
+              "sampled_type": "curated",
+              "title": "The mistake that toppled the Berlin Wall",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=A9fQPzZ1-hg",
+                "https://www.youtube.com/watch?v=hpcZmuz2LGY",
+                "https://www.youtube.com/watch?v=GD1d8wKIrps",
+                "https://www.youtube.com/watch?v=v394vC23HW0",
+                "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+                "https://www.youtube.com/watch?v=mY3SEMTROas",
+                "https://www.youtube.com/watch?v=ibWJO02nNsY",
+                "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+                "https://www.youtube.com/watch?v=kiw1Zv-B02c",
+                "https://www.youtube.com/watch?v=_bYic1R0i28"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,790",
+                "content creator": "Vox",
+                "date": "Nov 8, 2019",
+                "description": "One of the Cold War's biggest moments began at a routine press conference.\n\nBecome a Video Lab member! http://bit.ly/video-lab",
+                "dislikes": " Unavailable",
+                "id": "Mn4VDwaV-oo",
+                "likes": "81,685 likes",
+                "title": "The mistake that toppled the Berlin Wall",
+                "url": "https://www.youtube.com/watch?v=Mn4VDwaV-oo",
+                "video_length": 490.881,
+                "views": "3,025,401 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=0fhaEIlGux4",
+          "sampled_type": "curated",
+          "title": "How Taiwan held off Covid-19, until it didn't",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Mn4VDwaV-oo",
+            "https://www.youtube.com/watch?v=v394vC23HW0",
+            "https://www.youtube.com/watch?v=9Y18-07g39g",
+            "https://www.youtube.com/watch?v=BE-cA4UK07c",
+            "https://www.youtube.com/watch?v=ZacOS8NBK6U",
+            "https://www.youtube.com/watch?v=WjVVwMGJ9S8",
+            "https://www.youtube.com/watch?v=oW7LQmGY_9w",
+            "https://www.youtube.com/watch?v=bVzvZxW5n2Q",
+            "https://www.youtube.com/watch?v=ajavsMbCapY",
+            "https://www.youtube.com/watch?v=6_RdnVtfZPY"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "6,533",
+            "content creator": "Vox",
+            "date": "Jul 6, 2021",
+            "description": "Another pandemic will come. Here\u2019s what we can learn from Taiwan\u2019s efforts to fight this one. \n\nSubscribe and turn on notifications (\ud83d\udd14) so you don't miss any videos: http://goo.gl/0bsAjO",
+            "dislikes": " Unavailable",
+            "id": "0fhaEIlGux4",
+            "likes": "73,895 likes",
+            "title": "How Taiwan held off Covid-19, until it didn't",
+            "url": "https://www.youtube.com/watch?v=0fhaEIlGux4",
+            "video_length": 580.601,
+            "views": "2,909,962 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=2ty2J0s2W0c",
+      "sampled_type": "curated",
+      "title": "How rich countries are making the pandemic last longer",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=0fhaEIlGux4",
+        "https://www.youtube.com/watch?v=34oI0yd5YUc",
+        "https://www.youtube.com/watch?v=fsjvwQclGLo",
+        "https://www.youtube.com/watch?v=BShvYeyMm_Y",
+        "https://www.youtube.com/watch?v=1-OJX1rwnl8",
+        "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+        "https://www.youtube.com/watch?v=t6V9i8fFADI",
+        "https://www.youtube.com/watch?v=mvA9gs5gxNY",
+        "https://www.youtube.com/watch?v=K3odScka55A",
+        "https://www.youtube.com/watch?v=lg6Jlh-bEhk"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "14,569",
+        "content creator": "Vox",
+        "date": "Apr 28, 2021",
+        "description": "A program called Covax wants to distribute Covid-19 vaccines fairly. Is it working?\n\nSubscribe to our channel! http://goo.gl/0bsAjO",
+        "dislikes": " Unavailable",
+        "id": "2ty2J0s2W0c",
+        "likes": "95,575 likes",
+        "title": "How rich countries are making the pandemic last longer",
+        "url": "https://www.youtube.com/watch?v=2ty2J0s2W0c",
+        "video_length": 523.301,
+        "views": "3,821,906 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=-wG9m-eYNiM",
+                  "sampled_type": "curated",
+                  "title": "The Worst Ghost Hunting Show of All Time",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=JKFgn6tNU6w",
+                    "https://www.youtube.com/watch?v=B-8zmGr0geQ",
+                    "https://www.youtube.com/watch?v=-wG9m-eYNiM&list=RDCMUC7-E5xhZBZdW-8d7V80mzfg&start_radio=1&rv=-wG9m-eYNiM",
+                    "https://www.youtube.com/watch?v=xrIxGWterYA",
+                    "https://www.youtube.com/watch?v=DRD-CX9Uzwo",
+                    "https://www.youtube.com/watch?v=OVa-sqcDYZ4",
+                    "https://www.youtube.com/watch?v=HPwgSXZJcok",
+                    "https://www.youtube.com/watch?v=p4AdFD3E2ok",
+                    "https://www.youtube.com/watch?v=TJGm8Sj7Qn8",
+                    "https://www.youtube.com/watch?v=nmy4FMwug0Q"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,906",
+                    "content creator": "Jenny Nicholson",
+                    "date": "Oct 25, 2018",
+                    "description": "You've got to hand it to them, they DID find a heck of a lot of ghosts.\n\nParanormal Home Inspectors drinking game rules! Sip every time:\nThe family turns out to live right next to a train which is periodically vibrating their house and making things move - ",
+                    "dislikes": " Unavailable",
+                    "id": "-wG9m-eYNiM",
+                    "likes": "49,291 likes",
+                    "title": "The Worst Ghost Hunting Show of All Time",
+                    "url": "https://www.youtube.com/watch?v=-wG9m-eYNiM",
+                    "video_length": 1902.101,
+                    "views": "1,648,813 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=TJGm8Sj7Qn8",
+              "sampled_type": "curated",
+              "title": "This Is DEFINITELY Not A Published Reylo Fanfic Novel",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=-wG9m-eYNiM",
+                "https://www.youtube.com/watch?v=TJGm8Sj7Qn8&list=RDCMUC7-E5xhZBZdW-8d7V80mzfg&start_radio=1&rv=TJGm8Sj7Qn8",
+                "https://www.youtube.com/watch?v=8quWUSZCW5g",
+                "https://www.youtube.com/watch?v=JsNm2YLrk30",
+                "https://www.youtube.com/watch?v=xrIxGWterYA",
+                "https://www.youtube.com/watch?v=flR2gP8H90w",
+                "https://www.youtube.com/watch?v=ScqSZk02vA4",
+                "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+                "https://www.youtube.com/watch?v=B-8zmGr0geQ",
+                "https://www.youtube.com/watch?v=DRD-CX9Uzwo"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "7,019",
+                "content creator": "Jenny Nicholson",
+                "date": "Mar 14, 2019",
+                "description": "An original tale of sci-fi adventure in our very own galaxy.\n\nDarius, the Seer, might liken you to:\nA lens, which can\u2019t be seen through or around - ",
+                "dislikes": " Unavailable",
+                "id": "TJGm8Sj7Qn8",
+                "likes": "47,145 likes",
+                "title": "This Is DEFINITELY Not A Published Reylo Fanfic Novel",
+                "url": "https://www.youtube.com/watch?v=TJGm8Sj7Qn8",
+                "video_length": 6200.721,
+                "views": "2,735,904 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+          "sampled_type": "curated",
+          "title": "Well, I guess SOMEBODY had to read \u201cTrigger Warning\u201d",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=TJGm8Sj7Qn8",
+            "https://www.youtube.com/watch?v=DRD-CX9Uzwo",
+            "https://www.youtube.com/watch?v=BsHT1fYouYU",
+            "https://www.youtube.com/watch?v=JKFgn6tNU6w",
+            "https://www.youtube.com/watch?v=yZMt87ZdUbw",
+            "https://www.youtube.com/watch?v=xrIxGWterYA",
+            "https://www.youtube.com/watch?v=QYUJ_ODfc8w",
+            "https://www.youtube.com/watch?v=qMgMr0JcYJ4&list=RDCMUC7-E5xhZBZdW-8d7V80mzfg&start_radio=1&rv=qMgMr0JcYJ4",
+            "https://www.youtube.com/watch?v=0tsdOo_wO44",
+            "https://www.youtube.com/watch?v=QDiDqW760co"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "23,668",
+            "content creator": "Jenny Nicholson",
+            "date": "Jan 20, 2019",
+            "description": "The little story of a big man.\n\nClick the character you relate to the most:\n\nJake Rivers, a big man with an old soul - ",
+            "dislikes": " Unavailable",
+            "id": "qMgMr0JcYJ4",
+            "likes": "101,138 likes",
+            "title": "Well, I guess SOMEBODY had to read \u201cTrigger Warning\u201d",
+            "url": "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+            "video_length": 5318.961,
+            "views": "4,594,863 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+      "sampled_type": "curated",
+      "title": "Error found",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=jVyjRhSX92E",
+        "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+        "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+        "https://www.youtube.com/watch?v=zqllxbPWKNI",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=QL_YEe7jLVc",
+        "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+        "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+        "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+        "https://www.youtube.com/watch?v=p4AdFD3E2ok"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "Error found",
+        "content creator": null,
+        "date": "Mar 21, 2021",
+        "description": "CW: racism\n\ni look at school\n\nLinks:",
+        "dislikes": " Unavailable",
+        "id": "b2d8u2QyvAo",
+        "likes": "40,566 likes",
+        "title": "Error found",
+        "url": "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+        "video_length": 3437.701,
+        "views": "913,448 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+                  "sampled_type": "curated",
+                  "title": "Sherlock Is Garbage, And Here's Why",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=8PUCSyIkEus",
+                    "https://www.youtube.com/watch?v=LkoGBOs5ecM&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=LkoGBOs5ecM",
+                    "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+                    "https://www.youtube.com/watch?v=rc24YtUslCU",
+                    "https://www.youtube.com/watch?v=flLEr_sYC-k",
+                    "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                    "https://www.youtube.com/watch?v=xqqC5IJa2go",
+                    "https://www.youtube.com/watch?v=dklVypazQsA",
+                    "https://www.youtube.com/watch?v=wGKB3jXGqu0",
+                    "https://www.youtube.com/watch?v=tvfjZw8qthA"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "29,469",
+                    "content creator": "hbomberguy",
+                    "date": "May 31, 2017",
+                    "description": "Why is Sherlock so bad? Harris Bomberguy is on the case!\nThis version of the video has been slightly edited to get around the BBC's automatic video-blocking stuff.\n\nMy Twitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "LkoGBOs5ecM",
+                    "likes": "176,535 likes",
+                    "title": "Sherlock Is Garbage, And Here's Why",
+                    "url": "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+                    "video_length": 6592.241,
+                    "views": "7,880,343 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+              "sampled_type": "curated",
+              "title": "Fallout 3 Is Garbage, And Here's Why",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=A34poZ6paGs",
+                "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+                "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+                "https://www.youtube.com/watch?v=kjyeCdd-dl8",
+                "https://www.youtube.com/watch?v=mLJ1gyIzg78&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=mLJ1gyIzg78",
+                "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+                "https://www.youtube.com/watch?v=JOp28hQb_Xw",
+                "https://www.youtube.com/watch?v=KSXKzPOcYDU",
+                "https://www.youtube.com/watch?v=kYJx5xt2cB0",
+                "https://www.youtube.com/watch?v=wGKB3jXGqu0"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "54,567",
+                "content creator": "hbomberguy",
+                "date": "May 12, 2016",
+                "description": "This is a review of Fallout 3, featuring retrospectives on the series as a whole, analysis of gameplay and storytelling mechanics, discussion of the games' initial critical reception, and the ability to absorb 1.5 hours of your human life right through the screen.\n\nIt is also feature-length. Literally the length of numerous good films you could watch instead. Oops!\n\nPatreon: ",
+                "dislikes": " Unavailable",
+                "id": "mLJ1gyIzg78",
+                "likes": "162,036 likes",
+                "title": "Fallout 3 Is Garbage, And Here's Why",
+                "url": "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+                "video_length": 5376.881,
+                "views": "7,287,081 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+          "sampled_type": "curated",
+          "title": "Fallout: New Vegas Is Genius, And Here's Why",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": true,
+            "comments": "23,424",
+            "content creator": "hbomberguy",
+            "date": "Dec 19, 2020",
+            "description": "(Spoilers for New Vegas, obviously)\n\nMy Twitter: https://twitter.com/hbomberguy",
+            "dislikes": " Unavailable",
+            "id": "gzF7aHxk4Y4",
+            "likes": "184,282 likes",
+            "title": "Fallout: New Vegas Is Genius, And Here's Why",
+            "url": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+            "video_length": 5861.901,
+            "views": "5,075,368 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+      "sampled_type": "curated",
+      "title": "The War on Christmas: A Measured Response",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+        "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+        "https://www.youtube.com/watch?v=jbZo4x0NbbI&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=jbZo4x0NbbI",
+        "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+        "https://www.youtube.com/watch?v=06yy88tLWlg",
+        "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+        "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+        "https://www.youtube.com/watch?v=KSXKzPOcYDU",
+        "https://www.youtube.com/watch?v=RZe9tBsLF8o",
+        "https://www.youtube.com/watch?v=9yjZpBq1XBE"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "17,503",
+        "content creator": "hbomberguy",
+        "date": "Premiered Dec 23, 2020",
+        "description": "Christmas is a moo point.\n\nMy Twitter: https://twitter.com/hbomberguy",
+        "dislikes": " Unavailable",
+        "id": "jbZo4x0NbbI",
+        "likes": "118,069 likes",
+        "title": "The War on Christmas: A Measured Response",
+        "url": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+        "video_length": 3237.081,
+        "views": "2,568,427 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                  "sampled_type": "curated",
+                  "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                    "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+                    "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                    "https://www.youtube.com/watch?v=rfYvLlbXj_8&list=RDLVrfYvLlbXj_8&start_radio=1&rv=rfYvLlbXj_8",
+                    "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                    "https://www.youtube.com/watch?v=6RQA9GZprqM",
+                    "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+                    "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+                    "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                    "https://www.youtube.com/watch?v=wO6uD3c2qMo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "8,838",
+                    "content creator": "Philosophy Tube",
+                    "date": "Jul 1, 2020",
+                    "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/philosophytube3\nSupport the show here! https://www.patreon.com/PhilosophyTube \ud83e\uddec\ud83d\ude49\ud83e\uddec\n\nSubscribe! ",
+                    "dislikes": " Unavailable",
+                    "id": "rfYvLlbXj_8",
+                    "likes": "61,033 likes",
+                    "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                    "video_length": 3686.141,
+                    "views": "1,335,062 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=dh4G1Gjv7bA",
+              "sampled_type": "curated",
+              "title": "Violence & Protest | Philosophy Tube",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                "https://www.youtube.com/watch?v=dh4G1Gjv7bA&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=dh4G1Gjv7bA",
+                "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                "https://www.youtube.com/watch?v=AeGEv0YVLtw",
+                "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                "https://www.youtube.com/watch?v=B-8zmGr0geQ",
+                "https://www.youtube.com/watch?v=x2W7P3wGBI8",
+                "https://www.youtube.com/watch?v=VG_hsUdFkOM",
+                "https://www.youtube.com/watch?v=LkoGBOs5ecM"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,538",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Dec 3, 2021",
+                "description": "CuriosityStream - https://curiositystream.com/philosoph...\n\nA video about protest, direct action, and revolution in the context of the climate crisis \u2694\ufe0f\u2694\ufe0f\u2694\ufe0f ",
+                "dislikes": " Unavailable",
+                "id": "dh4G1Gjv7bA",
+                "likes": "49,782 likes",
+                "title": "Violence & Protest | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=dh4G1Gjv7bA",
+                "video_length": 2484.601,
+                "views": "772,550 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=3S7ypQQIMQk",
+          "sampled_type": "curated",
+          "title": "Islamophobia: An Analysis | Philosophy Tube",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=dh4G1Gjv7bA",
+            "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+            "https://www.youtube.com/watch?v=bFeXJkcKYaU",
+            "https://www.youtube.com/watch?v=3S7ypQQIMQk&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=3S7ypQQIMQk",
+            "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+            "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+            "https://www.youtube.com/watch?v=m81q-ZkfBm0",
+            "https://www.youtube.com/watch?v=tmk47kh7fiE",
+            "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+            "https://www.youtube.com/watch?v=b2d8u2QyvAo"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "5,415",
+            "content creator": "Philosophy Tube",
+            "date": "Premiered Oct 8, 2021",
+            "description": "https://curiositystream.com/philosoph...\n\nhttps://www.patreon.com/PhilosophyTube",
+            "dislikes": " Unavailable",
+            "id": "3S7ypQQIMQk",
+            "likes": "58,781 likes",
+            "title": "Islamophobia: An Analysis | Philosophy Tube",
+            "url": "https://www.youtube.com/watch?v=3S7ypQQIMQk",
+            "video_length": 2208.481,
+            "views": "922,109 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=5O3Xp7A0q24",
+      "sampled_type": "curated",
+      "title": "Talking With Professor Flowers About Black Nationalism and Her Video Criticizing Me",
+      "top_10_recommended": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "video": {
+        "ad": null,
+        "comments": "9,681",
+        "content creator": "Vaush",
+        "date": "Sep 8, 2021",
+        "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+        "dislikes": " Unavailable",
+        "id": "5O3Xp7A0q24",
+        "likes": "10,311 likes",
+        "title": "Talking With Professor Flowers About Black Nationalism and Her Video Criticizing Me",
+        "url": "https://www.youtube.com/watch?v=5O3Xp7A0q24",
+        "video_length": 11835.261,
+        "views": "315,486 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=iRpAkSZVryM",
+                  "sampled_type": "random",
+                  "title": "This Elemental Wells Build Is Way Too STRONG!",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=chdE3e4au48",
+                    "https://www.youtube.com/watch?v=iRpAkSZVryM&list=RDCMUCjGoFCgcUQARIgT82CS4cwg&start_radio=1&rv=iRpAkSZVryM",
+                    "https://www.youtube.com/watch?v=kjyeCdd-dl8",
+                    "https://www.youtube.com/watch?v=sLvQlqHgrro",
+                    "https://www.youtube.com/watch?v=PRBGSsHQeAo",
+                    "https://www.youtube.com/watch?v=O5BJVO3PDeQ",
+                    "https://www.youtube.com/watch?v=JV8vqOpwkt0",
+                    "https://www.youtube.com/watch?v=ILEtw0Wlr3E",
+                    "https://www.youtube.com/watch?v=EdRLNUGmFC8",
+                    "https://www.youtube.com/watch?v=mQwvSCHxGSM"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "47",
+                    "content creator": "Sweatcicle",
+                    "date": "Jan 16, 2022",
+                    "description": "This Elemental Wells Build Is Way Too STRONG!\n\nTwitch - https://twitch.tv/sweatcicle",
+                    "dislikes": " Unavailable",
+                    "id": "iRpAkSZVryM",
+                    "likes": "526 likes",
+                    "title": "This Elemental Wells Build Is Way Too STRONG!",
+                    "url": "https://www.youtube.com/watch?v=iRpAkSZVryM",
+                    "video_length": 821.061,
+                    "views": "7,404 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=u6EZ5NRx_xA",
+              "sampled_type": "random",
+              "title": "10 Useful Tricks You Didn't Know Existed in Destiny 2",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "video": {
+                "ad": null,
+                "comments": "94",
+                "content creator": "Marshix",
+                "date": "Jan 15, 2022",
+                "description": "Install Raid for Free \u2705  IOS/ANDROID/PC: https://pl.go-ga.me/94tniqnc   and get a special starter pack \ud83d\udca5  Available only for the next 30 days\n\nThere are many useful and strange tricks in Destiny 2. Some will allow you to bypass item limits, convert resources into different materials, and even fill rooms with enhancement cores. In this video I go over 10 useful tricks that you never knew existed. All of these tricks can also be done completely solo so anyone can do them on their own. Using these methods you can buy legendary shards with glimmer, store large amounts of glimmer in your vault, break down enhancment cores, enhancement prisms, and ascendant shards, and much more! If you knew about any of these or know of any other useful tricks, share them in the comments! ",
+                "dislikes": " Unavailable",
+                "id": "u6EZ5NRx_xA",
+                "likes": "2,881 likes",
+                "title": "10 Useful Tricks You Didn't Know Existed in Destiny 2",
+                "url": "https://www.youtube.com/watch?v=u6EZ5NRx_xA",
+                "video_length": 602.321,
+                "views": "43,200 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=iI48g7YTZFA&list=RDwRZ0y-3wbWo&start_radio=1&rv=wRZ0y-3wbWo",
+          "sampled_type": "random",
+          "title": "Losing Your Relatability",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=iI48g7YTZFA&list=RDwRZ0y-3wbWo&index=1",
+            "https://www.youtube.com/watch?v=sz3aopl4OhI&list=RDwRZ0y-3wbWo&index=2",
+            "https://www.youtube.com/watch?v=lex6USTugUU&list=RDwRZ0y-3wbWo&index=3",
+            "https://www.youtube.com/watch?v=gPjryCgircY&list=RDwRZ0y-3wbWo&index=4",
+            "https://www.youtube.com/watch?v=8f-YvNffXb8&list=RDwRZ0y-3wbWo&index=5",
+            "https://www.youtube.com/watch?v=r9cLluDKIhk&list=RDwRZ0y-3wbWo&index=6",
+            "https://www.youtube.com/watch?v=jygerYwwFwg&list=RDwRZ0y-3wbWo&index=7",
+            "https://www.youtube.com/watch?v=dkWKQje05mU&list=RDwRZ0y-3wbWo&index=8",
+            "https://www.youtube.com/watch?v=OrgXCNzdkwA&list=RDwRZ0y-3wbWo&index=9",
+            "https://www.youtube.com/watch?v=Gk8jj0q6RzM&list=RDwRZ0y-3wbWo&index=10"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "25,978",
+            "content creator": "Drew Gooden",
+            "date": "Aug 21, 2019",
+            "description": "Go to https://expressvpn.com/drew, to take back your Internet privacy TODAY and find out how you can get 3 months free\n\nHEY ACE FAMILAAAAAYYYYY!!!!!!!!!!\n\nmerch:",
+            "dislikes": " Unavailable",
+            "id": "iI48g7YTZFA&list",
+            "likes": "389,973 likes",
+            "title": "Losing Your Relatability",
+            "url": "https://www.youtube.com/watch?v=iI48g7YTZFA&list=RDwRZ0y-3wbWo&start_radio=1&rv=wRZ0y-3wbWo",
+            "video_length": 1141.921,
+            "views": "8,858,912 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=wRZ0y-3wbWo",
+      "sampled_type": "random",
+      "title": "The Dobre Brothers Terrible Apology",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=VK9I1zL33f8",
+        "https://www.youtube.com/watch?v=iI48g7YTZFA&list=RDwRZ0y-3wbWo&start_radio=1&rv=wRZ0y-3wbWo",
+        "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+        "https://www.youtube.com/watch?v=cAp3QI1UWF8",
+        "https://www.youtube.com/watch?v=5j-b7SmHxIk",
+        "https://www.youtube.com/watch?v=hCa_ddzU6w4",
+        "https://www.youtube.com/watch?v=JHV69JDedCY",
+        "https://www.youtube.com/watch?v=r9cLluDKIhk",
+        "https://www.youtube.com/watch?v=hhSYpPSnfww",
+        "https://www.youtube.com/watch?v=fmyhDA9pXf8"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "7,785",
+        "content creator": "Drew Gooden",
+        "date": "Oct 18, 2019",
+        "description": "Thanks to HelloFresh for sponsoring today's video! Get $80 your first month of HelloFresh with promo code \"imalittlestinker80\":  https://bit.ly/2CfHeic",
+        "dislikes": " Unavailable",
+        "id": "wRZ0y-3wbWo",
+        "likes": "230,609 likes",
+        "title": "The Dobre Brothers Terrible Apology",
+        "url": "https://www.youtube.com/watch?v=wRZ0y-3wbWo",
+        "video_length": 626.661,
+        "views": "4,201,469 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

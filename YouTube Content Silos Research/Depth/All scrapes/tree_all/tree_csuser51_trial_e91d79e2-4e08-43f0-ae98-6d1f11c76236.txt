@@ -1,0 +1,982 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=2u_pZ-SgACk",
+                          "title": "Trump & Syria: Last Week Tonight with John Oliver (HBO)",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                            "https://www.youtube.com/watch?v=5xnZ_CeTqyM",
+                            "https://www.youtube.com/watch?v=qVIXUhZ2AWs",
+                            "https://www.youtube.com/watch?v=svEuG_ekNT0",
+                            "https://www.youtube.com/watch?v=xecEV4dSAXE",
+                            "https://www.youtube.com/watch?v=hkZir1L7fSY",
+                            "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                            "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+                            "https://www.youtube.com/watch?v=h1Lfd1aB9YI",
+                            "https://www.youtube.com/watch?v=7Z2XRg3dy9k"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "14,857",
+                            "content creator": "LastWeekTonight",
+                            "date": "Oct 28, 2019",
+                            "description": "John Oliver discusses the alarming decision to pull U.S. troops away from the border between Turkey and Syria.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                            "dislikes": " Unavailable",
+                            "id": "2u_pZ-SgACk",
+                            "likes": "147,544 likes",
+                            "title": "Trump & Syria: Last Week Tonight with John Oliver (HBO)",
+                            "url": "https://www.youtube.com/watch?v=2u_pZ-SgACk",
+                            "video_length": 1182.141,
+                            "views": "8,328,599 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                      "title": "Impeachment: Last Week Tonight with John Oliver (HBO)",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=2u_pZ-SgACk",
+                        "https://www.youtube.com/watch?v=zxT8CM8XntA&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=zxT8CM8XntA",
+                        "https://www.youtube.com/watch?v=bCBYJZ6QbUI",
+                        "https://www.youtube.com/watch?v=fyVz5vgqBhE",
+                        "https://www.youtube.com/watch?v=QCjk_NPsIqU",
+                        "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+                        "https://www.youtube.com/watch?v=qMGn9T37eR8",
+                        "https://www.youtube.com/watch?v=hnoMsftQPY8",
+                        "https://www.youtube.com/watch?v=h1Lfd1aB9YI",
+                        "https://www.youtube.com/watch?v=vTF-Kz_7L0c"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "14,734",
+                        "content creator": "LastWeekTonight",
+                        "date": "Jun 17, 2019",
+                        "description": "With a national conversation underway about the possibility of impeachment, John Oliver discusses whether the benefits outweigh the potential risks.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                        "dislikes": " Unavailable",
+                        "id": "zxT8CM8XntA",
+                        "likes": "138,126 likes",
+                        "title": "Impeachment: Last Week Tonight with John Oliver (HBO)",
+                        "url": "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                        "video_length": 1220.601,
+                        "views": "9,123,873 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=YMBj_tU7HRU",
+                  "title": "Mueller Report: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                    "https://www.youtube.com/watch?v=2u_pZ-SgACk",
+                    "https://www.youtube.com/watch?v=bCBYJZ6QbUI",
+                    "https://www.youtube.com/watch?v=0lTczPEG8iI",
+                    "https://www.youtube.com/watch?v=HaBQfSAVt0s",
+                    "https://www.youtube.com/watch?v=YMBj_tU7HRU&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=YMBj_tU7HRU",
+                    "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+                    "https://www.youtube.com/watch?v=h1Lfd1aB9YI",
+                    "https://www.youtube.com/watch?v=hnoMsftQPY8",
+                    "https://www.youtube.com/watch?v=7Z2XRg3dy9k"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "9,718",
+                    "content creator": "LastWeekTonight",
+                    "date": "Apr 22, 2019",
+                    "description": "Following the release of the Mueller Report, John Oliver discusses what we\u2019ve learned.\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "YMBj_tU7HRU",
+                    "likes": "123,909 likes",
+                    "title": "Mueller Report: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=YMBj_tU7HRU",
+                    "video_length": 909.861,
+                    "views": "8,324,744 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=mOVPStnVgvU",
+              "title": "Stupid Watergate II: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=YMBj_tU7HRU",
+                "https://www.youtube.com/watch?v=NpPyLcQ2vdI",
+                "https://www.youtube.com/watch?v=OubM8bD9kck",
+                "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+                "https://www.youtube.com/watch?v=UnSILVWDKL8",
+                "https://www.youtube.com/watch?v=opi8X9hQ7q8",
+                "https://www.youtube.com/watch?v=ET_b78GSBUs",
+                "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                "https://www.youtube.com/watch?v=vU8dCYocuyI",
+                "https://www.youtube.com/watch?v=cBUeipXFisQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "8,014",
+                "content creator": "LastWeekTonight",
+                "date": "Jun 11, 2018",
+                "description": "John Oliver explains how the president and his allies are going full O. J. in order to undermine the investigation of Russian interference in the 2016 election.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "mOVPStnVgvU",
+                "likes": "105,129 likes",
+                "title": "Stupid Watergate II: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=mOVPStnVgvU",
+                "video_length": 1069.421,
+                "views": "8,036,360 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+          "title": "Stupid Watergate: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=mOVPStnVgvU",
+            "https://www.youtube.com/watch?v=yw_nqzVfxFQ",
+            "https://www.youtube.com/watch?v=UN8bJb8biZU",
+            "https://www.youtube.com/watch?v=QCjk_NPsIqU",
+            "https://www.youtube.com/watch?v=xecEV4dSAXE",
+            "https://www.youtube.com/watch?v=oDPCmmZifE8",
+            "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+            "https://www.youtube.com/watch?v=YMBj_tU7HRU",
+            "https://www.youtube.com/watch?v=mXQuto1fMp4",
+            "https://www.youtube.com/watch?v=LEcbagW4O-s"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "10,990",
+            "content creator": "LastWeekTonight",
+            "date": "May 22, 2017",
+            "description": "John Oliver discusses the shocking magnitude and potential impact of the latest revelations surrounding the Russia investigation.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "FVFdsl29s_Q",
+            "likes": "171,280 likes",
+            "title": "Stupid Watergate: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+            "video_length": 1445.521,
+            "views": "16,673,842 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+      "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+        "https://www.youtube.com/watch?v=XMGxxRRtmHc",
+        "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+        "https://www.youtube.com/watch?v=-YkLPxQp_y0",
+        "https://www.youtube.com/watch?v=xecEV4dSAXE",
+        "https://www.youtube.com/watch?v=7VG_s2PCH_c",
+        "https://www.youtube.com/watch?v=Ezv8sdTLxKo",
+        "https://www.youtube.com/watch?v=v_kak7kAdNw",
+        "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+        "https://www.youtube.com/watch?v=wD8AwgO0AQI"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "58,365",
+        "content creator": "LastWeekTonight",
+        "date": "Oct 9, 2017",
+        "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+        "dislikes": " Unavailable",
+        "id": "J5b_-TZwQ0I",
+        "likes": "342,515 likes",
+        "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+        "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "video_length": 1298.221,
+        "views": "26,931,804 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=f7MgiNAbWg4",
+                          "title": "Austronesian Expansion: Social, Linguistic, Genetic Networks",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=cvWDO4QSMuQ",
+                            "https://www.youtube.com/watch?v=mORK7bG7ytQ",
+                            "https://www.youtube.com/watch?v=qcvwvXjhyyo",
+                            "https://www.youtube.com/watch?v=f7MgiNAbWg4&list=RDCMUCMi6tHz2CmTA6IRaKr3ppRQ&start_radio=1&rv=f7MgiNAbWg4",
+                            "https://www.youtube.com/watch?v=DhX0PGG-baI",
+                            "https://www.youtube.com/watch?v=3EAgzFS4r58",
+                            "https://www.youtube.com/watch?v=h54m8PA13NY",
+                            "https://www.youtube.com/watch?v=5vXvHe-ofXM",
+                            "https://www.youtube.com/watch?v=bCXvolMAqzI",
+                            "https://www.youtube.com/watch?v=Z3Wvw6BivVI"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "52",
+                            "content creator": "ResearchChannel",
+                            "date": "Jan 4, 2010",
+                            "description": "Anthropologist and author Steve Lansing discusses an exciting, truly interdisciplinary project involving researchers from anthropology, mathematics, and evolutionary biology, who are using multiple sources of data to better understand the peopling of Austronesia. The episode opens with a University of Arizona video news segment on the first documented case of pest resistance to biotech cotton.",
+                            "dislikes": " Unavailable",
+                            "id": "f7MgiNAbWg4",
+                            "likes": "133 likes",
+                            "title": "Austronesian Expansion: Social, Linguistic, Genetic Networks",
+                            "url": "https://www.youtube.com/watch?v=f7MgiNAbWg4",
+                            "video_length": 2736.321,
+                            "views": "13,655 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=cvWDO4QSMuQ",
+                      "title": "Crossing the Wallace Line - languages, genes and a forgotten history",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=f7MgiNAbWg4",
+                        "https://www.youtube.com/watch?v=mORK7bG7ytQ",
+                        "https://www.youtube.com/watch?v=Z1eQ6DadodA",
+                        "https://www.youtube.com/watch?v=d4lco8X0yvM",
+                        "https://www.youtube.com/watch?v=R913npL7Cg8",
+                        "https://www.youtube.com/watch?v=9Mrq2XNw2KM",
+                        "https://www.youtube.com/watch?v=cpOJPIdYN5I",
+                        "https://www.youtube.com/watch?v=Lzgb8yHmaes",
+                        "https://www.youtube.com/watch?v=WaNPfPKxE24",
+                        "https://www.youtube.com/watch?v=ihOQ18C3wl4"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "145",
+                        "content creator": "Murray Cox",
+                        "date": "Jun 19, 2016",
+                        "description": "The Austronesian expansion into Island Southeast Asia and the Pacific was the last and most far-reaching prehistoric human migration. Austronesian languages replaced indigenous languages over nearly half the globe, yet the absolute number of Austronesian colonists was small. Recently, geneticists have identified large geographic disparities in the relative proportions of Asian ancestry across different genetic systems (NRY, mitochondrial DNA, autosomes and X chromosomes) in Austronesian-speaking societies of Island Southeast Asia and the Pacific. Surprisingly, a substantial genetic discontinuity occurs in the middle of a continuous chain of islands that form the southern arc of the Indonesian archipelago, near the geographic center of the Austronesian world. In the absence of geographic barriers to migration, this genetic boundary and swathe of Austronesian language replacement must have emerged from social behavior. Drawing on decades of comparative ethnological research inspired by F.A.E. van Wouden\u2019s structural model of Austronesian social organization, later codified by Claude L\u00e9vi-Strauss as \"House societies\" (\"soci\u00e9t\u00e9s \u00e0 maison\"), we propose a two-stage ethnographic model in which the appearance of matrilocal \u2018\u2018House societies\u2019\u2019 during the initial phase of the Austronesian expansion, and the subsequent disappearance of \u2018House societies\u2019\u2019 in lowland rice-growing regions, accounts for the observed linguistic, genetic and cultural patterns.\n\nPoint your browser to the following website to see other videos:",
+                        "dislikes": " Unavailable",
+                        "id": "cvWDO4QSMuQ",
+                        "likes": "640 likes",
+                        "title": "Crossing the Wallace Line - languages, genes and a forgotten history",
+                        "url": "https://www.youtube.com/watch?v=cvWDO4QSMuQ",
+                        "video_length": 864.241,
+                        "views": "25,344 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=R913npL7Cg8",
+                  "title": "Did The Polynesians Discover America?",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=cvWDO4QSMuQ",
+                    "https://www.youtube.com/watch?v=R913npL7Cg8&list=RDCMUCKMnl27hDMKvch--noWe5CA&start_radio=1&rv=R913npL7Cg8",
+                    "https://www.youtube.com/watch?v=ZTI3P9zx-oY",
+                    "https://www.youtube.com/watch?v=smHMobjTjBA",
+                    "https://www.youtube.com/watch?v=NYK425sWziA",
+                    "https://www.youtube.com/watch?v=_6sQPJvGaO0",
+                    "https://www.youtube.com/watch?v=7nUZTRXVrac",
+                    "https://www.youtube.com/watch?v=KsDGDzwuQ-I",
+                    "https://www.youtube.com/watch?v=Nw81to_XmXM",
+                    "https://www.youtube.com/watch?v=6S0hlv5sUbw"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,751",
+                    "content creator": "Cogito",
+                    "date": "Nov 24, 2018",
+                    "description": "This video is part of the #OperationOdysseus collaboration. You can see all 17 contributor videos here -https://www.youtube.com/playlist?list...",
+                    "dislikes": " Unavailable",
+                    "id": "R913npL7Cg8",
+                    "likes": "10,218 likes",
+                    "title": "Did The Polynesians Discover America?",
+                    "url": "https://www.youtube.com/watch?v=R913npL7Cg8",
+                    "video_length": 775.421,
+                    "views": "284,509 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=VE_lhU8SFTw",
+              "title": "The History Of Chocolate Documentary",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=R913npL7Cg8",
+                "https://www.youtube.com/watch?v=VE_lhU8SFTw&list=RDCMUCKMnl27hDMKvch--noWe5CA&start_radio=1&rv=VE_lhU8SFTw",
+                "https://www.youtube.com/watch?v=LqhN7-gCSSs",
+                "https://www.youtube.com/watch?v=ibjUpk9Iagk",
+                "https://www.youtube.com/watch?v=03Vx-RARg1c",
+                "https://www.youtube.com/watch?v=Ska2fpueDLA",
+                "https://www.youtube.com/watch?v=RkS93xPV4s4",
+                "https://www.youtube.com/watch?v=xlBEEuYIWwY",
+                "https://www.youtube.com/watch?v=o1L6P_kMNzY",
+                "https://www.youtube.com/watch?v=lNdgT6VCuu0"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "404",
+                "content creator": "Cogito",
+                "date": "Jan 21, 2018",
+                "description": "Where does chocolate come from? Who first made chocolate? The History of Chocolate is a long and interesting story. From its beginnings in Mesoamerica all the way up to Swiss inventors tinkering away with it in cottages in the Alps.\n\nFuel for the Aztec and European war machines, a catalyst for massive industrial innovation and a tasty treat adored by chocoholics across the globe. It was enjoyed by powerful Emperor\u2019s on both sides of the Atlantic and filled the pockets of enterprising missionaries. With its roots as a spicy and fatty drink in ancient Mesoamerica, how did chocolate eventually become the guilty pleasure of billions?\n\nLet\u2019s find out. \n\n\nMERCHANDISE",
+                "dislikes": " Unavailable",
+                "id": "VE_lhU8SFTw",
+                "likes": "5,965 likes",
+                "title": "The History Of Chocolate Documentary",
+                "url": "https://www.youtube.com/watch?v=VE_lhU8SFTw",
+                "video_length": 803.141,
+                "views": "246,469 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=6S0hlv5sUbw",
+          "title": "The History Of Tea",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=VE_lhU8SFTw",
+            "https://www.youtube.com/watch?v=1oQ5Jd7p2aY",
+            "https://www.youtube.com/watch?v=LqhN7-gCSSs",
+            "https://www.youtube.com/watch?v=6S0hlv5sUbw&list=RDCMUCKMnl27hDMKvch--noWe5CA&start_radio=1&rv=6S0hlv5sUbw",
+            "https://www.youtube.com/watch?v=ydUpUQOknV8",
+            "https://www.youtube.com/watch?v=RkS93xPV4s4",
+            "https://www.youtube.com/watch?v=0VAylWxDQfk",
+            "https://www.youtube.com/watch?v=vTBq19RK5ZM",
+            "https://www.youtube.com/watch?v=KkwmYlgkOhU",
+            "https://www.youtube.com/watch?v=LaLvVc1sS20"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "1,437",
+            "content creator": "Cogito",
+            "date": "Jun 27, 2020",
+            "description": "Sign up for an annual CuriosityStream subscription and you'll also get free access to Nebula (a new streaming platform I'm helping to build along with other creators). https://curiositystream.com/cogito",
+            "dislikes": " Unavailable",
+            "id": "6S0hlv5sUbw",
+            "likes": "11,604 likes",
+            "title": "The History Of Tea",
+            "url": "https://www.youtube.com/watch?v=6S0hlv5sUbw",
+            "video_length": 1070.601,
+            "views": "365,585 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=Q7yfhIKyoRg",
+      "title": "How Did The Continents Get Their Names?",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=6S0hlv5sUbw",
+        "https://www.youtube.com/watch?v=Nw81to_XmXM",
+        "https://www.youtube.com/watch?v=a2C90l7YlT8",
+        "https://www.youtube.com/watch?v=hl9QgeHdKYk",
+        "https://www.youtube.com/watch?v=Q7yfhIKyoRg&list=RDCMUCKMnl27hDMKvch--noWe5CA&start_radio=1&rv=Q7yfhIKyoRg",
+        "https://www.youtube.com/watch?v=rlONwxT9Nlc",
+        "https://www.youtube.com/watch?v=KsDGDzwuQ-I",
+        "https://www.youtube.com/watch?v=Pp2wbyLoEtM",
+        "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+        "https://www.youtube.com/watch?v=RkS93xPV4s4"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,786",
+        "content creator": "Cogito",
+        "date": "Aug 5, 2021",
+        "description": "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/cogito06219",
+        "dislikes": " Unavailable",
+        "id": "Q7yfhIKyoRg",
+        "likes": "21,894 likes",
+        "title": "How Did The Continents Get Their Names?",
+        "url": "https://www.youtube.com/watch?v=Q7yfhIKyoRg",
+        "video_length": 1209.241,
+        "views": "615,655 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=9TcNLbXGm6w",
+                          "title": "The Worst Super Hero Film Ever | Zoom",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=Oamce69-B5U",
+                            "https://www.youtube.com/watch?v=UFZ5EMTcehA",
+                            "https://www.youtube.com/watch?v=_m_02wkovA4",
+                            "https://www.youtube.com/watch?v=zNj0lW4YsQM",
+                            "https://www.youtube.com/watch?v=ojozQHhtjW4&list=RD9TcNLbXGm6w&start_radio=1&rv=9TcNLbXGm6w",
+                            "https://www.youtube.com/watch?v=JSWkutOKmSE",
+                            "https://www.youtube.com/watch?v=De8WiVGFF6k",
+                            "https://www.youtube.com/watch?v=siu0Z51Ooy8",
+                            "https://www.youtube.com/watch?v=3IHRQXPVHN4",
+                            "https://www.youtube.com/watch?v=6pH-dUcXmvU"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "4,687",
+                            "content creator": "BionicPIG",
+                            "date": "Jun 10, 2020",
+                            "description": "https://www.twitch.tv/bionicpigtv\n\nBACON SHOP: https://teespring.com/stores/bacon-sh...",
+                            "dislikes": " Unavailable",
+                            "id": "9TcNLbXGm6w",
+                            "likes": "44,418 likes",
+                            "title": "The Worst Super Hero Film Ever | Zoom",
+                            "url": "https://www.youtube.com/watch?v=9TcNLbXGm6w",
+                            "video_length": 1972.281,
+                            "views": "1,042,952 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=zNj0lW4YsQM",
+                      "title": "Was Sky High As Good As We Remember?",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=9TcNLbXGm6w",
+                        "https://www.youtube.com/watch?v=_uei1wkRlvo&list=RDzNj0lW4YsQM&start_radio=1&rv=zNj0lW4YsQM",
+                        "https://www.youtube.com/watch?v=6fqW3GYAd2c",
+                        "https://www.youtube.com/watch?v=OE9bSfHOMaM",
+                        "https://www.youtube.com/watch?v=X9S44i9_eOw",
+                        "https://www.youtube.com/watch?v=PYLxNIm-RMA",
+                        "https://www.youtube.com/watch?v=siu0Z51Ooy8",
+                        "https://www.youtube.com/watch?v=xoF-XqZOrzk",
+                        "https://www.youtube.com/watch?v=QR6wfF0CgCU",
+                        "https://www.youtube.com/watch?v=OgRioF4w3nY"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "1,992",
+                        "content creator": "BionicPIG",
+                        "date": "Aug 28, 2020",
+                        "description": "The Sky is really High\n\nBACON SHOP: https://teespring.com/stores/bacon-sh...",
+                        "dislikes": " Unavailable",
+                        "id": "zNj0lW4YsQM",
+                        "likes": "28,220 likes",
+                        "title": "Was Sky High As Good As We Remember?",
+                        "url": "https://www.youtube.com/watch?v=zNj0lW4YsQM",
+                        "video_length": 1406.581,
+                        "views": "526,715 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=JSWkutOKmSE",
+                  "title": "Scooby Doo Has The BEST Live Action Movie",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=zNj0lW4YsQM",
+                    "https://www.youtube.com/watch?v=QHRiHQjAPgI",
+                    "https://www.youtube.com/watch?v=sSmA3C_I8wQ",
+                    "https://www.youtube.com/watch?v=8VttDkumzRI&list=RDJSWkutOKmSE&start_radio=1&rv=JSWkutOKmSE",
+                    "https://www.youtube.com/watch?v=pkopJV_adq0",
+                    "https://www.youtube.com/watch?v=X9S44i9_eOw",
+                    "https://www.youtube.com/watch?v=G8IfwSprqsg",
+                    "https://www.youtube.com/watch?v=uHxn3cRNocE",
+                    "https://www.youtube.com/watch?v=cJ2ukvlG-eY",
+                    "https://www.youtube.com/watch?v=6pH-dUcXmvU"
+                  ],
+                  "video": {
+                    "ad": true,
+                    "comments": "2,100",
+                    "content creator": "BionicPIG",
+                    "date": "Apr 9, 2021",
+                    "description": "GET MY PLUSHIE: https://bit.ly/3s4WDZI\n\nALSO USE CODE PIG AT https://gfuel.com/ to get your gfuel enemas\n\n\u25cf STREAM: ",
+                    "dislikes": " Unavailable",
+                    "id": "JSWkutOKmSE",
+                    "likes": "29,175 likes",
+                    "title": "Scooby Doo Has The BEST Live Action Movie",
+                    "url": "https://www.youtube.com/watch?v=JSWkutOKmSE",
+                    "video_length": 1292.661,
+                    "views": "448,758 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=rxuteSlss3M",
+              "title": "Scooby-Doo: The Anatomy of a Good Live-Action Adaptation | Video Essay",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,420",
+                "content creator": "Quality Culture",
+                "date": "Oct 14, 2021",
+                "description": "In this video, I break down the 2002 live-action adaptation of Scooby-Doo, compare the film to others like it, and explain the essentials of a good live-action remake. \n\nArticles mentioned:\n\u2018Scooby-Doo\u2019: There\u2019s Nothing to Do but Dig It | Washington Post",
+                "dislikes": " Unavailable",
+                "id": "rxuteSlss3M",
+                "likes": "27,746 likes",
+                "title": "Scooby-Doo: The Anatomy of a Good Live-Action Adaptation | Video Essay",
+                "url": "https://www.youtube.com/watch?v=rxuteSlss3M",
+                "video_length": 1298.361,
+                "views": "489,771 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Pw0vB4Lm1Tk",
+          "title": "Which Scooby-Doo Character is the Best?",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": null,
+            "comments": "8,259",
+            "content creator": "JelloApocalypse",
+            "date": "Nov 5, 2021",
+            "description": "Freddy... you're a special boy!\n\nWritten by Brendan Blaber\nFilmed and Edited by Ryan Burke",
+            "dislikes": " Unavailable",
+            "id": "Pw0vB4Lm1Tk",
+            "likes": "80,399 likes",
+            "title": "Which Scooby-Doo Character is the Best?",
+            "url": "https://www.youtube.com/watch?v=Pw0vB4Lm1Tk",
+            "video_length": 3113.501,
+            "views": "1,231,940 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=2G56_mQwyBM",
+      "title": "The Propaganda of The War On Christmas",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=Pw0vB4Lm1Tk",
+        "https://www.youtube.com/watch?v=2G56_mQwyBM&list=RDCMUCaN8DZdc8EHo5y1LsQWMiig&start_radio=1&rv=2G56_mQwyBM",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=aQTWor_2nu4",
+        "https://www.youtube.com/watch?v=vTMF6xEiAaY",
+        "https://www.youtube.com/watch?v=R92f94cVUrg",
+        "https://www.youtube.com/watch?v=5uRG4RB_Nvo",
+        "https://www.youtube.com/watch?v=7rIJNT7dCmE",
+        "https://www.youtube.com/watch?v=jVyjRhSX92E",
+        "https://www.youtube.com/watch?v=-WhkGDFM04o"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "3,606",
+        "content creator": "Big Joel",
+        "date": "Dec 31, 2021",
+        "description": "Visit http://curiositystream.com/bigjoel and get thousands of exciting documentaries and access to my streaming service Nebula, where I have all my beautiful Nebula Plus videos. \n\nLet's talk about the war on Christmas, Dennis Prager, Bill O'Reilly, Fox News, conservatism, and a strange movie called Christmas with a Capital C.\n\nSupport me on Patreon: ",
+        "dislikes": " Unavailable",
+        "id": "2G56_mQwyBM",
+        "likes": "30,922 likes",
+        "title": "The Propaganda of The War On Christmas",
+        "url": "https://www.youtube.com/watch?v=2G56_mQwyBM",
+        "video_length": 2112.661,
+        "views": "520,710 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=AlaHGYlXntQ",
+                          "title": "John Mearsheimer - The Future of NATO in the Age of Trump | ROEC",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=jrE_RPNogG4",
+                            "https://www.youtube.com/watch?v=RTksWA1I2UI",
+                            "https://www.youtube.com/watch?v=AKFamUu6dGw",
+                            "https://www.youtube.com/watch?v=sKFHe0Y6c_0",
+                            "https://www.youtube.com/watch?v=AlaHGYlXntQ&list=RDLVAlaHGYlXntQ&start_radio=1&rv=AlaHGYlXntQ",
+                            "https://www.youtube.com/watch?v=FdvdKdnpCRg",
+                            "https://www.youtube.com/watch?v=8G70rWsV57I",
+                            "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                            "https://www.youtube.com/watch?v=nZVIaXFN2lU",
+                            "https://www.youtube.com/watch?v=VPe5f5dcrGE"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "246",
+                            "content creator": "Romania Energy Center - ROEC",
+                            "date": "Nov 4, 2018",
+                            "description": "Romania Energy Center in partnership with the Faculty of History and University of Bucharest have the pleasure to invite you to THE first lecture by the renowned American professor John J. Mearsheimer given at Bucharest University! One of the most important theorists of international relations of the 21st century, his ideas form the object of study in every handbook on international relations, a must-read for all political science students. His writing shapes theory, policy and public debate on many foreign policy aspects, and on October 31 he will be speaking at the Faculty of History on the future of NATO.",
+                            "dislikes": " Unavailable",
+                            "id": "AlaHGYlXntQ",
+                            "likes": "802 likes",
+                            "title": "John Mearsheimer - The Future of NATO in the Age of Trump | ROEC",
+                            "url": "https://www.youtube.com/watch?v=AlaHGYlXntQ",
+                            "video_length": 7140.061,
+                            "views": "56,663 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=jrE_RPNogG4",
+                      "title": "The Great Delusion with Professor John Mearsheimer",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=AlaHGYlXntQ",
+                        "https://www.youtube.com/watch?v=TsonzzAW3Mk",
+                        "https://www.youtube.com/watch?v=jrE_RPNogG4&list=RDLVjrE_RPNogG4&start_radio=1&rv=jrE_RPNogG4",
+                        "https://www.youtube.com/watch?v=lzqkXhdo0qc",
+                        "https://www.youtube.com/watch?v=rzXS3tmZrcU",
+                        "https://www.youtube.com/watch?v=ESwIVY2oimI",
+                        "https://www.youtube.com/watch?v=FdvdKdnpCRg",
+                        "https://www.youtube.com/watch?v=sKFHe0Y6c_0",
+                        "https://www.youtube.com/watch?v=0DMn4PmiDeQ",
+                        "https://www.youtube.com/watch?v=pBayDkK9qAQ"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "The Bush School of Government & Public Service",
+                        "date": "Oct 10, 2018",
+                        "description": "Professor John Mearsheimer, R. Wendell Harrison Distinguished Service Professor of Political Science at the University of Chicago,  spoke at the Bush School of Government and Public Service on his book, \"The Great Delusion: Liberal Dreams and International Realities.\"",
+                        "dislikes": " Unavailable",
+                        "id": "jrE_RPNogG4",
+                        "likes": "1,209 likes",
+                        "title": "The Great Delusion with Professor John Mearsheimer",
+                        "url": "https://www.youtube.com/watch?v=jrE_RPNogG4",
+                        "video_length": 4609.661,
+                        "views": "77,023 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=bSj__Vo1pOU",
+                  "title": "John J. Mearsheimer, \u201cThe Roots of Liberal Hegemony\u201d",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=ESwIVY2oimI",
+                    "https://www.youtube.com/watch?v=jrE_RPNogG4",
+                    "https://www.youtube.com/watch?v=RTksWA1I2UI",
+                    "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+                    "https://www.youtube.com/watch?v=TsonzzAW3Mk",
+                    "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+                    "https://www.youtube.com/watch?v=bSj__Vo1pOU&list=RDLVbSj__Vo1pOU&start_radio=1&rv=bSj__Vo1pOU",
+                    "https://www.youtube.com/watch?v=kBdfcR-8hEY",
+                    "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                    "https://www.youtube.com/watch?v=sKFHe0Y6c_0"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "YaleUniversity",
+                    "date": "Nov 22, 2017",
+                    "description": "Henry L. Stimson Lectures on World Affairs.\nJohn J. Mearsheimer, R. Wendell Harrison Distinguished Service Professor of Political Science and the co-director of the Program on International Security Policy at the University of Chicago, gave a series of three lectures in November on \u201cLiberal Ideals & International Realities\u201d for the Henry L. Stimson Lectures on World Affairs at the Whitney and Betty MacMillan Center for International and Area Studies at Yale.\n \n\u201cThe Roots of Liberal Hegemony,\u201d November 13, 2017  ",
+                    "dislikes": " Unavailable",
+                    "id": "bSj__Vo1pOU",
+                    "likes": "1,374 likes",
+                    "title": "John J. Mearsheimer, \u201cThe Roots of Liberal Hegemony\u201d",
+                    "url": "https://www.youtube.com/watch?v=bSj__Vo1pOU",
+                    "video_length": 3213.501,
+                    "views": "76,459 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ESwIVY2oimI",
+              "title": "John J. Mearsheimer, \u201cThe False Promise of Liberal Hegemony\u201d",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=bSj__Vo1pOU",
+                "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+                "https://www.youtube.com/watch?v=a_HfSnQqeyY",
+                "https://www.youtube.com/watch?v=TsonzzAW3Mk",
+                "https://www.youtube.com/watch?v=pBayDkK9qAQ",
+                "https://www.youtube.com/watch?v=D_Mx_e8t7nU",
+                "https://www.youtube.com/watch?v=Q-C9mPu7r_4",
+                "https://www.youtube.com/watch?v=RTksWA1I2UI",
+                "https://www.youtube.com/watch?v=YJQSuUZdcV4",
+                "https://www.youtube.com/watch?v=TUd4jOszwd8"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "YaleUniversity",
+                "date": "Nov 22, 2017",
+                "description": "Henry L. Stimson Lectures on World Affairs.\nJohn J. Mearsheimer, R. Wendell Harrison Distinguished Service Professor of Political Science and the co-director of the Program on International Security Policy at the University of Chicago, gave a series of three lectures in November on \u201cLiberal Ideals & International Realities\u201d for the Henry L. Stimson Lectures on World Affairs at the Whitney and Betty MacMillan Center for International and Area Studies at Yale.\n \n\u201cThe Roots of Liberal Hegemony,\u201d November 13, 2017  ",
+                "dislikes": " Unavailable",
+                "id": "ESwIVY2oimI",
+                "likes": "3,534 likes",
+                "title": "John J. Mearsheimer, \u201cThe False Promise of Liberal Hegemony\u201d",
+                "url": "https://www.youtube.com/watch?v=ESwIVY2oimI",
+                "video_length": 5022.841,
+                "views": "210,710 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=RTksWA1I2UI",
+          "title": "The Israel Lobby and U.S. Foreign Policy: John J. Mearsheimer",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=ESwIVY2oimI",
+            "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+            "https://www.youtube.com/watch?v=qB9yX_33eBU",
+            "https://www.youtube.com/watch?v=ni9rncx8ceA",
+            "https://www.youtube.com/watch?v=fhamV-zUcl8",
+            "https://www.youtube.com/watch?v=VPe5f5dcrGE",
+            "https://www.youtube.com/watch?v=TsonzzAW3Mk",
+            "https://www.youtube.com/watch?v=jrE_RPNogG4",
+            "https://www.youtube.com/watch?v=sKFHe0Y6c_0",
+            "https://www.youtube.com/watch?v=8X7Ng75e5gQ"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "525",
+            "content creator": "The University of Chicago",
+            "date": "Aug 28, 2015",
+            "description": "A panel featuring John J Mearsheimer of the University of Chicago and Stephen M. Walt of Harvard\"i? 1/2 s John F. Kennedy School of Government.\"The Israel Lobby\"i? 1/2 \"i? 1/2was originally published in the London Review of Books in March 2006. It provoked both howls of outrage and cheers of gratitude for challenging what had been a taboo issue in America: the impact of the Israel lobby on U.S. foreign policy. Now in The Israel Lobby and U.S. Foreign Policy, Mearsheimer and Walt deepen and expand their argument and confront recent developments in Lebanon and Iran.\n\n\u27a1 Subscribe: ",
+            "dislikes": " Unavailable",
+            "id": "RTksWA1I2UI",
+            "likes": "2,164 likes",
+            "title": "The Israel Lobby and U.S. Foreign Policy: John J. Mearsheimer",
+            "url": "https://www.youtube.com/watch?v=RTksWA1I2UI",
+            "video_length": 4871.781,
+            "views": "132,095 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+      "title": "Why is Ukraine the West's Fault? Featuring John Mearsheimer",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=RTksWA1I2UI",
+        "https://www.youtube.com/watch?v=sKFHe0Y6c_0",
+        "https://www.youtube.com/watch?v=jrE_RPNogG4",
+        "https://www.youtube.com/watch?v=xJYtYssRCHc",
+        "https://www.youtube.com/watch?v=fhamV-zUcl8",
+        "https://www.youtube.com/watch?v=_iudkPi4_sY",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=VPe5f5dcrGE",
+        "https://www.youtube.com/watch?v=BV_DkQCNfu4",
+        "https://www.youtube.com/watch?v=ESwIVY2oimI"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "8,084",
+        "content creator": "The University of Chicago",
+        "date": "Sep 25, 2015",
+        "description": "UnCommon Core: The Causes and Consequences of the Ukraine Crisis\n\nJohn J. Mearsheimer, the R. Wendell Harrison Distinguished Service Professor in Political Science and Co-director of the Program on International Security Policy at the University of Chicago, assesses the causes of the present Ukraine crisis, the best way to end it, and its consequences for all of the main actors. A key assumption is that in order to come up with the optimum plan for ending the crisis, it is essential to know what caused the crisis. Regarding the all-important question of causes, the key issue is whether Russia or the West bears primary responsibility.\n\n\n\n\u27a1 Subscribe: ",
+        "dislikes": " Unavailable",
+        "id": "JrMiSQAGOS4",
+        "likes": "15,204 likes",
+        "title": "Why is Ukraine the West's Fault? Featuring John Mearsheimer",
+        "url": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+        "video_length": 4455.081,
+        "views": "1,153,456 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=km4uCOAzrbM",
+                          "title": "The Broken Policing System | Patriot Act with Hasan Minhaj | Netflix",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=1tEuU_1ZGSY",
+                            "https://www.youtube.com/watch?v=km4uCOAzrbM&list=RDCMUCObk_g1hQBy0RKKriVX_zOQ&start_radio=1&rv=km4uCOAzrbM",
+                            "https://www.youtube.com/watch?v=icNirsV1rLA",
+                            "https://www.youtube.com/watch?v=vkhMfgOT9Xs",
+                            "https://www.youtube.com/watch?v=YytF2v7Vvw0",
+                            "https://www.youtube.com/watch?v=zwFr6RX2Y40",
+                            "https://www.youtube.com/watch?v=A-XlyB_QQYs",
+                            "https://www.youtube.com/watch?v=H1g3P3g_Css",
+                            "https://www.youtube.com/watch?v=nrKxOnNaGHc",
+                            "https://www.youtube.com/watch?v=xt8EcSyjPY8"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "4,562",
+                            "content creator": "Netflix Is A Joke",
+                            "date": "Sep 9, 2019",
+                            "description": "2014 was a turning point in the national conversation around police violence after the killings of Michael Brown, Laquan Mcdonald, and Eric Garner. Five years later, Hasan examines the systems in place that protect and sometimes incentivize police misconduct in America.\n\n\nWatch Patriot Act with Hasan Minhaj on Netflix: ",
+                            "dislikes": " Unavailable",
+                            "id": "km4uCOAzrbM",
+                            "likes": "65,627 likes",
+                            "title": "The Broken Policing System | Patriot Act with Hasan Minhaj | Netflix",
+                            "url": "https://www.youtube.com/watch?v=km4uCOAzrbM",
+                            "video_length": 1478.421,
+                            "views": "2,945,767 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=cDPeXoQUrbI",
+                      "title": "The Two Sides of Canada | Patriot Act with Hasan Minhaj | Netflix",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=km4uCOAzrbM",
+                        "https://www.youtube.com/watch?v=z7LgT4_jkLA",
+                        "https://www.youtube.com/watch?v=cDPeXoQUrbI&list=RDCMUCObk_g1hQBy0RKKriVX_zOQ&start_radio=1&rv=cDPeXoQUrbI",
+                        "https://www.youtube.com/watch?v=tXqnRMU1fTs",
+                        "https://www.youtube.com/watch?v=pLAi_cmly6Q",
+                        "https://www.youtube.com/watch?v=v5DWJv1hiwM",
+                        "https://www.youtube.com/watch?v=RKl_Y3EA7Sc",
+                        "https://www.youtube.com/watch?v=zwFr6RX2Y40",
+                        "https://www.youtube.com/watch?v=t0CyBv18A5k",
+                        "https://www.youtube.com/watch?v=1PWpNIxk6Wc"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "9,108",
+                        "content creator": "Netflix Is A Joke",
+                        "date": "Sep 2, 2019",
+                        "description": "Canada is regarded as a model progressive society, but is the country\u2019s current leadership living up to these ideals? Hasan examines the policies of current Canadian Prime Minister Justin Trudeau and sits down with him for a one-on-one interview in advance of Canada\u2019s October election.\n\nWatch Patriot Act with Hasan Minhaj on Netflix: ",
+                        "dislikes": " Unavailable",
+                        "id": "cDPeXoQUrbI",
+                        "likes": "97,358 likes",
+                        "title": "The Two Sides of Canada | Patriot Act with Hasan Minhaj | Netflix",
+                        "url": "https://www.youtube.com/watch?v=cDPeXoQUrbI",
+                        "video_length": 1674.241,
+                        "views": "3,931,564 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=zwFr6RX2Y40",
+                  "title": "Don't Ignore The Asian Vote In 2020 | Patriot Act with Hasan Minhaj | Netflix",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=cDPeXoQUrbI",
+                    "https://www.youtube.com/watch?v=MPFPBzr7FgY",
+                    "https://www.youtube.com/watch?v=2S3cBp4ucEU",
+                    "https://www.youtube.com/watch?v=f2Wr7lDI-Hg",
+                    "https://www.youtube.com/watch?v=MykMQfmLIro",
+                    "https://www.youtube.com/watch?v=l_htSPGAY7I",
+                    "https://www.youtube.com/watch?v=1Z1KLpf_7tU",
+                    "https://www.youtube.com/watch?v=uKXIvfQnYEY",
+                    "https://www.youtube.com/watch?v=zm5QVcTI2I8",
+                    "https://www.youtube.com/watch?v=mS9CFBlLOcg"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,744",
+                    "content creator": "Netflix Is A Joke",
+                    "date": "Dec 9, 2019",
+                    "description": "The Asian American population has grown large enough to swing elections, but it remains one of the least politically active groups in the country. Hasan travels to Asian American communities to hear the issues that matter to voters and to sit down with two politicians running to represent them\u2013\u2013presidential candidates Andrew Yang and Cory Booker. Hasan also reaches out to more conservative voices in the Asian American community, but gets barred from an event featuring Indian Prime Minister Narendra Modi and U.S. President Donald Trump.\n\nWatch Patriot Act with Hasan Minhaj on Netflix:",
+                    "dislikes": " Unavailable",
+                    "id": "zwFr6RX2Y40",
+                    "likes": "50,902 likes",
+                    "title": "Don't Ignore The Asian Vote In 2020 | Patriot Act with Hasan Minhaj | Netflix",
+                    "url": "https://www.youtube.com/watch?v=zwFr6RX2Y40",
+                    "video_length": 1526.841,
+                    "views": "1,802,360 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=fZ1DQGVYvRQ",
+              "title": "Hasan Gets Roasted By An Indian Uncle | Deep Cuts | Patriot Act with Hasan Minhaj | Netflix",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=zwFr6RX2Y40",
+                "https://www.youtube.com/watch?v=C4TcwIJCyBU",
+                "https://www.youtube.com/watch?v=4zZ9BQrdHvU",
+                "https://www.youtube.com/watch?v=fZ1DQGVYvRQ&list=RDCMUCObk_g1hQBy0RKKriVX_zOQ&start_radio=1&rv=fZ1DQGVYvRQ",
+                "https://www.youtube.com/watch?v=lMcOynrekI8",
+                "https://www.youtube.com/watch?v=sYShB-DzYO8",
+                "https://www.youtube.com/watch?v=ASukJ7_3k4A",
+                "https://www.youtube.com/watch?v=ujxWe4nRNRQ",
+                "https://www.youtube.com/watch?v=EtRXqYHIC9I",
+                "https://www.youtube.com/watch?v=j98id5L8LgA"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,593",
+                "content creator": "Netflix Is A Joke",
+                "date": "Oct 7, 2019",
+                "description": "On the latest Deep Cuts, Hasan goes head to head against an Indian Uncle in the crowd who is not impressed with him at all. Hasan also shares his advice for maintaining healthy relationships in the digital dating age, pitches some ideas for his own flavor of Ben & Jerry's ice cream, and tells a story about how he handled the news that iconic Bollywood star Shah Rukh Khan knows who he is now. \n\nWatch Patriot Act with Hasan Minhaj on Netflix: ",
+                "dislikes": " Unavailable",
+                "id": "fZ1DQGVYvRQ",
+                "likes": "67,967 likes",
+                "title": "Hasan Gets Roasted By An Indian Uncle | Deep Cuts | Patriot Act with Hasan Minhaj | Netflix",
+                "url": "https://www.youtube.com/watch?v=fZ1DQGVYvRQ",
+                "video_length": 875.941,
+                "views": "2,661,901 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=sYShB-DzYO8",
+          "title": "Hasan Hears Hot Takes From The Audience | Deep Cuts | Patriot Act with Hasan Minhaj | Netflix",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=fZ1DQGVYvRQ",
+            "https://www.youtube.com/watch?v=GyRIk99toRE",
+            "https://www.youtube.com/watch?v=dhvMzgvOnEo",
+            "https://www.youtube.com/watch?v=sYShB-DzYO8&list=RDCMUCObk_g1hQBy0RKKriVX_zOQ&start_radio=1&rv=sYShB-DzYO8",
+            "https://www.youtube.com/watch?v=7ms7gxdzBos",
+            "https://www.youtube.com/watch?v=kgDnKlq5paU",
+            "https://www.youtube.com/watch?v=t0CyBv18A5k",
+            "https://www.youtube.com/watch?v=O-IWXJXiPZU",
+            "https://www.youtube.com/watch?v=2gYYFZN9Quo",
+            "https://www.youtube.com/watch?v=5TWAOtSsGF4"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "2,383",
+            "content creator": "Netflix Is A Joke",
+            "date": "Dec 19, 2019",
+            "description": "On the latest Deep Cuts, Hasan hears some hot takes from one Patriot Act audience member in particular who recently went viral on Twitter for his opinions on aliens, apex predators, and swimming pools. Hasan also contemplates what the world would be like if no one could sneeze, shares his affinity for Crocs, and tells the backstory of when he taught Ellen how to pronounce his name correctly. \n\nWatch Patriot Act with Hasan Minhaj on Netflix:",
+            "dislikes": " Unavailable",
+            "id": "sYShB-DzYO8",
+            "likes": "60,381 likes",
+            "title": "Hasan Hears Hot Takes From The Audience | Deep Cuts | Patriot Act with Hasan Minhaj | Netflix",
+            "url": "https://www.youtube.com/watch?v=sYShB-DzYO8",
+            "video_length": 1151.721,
+            "views": "2,014,293 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=J7dqGhOPVcY",
+      "title": "Best Of Hasan On Deep Cuts | Patriot Act with Hasan Minhaj | Netflix",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=sYShB-DzYO8",
+        "https://www.youtube.com/watch?v=J7dqGhOPVcY&list=RDCMUCObk_g1hQBy0RKKriVX_zOQ&start_radio=1&rv=J7dqGhOPVcY",
+        "https://www.youtube.com/watch?v=YAr7O8-iRgQ",
+        "https://www.youtube.com/watch?v=uDmSZX_zVuQ",
+        "https://www.youtube.com/watch?v=Sv08YFokCX4",
+        "https://www.youtube.com/watch?v=xGF3ObOBbac",
+        "https://www.youtube.com/watch?v=Ad-YqwhUsTE",
+        "https://www.youtube.com/watch?v=wCJJI6M77pA",
+        "https://www.youtube.com/watch?v=paG1-lPtIXA",
+        "https://www.youtube.com/watch?v=v5DWJv1hiwM"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "522",
+        "content creator": "Netflix Is A Joke",
+        "date": "Feb 10, 2020",
+        "description": "Relive some of our favorite Deep Cut's moments with this 'best of' compilation video. Watch as Hasan talks aliens, Indian Uncles, name pronunciation, and the event that made him want to create Patriot Act. \n\nWatch Patriot Act with Hasan Minhaj on Netflix: ",
+        "dislikes": " Unavailable",
+        "id": "J7dqGhOPVcY",
+        "likes": "18,291 likes",
+        "title": "Best Of Hasan On Deep Cuts | Patriot Act with Hasan Minhaj | Netflix",
+        "url": "https://www.youtube.com/watch?v=J7dqGhOPVcY",
+        "video_length": 1763.821,
+        "views": "781,713 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=9ES9G6brWZw",
+  "title": "Breaking Points Brings On Glenn Greenwald, Stupidity Ensues",
+  "top_10_recommended": [
+    "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+    "https://www.youtube.com/watch?v=Q7yfhIKyoRg",
+    "https://www.youtube.com/watch?v=2G56_mQwyBM",
+    "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+    "https://www.youtube.com/watch?v=J7dqGhOPVcY",
+    "https://www.youtube.com/watch?v=JDy95_eNPzM",
+    "https://www.youtube.com/watch?v=n30zO0ABFqc",
+    "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+    "https://www.youtube.com/watch?v=YKx7TPGttSk",
+    "https://www.youtube.com/watch?v=HPfG7jaGn08"
+  ],
+  "video": {
+    "ad": true,
+    "comments": "1,297",
+    "content creator": "Vaush",
+    "date": "Jan 8, 2022",
+    "description": "Krystal, Saagar and the gang are all here!\n\n\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...",
+    "dislikes": " Unavailable",
+    "id": "9ES9G6brWZw",
+    "likes": "4,168 likes",
+    "title": "Breaking Points Brings On Glenn Greenwald, Stupidity Ensues",
+    "url": "https://www.youtube.com/watch?v=9ES9G6brWZw",
+    "video_length": 3214.721,
+    "views": "110,203 views"
+  }
+}

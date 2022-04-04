@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                  "sampled_type": "curated",
+                  "title": "The Trouble with the Video Game Industry | Philosophy Tube",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=fCUTX1jurJ4",
+                    "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                    "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                    "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+                    "https://www.youtube.com/watch?v=IYkLVU5UGM8&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=IYkLVU5UGM8",
+                    "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+                    "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                    "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+                    "https://www.youtube.com/watch?v=LRNkDZy30xU",
+                    "https://www.youtube.com/watch?v=ATITdJg7bWI"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,345",
+                    "content creator": "Philosophy Tube",
+                    "date": "Premiered Nov 29, 2019",
+                    "description": "https://curiositystream.com/philosoph...\nhttps://www.patreon.com/PhilosophyTube",
+                    "dislikes": " Unavailable",
+                    "id": "IYkLVU5UGM8",
+                    "likes": "75,224 likes",
+                    "title": "The Trouble with the Video Game Industry | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                    "video_length": 1999.061,
+                    "views": "1,439,859 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=dh4G1Gjv7bA",
+              "sampled_type": "curated",
+              "title": "Violence & Protest | Philosophy Tube",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                "https://www.youtube.com/watch?v=3S7ypQQIMQk",
+                "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                "https://www.youtube.com/watch?v=dh4G1Gjv7bA&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=dh4G1Gjv7bA",
+                "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                "https://www.youtube.com/watch?v=I5auJOBC828",
+                "https://www.youtube.com/watch?v=9MGUWtTakQc",
+                "https://www.youtube.com/watch?v=AeGEv0YVLtw",
+                "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+                "https://www.youtube.com/watch?v=rfYvLlbXj_8"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,538",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Dec 3, 2021",
+                "description": "CuriosityStream - https://curiositystream.com/philosoph...\n\nA video about protest, direct action, and revolution in the context of the climate crisis \u2694\ufe0f\u2694\ufe0f\u2694\ufe0f ",
+                "dislikes": " Unavailable",
+                "id": "dh4G1Gjv7bA",
+                "likes": "49,785 likes",
+                "title": "Violence & Protest | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=dh4G1Gjv7bA",
+                "video_length": 2484.601,
+                "views": "772,690 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+          "sampled_type": "curated",
+          "title": "Endnote 5: A Case Study in Digital Radicalism (UC Merced Talk)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=dh4G1Gjv7bA",
+            "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+            "https://www.youtube.com/watch?v=lLYWHpgIoIw&list=RDLVlLYWHpgIoIw&start_radio=1&rv=lLYWHpgIoIw",
+            "https://www.youtube.com/watch?v=5Luu1Beb8ng",
+            "https://www.youtube.com/watch?v=JsNm2YLrk30",
+            "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+            "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+            "https://www.youtube.com/watch?v=agzNANfNlTs",
+            "https://www.youtube.com/watch?v=dbEiVrnhwlU",
+            "https://www.youtube.com/watch?v=yts2F44RqFw"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "4,923",
+            "content creator": "Innuendo Studios",
+            "date": "Aug 23, 2021",
+            "description": "this video was edited with the help of Magdalen Rose, please go sub to her channel: https://www.youtube.com/MagdalenRose",
+            "dislikes": " Unavailable",
+            "id": "lLYWHpgIoIw",
+            "likes": "24,602 likes",
+            "title": "Endnote 5: A Case Study in Digital Radicalism (UC Merced Talk)",
+            "url": "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+            "video_length": 3008.541,
+            "views": "398,604 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=SfRdYbM8VM4&t=12s",
+      "sampled_type": "curated",
+      "title": "CO-VIDs: 25 good things that got me through",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+        "https://www.youtube.com/watch?v=SfRdYbM8VM4&list=RDCMUC5fdssPqmmGhkhsJi4VcckA&start_radio=1&rv=SfRdYbM8VM4",
+        "https://www.youtube.com/watch?v=tr5qgaasOYY",
+        "https://www.youtube.com/watch?v=4N6y6LEwsKc",
+        "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+        "https://www.youtube.com/watch?v=19xgdLF5agU",
+        "https://www.youtube.com/watch?v=iyAjp-NkzBQ",
+        "https://www.youtube.com/watch?v=AqZVl_bdhhQ",
+        "https://www.youtube.com/watch?v=shSLPcp4C18",
+        "https://www.youtube.com/watch?v=5Luu1Beb8ng"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "651",
+        "content creator": "Innuendo Studios",
+        "date": "Aug 5, 2021",
+        "description": "100% of ad proceeds for CO-VIDs will be donated to Critical Resistance, a police and prison abolition group co-founded by Angela Davis. YouTube's CPM is pretty small, so I encourage you to donate directly, if you're able: https://donatenow.networkforgood.org/...",
+        "dislikes": " Unavailable",
+        "id": "SfRdYbM8VM4&t",
+        "likes": "7,604 likes",
+        "title": "CO-VIDs: 25 good things that got me through",
+        "url": "https://www.youtube.com/watch?v=SfRdYbM8VM4&t=12s",
+        "video_length": 832.361,
+        "views": "78,158 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=bptr7UvrCbQ",
+                  "sampled_type": "random",
+                  "title": "The Unsolved True Crime Iceberg Explained",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "6,817",
+                    "content creator": "Wendigoon",
+                    "date": "Apr 16, 2021",
+                    "description": "Sign up for free and get paid for your opinion:\nhttps://www.influencerlink.org/SH6rJ",
+                    "dislikes": " Unavailable",
+                    "id": "bptr7UvrCbQ",
+                    "likes": "84,430 likes",
+                    "title": "The Unsolved True Crime Iceberg Explained",
+                    "url": "https://www.youtube.com/watch?v=bptr7UvrCbQ",
+                    "video_length": 5253.861,
+                    "views": "2,825,456 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=_ZSPgiu4WIo",
+              "sampled_type": "random",
+              "title": "The Disturbing Movie Iceberg Explained (GRAPHIC CONTENT)",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "video": {
+                "ad": null,
+                "comments": "33,156",
+                "content creator": "Wendigoon",
+                "date": "Feb 18, 2021",
+                "description": "Thank you for watching and please let me know what you think!\n\nTimestamps:\n\nIntro: ",
+                "dislikes": " Unavailable",
+                "id": "_ZSPgiu4WIo",
+                "likes": "223,829 likes",
+                "title": "The Disturbing Movie Iceberg Explained (GRAPHIC CONTENT)",
+                "url": "https://www.youtube.com/watch?v=_ZSPgiu4WIo",
+                "video_length": 4823.281,
+                "views": "5,429,660 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=H0AGjuuX1q8",
+          "sampled_type": "random",
+          "title": "Dragon Ball: Super Saiyan (A Prophecy Done Right) - Detail Diatribe",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=BaErDSSKTKA",
+            "https://www.youtube.com/watch?v=H0AGjuuX1q8&list=RDCMUCodbH5mUeF-m_BsNueRDjcw&start_radio=1&rv=H0AGjuuX1q8",
+            "https://www.youtube.com/watch?v=9gIXoaB-Jik",
+            "https://www.youtube.com/watch?v=hSt85B-ayCA",
+            "https://www.youtube.com/watch?v=ObV-kDtLYiY",
+            "https://www.youtube.com/watch?v=8pTLhim5c4g",
+            "https://www.youtube.com/watch?v=53ZFo8jpDfI",
+            "https://www.youtube.com/watch?v=v8o_hA2eMzI",
+            "https://www.youtube.com/watch?v=JE6FGWGSesM",
+            "https://www.youtube.com/watch?v=PmdzptbykzI"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "2,225",
+            "content creator": "Overly Sarcastic Productions",
+            "date": "Jan 14, 2022",
+            "description": "Pack your snacks and crank up the artificial gravity! Today we're diving into the progenitor of an entire genre of anime, the workout inspiration for an entire generation of anime fans, and the one thing it absolutely nailed in its first big arc!\n\nOur content is intended for teenage audiences and up.\n\nPATREON: ",
+            "dislikes": " Unavailable",
+            "id": "H0AGjuuX1q8",
+            "likes": "17,984 likes",
+            "title": "Dragon Ball: Super Saiyan (A Prophecy Done Right) - Detail Diatribe",
+            "url": "https://www.youtube.com/watch?v=H0AGjuuX1q8",
+            "video_length": 3596.461,
+            "views": "248,957 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=koud7hgGyQ8",
+      "sampled_type": "random",
+      "title": "Social Constructs | Philosophy Tube",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=ATITdJg7bWI",
+        "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+        "https://www.youtube.com/watch?v=oENI8NnTx0w",
+        "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+        "https://www.youtube.com/watch?v=3S7ypQQIMQk",
+        "https://www.youtube.com/watch?v=dh4G1Gjv7bA",
+        "https://www.youtube.com/watch?v=q8NVy00tfdI",
+        "https://www.youtube.com/watch?v=1o2fnTNxE_Q",
+        "https://www.youtube.com/watch?v=JsNm2YLrk30",
+        "https://www.youtube.com/watch?v=qOzsy6IHNUM"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "10,789",
+        "content creator": "Philosophy Tube",
+        "date": "Premiered Jul 9, 2021",
+        "description": "What are social constructs, and why do some people get so upset about them? \ud83d\ude97\ud83d\udd27\ud83d\ude97  https://www.patreon.com/PhilosophyTube",
+        "dislikes": " Unavailable",
+        "id": "koud7hgGyQ8",
+        "likes": "95,629 likes",
+        "title": "Social Constructs | Philosophy Tube",
+        "url": "https://www.youtube.com/watch?v=koud7hgGyQ8",
+        "video_length": 1456.261,
+        "views": "1,057,562 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=ffN6BP9Wq5c",
+                  "sampled_type": "random",
+                  "title": "Why I'm Terrified of Animal Crossing | Psych of Play",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=eNMmSkE8ua4",
+                    "https://www.youtube.com/watch?v=5plXtkUv6iY",
+                    "https://www.youtube.com/watch?v=CQEbpCxxNzw",
+                    "https://www.youtube.com/watch?v=ffN6BP9Wq5c&list=RDCMUCJfJWct8jN1RpCuVWk3zHTA&start_radio=1&rv=ffN6BP9Wq5c",
+                    "https://www.youtube.com/watch?v=rUDGlEWa4sE",
+                    "https://www.youtube.com/watch?v=DJX-QShjZSs",
+                    "https://www.youtube.com/watch?v=4azmcC1D188",
+                    "https://www.youtube.com/watch?v=H8cavOfbwHw",
+                    "https://www.youtube.com/watch?v=7qWnqxmZkIU",
+                    "https://www.youtube.com/watch?v=gvjVP56r0BA"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,070",
+                    "content creator": "Daryl Talks Games",
+                    "date": "Mar 21, 2020",
+                    "description": "Animal Crossing. Learn it, live it, love it, or run from it. Depending on the type of person you are, this game could either be a wholesome and relaxing experience, or an endless pit of indecision and trying to maximize your options. Today on Psych of Play, were diving into the intricacies of the maximization paradox, and how Animal Crossing (might) keep you from experiencing it\u2026. oh who am I kidding go buy this stupid game.\n\nTwitter \u25b6",
+                    "dislikes": " Unavailable",
+                    "id": "ffN6BP9Wq5c",
+                    "likes": "32,901 likes",
+                    "title": "Why I'm Terrified of Animal Crossing | Psych of Play",
+                    "url": "https://www.youtube.com/watch?v=ffN6BP9Wq5c",
+                    "video_length": 1020.581,
+                    "views": "669,607 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=eNMmSkE8ua4",
+              "sampled_type": "random",
+              "title": "Why You Get Spooked From 4th Wall Breaks | Psych of Play",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=ffN6BP9Wq5c",
+                "https://www.youtube.com/watch?v=eNMmSkE8ua4&list=RDCMUCJfJWct8jN1RpCuVWk3zHTA&start_radio=1&rv=eNMmSkE8ua4",
+                "https://www.youtube.com/watch?v=7qWnqxmZkIU",
+                "https://www.youtube.com/watch?v=rUDGlEWa4sE",
+                "https://www.youtube.com/watch?v=DJX-QShjZSs",
+                "https://www.youtube.com/watch?v=CQEbpCxxNzw",
+                "https://www.youtube.com/watch?v=6fqW3GYAd2c",
+                "https://www.youtube.com/watch?v=ujg0Y5IziiY",
+                "https://www.youtube.com/watch?v=5uaCreSmMmk",
+                "https://www.youtube.com/watch?v=qgkzqy8YrKQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "12,176",
+                "content creator": "Daryl Talks Games",
+                "date": "Apr 18, 2020",
+                "description": "How many times have you felt just a little spooked when the 4th wall was broken in a game or a movie? Today on Psych of Play, we\u2019re going to be dissecting WHY that feeling is so bizarre and how deindividualization, the dual function of gaze, and the power of anonymity all play a part in making 4th wall breaks such a visceral sensation. \n\nSupport Daryl Talks Games on Patreon! \u2013 ",
+                "dislikes": " Unavailable",
+                "id": "eNMmSkE8ua4",
+                "likes": "218,409 likes",
+                "title": "Why You Get Spooked From 4th Wall Breaks | Psych of Play",
+                "url": "https://www.youtube.com/watch?v=eNMmSkE8ua4",
+                "video_length": 1094.841,
+                "views": "4,683,397 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=cYu7Y52iiYI",
+          "sampled_type": "random",
+          "title": "there will Never Ever be another cartoon like Spongebob Squarepants.",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=rnvSs3HEz2o",
+            "https://www.youtube.com/watch?v=1nfXVIXWc2c",
+            "https://www.youtube.com/watch?v=qV2h_KGno9w",
+            "https://www.youtube.com/watch?v=G3Yzk-3SZfs",
+            "https://www.youtube.com/watch?v=xgKY9hmbfgo",
+            "https://www.youtube.com/watch?v=eNMmSkE8ua4",
+            "https://www.youtube.com/watch?v=1yTIhtfgDwY",
+            "https://www.youtube.com/watch?v=dmLSJrA0n9w",
+            "https://www.youtube.com/watch?v=vTx6EalA4MY",
+            "https://www.youtube.com/watch?v=aM-hy6_f45M"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "25,464",
+            "content creator": "EmpLemon",
+            "date": "Sep 19, 2018",
+            "description": "\"Why must every eleven minutes of my life be filled with misery?\"\n\nPatreon: https://www.patreon.com/EmperorLemon",
+            "dislikes": " Unavailable",
+            "id": "cYu7Y52iiYI",
+            "likes": "251,493 likes",
+            "title": "there will Never Ever be another cartoon like Spongebob Squarepants.",
+            "url": "https://www.youtube.com/watch?v=cYu7Y52iiYI",
+            "video_length": 1608.601,
+            "views": "4,893,650 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=Tq-qU_GCCLI",
+      "sampled_type": "random",
+      "title": "there will Never Ever be another Simpsons episode like Homer's Enemy",
+      "top_10_recommended": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "video": {
+        "ad": true,
+        "comments": "9,299",
+        "content creator": "EmpLemon",
+        "date": "Feb 26, 2021",
+        "description": "Change the channel, Marge...\nThis episode of Never Ever is brought to you by Keeps. Visit https://keeps.com/emplemon for 50% off your first order of hair-loss treatment.\n\nSpecial Thanks to TheRealJims: ",
+        "dislikes": " Unavailable",
+        "id": "Tq-qU_GCCLI",
+        "likes": "138,005 likes",
+        "title": "there will Never Ever be another Simpsons episode like Homer's Enemy",
+        "url": "https://www.youtube.com/watch?v=Tq-qU_GCCLI",
+        "video_length": 2467.261,
+        "views": "3,365,934 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=xVenDkGjOZ8",
+                  "sampled_type": "random",
+                  "title": "Hey squidward, say \"canine\" without the ne",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=WuoOWLSPmV8",
+                    "https://www.youtube.com/watch?v=7vW24DGHbbk",
+                    "https://www.youtube.com/watch?v=TWavYiNnYCo",
+                    "https://www.youtube.com/watch?v=VWoq1dyubYk",
+                    "https://www.youtube.com/watch?v=D-OKW5rs0fc",
+                    "https://www.youtube.com/watch?v=Thl_1XuIJM8",
+                    "https://www.youtube.com/watch?v=V58GY-iicZk",
+                    "https://www.youtube.com/watch?v=XlFkIhJNBqU",
+                    "https://www.youtube.com/watch?v=wmQ6Vj9EP_A",
+                    "https://www.youtube.com/watch?v=gKGQvznzyMc"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "112",
+                    "content creator": "Chocco Doggo",
+                    "date": "Sep 7, 2021",
+                    "description": "E",
+                    "dislikes": " Unavailable",
+                    "id": "xVenDkGjOZ8",
+                    "likes": "1,333 likes",
+                    "title": "Hey squidward, say \"canine\" without the ne",
+                    "url": "https://www.youtube.com/watch?v=xVenDkGjOZ8",
+                    "video_length": 23.661,
+                    "views": "131,810 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=91ywpP4aOLM",
+              "sampled_type": "random",
+              "title": "A Chronology of Spongebob Memes",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=1nfXVIXWc2c",
+                "https://www.youtube.com/watch?v=KQ1Zg34MP9o",
+                "https://www.youtube.com/watch?v=ChOLuDzI5-Q",
+                "https://www.youtube.com/watch?v=GxCcHOvSVJQ",
+                "https://www.youtube.com/watch?v=3M7INEB0sDk",
+                "https://www.youtube.com/watch?v=EqkCBpeLT1Q&list=RD91ywpP4aOLM&start_radio=1&rv=91ywpP4aOLM",
+                "https://www.youtube.com/watch?v=xVenDkGjOZ8",
+                "https://www.youtube.com/watch?v=TnQ_VkHj7jU",
+                "https://www.youtube.com/watch?v=14eEaJRGMKc",
+                "https://www.youtube.com/watch?v=Vb-ajY8M6gI"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,421",
+                "content creator": "hummingstrat",
+                "date": "Dec 19, 2020",
+                "description": "Do you ever wonder \"which episode is that Spongebob meme from?\" Wonder no more, I've wasted my time so you don't have to! ",
+                "dislikes": " Unavailable",
+                "id": "91ywpP4aOLM",
+                "likes": "29,911 likes",
+                "title": "A Chronology of Spongebob Memes",
+                "url": "https://www.youtube.com/watch?v=91ywpP4aOLM",
+                "video_length": 2597.621,
+                "views": "2,244,439 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=eThSfjw8Yds",
+          "sampled_type": "random",
+          "title": "One Meme from Every Spongebob Episode (Seasons 1-3)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=aHAcHgB8Ays",
+            "https://www.youtube.com/watch?v=xp12eIWU9K0",
+            "https://www.youtube.com/watch?v=1nfXVIXWc2c",
+            "https://www.youtube.com/watch?v=86D_QR_NPjQ",
+            "https://www.youtube.com/watch?v=69IZQfyIEu0",
+            "https://www.youtube.com/watch?v=KQ1Zg34MP9o",
+            "https://www.youtube.com/watch?v=wXkX0QsLRT4",
+            "https://www.youtube.com/watch?v=94rIVjqyrDs",
+            "https://www.youtube.com/watch?v=AZhWoMsTpYU",
+            "https://www.youtube.com/watch?v=ieFW20htDQE"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "7,876",
+            "content creator": "Anthony Rosas",
+            "date": "Jun 16, 2020",
+            "description": "I do not own Spongebob. This video is made for entertainment purposes.\n\nBy meme, I mean a scene from each episode that contains a popular meme, whether it would be a single frame or video.\n\nBONUS: Nature pants has two great memes in a small amount of time.\n\nAll of the Memes: \nSquidward Loser: (",
+            "dislikes": " Unavailable",
+            "id": "eThSfjw8Yds",
+            "likes": "148,488 likes",
+            "title": "One Meme from Every Spongebob Episode (Seasons 1-3)",
+            "url": "https://www.youtube.com/watch?v=eThSfjw8Yds",
+            "video_length": 963.961,
+            "views": "4,748,275 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=-Mkp4oavz2M",
+      "sampled_type": "random",
+      "title": "This Is What A Perfect Episode Of Spongebob Looks Like",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=uBQJ9iYUgoU",
+        "https://www.youtube.com/watch?v=BE4F_6SaFQY",
+        "https://www.youtube.com/watch?v=-Mkp4oavz2M&list=RDCMUCXjmz8dFzRJZrZY8eFiXNUQ&start_radio=1&rv=-Mkp4oavz2M",
+        "https://www.youtube.com/watch?v=hcm1NM89K4s",
+        "https://www.youtube.com/watch?v=GKuHdd_-m6M",
+        "https://www.youtube.com/watch?v=GCRtNuEa7fA",
+        "https://www.youtube.com/watch?v=ntVXnpB0IGA",
+        "https://www.youtube.com/watch?v=5SDrn7TX-Zw",
+        "https://www.youtube.com/watch?v=1nfXVIXWc2c",
+        "https://www.youtube.com/watch?v=XPL7U4suE2U"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "6,052",
+        "content creator": "Nerdstalgic",
+        "date": "Mar 19, 2020",
+        "description": "Head to https://www.squarespace.com/nerdstalgic to save 10% off your first purchase of a website or domain using code nerdstalgic.\n\nThe very best Spongebob episodes are all pretty unique of one another, there\u2019s no formula or exact science. Yet episodes like Squid\u2019s day off and Pizza Delivery have a few things in common. Spongebob and Squidward have combined for some great moments, but there\u2019s a few moments that I think mark the best of the show. This is a look at what a perfect Spongebob Squarepants episode looks like. \n\nTracks by the amazing Kiyoto, GC, and Lukembro!",
+        "dislikes": " Unavailable",
+        "id": "-Mkp4oavz2M",
+        "likes": "125,617 likes",
+        "title": "This Is What A Perfect Episode Of Spongebob Looks Like",
+        "url": "https://www.youtube.com/watch?v=-Mkp4oavz2M",
+        "video_length": 624.961,
+        "views": "2,580,007 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=6UCKF1ZbSME",
+                  "sampled_type": "curated",
+                  "title": "\"Debate\" Turns Ugly and Personal",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=VxK54991rF4",
+                    "https://www.youtube.com/watch?v=6UCKF1ZbSME&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=6UCKF1ZbSME",
+                    "https://www.youtube.com/watch?v=0XNzB8r3A5M",
+                    "https://www.youtube.com/watch?v=UIdlHWuxdXI",
+                    "https://www.youtube.com/watch?v=gVpQKabt1IM",
+                    "https://www.youtube.com/watch?v=9-UH6VOg4Zo",
+                    "https://www.youtube.com/watch?v=S-lNz0v0tLI",
+                    "https://www.youtube.com/watch?v=qcHs6yg-up4",
+                    "https://www.youtube.com/watch?v=1nXLCZ9K5Hg",
+                    "https://www.youtube.com/watch?v=_ZSPgiu4WIo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "3,177",
+                    "content creator": "Destiny",
+                    "date": "Dec 18, 2020",
+                    "description": "Big mad (Vaush hater) returns and makes it personal but Destiny has no problems rolling in the mud...\n\n\u25baDate streamed  - 14/12/2020\n\nFollow Destiny\n\u25baTWITTER - o7\n\u25baSTREAM - ",
+                    "dislikes": " Unavailable",
+                    "id": "6UCKF1ZbSME",
+                    "likes": "12,064 likes",
+                    "title": "\"Debate\" Turns Ugly and Personal",
+                    "url": "https://www.youtube.com/watch?v=6UCKF1ZbSME",
+                    "video_length": 3244.721,
+                    "views": "464,882 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=UIdlHWuxdXI",
+              "sampled_type": "curated",
+              "title": "Debating Lefties That Targeted The Canvassing In Omaha",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                "https://www.youtube.com/watch?v=UIdlHWuxdXI&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=UIdlHWuxdXI",
+                "https://www.youtube.com/watch?v=6UCKF1ZbSME",
+                "https://www.youtube.com/watch?v=woVJWqEg3v4",
+                "https://www.youtube.com/watch?v=tYYE76D7B0U",
+                "https://www.youtube.com/watch?v=VxK54991rF4",
+                "https://www.youtube.com/watch?v=ntqjrHF4-pU",
+                "https://www.youtube.com/watch?v=9-UH6VOg4Zo",
+                "https://www.youtube.com/watch?v=0XNzB8r3A5M",
+                "https://www.youtube.com/watch?v=viIWvXyffno"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,732",
+                "content creator": "Destiny",
+                "date": "Mar 4, 2021",
+                "description": "Destiny debates lefties that targeted him and the Omaha canvassing operation, including a rogue Hasan fan who called in another socialist friend and later makes inappropriate sexual comments toward Destiny...\n\nFollow Destiny\n\u25baSTREAM - ",
+                "dislikes": " Unavailable",
+                "id": "UIdlHWuxdXI",
+                "likes": "6,545 likes",
+                "title": "Debating Lefties That Targeted The Canvassing In Omaha",
+                "url": "https://www.youtube.com/watch?v=UIdlHWuxdXI",
+                "video_length": 6753.261,
+                "views": "237,633 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=tDHANohGp0o",
+          "sampled_type": "curated",
+          "title": "If That's True Then I Shouldn't Have Won - Post Debate Drama",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,803",
+            "content creator": "Destiny",
+            "date": "Jul 18, 2021",
+            "description": "Miscommunication, confusion and drama following the Hippy Dippy championship. Did Destiny steal the win and the belt?\n\nDate: 17 Jul, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "tDHANohGp0o",
+            "likes": "3,731 likes",
+            "title": "If That's True Then I Shouldn't Have Won - Post Debate Drama",
+            "url": "https://www.youtube.com/watch?v=tDHANohGp0o",
+            "video_length": 5063.721,
+            "views": "166,403 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=cRpQN0lTKoQ",
+      "sampled_type": "curated",
+      "title": "Destiny, DemonMama And Hunter CLASH In An Elimination Debate...",
+      "top_10_recommended": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "video": {
+        "ad": true,
+        "comments": "1,990",
+        "content creator": "Destiny",
+        "date": "Jul 17, 2021",
+        "description": "DEBATE: Hippy Dippy debate championship hosted by DylanburnsTV ft. Destiny, Trihex, Hunter Avallone, DrHeemedOut, Demonmama, Xanderhal, Counterpoints, CTV, American Nacho, LonerBox, Primecayes, Josierosec, The Sprouticus and more...\n\nDate: 16 Jul, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+        "dislikes": " Unavailable",
+        "id": "cRpQN0lTKoQ",
+        "likes": "5,348 likes",
+        "title": "Destiny, DemonMama And Hunter CLASH In An Elimination Debate...",
+        "url": "https://www.youtube.com/watch?v=cRpQN0lTKoQ",
+        "video_length": 11104.861,
+        "views": "318,576 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=c4DxvTIZ3tM",
+                  "sampled_type": "curated",
+                  "title": "John McWhorter Explains Why He Believes Modern Anti-Racism Movement Has Lost Its Way | The View",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=RSH48E_-xPA",
+                    "https://www.youtube.com/watch?v=LO7KTHTz0Mw",
+                    "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                    "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                    "https://www.youtube.com/watch?v=zjCsDHdCxbQ",
+                    "https://www.youtube.com/watch?v=bvikt3Ynsss",
+                    "https://www.youtube.com/watch?v=-tjgXQDyqno",
+                    "https://www.youtube.com/watch?v=EWX5B6cD4_4",
+                    "https://www.youtube.com/watch?v=1TSCjXESRow",
+                    "https://www.youtube.com/watch?v=AYG6-54s5gA"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "3,872",
+                    "content creator": "The View",
+                    "date": "Nov 30, 2021",
+                    "description": "On \u201cThe View,\u201d the author of \u201cWoke Racism\u201d shares his theories on why anti-racism is doing more harm to the country than good.\n\nSubscribe to our YouTube channel: ",
+                    "dislikes": " Unavailable",
+                    "id": "c4DxvTIZ3tM",
+                    "likes": "5,392 likes",
+                    "title": "John McWhorter Explains Why He Believes Modern Anti-Racism Movement Has Lost Its Way | The View",
+                    "url": "https://www.youtube.com/watch?v=c4DxvTIZ3tM",
+                    "video_length": 420.341,
+                    "views": "349,423 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=WAUUgxQPwM0",
+              "sampled_type": "curated",
+              "title": "Andrew Yang & John McWhorter on Dave Chappelle and \"Transphobia\" | Real Time with Bill Maher (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=12LAXsiDRPU",
+                "https://www.youtube.com/watch?v=c4DxvTIZ3tM",
+                "https://www.youtube.com/watch?v=XrVJMc-S_Wk",
+                "https://www.youtube.com/watch?v=AIMUdG-3M6U",
+                "https://www.youtube.com/watch?v=bvikt3Ynsss",
+                "https://www.youtube.com/watch?v=U-MwaC9Euv4",
+                "https://www.youtube.com/watch?v=WL_SGxCEiwI",
+                "https://www.youtube.com/watch?v=0pabbzNjZ2s",
+                "https://www.youtube.com/watch?v=qw1CyZK6ZA4",
+                "https://www.youtube.com/watch?v=ErpKor51b20"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "8,078",
+                "content creator": "Real Time with Bill Maher",
+                "date": "Oct 22, 2021",
+                "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nAndrew Yang and John McWhorter join Bill Maher to discuss the uproar over Dave Chappelle's latest comedy special and the dangers of not adhering to the \"One True Opinion\" on trans issues.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                "dislikes": " Unavailable",
+                "id": "WAUUgxQPwM0",
+                "likes": "33,050 likes",
+                "title": "Andrew Yang & John McWhorter on Dave Chappelle and \"Transphobia\" | Real Time with Bill Maher (HBO)",
+                "url": "https://www.youtube.com/watch?v=WAUUgxQPwM0",
+                "video_length": 481.741,
+                "views": "1,782,907 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=KJopQ3vPmkk",
+          "sampled_type": "curated",
+          "title": "Stephen Colbert talks Cancel Culture, Dave Chappelle and the Insurrection | Offline Podcast",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": true,
+            "comments": "957",
+            "content creator": "Crooked Media",
+            "date": "Nov 21, 2021",
+            "description": "Stephen Colbert joins Jon Favreau to defend his 8 hour-a-day screen habit and preach the benefits of a Twitter-free lifestyle. The two talk about what it took to produce The Late Show during the pandemic, why Stephen is glad his live audience is back, and what some of the darkest days of American democracy looked like behind the scenes at the Ed Sullivan Theater. Jon also asks Stephen about his perspective on cancel culture and why comedy must be rooted in empathy.\n\nChapters:",
+            "dislikes": " Unavailable",
+            "id": "KJopQ3vPmkk",
+            "likes": "9,069 likes",
+            "title": "Stephen Colbert talks Cancel Culture, Dave Chappelle and the Insurrection | Offline Podcast",
+            "url": "https://www.youtube.com/watch?v=KJopQ3vPmkk",
+            "video_length": 3038.061,
+            "views": "394,816 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=PC2GtkGBEWU",
+      "sampled_type": "curated",
+      "title": "Crowder's Racist Covid-Denying Freak-Out Made His Producer Cringe",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=KJopQ3vPmkk",
+        "https://www.youtube.com/watch?v=sHcoDAGf1RY",
+        "https://www.youtube.com/watch?v=7SM5ak0BksY",
+        "https://www.youtube.com/watch?v=97GMkrhDqWM",
+        "https://www.youtube.com/watch?v=4GqBTyXYCJE",
+        "https://www.youtube.com/watch?v=zi3_A1Oj6Nw",
+        "https://www.youtube.com/watch?v=EO5q1m2kC00",
+        "https://www.youtube.com/watch?v=qN5L2q6hfWo",
+        "https://www.youtube.com/watch?v=VisBMuDoCmg",
+        "https://www.youtube.com/watch?v=WhMGcp9xIhY"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,667",
+        "content creator": "The Majority Report w/ Sam Seder",
+        "date": "Dec 15, 2021",
+        "description": "Steven Crowder makes absolutely racist comments about rapper Megan Thee Stallion and singer Lizzo when comparing Covid strains. The Majority Report crew discuss and clarify Crowder\u2019s misconception of the Omicron variant being a less lethal godsend. \n\nWe stream our live show every day at 12 PM ET.\n\nWe need your help to keep providing free videos! Support the Majority Report's video content by going to ",
+        "dislikes": " Unavailable",
+        "id": "PC2GtkGBEWU",
+        "likes": "5,373 likes",
+        "title": "Crowder's Racist Covid-Denying Freak-Out Made His Producer Cringe",
+        "url": "https://www.youtube.com/watch?v=PC2GtkGBEWU",
+        "video_length": 408.941,
+        "views": "142,126 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

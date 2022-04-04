@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=dHSQAEam2yc",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=AAGIi62-sAU&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=AAGIi62-sAU",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=BiDvLshi9CY",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=mY3SEMTROas",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=Cqbleas1mmo",
+                          "title": "The Russian Revolution - OverSimplified (Part 1)",
+                          "video": {
+                            "ad": null,
+                            "comments": "32,662",
+                            "content creator": "OverSimplified",
+                            "date": "Premiered Aug 17, 2020",
+                            "description": "Get 68% off NordVPN! Only $3.71/mo, plus you get an additional month FREE at:\nhttps://nordvpn.com/oversimplified\nUse codeword: oversimplified\n\nMERCH (Russian Revolution merch OUT NOW!) - ",
+                            "dislikes": " Unavailable",
+                            "id": "Cqbleas1mmo",
+                            "likes": "471,825 likes",
+                            "title": "The Russian Revolution - OverSimplified (Part 1)",
+                            "url": "https://www.youtube.com/watch?v=Cqbleas1mmo",
+                            "video_length": 1264,
+                            "views": "21,445,657 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=ewLpXw6uN28&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=ewLpXw6uN28",
+                          "title": "Henry VIII - OverSimplified",
+                          "video": {
+                            "ad": null,
+                            "comments": "37,446",
+                            "content creator": "OverSimplified",
+                            "date": "Premiered May 4, 2020",
+                            "description": "Get the best deals while shopping online \u25b8 http://joinhoney.com/oversimplified\nHoney is FREE and finds coupons with the click of a button. Thanks Honey for sponsoring!\n\nFor every OverSimplified face mask you purchase, Crowdmade will donate a mask to a medical worker for a limited time:",
+                            "dislikes": " Unavailable",
+                            "id": "ewLpXw6uN28&list",
+                            "likes": "518,882 likes",
+                            "title": "Henry VIII - OverSimplified",
+                            "url": "https://www.youtube.com/watch?v=ewLpXw6uN28&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=ewLpXw6uN28",
+                            "video_length": 1606,
+                            "views": "24,442,811 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=zqllxbPWKNI",
+                          "title": "The Napoleonic Wars - OverSimplified (Part 1)",
+                          "video": {
+                            "ad": null,
+                            "comments": "38,721",
+                            "content creator": "OverSimplified",
+                            "date": "Premiered May 28, 2021",
+                            "description": "Go to https://NordVPN.com/OverSimplified to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\n\nMERCH (Napoleon pin OUT NOW!) - ",
+                            "dislikes": " Unavailable",
+                            "id": "zqllxbPWKNI",
+                            "likes": "551,840 likes",
+                            "title": "The Napoleonic Wars - OverSimplified (Part 1)",
+                            "url": "https://www.youtube.com/watch?v=zqllxbPWKNI",
+                            "video_length": 1781.141,
+                            "views": "23,891,704 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=26EivpCPHnQ",
+                          "title": "Three Kingdoms - OverSimplified",
+                          "video": {
+                            "ad": null,
+                            "comments": "42,173",
+                            "content creator": "OverSimplified",
+                            "date": "Apr 11, 2019",
+                            "description": "Get Total War: Three Kingdoms today! Buying the game through our link will help support our channel: https://store.steampowered.com/app/77...",
+                            "dislikes": " Unavailable",
+                            "id": "26EivpCPHnQ",
+                            "likes": "455,361 likes",
+                            "title": "Three Kingdoms - OverSimplified",
+                            "url": "https://www.youtube.com/watch?v=26EivpCPHnQ",
+                            "video_length": 1042.741,
+                            "views": "24,458,292 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=AAGIi62-sAU",
+                          "title": "Prohibition - OverSimplified",
+                          "video": {
+                            "ad": null,
+                            "comments": "54,079",
+                            "content creator": "OverSimplified",
+                            "date": "Premiered Dec 15, 2020",
+                            "description": "Get Honey for FREE today \u25b8 http://joinhoney.com/oversimplified\nHoney finds coupons with the click of a button. Thanks to Honey for sponsoring!\n\nMERCH (New limited edition Al Capone pin OUT NOW!) - ",
+                            "dislikes": " Unavailable",
+                            "id": "AAGIi62-sAU",
+                            "likes": "579,712 likes",
+                            "title": "Prohibition - OverSimplified",
+                            "url": "https://www.youtube.com/watch?v=AAGIi62-sAU",
+                            "video_length": 2022.821,
+                            "views": "25,618,593 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=5nj2leSnjr4",
+                      "title": "Napoleon's Marshals, Ranked (All Parts)",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,305",
+                        "content creator": "Epic History TV",
+                        "date": "Apr 23, 2021",
+                        "description": "In 1804 Napoleon created 18 'Marshals of the Empire', to serve as the senior officers of the Grande Arm\u00e9e. He created a further 8 before his abdication in 1814. A few were aristocrats, but others were the sons of shopkeepers or tailors. The most favoured became princes and kings. Among their ranks were legendary figures such as Marshals Lannes, Ney, Soult, Davout and Mass\u00e9na, but also less well know figures like P\u00e9rignon, Brune and Moncey. Our series explores the lives of all 26 Marshals, and ranks them according to our own judgement of their achievements as Marshals. \n\nThank you to our series historical consultant Lt.Col.R\u00e9my Porte, whose blog on military history (in French) you can read here: ",
+                        "dislikes": " Unavailable",
+                        "id": "5nj2leSnjr4",
+                        "likes": "15,957 likes",
+                        "title": "Napoleon's Marshals, Ranked (All Parts)",
+                        "url": "https://www.youtube.com/watch?v=5nj2leSnjr4",
+                        "video_length": 10946,
+                        "views": "1,536,444 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vBSGSkIasRY",
+                      "title": "The Napoleonic Wars: Downfall (1809 - 1814)",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,203",
+                        "content creator": "Epic History TV",
+                        "date": "Jul 9, 2021",
+                        "description": "This compilation of our Napoleonic Wars series covers the period from 1809 to the Emperor's abdication in 1814. Along the way we encounter the horrors of the French occupation of Spain and Portugal, Napoleon's disastrous invasion of Russia, and the great struggle for German in 1813. The series concludes with arguably Napoleon's finest campaign - his doomed defence of Paris in 1814. \n\nSupport Epic History TV on Patreon from $1 per video, and get perks including ad-free early access & votes on future topics ",
+                        "dislikes": " Unavailable",
+                        "id": "vBSGSkIasRY",
+                        "likes": "18,474 likes",
+                        "title": "The Napoleonic Wars: Downfall (1809 - 1814)",
+                        "url": "https://www.youtube.com/watch?v=vBSGSkIasRY",
+                        "video_length": 12250,
+                        "views": "2,447,227 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=qlSxPouPCIM",
+                      "title": "1929 Stock Market Crash and the Great Depression - Documentary",
+                      "video": {
+                        "ad": null,
+                        "comments": "9,359",
+                        "content creator": "TradingCoachUK",
+                        "date": "Jul 6, 2018",
+                        "description": "Brief History of that other economic designed crash of 1929\nBBC documentary\n\nOn October 29, 1929, Black Tuesday hit Wall Street as investors traded some 16 million shares on the New York Stock Exchange in a single day. Billions of dollars were lost, wiping out thousands of investors. In the aftermath of Black Tuesday, America and the rest of the industrialized world spiraled downward into the Great Depression (1929-39), the deepest and longest-lasting economic downturn in the history of the Western industrialized world up to that time.\n\n1929 Stock Market Crash\n\nDuring the 1920s, the U.S. stock market underwent rapid expansion, reaching its peak in August 1929, after a period of wild speculation. By then, production had already declined and unemployment had risen, leaving stocks in great excess of their real value. Among the other causes of the eventual market collapse were low wages, the proliferation of debt, a struggling agricultural sector and an excess of large bank loans that could not be liquidated.\n\nStock prices began to decline in September and early October 1929, and on October 18 the fall began. Panic set in, and on October 24, Black Thursday, a record 12,894,650 shares were traded. Investment companies and leading bankers attempted to stabilize the market by buying up great blocks of stock, producing a moderate rally on Friday. On Monday, however, the storm broke anew, and the market went into free fall. Black Monday was followed by Black Tuesday (October 29), in which stock prices collapsed completely and 16,410,030 shares were traded on the New York Stock Exchange in a single day. Billions of dollars were lost, wiping out thousands of investors, and stock tickers ran hours behind because the machinery could not handle the tremendous volume of trading.\n\n\n1929 Stock Market Crash and the Great Depression\n\nAfter October 29, 1929, stock prices had nowhere to go but up, so there was considerable recovery during succeeding weeks. Overall, however, prices continued to drop as the United States slumped into the Great Depression, and by 1932 stocks were worth only about 20 percent of their value in the summer of 1929. The stock market crash of 1929 was not the sole cause of the Great Depression, but it did act to accelerate the global economic collapse of which it was also a symptom. By 1933, nearly half of America\u2019s banks had failed, and unemployment was approaching 15 million people, or 30 percent of the workforce.",
+                        "dislikes": " Unavailable",
+                        "id": "qlSxPouPCIM",
+                        "likes": "43,019 likes",
+                        "title": "1929 Stock Market Crash and the Great Depression - Documentary",
+                        "url": "https://www.youtube.com/watch?v=qlSxPouPCIM",
+                        "video_length": 3515.941,
+                        "views": "4,960,922 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=91OmO2YMiDM&list=RDCMUCvPXiKxH-eH9xq-80vpgmKQ&start_radio=1&rv=91OmO2YMiDM",
+                      "title": "The Napoleonic Wars (PARTS 1-6)",
+                      "video": {
+                        "ad": null,
+                        "comments": "4,228",
+                        "content creator": "Epic History TV",
+                        "date": "Oct 9, 2019",
+                        "description": "The Napoleonic Wars (1803 - 1815) brought upheaval and destruction to Europe on an unprecedented scale. This is the story of the first half of those wars, when Napoleon Bonaparte, self-crowned Emperor of the French, ruled supreme on the battlefield and international stage - the greatest man of his age. But in the midst of victory, the seeds of his eventual downfall were sown. \n\nThis video is a compilation of the first six episodes of Epic History TV's Napoleonic Wars series. \n\n\ud83d\udc49Support Epic History TV on Patreon from $1 per video, and get perks including ad-free early access, exclusive updates and votes on future topics. ",
+                        "dislikes": " Unavailable",
+                        "id": "91OmO2YMiDM&list",
+                        "likes": "62,242 likes",
+                        "title": "The Napoleonic Wars (PARTS 1-6)",
+                        "url": "https://www.youtube.com/watch?v=91OmO2YMiDM&list=RDCMUCvPXiKxH-eH9xq-80vpgmKQ&start_radio=1&rv=91OmO2YMiDM",
+                        "video_length": 5702.781,
+                        "views": "7,621,679 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ewLpXw6uN28",
+                      "title": "Henry VIII - OverSimplified",
+                      "video": {
+                        "ad": null,
+                        "comments": "37,446",
+                        "content creator": "OverSimplified",
+                        "date": "Premiered May 4, 2020",
+                        "description": "Get the best deals while shopping online \u25b8 http://joinhoney.com/oversimplified\nHoney is FREE and finds coupons with the click of a button. Thanks Honey for sponsoring!\n\nFor every OverSimplified face mask you purchase, Crowdmade will donate a mask to a medical worker for a limited time:",
+                        "dislikes": " Unavailable",
+                        "id": "ewLpXw6uN28",
+                        "likes": "518,881 likes",
+                        "title": "Henry VIII - OverSimplified",
+                        "url": "https://www.youtube.com/watch?v=ewLpXw6uN28",
+                        "video_length": 1606.101,
+                        "views": "24,442,770 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=azBOK69FirU",
+                  "title": "Why China Lost Faith In The Soviet Union Alliance | Mao's Cold War | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,193",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Jun 18, 2020",
+                    "description": "The Sino-Soviet solidarity was once deemed eternal but from the beginning of their alliance, the Chinese were frustrated by an unequal relationship with the Soviets.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "azBOK69FirU",
+                    "likes": "11,470 likes",
+                    "title": "Why China Lost Faith In The Soviet Union Alliance | Mao's Cold War | Timeline",
+                    "url": "https://www.youtube.com/watch?v=azBOK69FirU",
+                    "video_length": 2605,
+                    "views": "947,470 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=XdOxBCpk39c",
+                  "title": "The Cultural Riches of Islam | Islam Religious Documentary | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,431",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Sep 20, 2017",
+                    "description": "This feature-length documentary examines Islam's rich and significant contribution to western art and culture\n\nPresenter and art critic, Waldemar Januszczak, sets out on an epic journey of discovery across the Muslim world from Central Asia to the heart of the Middle East and beyond.\n\nHe reveals a world of awe-inspiring architecture, spectacular Islamic treasures and a host of artists and craftsmen, bringing the largely unknown and fascinating story of Islamic art and architecture to the attention of the public. Documentary first broadcast in 2005.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "XdOxBCpk39c",
+                    "likes": "44,376 likes",
+                    "title": "The Cultural Riches of Islam | Islam Religious Documentary | Timeline",
+                    "url": "https://www.youtube.com/watch?v=XdOxBCpk39c",
+                    "video_length": 6125.261,
+                    "views": "10,026,919 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=JOWFPTzK7D4",
+                  "title": "Is This The Real City Of Mecca? | Sacred City | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "15,417",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Jan 26, 2019",
+                    "description": "The Sacred City presents compelling evidence that suggests the holy city of Mecca is in the wrong location and that the worlds 1.6 billion Muslims are praying in the direction of the wrong city. Compiling evidence from both historic sources and new technologies point to the correct location in this seismic, revelatory new film.\n\nIn this startling and original documentary, writer and historian, Dan Gibson, shows that descriptions of Mohamed\u2019s original holy city \u2013 as detailed in the Qur\u2019an and Islamic histories, do not match that of the Mecca we know today.  If true this could shake Islam to it\u2019s roots, because every Muslim is required to pray towards  the \u2018forbidden gathering place\u2019. If Dan Gibson is right, Muslims are praying in the wrong direction.\n\nIn the film \u2018The Sacred City\u2019 we set out his evidence from within Islamic and ancient histories \u2013 while also using modern technologies -  to track down the biggest secret of the last fifteen hundred years. Gibson not only finds the location of the original Mecca but also provides a convincing argument as to how such a great misunderstanding in Islamic history came about.\n\nWhile clearly controversial, The Sacred City is respectful of Islam\u2019s prophet, and does not dispute the events of the Qur\u2019an; but shows how a deliberate attempt was made to hide from Islam, secrets that impact every Muslim today. The evidence is compelling and fascinating.\n\nIn a time when the world agenda is being set by Islam, it is more important than ever for the origins and history of this world religion to be examined afresh. This is an important documentary with world-wide appeal for both religious and secular audiences.\n\nBeautifully filmed in the ruins and deserts of the middle east, the film is a detective story that investigates the dawn of Islam and will become the most talked about film for years to come.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "JOWFPTzK7D4",
+                    "likes": "36,230 likes",
+                    "title": "Is This The Real City Of Mecca? | Sacred City | Timeline",
+                    "url": "https://www.youtube.com/watch?v=JOWFPTzK7D4",
+                    "video_length": 5108.981,
+                    "views": "6,073,468 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=6SuNPI6Y6K8",
+                  "title": "Kashmir The Story | Full Documentary On The History & Timelines Of Kashmir Valley",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,621",
+                    "content creator": "TIMES NOW",
+                    "date": "Aug 5, 2019",
+                    "description": "A TIMES NOW Exclusive, this documentary series gives an insight into the conflict-ridden region, showcasing facts as they are. The purely observational piece of storytelling is an honest attempt to showcase life in the Kashmir valley. Watch Kashmir The Story here. #Kashmir #KashmirTheStory ",
+                    "dislikes": " Unavailable",
+                    "id": "6SuNPI6Y6K8",
+                    "likes": "41,600 likes",
+                    "title": "Kashmir The Story | Full Documentary On The History & Timelines Of Kashmir Valley",
+                    "url": "https://www.youtube.com/watch?v=6SuNPI6Y6K8",
+                    "video_length": 6736.581,
+                    "views": "6,654,546 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=91OmO2YMiDM",
+                  "title": "The Napoleonic Wars (PARTS 1-6)",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,228",
+                    "content creator": "Epic History TV",
+                    "date": "Oct 9, 2019",
+                    "description": "The Napoleonic Wars (1803 - 1815) brought upheaval and destruction to Europe on an unprecedented scale. This is the story of the first half of those wars, when Napoleon Bonaparte, self-crowned Emperor of the French, ruled supreme on the battlefield and international stage - the greatest man of his age. But in the midst of victory, the seeds of his eventual downfall were sown. \n\nThis video is a compilation of the first six episodes of Epic History TV's Napoleonic Wars series. \n\n\ud83d\udc49Support Epic History TV on Patreon from $1 per video, and get perks including ad-free early access, exclusive updates and votes on future topics. ",
+                    "dislikes": " Unavailable",
+                    "id": "91OmO2YMiDM",
+                    "likes": "62,242 likes",
+                    "title": "The Napoleonic Wars (PARTS 1-6)",
+                    "url": "https://www.youtube.com/watch?v=91OmO2YMiDM",
+                    "video_length": 5702.781,
+                    "views": "7,621,604 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=CbkJS5cLLOQ",
+              "title": "The Shocking History Of Collateral Damage In Warfare | Tin Soldiers | Timeline",
+              "video": {
+                "ad": null,
+                "comments": "935",
+                "content creator": "Timeline - World History Documentaries",
+                "date": "Apr 8, 2017",
+                "description": "20th Century beliefs that a new military technology would bring about cleaner wars and reduce casualties are confounded in this look at modern warfare from the Battle of the Somme to the Gulf War.\n\nWe have long saluted military genius and bravery. But the other side of the coin is military incompetence \u2013 a largely preventable, tragically expensive, yet totally absorbing aspect of human behaviour.\n\nFrom the Crusades to Vietnam, history is littered with examples of stupidity, obduracy, brutality and sheer breath-taking incompetence. Lack of communication, technological failure and a misplaced sense of superiority have led to the deaths of thousands of ordinary soldiers, let down by their masters and betrayed by arrogance. Using a combination of history, human interest and archive footage underpinned by powerful story-telling, Great Military Blunders charts man\u2019s folly and cruelty in a series of stunning debacles, spanning almost a thousand years of conflict.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                "dislikes": " Unavailable",
+                "id": "CbkJS5cLLOQ",
+                "likes": "6,592 likes",
+                "title": "The Shocking History Of Collateral Damage In Warfare | Tin Soldiers | Timeline",
+                "url": "https://www.youtube.com/watch?v=CbkJS5cLLOQ",
+                "video_length": 2971.101,
+                "views": "948,485 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=O1evWtQS0BU",
+              "title": "The Boneyard: The Most Horrific Murder Case Since The Zodiac Killer | Retold",
+              "video": {
+                "ad": null,
+                "comments": "3,654",
+                "content creator": "Retold",
+                "date": "Jul 1, 2021",
+                "description": "The story of American serial killer Leonard Thomas Lake and his accomplice Charles Ng. The documentary starts with the cyanide poisoning suicide of Lake, the ensuing investigation, and the horrors that were discovered.\n\nContent licensed by New Dominion Pictures. Any queries, please contact us at owned-enquiries@littledotstudios.com\n\nWant to watch more docudramas? \nClick here: ",
+                "dislikes": " Unavailable",
+                "id": "O1evWtQS0BU",
+                "likes": "24,109 likes",
+                "title": "The Boneyard: The Most Horrific Murder Case Since The Zodiac Killer | Retold",
+                "url": "https://www.youtube.com/watch?v=O1evWtQS0BU",
+                "video_length": 5523.461,
+                "views": "3,657,167 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=jIRDidFqOEo",
+              "title": "A Close Look At History's Great Military Blunders | Politics By Other Means | Timeline",
+              "video": {
+                "ad": null,
+                "comments": "1,443",
+                "content creator": "Timeline - World History Documentaries",
+                "date": "Apr 22, 2017",
+                "description": "Examining the strategic failures of politicians. Included: the defeat of the Crusaders at the battle of Hattin in 1187. Also: Fascist Italy led by Benitto Mussolini invades Ethiopian territory in 1935; and Ronald Reagan orders the invasion of Grenada in 1983.\n\nWe have long saluted military genius and bravery. But the other side of the coin is military incompetence \u2013 a largely preventable, tragically expensive, yet totally absorbing aspect of human behaviour.\n\nFrom the Crusades to Vietnam, history is littered with examples of stupidity, obduracy, brutality and sheer breath-taking incompetence. Lack of communication, technological failure and a misplaced sense of superiority have led to the deaths of thousands of ordinary soldiers, let down by their masters and betrayed by arrogance. Using a combination of history, human interest and archive footage underpinned by powerful story-telling, Great Military Blunders charts man\u2019s folly and cruelty in a series of stunning debacles, spanning almost a thousand years of conflict.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                "dislikes": " Unavailable",
+                "id": "jIRDidFqOEo",
+                "likes": "5,115 likes",
+                "title": "A Close Look At History's Great Military Blunders | Politics By Other Means | Timeline",
+                "url": "https://www.youtube.com/watch?v=jIRDidFqOEo",
+                "video_length": 2937.901,
+                "views": "709,010 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=gcqspF9NbEs&list=RDCMUC88lvyJe7aHZmcvzvubDFRg&start_radio=1&rv=gcqspF9NbEs",
+              "title": "A History of Deadly Military Incompetence | Who's Sorry | Timeline",
+              "video": {
+                "ad": null,
+                "comments": "2,815",
+                "content creator": "Timeline - World History Documentaries",
+                "date": "Apr 29, 2017",
+                "description": "A look at the tragic consequences of underestimating the enemy. During the Second World War, the British commander of Singapore believed it to be an impregnable fortress until a numerically inferior Japanese Army overran it. Similarly, 12 years on, the French lost the mountain garrison at Dien Bien Phu after failing to anticipate the resourcefulness of General Giap and his Vietmanese peasant army.\n\nWe have long saluted military genius and bravery. But the other side of the coin is military incompetence \u2013 a largely preventable, tragically expensive, yet totally absorbing aspect of human behaviour.\n\nFrom the Crusades to Vietnam, history is littered with examples of stupidity, obduracy, brutality and sheer breath-taking incompetence. Lack of communication, technological failure and a misplaced sense of superiority have led to the deaths of thousands of ordinary soldiers, let down by their masters and betrayed by arrogance. Using a combination of history, human interest and archive footage underpinned by powerful story-telling, Great Military Blunders charts man\u2019s folly and cruelty in a series of stunning debacles, spanning almost a thousand years of conflict.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                "dislikes": " Unavailable",
+                "id": "gcqspF9NbEs&list",
+                "likes": "15,818 likes",
+                "title": "A History of Deadly Military Incompetence | Who's Sorry | Timeline",
+                "url": "https://www.youtube.com/watch?v=gcqspF9NbEs&list=RDCMUC88lvyJe7aHZmcvzvubDFRg&start_radio=1&rv=gcqspF9NbEs",
+                "video_length": 2907.101,
+                "views": "1,685,572 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xthe53TvFg4",
+              "title": "The Sino-Indian War: How Friends Became Foes | Mao's Cold War| Timeline",
+              "video": {
+                "ad": null,
+                "comments": "2,775",
+                "content creator": "Timeline - World History Documentaries",
+                "date": "Jun 11, 2020",
+                "description": "At the height of the Cold War, China's ally India would turn from friend to foe as the issue of Tibetan independence rips the Asian brotherhood apart.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                "dislikes": " Unavailable",
+                "id": "xthe53TvFg4",
+                "likes": "11,808 likes",
+                "title": "The Sino-Indian War: How Friends Became Foes | Mao's Cold War| Timeline",
+                "url": "https://www.youtube.com/watch?v=xthe53TvFg4",
+                "video_length": 2598.421,
+                "views": "1,155,805 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=kBiS4qTsjCg",
+          "title": "Debate: Sexism In Science",
+          "video": {
+            "ad": null,
+            "comments": "2,448",
+            "content creator": "Sky News",
+            "date": "Jun 10, 2015",
+            "description": "Nobel scientist Tim Hunt has been criticised for saying male and female scientists should be kept apart at work \"because girls cry when they are criticised\".\n\nDebate between Dr Emily Grossman and Milo Yiannopoulos.\n\nSUBSCRIBE to our YouTube channel for more videos: ",
+            "dislikes": " Unavailable",
+            "id": "kBiS4qTsjCg",
+            "likes": "13,321 likes",
+            "title": "Debate: Sexism In Science",
+            "url": "https://www.youtube.com/watch?v=kBiS4qTsjCg",
+            "video_length": 544.741,
+            "views": "860,365 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+          "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+          "video": {
+            "ad": null,
+            "comments": "65,475",
+            "content creator": "Skavlan",
+            "date": "Oct 29, 2018",
+            "description": "Watch the complete Skavlan interview with psychologist and professor Jordan B. Peterson.\n\nAlso present in the studio are Swedish politician Annie L\u00f6\u00f6f and Norwegian author Erlend Loe. The show's presenter is Fredrik Skavlan. \n\nMore Skavlan\nTwitter: ",
+            "dislikes": " Unavailable",
+            "id": "_iudkPi4_sY",
+            "likes": "290,966 likes",
+            "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+            "url": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+            "video_length": 2319.741,
+            "views": "23,039,031 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+          "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+          "video": {
+            "ad": null,
+            "comments": "Error found",
+            "content creator": "abcqanda",
+            "date": "Streamed live on Feb 25, 2019",
+            "description": "Monday, 25 February 2019\n\nJordan Peterson join the live Q&A Panel with Alex Hawke, Terri Butler, Cathryn McGregor and Van Badham. \n\nFor more from Q&A, click here: ",
+            "dislikes": " Unavailable",
+            "id": "TmNSlF7lcaw",
+            "likes": "109,412 likes",
+            "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+            "url": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+            "video_length": 4763,
+            "views": "9,651,059 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lImHh7fqrQo",
+          "title": "Milo Yiannopoulos Interview | Real Time with Bill Maher (HBO)",
+          "video": {
+            "ad": null,
+            "comments": "16,662",
+            "content creator": "Real Time with Bill Maher",
+            "date": "Feb 18, 2017",
+            "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nThe controversial senior editor of Brietbart News and author of the upcoming book, \"Dangerous,\" joins Bill Maher to discuss free speech and his reputation as an internet troll. \n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+            "dislikes": " Unavailable",
+            "id": "lImHh7fqrQo",
+            "likes": "53,168 likes",
+            "title": "Milo Yiannopoulos Interview | Real Time with Bill Maher (HBO)",
+            "url": "https://www.youtube.com/watch?v=lImHh7fqrQo",
+            "video_length": 665.621,
+            "views": "6,222,650 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gcqspF9NbEs",
+          "title": "A History of Deadly Military Incompetence | Who's Sorry | Timeline",
+          "video": {
+            "ad": null,
+            "comments": "2,815",
+            "content creator": "Timeline - World History Documentaries",
+            "date": "Apr 29, 2017",
+            "description": "A look at the tragic consequences of underestimating the enemy. During the Second World War, the British commander of Singapore believed it to be an impregnable fortress until a numerically inferior Japanese Army overran it. Similarly, 12 years on, the French lost the mountain garrison at Dien Bien Phu after failing to anticipate the resourcefulness of General Giap and his Vietmanese peasant army.\n\nWe have long saluted military genius and bravery. But the other side of the coin is military incompetence \u2013 a largely preventable, tragically expensive, yet totally absorbing aspect of human behaviour.\n\nFrom the Crusades to Vietnam, history is littered with examples of stupidity, obduracy, brutality and sheer breath-taking incompetence. Lack of communication, technological failure and a misplaced sense of superiority have led to the deaths of thousands of ordinary soldiers, let down by their masters and betrayed by arrogance. Using a combination of history, human interest and archive footage underpinned by powerful story-telling, Great Military Blunders charts man\u2019s folly and cruelty in a series of stunning debacles, spanning almost a thousand years of conflict.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+            "dislikes": " Unavailable",
+            "id": "gcqspF9NbEs",
+            "likes": "15,818 likes",
+            "title": "A History of Deadly Military Incompetence | Who's Sorry | Timeline",
+            "url": "https://www.youtube.com/watch?v=gcqspF9NbEs",
+            "video_length": 2907.101,
+            "views": "1,685,561 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+      "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+      "video": {
+        "ad": null,
+        "comments": "27,726",
+        "content creator": "Fiddy",
+        "date": "Nov 10, 2017",
+        "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+        "dislikes": " Unavailable",
+        "id": "8GvwYOfHXMM",
+        "likes": "165,547 likes",
+        "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+        "url": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+        "video_length": 1037.501,
+        "views": "10,621,963 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+      "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+      "video": {
+        "ad": null,
+        "comments": "226,591",
+        "content creator": "British GQ",
+        "date": "Oct 30, 2018",
+        "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "yZYQpge1W5s",
+        "likes": "696,067 likes",
+        "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+        "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "video_length": 6133.181,
+        "views": "47,697,359 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kasiov0ytEc",
+      "title": "Genders, Rights and Freedom of Speech",
+      "video": {
+        "ad": null,
+        "comments": "49,659",
+        "content creator": "The Agenda with Steve Paikin",
+        "date": "Oct 26, 2016",
+        "description": "Jordan Peterson, a psychology professor at the University of Toronto, posted a YouTube video criticizing the proposed Bill C-16, which adds gender identity and gender expression to the list of prohibited grounds of discrimination. His video caused concern and sparked conversation. The Agenda convenes a panel to ask: Is the legislation a matter of human rights or a case of legal overreach that threatens freedom of speech?",
+        "dislikes": " Unavailable",
+        "id": "kasiov0ytEc",
+        "likes": "99,654 likes",
+        "title": "Genders, Rights and Freedom of Speech",
+        "url": "https://www.youtube.com/watch?v=kasiov0ytEc",
+        "video_length": 3298.441,
+        "views": "7,476,094 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "video": {
+        "ad": null,
+        "comments": "114,348",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "231,169 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713.401,
+        "views": "8,451,750 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=1Ef7Us0zw8Q",
+      "title": "Milo Yiannopoulos Talks Free Speech, Feminism, Fake News & Australian Tour | Studio 10",
+      "video": {
+        "ad": null,
+        "comments": "Error found",
+        "content creator": "Studio 10",
+        "date": "Oct 22, 2017",
+        "description": "Subscribe now for more! https://youtube.com/c/Studio10au\nCheck out our home on 10play: https://10play.com.au/studio10\nHe's been dubbed the poster boy of the far-right, with his controversial views often met with outrage and protest. But, who is Milo Yiannopoulos and what does he stand for? We chat with the man himself. \n\nStudio 10 | 8am \u2013 12pm weekdays on Channel 10 featuring hosts Sarah Harris, Joe Hildebrand, Angela Bishop, Kerri-Anne Kennerley, Denise Drysdale, Natarsha Belling and Narelda Jacobs.\n\nFacebook: ",
+        "dislikes": " Unavailable",
+        "id": "1Ef7Us0zw8Q",
+        "likes": "44,270 likes",
+        "title": "Milo Yiannopoulos Talks Free Speech, Feminism, Fake News & Australian Tour | Studio 10",
+        "url": "https://www.youtube.com/watch?v=1Ef7Us0zw8Q",
+        "video_length": 962.701,
+        "views": "2,851,687 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+  "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+  "video": {
+    "ad": null,
+    "comments": "41,921",
+    "content creator": "Fiddy",
+    "date": "Oct 15, 2017",
+    "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+    "dislikes": " Unavailable",
+    "id": "5cIvH-iZZfA",
+    "likes": "291,466 likes",
+    "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+    "url": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+    "video_length": 1018.301,
+    "views": "15,007,698 views"
+  }
+}

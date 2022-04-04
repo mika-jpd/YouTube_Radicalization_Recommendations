@@ -1,0 +1,982 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=hkZir1L7fSY",
+                          "title": "French Elections: Last Week Tonight with John Oliver (HBO)",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=LdhQzXHYLZ4",
+                            "https://www.youtube.com/watch?v=0V5ckcTSYu8",
+                            "https://www.youtube.com/watch?v=wD8AwgO0AQI",
+                            "https://www.youtube.com/watch?v=fyVz5vgqBhE",
+                            "https://www.youtube.com/watch?v=4Z4j2CrJRn4",
+                            "https://www.youtube.com/watch?v=8-hahRWhFvg",
+                            "https://www.youtube.com/watch?v=tXqnRMU1fTs",
+                            "https://www.youtube.com/watch?v=gvZSpET11ZY",
+                            "https://www.youtube.com/watch?v=DlJEt2KU33I",
+                            "https://www.youtube.com/watch?v=5scez5dqtAc"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "22,572",
+                            "content creator": "LastWeekTonight",
+                            "date": "Apr 17, 2017",
+                            "description": "The presidential election in France could determine the political future of Europe. John Oliver visits an excessively French bistro to deliver an urgent message to voters.\n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                            "dislikes": " Unavailable",
+                            "id": "hkZir1L7fSY",
+                            "likes": "211,815 likes",
+                            "title": "French Elections: Last Week Tonight with John Oliver (HBO)",
+                            "url": "https://www.youtube.com/watch?v=hkZir1L7fSY",
+                            "video_length": 1088.481,
+                            "views": "13,653,373 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=0V5ckcTSYu8",
+                      "title": "Canadian Election: Last Week Tonight with John Oliver (HBO)",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=hkZir1L7fSY",
+                        "https://www.youtube.com/watch?v=-YkLPxQp_y0",
+                        "https://www.youtube.com/watch?v=jYusNNldesc",
+                        "https://www.youtube.com/watch?v=oDPCmmZifE8",
+                        "https://www.youtube.com/watch?v=8-hahRWhFvg",
+                        "https://www.youtube.com/watch?v=4Z4j2CrJRn4",
+                        "https://www.youtube.com/watch?v=gJtYRxH5G2k",
+                        "https://www.youtube.com/watch?v=LdhQzXHYLZ4",
+                        "https://www.youtube.com/watch?v=3y1QA6OeAcQ",
+                        "https://www.youtube.com/watch?v=9PK-netuhHA"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "15,125",
+                        "content creator": "LastWeekTonight",
+                        "date": "Oct 19, 2015",
+                        "description": "Canada is about to have a major election. John Oliver enlists Mike Myers, a beaver, and a moose to give voters some advice.\n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                        "dislikes": " Unavailable",
+                        "id": "0V5ckcTSYu8",
+                        "likes": "122,262 likes",
+                        "title": "Canadian Election: Last Week Tonight with John Oliver (HBO)",
+                        "url": "https://www.youtube.com/watch?v=0V5ckcTSYu8",
+                        "video_length": 920.501,
+                        "views": "14,099,194 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=8-hahRWhFvg",
+                  "title": "Mexican Elections: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=LdhQzXHYLZ4",
+                    "https://www.youtube.com/watch?v=0V5ckcTSYu8",
+                    "https://www.youtube.com/watch?v=qMGn9T37eR8",
+                    "https://www.youtube.com/watch?v=Tt-mpuR_QHQ",
+                    "https://www.youtube.com/watch?v=Mq785nJ0FXQ",
+                    "https://www.youtube.com/watch?v=hkZir1L7fSY",
+                    "https://www.youtube.com/watch?v=0utzB6oDan0",
+                    "https://www.youtube.com/watch?v=IYfgvS0FA7U",
+                    "https://www.youtube.com/watch?v=NnW5EjwtE2U",
+                    "https://www.youtube.com/watch?v=1Y1ya-yF35g"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "12,179",
+                    "content creator": "LastWeekTonight",
+                    "date": "Jun 25, 2018",
+                    "description": "Mexico is on the verge of a major election. John Oliver discusses some things we should know about the races and one thing we should not know about Santa Claus.\n\nConnect with Last Week Tonight online...\n \nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "8-hahRWhFvg",
+                    "likes": "108,427 likes",
+                    "title": "Mexican Elections: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=8-hahRWhFvg",
+                    "video_length": 1208.161,
+                    "views": "8,747,633 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=LdhQzXHYLZ4",
+              "title": "Italian Election: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=8-hahRWhFvg",
+                "https://www.youtube.com/watch?v=-YkLPxQp_y0",
+                "https://www.youtube.com/watch?v=0V5ckcTSYu8",
+                "https://www.youtube.com/watch?v=hkZir1L7fSY",
+                "https://www.youtube.com/watch?v=LEcbagW4O-s",
+                "https://www.youtube.com/watch?v=oDPCmmZifE8",
+                "https://www.youtube.com/watch?v=DlJEt2KU33I",
+                "https://www.youtube.com/watch?v=HaBQfSAVt0s",
+                "https://www.youtube.com/watch?v=pX8BXH3SJn0",
+                "https://www.youtube.com/watch?v=mPjgRKW_Jmk"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "18,072",
+                "content creator": "LastWeekTonight",
+                "date": "Feb 26, 2018",
+                "description": "Italy is in the throes of a turbulent race to elect a new prime minister. John Oliver discusses the colorful contenders and introduces an equally ridiculous candidate.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "LdhQzXHYLZ4",
+                "likes": "170,266 likes",
+                "title": "Italian Election: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=LdhQzXHYLZ4",
+                "video_length": 1271.761,
+                "views": "10,619,252 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=LEcbagW4O-s",
+          "title": "NRA TV: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=LdhQzXHYLZ4",
+            "https://www.youtube.com/watch?v=vU8dCYocuyI",
+            "https://www.youtube.com/watch?v=0lTczPEG8iI",
+            "https://www.youtube.com/watch?v=g6iDZspbRMg",
+            "https://www.youtube.com/watch?v=WA0wKeokWUU",
+            "https://www.youtube.com/watch?v=rs2RlZQVXBU",
+            "https://www.youtube.com/watch?v=BgyqAD5Z6_A",
+            "https://www.youtube.com/watch?v=mXQuto1fMp4",
+            "https://www.youtube.com/watch?v=3y1QA6OeAcQ",
+            "https://www.youtube.com/watch?v=KEbFtMgGhPY"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "22,887",
+            "content creator": "LastWeekTonight",
+            "date": "Mar 5, 2018",
+            "description": "The NRA's streaming lifestyle network aims to boost gun sales, often by using an ominous tone that would make just about anything sound terrifying...including muffins.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "LEcbagW4O-s",
+            "likes": "189,856 likes",
+            "title": "NRA TV: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=LEcbagW4O-s",
+            "video_length": 1200.721,
+            "views": "12,629,388 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+      "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=LEcbagW4O-s",
+        "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+        "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+        "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+        "https://www.youtube.com/watch?v=wD8AwgO0AQI",
+        "https://www.youtube.com/watch?v=mXQuto1fMp4",
+        "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+        "https://www.youtube.com/watch?v=ET_b78GSBUs",
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=7y1xJAVZxXg"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "58,365",
+        "content creator": "LastWeekTonight",
+        "date": "Oct 9, 2017",
+        "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+        "dislikes": " Unavailable",
+        "id": "J5b_-TZwQ0I",
+        "likes": "342,516 likes",
+        "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+        "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "video_length": 1298.221,
+        "views": "26,931,925 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=Lo5BRAKvJoA",
+                          "title": "Penn & Teller Give a Lesson in Misdirection Using a Vanishing Chicken",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=pd3_HFvQeXQ",
+                            "https://www.youtube.com/watch?v=8osRaFTtgHo",
+                            "https://www.youtube.com/watch?v=MIKOcCKFDME",
+                            "https://www.youtube.com/watch?v=yzjCbvPyo6c",
+                            "https://www.youtube.com/watch?v=y4U-kHdXgz0&list=RDLo5BRAKvJoA&start_radio=1&rv=Lo5BRAKvJoA",
+                            "https://www.youtube.com/watch?v=y4U-kHdXgz0",
+                            "https://www.youtube.com/watch?v=t2dsogtjD9A",
+                            "https://www.youtube.com/watch?v=_PoDhuIp3I0",
+                            "https://www.youtube.com/watch?v=Z8Ws4PEky28",
+                            "https://www.youtube.com/watch?v=0Qqh_ptGImo"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "1,832",
+                            "content creator": "The Tonight Show Starring Jimmy Fallon",
+                            "date": "Jun 23, 2018",
+                            "description": "The Longest-running Las Vegas act in history, Penn & Teller, impresses Jimmy and the Tonight Show audience with a vanishing chicken and a lot of misdirection.\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: ",
+                            "dislikes": " Unavailable",
+                            "id": "Lo5BRAKvJoA",
+                            "likes": "52,141 likes",
+                            "title": "Penn & Teller Give a Lesson in Misdirection Using a Vanishing Chicken",
+                            "url": "https://www.youtube.com/watch?v=Lo5BRAKvJoA",
+                            "video_length": 236.681,
+                            "views": "3,948,487 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=8osRaFTtgHo",
+                      "title": "Penn & Teller Explain Ball & Cups on Jonathan Ross 2010.07.09 (Part 2)",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=Lo5BRAKvJoA",
+                        "https://www.youtube.com/watch?v=y4U-kHdXgz0",
+                        "https://www.youtube.com/watch?v=8osRaFTtgHo&list=RDCMUCS0-cyRxxr9T2OBCVEanzGQ&start_radio=1&rv=8osRaFTtgHo",
+                        "https://www.youtube.com/watch?v=mwkmgqbYXdE",
+                        "https://www.youtube.com/watch?v=L3oOldViIgY",
+                        "https://www.youtube.com/watch?v=ML3qYHWRIZk",
+                        "https://www.youtube.com/watch?v=euYrm4RZcC0",
+                        "https://www.youtube.com/watch?v=yzjCbvPyo6c",
+                        "https://www.youtube.com/watch?v=SCFXV6o7cro",
+                        "https://www.youtube.com/watch?v=EAN-PwRfJcA"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "1,708",
+                        "content creator": "prozacbear",
+                        "date": "Jul 10, 2010",
+                        "description": "part 2 of 2; the ball & cups trick taught. please resubscribe etc.",
+                        "dislikes": " Unavailable",
+                        "id": "8osRaFTtgHo",
+                        "likes": "35,034 likes",
+                        "title": "Penn & Teller Explain Ball & Cups on Jonathan Ross 2010.07.09 (Part 2)",
+                        "url": "https://www.youtube.com/watch?v=8osRaFTtgHo",
+                        "video_length": 207.881,
+                        "views": "4,329,080 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=y4U-kHdXgz0",
+                  "title": "Penn & Teller - Smoking/Sleight of Hand Trick",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=8osRaFTtgHo",
+                    "https://www.youtube.com/watch?v=paG1-lPtIXA",
+                    "https://www.youtube.com/watch?v=WnRlH2fl9jU",
+                    "https://www.youtube.com/watch?v=euYrm4RZcC0",
+                    "https://www.youtube.com/watch?v=YlaWGd1cUms",
+                    "https://www.youtube.com/watch?v=XIGWjzqKTp0",
+                    "https://www.youtube.com/watch?v=EAN-PwRfJcA",
+                    "https://www.youtube.com/watch?v=MIKOcCKFDME",
+                    "https://www.youtube.com/watch?v=Lo5BRAKvJoA",
+                    "https://www.youtube.com/watch?v=SCFXV6o7cro"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "3,150",
+                    "content creator": "Dincorta",
+                    "date": "Sep 23, 2015",
+                    "description": "Looks simple, doesn't it?\n\nTwo of my favourite people. Such finesse. Such elegance.\nThis clip is taken from Penn & Teller: Fool Us, season 2 episode 10.\nNo copyright infringement intended. Fair use, etc.\n\nMake sure to scroll to the comments to discover the wondrous mysteries of:\n1. The disappearing lemon!\n2. The fake thumb!\n3. The dangers of smoking!\nWith special guest star The Farting Bass!\nAnd more!",
+                    "dislikes": " Unavailable",
+                    "id": "y4U-kHdXgz0",
+                    "likes": "133,080 likes",
+                    "title": "Penn & Teller - Smoking/Sleight of Hand Trick",
+                    "url": "https://www.youtube.com/watch?v=y4U-kHdXgz0",
+                    "video_length": 222.501,
+                    "views": "10,152,998 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=mwkmgqbYXdE",
+              "title": "Penn and Teller: The Best Magicians in the World - SNL",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=y4U-kHdXgz0",
+                "https://www.youtube.com/watch?v=OdsWK7rIkL8",
+                "https://www.youtube.com/watch?v=S3vTld5pNlI",
+                "https://www.youtube.com/watch?v=Lx1P1YA2rlA",
+                "https://www.youtube.com/watch?v=xrIxGWterYA",
+                "https://www.youtube.com/watch?v=2souL3UxLtg",
+                "https://www.youtube.com/watch?v=euYrm4RZcC0",
+                "https://www.youtube.com/watch?v=EAN-PwRfJcA",
+                "https://www.youtube.com/watch?v=MIKOcCKFDME",
+                "https://www.youtube.com/watch?v=HdFKZtZop7A&pp=sAQB"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,106",
+                "content creator": "Saturday Night Live",
+                "date": "Oct 28, 2013",
+                "description": "Penn and Teller set out to prove that they're not just comedy magicians, they're the greatest magicians in the world. In order to do that, they perform their entire act upside down. Aired 02/08/86",
+                "dislikes": " Unavailable",
+                "id": "mwkmgqbYXdE",
+                "likes": "104,796 likes",
+                "title": "Penn and Teller: The Best Magicians in the World - SNL",
+                "url": "https://www.youtube.com/watch?v=mwkmgqbYXdE",
+                "video_length": 415.821,
+                "views": "5,352,704 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=S3vTld5pNlI",
+          "title": "Penn Jillette (Penn & Teller) Reviews Magic Tricks from Movies & TV | Vanity Fair",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=mwkmgqbYXdE",
+            "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+            "https://www.youtube.com/watch?v=rKFMa-GH0bQ",
+            "https://www.youtube.com/watch?v=MTogtDE7M7Q",
+            "https://www.youtube.com/watch?v=Fgvdl87lqc8",
+            "https://www.youtube.com/watch?v=MIKOcCKFDME",
+            "https://www.youtube.com/watch?v=CtWqv0Z3ErM",
+            "https://www.youtube.com/watch?v=Tgr7LTRWkLo",
+            "https://www.youtube.com/watch?v=x6btmJSRueE",
+            "https://www.youtube.com/watch?v=NNWEWFWtJ1Q"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "3,286",
+            "content creator": "Vanity Fair",
+            "date": "Jul 18, 2019",
+            "description": "Legendary magician Penn Jillette reviews some of the most iconic magic tricks in cinema, from the dramatic illusions in 'The Prestige' and 'The Illusionist' to the comedic tricks in 'Ant-Man and The Wasp' and 'Arrested Development.' Learn how realistic some of the most famous cinematic magic really is.\n\nPenn & Teller\u2019s MasterClass can be found at MasterClass.com/pt. Users can access this course and more than 60 MasterClass courses by subscribing to the All-Access Pass for $180 per year.\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+            "dislikes": " Unavailable",
+            "id": "S3vTld5pNlI",
+            "likes": "120,023 likes",
+            "title": "Penn Jillette (Penn & Teller) Reviews Magic Tricks from Movies & TV | Vanity Fair",
+            "url": "https://www.youtube.com/watch?v=S3vTld5pNlI",
+            "video_length": 695.181,
+            "views": "5,980,712 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+      "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+      "top_10_recommended": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "video": {
+        "ad": true,
+        "comments": "4,517",
+        "content creator": "Vanity Fair",
+        "date": "Sep 30, 2021",
+        "description": "Casino game protection expert Sal Piacente reviews notorious card counting and casino game cheating scenes from films including 'Rain Man,' 'Rounders,' 'The Sting,' 'Austin Powers,' 'Casino,' 'Ocean's Thirteen,' 'The Cooler,' 'Runner Runner,' 'Now You See Me 2,' 'Shade' and '21.'\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "ki4Fbctwnjs",
+        "likes": "183,524 likes",
+        "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "video_length": 1404.421,
+        "views": "7,858,065 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=WqD-ATqw3js",
+                          "title": "Ransomware: Last Week Tonight with John Oliver (HBO)",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                            "https://www.youtube.com/watch?v=_-0J49_9lwc",
+                            "https://www.youtube.com/watch?v=9W74aeuqsiU",
+                            "https://www.youtube.com/watch?v=sIi_QS1tdFM",
+                            "https://www.youtube.com/watch?v=yq_E3HquRJY",
+                            "https://www.youtube.com/watch?v=9Y18-07g39g",
+                            "https://www.youtube.com/watch?v=0E4vAeuhp8Q",
+                            "https://www.youtube.com/watch?v=WqD-ATqw3js&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=WqD-ATqw3js",
+                            "https://www.youtube.com/watch?v=0nqJvjUNlRA",
+                            "https://www.youtube.com/watch?v=2xlol-SNQRU"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "8,173",
+                            "content creator": "LastWeekTonight",
+                            "date": "Aug 16, 2021",
+                            "description": "John Oliver discusses ransomware attacks, why they\u2019re on the rise, and what can be done about them.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                            "dislikes": " Unavailable",
+                            "id": "WqD-ATqw3js",
+                            "likes": "96,712 likes",
+                            "title": "Ransomware: Last Week Tonight with John Oliver (HBO)",
+                            "url": "https://www.youtube.com/watch?v=WqD-ATqw3js",
+                            "video_length": 1326.821,
+                            "views": "4,814,543 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                      "title": "Opioids III: The Sacklers: Last Week Tonight with John Oliver (HBO)",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=WqD-ATqw3js",
+                        "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+                        "https://www.youtube.com/watch?v=Ezv8sdTLxKo",
+                        "https://www.youtube.com/watch?v=_-0J49_9lwc",
+                        "https://www.youtube.com/watch?v=-qCKR6wy94U",
+                        "https://www.youtube.com/watch?v=XMGxxRRtmHc",
+                        "https://www.youtube.com/watch?v=0b_eHBZLM6U",
+                        "https://www.youtube.com/watch?v=27FpoRiStgk",
+                        "https://www.youtube.com/watch?v=liptMbjF3EE",
+                        "https://www.youtube.com/watch?v=sIi_QS1tdFM"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "10,092",
+                        "content creator": "LastWeekTonight",
+                        "date": "Aug 9, 2021",
+                        "description": "John Oliver explains how the Sackler family has been handling lawsuits related to the opioid crisis, how hard they\u2019ve been fighting to defend their name, and why you should judge the situation for yourself.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                        "dislikes": " Unavailable",
+                        "id": "uaCaIhfETsM",
+                        "likes": "120,568 likes",
+                        "title": "Opioids III: The Sacklers: Last Week Tonight with John Oliver (HBO)",
+                        "url": "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                        "video_length": 1439.701,
+                        "views": "4,784,145 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-qCKR6wy94U",
+                  "title": "Opioids II: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                    "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+                    "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                    "https://www.youtube.com/watch?v=oDPCmmZifE8",
+                    "https://www.youtube.com/watch?v=UN8bJb8biZU",
+                    "https://www.youtube.com/watch?v=XMGxxRRtmHc",
+                    "https://www.youtube.com/watch?v=v_kak7kAdNw",
+                    "https://www.youtube.com/watch?v=HaBQfSAVt0s",
+                    "https://www.youtube.com/watch?v=hWQiXv0sn9Y",
+                    "https://www.youtube.com/watch?v=bCBYJZ6QbUI"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "9,140",
+                    "content creator": "LastWeekTonight",
+                    "date": "Apr 15, 2019",
+                    "description": "Following some recent revelations about the role of large companies in America\u2019s ongoing opioid epidemic, John Oliver takes another look at the crisis.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "-qCKR6wy94U",
+                    "likes": "148,398 likes",
+                    "title": "Opioids II: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=-qCKR6wy94U",
+                    "video_length": 1280.041,
+                    "views": "9,665,468 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+              "title": "Opioids: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=-qCKR6wy94U",
+                "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                "https://www.youtube.com/watch?v=ScmJvmzDcG0",
+                "https://www.youtube.com/watch?v=hWQiXv0sn9Y",
+                "https://www.youtube.com/watch?v=wD8AwgO0AQI",
+                "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                "https://www.youtube.com/watch?v=WA0wKeokWUU",
+                "https://www.youtube.com/watch?v=hnoMsftQPY8",
+                "https://www.youtube.com/watch?v=LEcbagW4O-s",
+                "https://www.youtube.com/watch?v=xecEV4dSAXE"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "12,478",
+                "content creator": "LastWeekTonight",
+                "date": "Oct 24, 2016",
+                "description": "John Oliver discusses the extent and root of the nation\u2019s epidemic of opioid addiction.\n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "5pdPrQFjo2o",
+                "likes": "128,551 likes",
+                "title": "Opioids: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+                "video_length": 1162.181,
+                "views": "14,782,181 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=hWQiXv0sn9Y",
+          "title": "Rehab: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+            "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+            "https://www.youtube.com/watch?v=NGY6DqB1HX8",
+            "https://www.youtube.com/watch?v=0lTczPEG8iI",
+            "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+            "https://www.youtube.com/watch?v=AjqaNQ018zU",
+            "https://www.youtube.com/watch?v=d9m7d07k22A",
+            "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+            "https://www.youtube.com/watch?v=0b_eHBZLM6U",
+            "https://www.youtube.com/watch?v=-qCKR6wy94U"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "8,472",
+            "content creator": "LastWeekTonight",
+            "date": "May 21, 2018",
+            "description": "The addiction treatment industry is dangerously unregulated. John Oliver explains why many rehab programs should incorporate more evidence-based care and carefully reconsider their doctor-to-horse ratio.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "hWQiXv0sn9Y",
+            "likes": "125,071 likes",
+            "title": "Rehab: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=hWQiXv0sn9Y",
+            "video_length": 1146.741,
+            "views": "12,371,140 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+      "title": "Psychics: Last Week Tonight with John Oliver (HBO)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=hWQiXv0sn9Y",
+        "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+        "https://www.youtube.com/watch?v=sIi_QS1tdFM",
+        "https://www.youtube.com/watch?v=oDPCmmZifE8",
+        "https://www.youtube.com/watch?v=7y1xJAVZxXg",
+        "https://www.youtube.com/watch?v=WA0wKeokWUU",
+        "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+        "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+        "https://www.youtube.com/watch?v=_h1ooyyFkF0",
+        "https://www.youtube.com/watch?v=7VG_s2PCH_c"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "18,233",
+        "content creator": "LastWeekTonight",
+        "date": "Feb 25, 2019",
+        "description": "Psychics may seem harmless and fun on TV, but they can make a lot of money by exploiting vulnerable people.\n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+        "dislikes": " Unavailable",
+        "id": "WhMGcp9xIhY",
+        "likes": "192,799 likes",
+        "title": "Psychics: Last Week Tonight with John Oliver (HBO)",
+        "url": "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+        "video_length": 1266.161,
+        "views": "14,551,135 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=gPHgRp70H8o",
+                          "title": "Covid Vaccines: Last Week Tonight with John Oliver (HBO)",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=9Y18-07g39g",
+                            "https://www.youtube.com/watch?v=IuVo4fnpLC8",
+                            "https://www.youtube.com/watch?v=sIi_QS1tdFM",
+                            "https://www.youtube.com/watch?v=XMGxxRRtmHc",
+                            "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                            "https://www.youtube.com/watch?v=_-0J49_9lwc",
+                            "https://www.youtube.com/watch?v=liptMbjF3EE",
+                            "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+                            "https://www.youtube.com/watch?v=9W74aeuqsiU",
+                            "https://www.youtube.com/watch?v=29lXsOYBaow"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "31,210",
+                            "content creator": "LastWeekTonight",
+                            "date": "May 3, 2021",
+                            "description": "John Oliver explains why some people don\u2019t want to get the Covid-19 vaccine and how they might be reassured. (Even you, Mike in Baltimore.)\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                            "dislikes": " Unavailable",
+                            "id": "gPHgRp70H8o",
+                            "likes": "173,429 likes",
+                            "title": "Covid Vaccines: Last Week Tonight with John Oliver (HBO)",
+                            "url": "https://www.youtube.com/watch?v=gPHgRp70H8o",
+                            "video_length": 1467.361,
+                            "views": "7,664,526 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=7VG_s2PCH_c",
+                      "title": "Vaccines: Last Week Tonight with John Oliver (HBO)",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+                        "https://www.youtube.com/watch?v=gPHgRp70H8o",
+                        "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+                        "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+                        "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                        "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+                        "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                        "https://www.youtube.com/watch?v=XEVlyP4_11M",
+                        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+                        "https://www.youtube.com/watch?v=0b_eHBZLM6U"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "47,069",
+                        "content creator": "LastWeekTonight",
+                        "date": "Jun 26, 2017",
+                        "description": "The benefits of vaccines far outweigh the minuscule risks, but some parents still question their safety. John Oliver discusses why some people may still feel uncertainty about childhood vaccinations.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                        "dislikes": " Unavailable",
+                        "id": "7VG_s2PCH_c",
+                        "likes": "253,591 likes",
+                        "title": "Vaccines: Last Week Tonight with John Oliver (HBO)",
+                        "url": "https://www.youtube.com/watch?v=7VG_s2PCH_c",
+                        "video_length": 1634.681,
+                        "views": "24,982,411 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+                  "title": "Coal: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=UN8bJb8biZU",
+                    "https://www.youtube.com/watch?v=7VG_s2PCH_c",
+                    "https://www.youtube.com/watch?v=jYusNNldesc",
+                    "https://www.youtube.com/watch?v=aw6RsUhw1Q8&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=aw6RsUhw1Q8",
+                    "https://www.youtube.com/watch?v=ZwY2E0hjGuU",
+                    "https://www.youtube.com/watch?v=0lTczPEG8iI",
+                    "https://www.youtube.com/watch?v=7y1xJAVZxXg",
+                    "https://www.youtube.com/watch?v=LEcbagW4O-s",
+                    "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+                    "https://www.youtube.com/watch?v=hWQiXv0sn9Y"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "12,521",
+                    "content creator": "LastWeekTonight",
+                    "date": "Jun 19, 2017",
+                    "description": "We\u2019ve heard a lot of talk about coal miners in the last year, but what are the real issues surrounding coal? John Oliver and a giant squirrel look into it.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "aw6RsUhw1Q8",
+                    "likes": "212,800 likes",
+                    "title": "Coal: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+                    "video_length": 1460.061,
+                    "views": "16,892,391 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=UN8bJb8biZU",
+              "title": "SLAPP Suits: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+                "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+                "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                "https://www.youtube.com/watch?v=xX5IV9n223M",
+                "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+                "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+                "https://www.youtube.com/watch?v=9Y18-07g39g",
+                "https://www.youtube.com/watch?v=UN8bJb8biZU&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=UN8bJb8biZU",
+                "https://www.youtube.com/watch?v=XEVlyP4_11M"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "33,147",
+                "content creator": "LastWeekTonight",
+                "date": "Nov 11, 2019",
+                "description": "After winning a legal battle involving a coal executive and a giant squirrel, John Oliver explains how SLAPP suits are designed to stifle public dissent.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "UN8bJb8biZU",
+                "likes": "396,349 likes",
+                "title": "SLAPP Suits: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=UN8bJb8biZU",
+                "video_length": 1584.201,
+                "views": "19,657,842 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+          "title": "The Power Grid: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+            "https://www.youtube.com/watch?v=UN8bJb8biZU",
+            "https://www.youtube.com/watch?v=9Y18-07g39g",
+            "https://www.youtube.com/watch?v=KSXKzPOcYDU",
+            "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+            "https://www.youtube.com/watch?v=So7wLuuDiHA",
+            "https://www.youtube.com/watch?v=xX5IV9n223M",
+            "https://www.youtube.com/watch?v=UnSILVWDKL8",
+            "https://www.youtube.com/watch?v=8Kfx2fANELo",
+            "https://www.youtube.com/watch?v=gPHgRp70H8o"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "12,145",
+            "content creator": "LastWeekTonight",
+            "date": "Nov 8, 2021",
+            "description": "John Oliver discusses the current state of the nation\u2019s power grid, why it needs fixing, and, of course, how fun balloons are.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "qBpiXcyB7wU",
+            "likes": "122,108 likes",
+            "title": "The Power Grid: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+            "video_length": 1348.741,
+            "views": "4,629,143 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+      "title": "Union Busting: Last Week Tonight with John Oliver (HBO)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+        "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+        "https://www.youtube.com/watch?v=liptMbjF3EE",
+        "https://www.youtube.com/watch?v=oDPCmmZifE8",
+        "https://www.youtube.com/watch?v=XMGxxRRtmHc",
+        "https://www.youtube.com/watch?v=9Y18-07g39g",
+        "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+        "https://www.youtube.com/watch?v=MepXBJjsNxs",
+        "https://www.youtube.com/watch?v=Gk8dUXRpoy8&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=Gk8dUXRpoy8",
+        "https://www.youtube.com/watch?v=xX5IV9n223M"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "13,203",
+        "content creator": "LastWeekTonight",
+        "date": "Nov 15, 2021",
+        "description": "John Oliver discusses the mechanics of union busting, why the companies who do it face so few consequences, and what it really means when your manager wants to talk to you about \u201cyour attendance.\u201d\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+        "dislikes": " Unavailable",
+        "id": "Gk8dUXRpoy8",
+        "likes": "130,423 likes",
+        "title": "Union Busting: Last Week Tonight with John Oliver (HBO)",
+        "url": "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+        "video_length": 1416.781,
+        "views": "4,808,609 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=BcjmoEspoRI",
+                          "title": "The Formation of the Milky Way Galaxy",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=gxKCDjnWabk",
+                            "https://www.youtube.com/watch?v=BcjmoEspoRI&list=RDLVBcjmoEspoRI&start_radio=1&rv=BcjmoEspoRI",
+                            "https://www.youtube.com/watch?v=zZjkH-R_MQo",
+                            "https://www.youtube.com/watch?v=n4vvuzIWOTE",
+                            "https://www.youtube.com/watch?v=AC7yFDb1zOA",
+                            "https://www.youtube.com/watch?v=0L_MvPLspdg",
+                            "https://www.youtube.com/watch?v=hFjzFSidX3s",
+                            "https://www.youtube.com/watch?v=A3kzdmaLQtY",
+                            "https://www.youtube.com/watch?v=GoD1MSveHgA",
+                            "https://www.youtube.com/watch?v=HdPzOWlLrbE"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "211",
+                            "content creator": "Professor Dave Explains",
+                            "date": "Sep 20, 2018",
+                            "description": "Now that we've learned about the first ten billion years in the development of the universe, it's time to get a little more specific to our own species. We live in a galaxy called The Milky Way. When did it form, and how? Where is it located in the universe? Let's take a look!\n\nWatch the whole Astronomy/Astrophysics playlist: ",
+                            "dislikes": " Unavailable",
+                            "id": "BcjmoEspoRI",
+                            "likes": "3,675 likes",
+                            "title": "The Formation of the Milky Way Galaxy",
+                            "url": "https://www.youtube.com/watch?v=BcjmoEspoRI",
+                            "video_length": 402.961,
+                            "views": "232,375 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=n4vvuzIWOTE",
+                      "title": "Star and Galaxy Formation in the Early Universe",
+                      "top_10_recommended": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "84",
+                        "content creator": "Professor Dave Explains",
+                        "date": "Jul 27, 2018",
+                        "description": "Okay, so at this point in the series we are about 150 million years into the lifetime of the universe. We've got a bunch of hydrogen and helium and not much else. But then gravity takes over, and boom! We've got stars! We've got galaxies! How, you ask? Well you'd better watch this!\n\nWatch the whole Astronomy/Astrophysics playlist: ",
+                        "dislikes": " Unavailable",
+                        "id": "n4vvuzIWOTE",
+                        "likes": "2,186 likes",
+                        "title": "Star and Galaxy Formation in the Early Universe",
+                        "url": "https://www.youtube.com/watch?v=n4vvuzIWOTE",
+                        "video_length": 428.701,
+                        "views": "86,117 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=0L_MvPLspdg",
+                  "title": "Cosmology: A Big Bang and the Beginning of the Universe",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=n4vvuzIWOTE",
+                    "https://www.youtube.com/watch?v=S7G-ruj22Uo",
+                    "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+                    "https://www.youtube.com/watch?v=SixyZ7DkSjA",
+                    "https://www.youtube.com/watch?v=0L_MvPLspdg&list=RDCMUC0cd_-e49hZpWLH3UIwoWRA&start_radio=1&rv=0L_MvPLspdg",
+                    "https://www.youtube.com/watch?v=thxknsmN9yk",
+                    "https://www.youtube.com/watch?v=8tKUvuurqsY",
+                    "https://www.youtube.com/watch?v=4xIQGbYur9Q",
+                    "https://www.youtube.com/watch?v=KOkuTXrv5Gg",
+                    "https://www.youtube.com/watch?v=17tEg_uTF_A"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,068",
+                    "content creator": "Professor Dave Explains",
+                    "date": "Jul 13, 2018",
+                    "description": "If we want to learn about the universe, we have to start at the very beginning. How and when did the universe begin? Is it even possible to know about such things? Yes, it is! That's what cosmology is all about, the origin and development of the universe. Let's go over what astronomers know today, and also mention what we don't know yet!\n\nWatch the whole Astronomy/Astrophysics playlist: ",
+                    "dislikes": " Unavailable",
+                    "id": "0L_MvPLspdg",
+                    "likes": "7,125 likes",
+                    "title": "Cosmology: A Big Bang and the Beginning of the Universe",
+                    "url": "https://www.youtube.com/watch?v=0L_MvPLspdg",
+                    "video_length": 947.641,
+                    "views": "251,684 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=S7G-ruj22Uo",
+              "title": "Astrology: Fact or Fiction?",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=0L_MvPLspdg",
+                "https://www.youtube.com/watch?v=PkA4OImGuBk",
+                "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+                "https://www.youtube.com/watch?v=pMUbfFRsLmQ",
+                "https://www.youtube.com/watch?v=h0H-amOti_o",
+                "https://www.youtube.com/watch?v=DNdriP9kFiQ",
+                "https://www.youtube.com/watch?v=4xIQGbYur9Q",
+                "https://www.youtube.com/watch?v=3VOazE6M8Cc",
+                "https://www.youtube.com/watch?v=-EPbylsBuzg",
+                "https://www.youtube.com/watch?v=SixyZ7DkSjA"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,290",
+                "content creator": "Professor Dave Explains",
+                "date": "Apr 3, 2019",
+                "description": "A significant percentage of the population believes in astrology. This is the notion that the positions of the stars and planets in the sky at the moment of your birth have an influence on your characteristics, and that their positions over time influence daily events. Can this be possible? By what mechanism does this influence propagate? If it's true, why haven't we encountered anything like this in our study of astronomy? Shouldn't we be able to do experiments to test its validity? We sure can. Let's take a real good look at what astrology proposes, and see if we can to the bottom of whether there is any truth to it or not.\n\nLarge-scale study showing no correlation between date of birth and personality: ",
+                "dislikes": " Unavailable",
+                "id": "S7G-ruj22Uo",
+                "likes": "17,248 likes",
+                "title": "Astrology: Fact or Fiction?",
+                "url": "https://www.youtube.com/watch?v=S7G-ruj22Uo",
+                "video_length": 1113.801,
+                "views": "409,095 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+          "title": "Debunking the Electric Universe",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=S7G-ruj22Uo",
+            "https://www.youtube.com/watch?v=vmVdPgkudC8",
+            "https://www.youtube.com/watch?v=SixyZ7DkSjA",
+            "https://www.youtube.com/watch?v=3VOazE6M8Cc",
+            "https://www.youtube.com/watch?v=0L_MvPLspdg",
+            "https://www.youtube.com/watch?v=KyD8VIK032o",
+            "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+            "https://www.youtube.com/watch?v=_bHqBy92iGM",
+            "https://www.youtube.com/watch?v=Q6FknMOlU_w",
+            "https://www.youtube.com/watch?v=Zi_mQ0sKOfo"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "10,680",
+            "content creator": "Professor Dave Explains",
+            "date": "May 1, 2020",
+            "description": "I know that I've become known for my flat earth destructions, but now that I've driven that one so far into the ground that it's coming out the other side of the spherical earth, it's time to tackle some other topics. There exists an obscure fad called the electric universe, which tends to attract exemplars of the Dunning-Kruger effect who think they understand physics better than Einstein. Literally. Although not quite as ridiculous as the flat earth, it's still pretty ridiculous, so let's go through the finer points of precisely why that is the case, shall we?\n\nWatch my other debunks: ",
+            "dislikes": " Unavailable",
+            "id": "T9q-v4lBGuw",
+            "likes": "17,084 likes",
+            "title": "Debunking the Electric Universe",
+            "url": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+            "video_length": 1566.641,
+            "views": "564,223 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+        "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+        "https://www.youtube.com/watch?v=KyD8VIK032o",
+        "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+        "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+        "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+        "https://www.youtube.com/watch?v=_bHqBy92iGM",
+        "https://www.youtube.com/watch?v=x6btmJSRueE",
+        "https://www.youtube.com/watch?v=rtlFR5SYzYo",
+        "https://www.youtube.com/watch?v=8ubmvZ-CUrQ"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "115,363",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "234,308 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713.401,
+        "views": "8,575,745 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=BTgPq26wTuM",
+  "title": "Candace Owens Loses Control Of Trump Interview When Donald Goes Pro-Vax",
+  "top_10_recommended": [
+    "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+    "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+    "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+    "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+    "https://www.youtube.com/watch?v=JDy95_eNPzM",
+    "https://www.youtube.com/watch?v=0cUQqPxw3hc",
+    "https://www.youtube.com/watch?v=Q7yfhIKyoRg",
+    "https://www.youtube.com/watch?v=lwP9H9qTuUY",
+    "https://www.youtube.com/watch?v=3c584TGG7jQ",
+    "https://www.youtube.com/watch?v=tixOyiR8B-8"
+  ],
+  "video": {
+    "ad": null,
+    "comments": "1,172",
+    "content creator": "The Majority Report w/ Sam Seder",
+    "date": "Dec 23, 2021",
+    "description": "Candace Owens is forced to change the subject during an interview with Donald Trump because of his stance on vaccines and calling Covid vaccines the greatest scientific achievement of all time. Owens instead pivots to talking about mask mandates among children. The Majority Report crew discusses how ",
+    "dislikes": " Unavailable",
+    "id": "BTgPq26wTuM",
+    "likes": "3,188 likes",
+    "title": "Candace Owens Loses Control Of Trump Interview When Donald Goes Pro-Vax",
+    "url": "https://www.youtube.com/watch?v=BTgPq26wTuM",
+    "video_length": 858.881,
+    "views": "112,956 views"
+  }
+}

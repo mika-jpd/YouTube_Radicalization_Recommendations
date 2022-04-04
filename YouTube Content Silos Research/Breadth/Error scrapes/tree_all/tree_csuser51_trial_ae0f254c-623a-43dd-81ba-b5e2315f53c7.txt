@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=gB9n2gHsHN4",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=d-o3eB9sfls&list=RDCMUCYO_jab_esuFRV4b17AJtAw&start_radio=1&rv=d-o3eB9sfls",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=OBPpRqxY8Uw",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=7rIJNT7dCmE",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=d-7o9xYp7eE",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=bzV4O85n2y8",
+                          "title": "What Does it Take to Make a Universe? - with Harry Cliff",
+                          "video": {
+                            "ad": null,
+                            "comments": "307",
+                            "content creator": "The Royal Institution",
+                            "date": "Oct 28, 2021",
+                            "description": "What is matter really made of? How does the stuff around us escape annihilation in the fearsome heat of the Big Bang? And will we ever be able to understand the very first moments of our universe?\nWatch the Q&A: ",
+                            "dislikes": " Unavailable",
+                            "id": "bzV4O85n2y8",
+                            "likes": "3,233 likes",
+                            "title": "What Does it Take to Make a Universe? - with Harry Cliff",
+                            "url": "https://www.youtube.com/watch?v=bzV4O85n2y8",
+                            "video_length": 3433.981,
+                            "views": "187,361 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+                          "title": "The Future of Colonizing Space- Neil deGrasse Tyson- WGS 2018",
+                          "video": {
+                            "ad": null,
+                            "comments": "6,179",
+                            "content creator": "World Government Summit",
+                            "date": "Mar 12, 2018",
+                            "description": "Space missions need to have a defensive component or economic benefit. With economic returns often uncertain, space programmes have tended to be led by governments, because only they can invest in programmes that have a long-term pay-off, whether economic or geopolitical. When it comes to saving humanity from an asteroid impact, Tyson stressed that rather than establishing colonies in space, we would be better to try to deflect the asteroid.\n\n\u062a\u062d\u062f\u062b \u0646\u064a\u0644 \u062f\u064a\u063a\u0631\u0627\u0633 \u062a\u0627\u064a\u0633\u0648\u0646\u060c \u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0627\u0644\u0641\u0644\u0643\u064a\u0629\u060c \u0623\u0646 \u0627\u0644\u0628\u0639\u062b\u0627\u062a \u0627\u0644\u0641\u0636\u0627\u0626\u064a\u0629 \u062a\u064f\u0637\u0644\u0642 \u0639\u0627\u062f\u0629\u064b \u0625\u0645\u0627 \u0644\u0623\u063a\u0631\u0627\u0636 \u062f\u0641\u0627\u0639\u064a\u0629 \u0623\u0648 \u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629 \u0644\u062a\u0628\u0631\u064a\u0631 \u063a\u0627\u064a\u062a\u0647\u0627. \u0648\u0641\u064a \u063a\u064a\u0627\u0628 \u0636\u0645\u0627\u0646\u0627\u062a \u0627\u0644\u0639\u0627\u0626\u062f \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635\u060c \u062a\u062a\u0648\u0644\u0649 \u0627\u0644\u062d\u0643\u0648\u0645\u0627\u062a \u0625\u062f\u0627\u0631\u0629 \u062c\u0645\u064a\u0639 \u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0641\u0636\u0627\u0621 \u0644\u0645\u0627 \u062a\u0645\u0644\u0643\u0647 \u0645\u0646 \u0642\u062f\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u0641\u064a \u0628\u0631\u0627\u0645\u062c \u0630\u0627\u062a \u0639\u0627\u0626\u062f \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u062c\u0644\u060c \u0633\u0648\u0627\u0621 \u0643\u0627\u0646 \u0644\u0647\u0630\u0627 \u0627\u0644\u0639\u0627\u0626\u062f \u0628\u064f\u0639\u062f \u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0623\u0648 \u062c\u064a\u0648\u0633\u064a\u0627\u0633\u064a. \u0623\u0645\u0627 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0627\u0644\u062f\u0639\u0648\u0629 \u0644\u0628\u0646\u0627\u0621 \u0645\u0633\u062a\u0639\u0645\u0631\u0627\u062a \u0639\u0644\u0649 \u0633\u0637\u062d \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u0627\u0644\u0623\u062e\u0631\u0649 \u062a\u062d\u0633\u0628\u064b\u0627 \u0644\u0623\u064a \u062f\u0645\u0627\u0631 \u0642\u062f \u064a\u062d\u0644\u0651 \u0628\u0643\u0648\u0643\u0628 \u0627\u0644\u0623\u0631\u0636 \u0646\u062a\u064a\u062c\u0629 \u062a\u0639\u0631\u0636\u0647 \u0644\u0627\u0635\u0637\u062f\u0627\u0645 \u0646\u064a\u0632\u0643\u060c \u0642\u0627\u0644 \u062a\u0627\u064a\u0633\u0648\u0646 \u0625\u0646 \u062a\u062d\u0648\u064a\u0644 \u0645\u0633\u0627\u0631 \u0627\u0644\u0646\u064a\u0632\u0643 \u064a\u0638\u0644 \u0647\u0648 \u0627\u0644\u062d\u0644 \u0627\u0644\u0623\u0645\u062b\u0644 \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0645\u0631\u062d\u0644\u0629",
+                            "dislikes": " Unavailable",
+                            "id": "X_m1mPtYzTk",
+                            "likes": "31,094 likes",
+                            "title": "The Future of Colonizing Space- Neil deGrasse Tyson- WGS 2018",
+                            "url": "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+                            "video_length": 4791.301,
+                            "views": "3,401,998 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=edvdzh9Pggg&list=RDCMUCYeF244yNGuFefuFKqxIAXw&start_radio=1&rv=edvdzh9Pggg",
+                          "title": "Beyond the Higgs: What's Next for the LHC? - with Harry Cliff",
+                          "video": {
+                            "ad": null,
+                            "comments": "2,941",
+                            "content creator": "The Royal Institution",
+                            "date": "Jan 17, 2018",
+                            "description": "In 2012, the announcement of the Higgs boson made headlines around the world. But what has been going on at the Large Hadron Collider since?  Physicist Harry Cliff will be your guide.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                            "dislikes": " Unavailable",
+                            "id": "edvdzh9Pggg&list",
+                            "likes": "28,636 likes",
+                            "title": "Beyond the Higgs: What's Next for the LHC? - with Harry Cliff",
+                            "url": "https://www.youtube.com/watch?v=edvdzh9Pggg&list=RDCMUCYeF244yNGuFefuFKqxIAXw&start_radio=1&rv=edvdzh9Pggg",
+                            "video_length": 3584.421,
+                            "views": "2,850,651 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=2JsKwyRFiYY",
+                          "title": "The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,095",
+                            "content creator": "The Royal Institution",
+                            "date": "Nov 22, 2017",
+                            "description": "Award-winning scientist and writer Sean Carroll ties together the fundamental laws of physics governing the workings of the cosmos with the everyday human experience we all share.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                            "dislikes": " Unavailable",
+                            "id": "2JsKwyRFiYY",
+                            "likes": "11,413 likes",
+                            "title": "The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll",
+                            "url": "https://www.youtube.com/watch?v=2JsKwyRFiYY",
+                            "video_length": 3815.381,
+                            "views": "1,072,280 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=d-o3eB9sfls",
+                          "title": "Why is pi here? And why is it squared? A geometric answer to the Basel problem",
+                          "video": {
+                            "ad": null,
+                            "comments": "3,904",
+                            "content creator": "3Blue1Brown",
+                            "date": "Mar 2, 2018",
+                            "description": "A most beautiful proof of the Basel problem, using light.\nHelp fund future projects: https://www.patreon.com/3blue1brown\nAn equally valuable form of support is to simply share some of the videos.\nSpecial thanks to these supporters: ",
+                            "dislikes": " Unavailable",
+                            "id": "d-o3eB9sfls",
+                            "likes": "89,064 likes",
+                            "title": "Why is pi here? And why is it squared? A geometric answer to the Basel problem",
+                            "url": "https://www.youtube.com/watch?v=d-o3eB9sfls",
+                            "video_length": 1143.081,
+                            "views": "3,958,551 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+                      "title": "Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker",
+                      "video": {
+                        "ad": null,
+                        "comments": "2,666",
+                        "content creator": "The Royal Institution",
+                        "date": "Feb 25, 2015",
+                        "description": "Matt Parker, comedian and mathematician, shows how four-dimensional shapes appear in a 3D world in this hands-on talk, featuring what is possibly the world's nerdiest knitted hat!\nSubscribe for weekly science videos: http://bit.ly/RiSubscRibe",
+                        "dislikes": " Unavailable",
+                        "id": "1wAaI_6b9JE",
+                        "likes": "46,529 likes",
+                        "title": "Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker",
+                        "url": "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+                        "video_length": 3699.801,
+                        "views": "2,707,792 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=pfheSAcCsrE",
+                      "title": "Misquoting Jesus in the Bible - Professor Bart D. Ehrman",
+                      "video": {
+                        "ad": null,
+                        "comments": "4,928",
+                        "content creator": "Bart D. Ehrman",
+                        "date": "Nov 3, 2013",
+                        "description": "Heyns Lecture Series at Cubberley Auditorium, Stanford University Campus, Wednesday, April 25, 2007.  Lecture on \"Misquoting Jesus\" a textual criticism of Biblical manuscript tampering. From the book \"Misquoting Jesus: Scribes Who Altered Scripture and Readers Who May Never Know.\"\n\nBook listed on Bart Ehrman's Foundation Blog: ",
+                        "dislikes": " Unavailable",
+                        "id": "pfheSAcCsrE",
+                        "likes": "16,479 likes",
+                        "title": "Misquoting Jesus in the Bible - Professor Bart D. Ehrman",
+                        "url": "https://www.youtube.com/watch?v=pfheSAcCsrE",
+                        "video_length": 5719.861,
+                        "views": "1,600,490 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6JwEYamjXpA&list=RDLV6JwEYamjXpA&start_radio=1&rv=6JwEYamjXpA",
+                      "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,153",
+                        "content creator": "The Royal Institution",
+                        "date": "Mar 7, 2019",
+                        "description": "Most of the time, the maths in our everyday lives works quietly behind the scenes, until someone forgets to carry a '1' and a bridge collapses or a plane drops out of the sky.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                        "dislikes": " Unavailable",
+                        "id": "6JwEYamjXpA&list",
+                        "likes": "44,730 likes",
+                        "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+                        "url": "https://www.youtube.com/watch?v=6JwEYamjXpA&list=RDLV6JwEYamjXpA&start_radio=1&rv=6JwEYamjXpA",
+                        "video_length": 4053.501,
+                        "views": "2,540,400 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=aICaAEXDJQQ",
+                      "title": "The Insane Engineering of James Webb Telescope",
+                      "video": {
+                        "ad": null,
+                        "comments": "9,660",
+                        "content creator": "Real Engineering",
+                        "date": "Dec 18, 2021",
+                        "description": "Get the CuriosityStream x Nebula bundle deal for just 11.59 until December 24th https://curiositystream.com/realengin... \n\nNew streaming platform: ",
+                        "dislikes": " Unavailable",
+                        "id": "aICaAEXDJQQ",
+                        "likes": "133,444 likes",
+                        "title": "The Insane Engineering of James Webb Telescope",
+                        "url": "https://www.youtube.com/watch?v=aICaAEXDJQQ",
+                        "video_length": 1882.221,
+                        "views": "5,173,432 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=edvdzh9Pggg",
+                      "title": "Beyond the Higgs: What's Next for the LHC? - with Harry Cliff",
+                      "video": {
+                        "ad": null,
+                        "comments": "2,941",
+                        "content creator": "The Royal Institution",
+                        "date": "Jan 17, 2018",
+                        "description": "In 2012, the announcement of the Higgs boson made headlines around the world. But what has been going on at the Large Hadron Collider since?  Physicist Harry Cliff will be your guide.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                        "dislikes": " Unavailable",
+                        "id": "edvdzh9Pggg",
+                        "likes": "28,636 likes",
+                        "title": "Beyond the Higgs: What's Next for the LHC? - with Harry Cliff",
+                        "url": "https://www.youtube.com/watch?v=edvdzh9Pggg",
+                        "video_length": 3584.421,
+                        "views": "2,850,639 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3c584TGG7jQ",
+                  "title": "EXPLODING Glitter Bomb 4.0 vs. Package Thieves",
+                  "video": {
+                    "ad": null,
+                    "comments": "49,321",
+                    "content creator": "Mark Rober",
+                    "date": "Dec 13, 2021",
+                    "description": "Merry Christmas ya filthy animals. If you want to learn the design fundamentals it takes to make something like the Glitter Bomb, enroll in my Creative Engineering course at https://Monthly.com/MarkRober and I'll see you in class!\n\nGet the new Glitterbomb 4.0 tshirt here- ",
+                    "dislikes": " Unavailable",
+                    "id": "3c584TGG7jQ",
+                    "likes": "1,138,071 likes",
+                    "title": "EXPLODING Glitter Bomb 4.0 vs. Package Thieves",
+                    "url": "https://www.youtube.com/watch?v=3c584TGG7jQ",
+                    "video_length": 1107.961,
+                    "views": "20,135,312 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=lwP9H9qTuUY",
+                  "title": "How Cocaine Trafficking Actually Works | How Crime Works",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,457",
+                    "content creator": "Insider",
+                    "date": "Dec 7, 2021",
+                    "description": "Former cocaine smuggler Pieter Tritton speaks to insider about his experience and how cocaine smuggling works.\n\nPieter began his journey as a small time drug dealer in the UK. He says that the illegal rave scene in the UK and lack of funding as a university student drove him to sell drugs on a larger scale. Pieter's operation eventually supplied many big time dealers in the UK. He then began importing cocaine from Ecuador to Europe through a cartel connection. Pieter was arrested in Ecuador and sentenced to 12 years in one of the worlds most violent and corrupt prisons. He now works as a public speaker on the dangers of drugs, and also presents a show on local radio station \u201cincapable staircase\u201d every Friday from 4-5:30 pm GMT.",
+                    "dislikes": " Unavailable",
+                    "id": "lwP9H9qTuUY",
+                    "likes": "105,774 likes",
+                    "title": "How Cocaine Trafficking Actually Works | How Crime Works",
+                    "url": "https://www.youtube.com/watch?v=lwP9H9qTuUY",
+                    "video_length": 1025.621,
+                    "views": "5,900,302 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=o5fdhfVrg1I",
+                  "title": "The Brady 6: Journey of the Legend NO ONE Wanted!",
+                  "video": {
+                    "ad": null,
+                    "comments": "21,451",
+                    "content creator": "NFL Films",
+                    "date": "Mar 5, 2020",
+                    "description": "Check out Tom Brady's draft story!\n\nSubscribe to NFL Films: http://goo.gl/XJTggL",
+                    "dislikes": " Unavailable",
+                    "id": "o5fdhfVrg1I",
+                    "likes": "192,108 likes",
+                    "title": "The Brady 6: Journey of the Legend NO ONE Wanted!",
+                    "url": "https://www.youtube.com/watch?v=o5fdhfVrg1I",
+                    "video_length": 2840.161,
+                    "views": "21,394,136 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=v-mWK_kcZMs",
+                  "title": "Making toilet paper moonshine",
+                  "video": {
+                    "ad": null,
+                    "comments": "18,632",
+                    "content creator": "NileRed",
+                    "date": "Nov 15, 2019",
+                    "description": "**Major correction: I wrongly and repeatedly referred to T. Reesei as being a yeast, when it is actually another type of fungus. Yeast is also a type of fungus, so my comments about reaction conditions remain true, but it is incorrect to call T. Reesei a yeast. Or to say that the cellulase came from yeast. \n\n*Small correction: I also said that 20ml of 20% , when it was supposed to be 25ml.\n-------------------------------------------\n\nFor this video, I'm going to be doing exactly what the title says, and I'll be turning a roll of toilet paper into moonshine. This was something that I've been wanting to do for a while and I am really surprised how well it turned out!\n\nPaper references:\n\u2022 The Effect of Pretreatment Methods on Cellulose Structure: ",
+                    "dislikes": " Unavailable",
+                    "id": "v-mWK_kcZMs",
+                    "likes": "210,009 likes",
+                    "title": "Making toilet paper moonshine",
+                    "url": "https://www.youtube.com/watch?v=v-mWK_kcZMs",
+                    "video_length": 2216.401,
+                    "views": "7,849,497 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=6JwEYamjXpA",
+                  "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,153",
+                    "content creator": "The Royal Institution",
+                    "date": "Mar 7, 2019",
+                    "description": "Most of the time, the maths in our everyday lives works quietly behind the scenes, until someone forgets to carry a '1' and a bridge collapses or a plane drops out of the sky.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                    "dislikes": " Unavailable",
+                    "id": "6JwEYamjXpA",
+                    "likes": "44,730 likes",
+                    "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+                    "url": "https://www.youtube.com/watch?v=6JwEYamjXpA",
+                    "video_length": 4053.501,
+                    "views": "2,540,392 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+              "title": "10 Challenges For Flat Earthers",
+              "video": {
+                "ad": null,
+                "comments": "71,014",
+                "content creator": "Professor Dave Explains",
+                "date": "Feb 28, 2020",
+                "description": "I can't count how many people have asked for another one of these, and I figured it's been quite a while, so why not mock the flatties one more time? In this video I point out ten blatantly obvious and trivial things any flat earther could do to substantiate their model, that they totally never and will never do. It's hard to fathom that there are a few hundred of them left, maybe I can pick a few off with this one.\n\nMy original flat earth debunk: ",
+                "dislikes": " Unavailable",
+                "id": "AQl8h7Aa75s",
+                "likes": "205,333 likes",
+                "title": "10 Challenges For Flat Earthers",
+                "url": "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+                "video_length": 774.441,
+                "views": "4,287,759 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+              "title": "Debunking the Electric Universe",
+              "video": {
+                "ad": null,
+                "comments": "10,641",
+                "content creator": "Professor Dave Explains",
+                "date": "May 1, 2020",
+                "description": "I know that I've become known for my flat earth destructions, but now that I've driven that one so far into the ground that it's coming out the other side of the spherical earth, it's time to tackle some other topics. There exists an obscure fad called the electric universe, which tends to attract exemplars of the Dunning-Kruger effect who think they understand physics better than Einstein. Literally. Although not quite as ridiculous as the flat earth, it's still pretty ridiculous, so let's go through the finer points of precisely why that is the case, shall we?\n\nWatch my other debunks: ",
+                "dislikes": " Unavailable",
+                "id": "T9q-v4lBGuw",
+                "likes": "16,877 likes",
+                "title": "Debunking the Electric Universe",
+                "url": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+                "video_length": 1566.641,
+                "views": "555,786 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ZjFL8LtZBzE",
+              "title": "Lies People Tell About Water \u2013 Part 2: Special Waters (Raw, Alkaline, Oxygenated, etc.)",
+              "video": {
+                "ad": null,
+                "comments": "3,110",
+                "content creator": "Professor Dave Explains",
+                "date": "Aug 26, 2021",
+                "description": "With water fluoridation covered, let's move on to special waters. Raw water, alkaline water, detox water, chlorophyll water, oxygenated water, hydrogen water, moon water, what are all of these things? What are they supposed to do? Are they based on any truth at all? Why do people hate tap water so much? Let's dig into these fads and see what we can turn up!\n\nOxygenated water and athletic performance: ",
+                "dislikes": " Unavailable",
+                "id": "ZjFL8LtZBzE",
+                "likes": "13,824 likes",
+                "title": "Lies People Tell About Water \u2013 Part 2: Special Waters (Raw, Alkaline, Oxygenated, etc.)",
+                "url": "https://www.youtube.com/watch?v=ZjFL8LtZBzE",
+                "video_length": 1395.621,
+                "views": "282,128 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=erA3WQE9Zes",
+              "title": "Phillip Is Absolutely Baffled by the Men Who Believe the Earth Is Flat | This Morning",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "This Morning",
+                "date": "May 2, 2018",
+                "description": "Subscribe now for more! http://bit.ly/1JM41yF\nGary Heather, Darren Nesbit and Martin Kenny are part of \u2018The Flat Earthers\u2019 who come from all \u2018four corners\u2019 of the globe even claiming that gravity is fake and The Moon Landing of 1969 was a hoax. So are their ideas \u2018from another planet\u2019 or have we all been conned by science? \nBroadcast on 02/05/2018\n\nLike, follow and subscribe to This Morning!\nWebsite: ",
+                "dislikes": " Unavailable",
+                "id": "erA3WQE9Zes",
+                "likes": "58,489 likes",
+                "title": "Phillip Is Absolutely Baffled by the Men Who Believe the Earth Is Flat | This Morning",
+                "url": "https://www.youtube.com/watch?v=erA3WQE9Zes",
+                "video_length": 425.741,
+                "views": "7,217,418 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=bRnBHml8nto",
+              "title": "Lies People Tell About Water \u2013 Part 1: Water Fluoridation",
+              "video": {
+                "ad": null,
+                "comments": "3,190",
+                "content creator": "Professor Dave Explains",
+                "date": "Aug 19, 2021",
+                "description": "We can find charlatans peddling snake oil in a wide variety of spheres, but there are quite a lot of lies that are told specifically about water. It's such a ubiquitous substance, everywhere around us, and inside of us, and since we need it to survive, it's fertile grounds for pseudoscience. What kinds of lies do people tell about water? There are many colorful examples we will cover, but this first part will focus on the main conspiracy surrounding water, and that is the fluoridation of tap water. From government mind control to neurotoxic effects, there is no shortage of misinformation associated with this incredible achievement of modern society, so let's run through the most common talking points and see what they're all about, shall we?\n\nFluoride mechanisms of action:\nFeatherstone review of 1990s work: ",
+                "dislikes": " Unavailable",
+                "id": "bRnBHml8nto",
+                "likes": "13,803 likes",
+                "title": "Lies People Tell About Water \u2013 Part 1: Water Fluoridation",
+                "url": "https://www.youtube.com/watch?v=bRnBHml8nto",
+                "video_length": 1183.461,
+                "views": "243,229 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+          "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+          "video": {
+            "ad": null,
+            "comments": "37,406",
+            "content creator": "Professor Dave Explains",
+            "date": "Jan 26, 2020",
+            "description": "A channel named Modern Day Debate reached out to me based on my flat earth debunking to see if I would debate someone named Kent Hovind about Young Earth Creationism. Normally I stay out of religion, but I dug into this guy a little, and he is a total scumbag. The epitome of a con man. Nothing but lies and misrepresentations of science out of his mouth for several decades now. He's really no different than the flat earthers, manipulating people to make money. So I decided to take a chunk out of him. He's a slippery little greased pig, watch for his signature move, the gish gallop.\n\nWatch my other debunks/debates: ",
+            "dislikes": " Unavailable",
+            "id": "lbB7AhwaZy8",
+            "likes": "39,724 likes",
+            "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+            "url": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+            "video_length": 6465.861,
+            "views": "1,597,956 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KyD8VIK032o",
+          "title": "The 10 Things That All Flat Earthers Say",
+          "video": {
+            "ad": null,
+            "comments": "73,681",
+            "content creator": "Professor Dave Explains",
+            "date": "Jul 2, 2019",
+            "description": "So it's been a minute since I made my response to the Globebusters, and for two months now I've had to listen to flat earthers spew the same nonsense in the comment section of that video, day after day. Now that I'm intimately familiar with their most popular and most ridiculous talking points, I thought I would put them all together in one clip for a vigorous debunking.\n\nMy original flat earth video:",
+            "dislikes": " Unavailable",
+            "id": "KyD8VIK032o",
+            "likes": "146,342 likes",
+            "title": "The 10 Things That All Flat Earthers Say",
+            "url": "https://www.youtube.com/watch?v=KyD8VIK032o",
+            "video_length": 1110.401,
+            "views": "4,046,951 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+          "title": "Math Has a Fatal Flaw",
+          "video": {
+            "ad": null,
+            "comments": "42,640",
+            "content creator": "Veritasium",
+            "date": "May 22, 2021",
+            "description": "Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer. This video is sponsored by Brilliant. The first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. \n\nSpecial thanks to Prof. Asaf Karagila for consultation on set theory and specific rewrites, to Prof. Alex Kontorovich for reviews of earlier drafts, Prof. Toby \u2018Qubit\u2019 Cubitt for the help with the spectral gap, to Henry Reich for the helpful feedback and comments on the video. \n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580 \nReferences:\n\nDunham, W. (2013, July). A Note on the Origin of the Twin Prime Conjecture. In Notices of the International Congress of Chinese Mathematicians (Vol. 1, No. 1, pp. 63-65). International Press of Boston.  \u2014 ",
+            "dislikes": " Unavailable",
+            "id": "HeQX2HjkcNo",
+            "likes": "555,330 likes",
+            "title": "Math Has a Fatal Flaw",
+            "url": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+            "video_length": 2039.201,
+            "views": "15,666,270 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vmVdPgkudC8",
+          "title": "The SAFIRE Project Is Not Real Science (Electric Sun Model Debunked)",
+          "video": {
+            "ad": null,
+            "comments": "4,135",
+            "content creator": "Professor Dave Explains",
+            "date": "Jul 10, 2020",
+            "description": "It would seem that I've really struck a nerve by debunking some of these \"alternative cosmologies\", and exposing the frauds that push them. In the very persistent and vocal criticisms that have been brought against me by the people who have fallen for these hoaxes, the most consistent thing they cite as though it is evidence of anything whatsoever is the SAFIRE Project. What is this circus sideshow masquerading as science? What is it that they pretend to do? Let's tell the whole story.\n\nMy original Electric Universe debunk: ",
+            "dislikes": " Unavailable",
+            "id": "vmVdPgkudC8",
+            "likes": "9,598 likes",
+            "title": "The SAFIRE Project Is Not Real Science (Electric Sun Model Debunked)",
+            "url": "https://www.youtube.com/watch?v=vmVdPgkudC8",
+            "video_length": 1529.941,
+            "views": "246,220 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+          "title": "The Earth is Definitely Not Flat",
+          "video": {
+            "ad": null,
+            "comments": "23,274",
+            "content creator": "Professor Dave Explains",
+            "date": "Mar 27, 2019",
+            "description": "Anti-science mentality is rampant in this day and age, and one of the more peculiar aspects of this trend is the current fad that is the Flat Earth model. There exists a group of people who believe that against everything we have come to learn throughout the scientific revolution, the world is actually flat, and the center of the universe. That's not all, there's a big cover up, with NASA, and all the governments, like some real sci-fi stuff. Let's go through some of the talking points of this model and see if we can deconstruct it, shall we?\n\nWatch the whole Astronomy/Astrophysics playlist: ",
+            "dislikes": " Unavailable",
+            "id": "tC5RalYWZ5Y",
+            "likes": "42,824 likes",
+            "title": "The Earth is Definitely Not Flat",
+            "url": "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+            "video_length": 786.481,
+            "views": "1,247,434 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ljI-KTfdaqM",
+      "title": "Dave Rubin on Biden accusations, Trump & why the left will 'implode' - BQ #14",
+      "video": {
+        "ad": null,
+        "comments": "981",
+        "content creator": "The Sun",
+        "date": "Premiered May 7, 2020",
+        "description": "Podcast host and former left-wing commentator Dave Rubin speaks to The Sun's Steven Edginton on why 2020 will be the year \"wokeness will implode\". Rubin explains why he left the left, his views on the alternative media taking over the mainstream media and why he wrote his new book: \"Don't Burn This Book'. \n\nWatch all of The Sun's Burning Questions series: ",
+        "dislikes": " Unavailable",
+        "id": "ljI-KTfdaqM",
+        "likes": "8,103 likes",
+        "title": "Dave Rubin on Biden accusations, Trump & why the left will 'implode' - BQ #14",
+        "url": "https://www.youtube.com/watch?v=ljI-KTfdaqM",
+        "video_length": 3195.981,
+        "views": "381,735 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+      "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+      "video": {
+        "ad": null,
+        "comments": "226,474",
+        "content creator": "British GQ",
+        "date": "Oct 30, 2018",
+        "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "yZYQpge1W5s",
+        "likes": "695,411 likes",
+        "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+        "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "video_length": 6133.181,
+        "views": "47,653,277 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+      "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+      "video": {
+        "ad": null,
+        "comments": "26,371",
+        "content creator": "Stand-up Maths",
+        "date": "Feb 4, 2021",
+        "description": "Buy my book Humble Pi now!\nhttps://www.penguinrandomhouse.com/bo...\nUPDATE: Harvard Book Store have totally sold out.\n\nMy talk on 4 February 2021 at Harvard Book Store:",
+        "dislikes": " Unavailable",
+        "id": "8Ko3TdPy0TU",
+        "likes": "262,742 likes",
+        "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+        "url": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+        "video_length": 2386.941,
+        "views": "4,541,569 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+      "title": "This is How Easy It Is to Lie With Statistics",
+      "video": {
+        "ad": null,
+        "comments": "16,370",
+        "content creator": "Zach Star",
+        "date": "Feb 4, 2019",
+        "description": "STEMerch Store: https://stemerch.com/\nSupport the Channel: https://www.patreon.com/zachstar\nPayPal(one time donation): https://www.paypal.me/ZachStarYT",
+        "dislikes": " Unavailable",
+        "id": "bVG2OQp6jEQ",
+        "likes": "236,483 likes",
+        "title": "This is How Easy It Is to Lie With Statistics",
+        "url": "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+        "video_length": 1134.061,
+        "views": "4,435,887 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "video": {
+        "ad": null,
+        "comments": "114,065",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "230,355 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713,
+        "views": "8,418,188 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=dWlYuvricgI&t=1s",
+  "title": "Yes, Censorship is Bad",
+  "video": {
+    "ad": null,
+    "comments": "1,578",
+    "content creator": "Sargon of Akkad",
+    "date": "Streamed live on Apr 26, 2021",
+    "description": "We care now it affects the left.",
+    "dislikes": " Unavailable",
+    "id": "dWlYuvricgI&t",
+    "likes": "8,871 likes",
+    "title": "Yes, Censorship is Bad",
+    "url": "https://www.youtube.com/watch?v=dWlYuvricgI&t=1s",
+    "video_length": 4917.641,
+    "views": "126,357 views"
+  }
+}

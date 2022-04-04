@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=3X1z188hedw",
+                  "sampled_type": "opposing",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=uA-xCtR3nXY",
+                    "https://www.youtube.com/watch?v=iFcPqXxAUWM",
+                    "https://www.youtube.com/watch?v=lwqinLBzinU",
+                    "https://www.youtube.com/watch?v=KxAW3t423rg",
+                    "https://www.youtube.com/watch?v=Ust6Bh1D3GY",
+                    "https://www.youtube.com/watch?v=04LehhDwfs8",
+                    "https://www.youtube.com/watch?v=pLL4PW4LZT8",
+                    "https://www.youtube.com/watch?v=4yGPm1U7U6s",
+                    "https://www.youtube.com/watch?v=fQR-LNDjjp8",
+                    "https://www.youtube.com/watch?v=NtCI2gMx_go"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "3,118",
+                    "content creator": "Business Insider",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "3X1z188hedw",
+                    "likes": "57,321 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=3X1z188hedw",
+                    "video_length": 383.541,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=WPYzV64dUuU",
+              "sampled_type": "opposing",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=n7hi-0jMnEI",
+                "https://www.youtube.com/watch?v=3X1z188hedw",
+                "https://www.youtube.com/watch?v=H1QYeuy3buE",
+                "https://www.youtube.com/watch?v=giKm50Q1VVY",
+                "https://www.youtube.com/watch?v=vq59vxXE5eE",
+                "https://www.youtube.com/watch?v=rcieZYwyEiA",
+                "https://www.youtube.com/watch?v=E1uhKOKRx-4",
+                "https://www.youtube.com/watch?v=6XnKDD5mXfY",
+                "https://www.youtube.com/watch?v=1o9aZuuGdWI",
+                "https://www.youtube.com/watch?v=uYdr4UVVMhw"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "736",
+                "content creator": "Business Insider",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "WPYzV64dUuU",
+                "likes": "17,059 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=WPYzV64dUuU",
+                "video_length": 449.621,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=v8VL8XgHzqY",
+          "sampled_type": "opposing",
+          "title": "",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": null,
+            "comments": "184",
+            "content creator": "Business Insider",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "v8VL8XgHzqY",
+            "likes": "1,635 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=v8VL8XgHzqY",
+            "video_length": 7439.161,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=-XjlV236RKU",
+      "sampled_type": "opposing",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=v8VL8XgHzqY",
+        "https://www.youtube.com/watch?v=aUMFZvVwx5o",
+        "https://www.youtube.com/watch?v=1o9aZuuGdWI",
+        "https://www.youtube.com/watch?v=NUzDLpSkQTg",
+        "https://www.youtube.com/watch?v=pbG3EeYnXQ0",
+        "https://www.youtube.com/watch?v=vA_j6rjsBec",
+        "https://www.youtube.com/watch?v=S9F-u4T7leQ",
+        "https://www.youtube.com/watch?v=j5JLWITs0yg",
+        "https://www.youtube.com/watch?v=VwOMDQAmRtQ",
+        "https://www.youtube.com/watch?v=lwP9H9qTuUY"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "464",
+        "content creator": "Business Insider",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "-XjlV236RKU",
+        "likes": "6,298 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=-XjlV236RKU",
+        "video_length": 522.881,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=j6bGZXk6F2E",
+                  "sampled_type": "opposing",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=2YntFbFRnvs",
+                    "https://www.youtube.com/watch?v=QabHUUwC1tA",
+                    "https://www.youtube.com/watch?v=uznXI8wrdag",
+                    "https://www.youtube.com/watch?v=FbdiCrKhZWY",
+                    "https://www.youtube.com/watch?v=GZwbhgS9fuc",
+                    "https://www.youtube.com/watch?v=mn6650M3M-U",
+                    "https://www.youtube.com/watch?v=9CTzhqVHmww",
+                    "https://www.youtube.com/watch?v=O0ihGlsLL1Y",
+                    "https://www.youtube.com/watch?v=vvKgnRPThKI",
+                    "https://www.youtube.com/watch?v=EE7NqzhMDms"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,362",
+                    "content creator": "Business Insider",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "j6bGZXk6F2E",
+                    "likes": "94,742 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=j6bGZXk6F2E",
+                    "video_length": 374.321,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Ej7jx0x_MR0",
+              "sampled_type": "opposing",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=j6bGZXk6F2E",
+                "https://www.youtube.com/watch?v=lBBj-K_qfIw",
+                "https://www.youtube.com/watch?v=RQ1nY51txoA",
+                "https://www.youtube.com/watch?v=auLmekEsaak",
+                "https://www.youtube.com/watch?v=3752x4PgpYE",
+                "https://www.youtube.com/watch?v=RPy41Sie8Os",
+                "https://www.youtube.com/watch?v=TMzouTzim0o",
+                "https://www.youtube.com/watch?v=No5cmnjtNag",
+                "https://www.youtube.com/watch?v=O0ihGlsLL1Y",
+                "https://www.youtube.com/watch?v=setJXT-K2CQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "6,815",
+                "content creator": "Business Insider",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "Ej7jx0x_MR0",
+                "likes": "165,698 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=Ej7jx0x_MR0",
+                "video_length": 358.601,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=SBdVhvo2UUM",
+          "sampled_type": "opposing",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Ej7jx0x_MR0",
+            "https://www.youtube.com/watch?v=4zwDokkSWp8",
+            "https://www.youtube.com/watch?v=RA9wxEbnhVU",
+            "https://www.youtube.com/watch?v=TQPPGPTa_Bg",
+            "https://www.youtube.com/watch?v=NMFaPZAFgUU",
+            "https://www.youtube.com/watch?v=9bi7BDbaUSA",
+            "https://www.youtube.com/watch?v=-ECqbfX0IUA",
+            "https://www.youtube.com/watch?v=nMQOSj2MkxU",
+            "https://www.youtube.com/watch?v=NoJwmTojdWk",
+            "https://www.youtube.com/watch?v=bh9S5KOOCd0"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "6,202",
+            "content creator": "Business Insider",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "SBdVhvo2UUM",
+            "likes": "98,469 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=SBdVhvo2UUM",
+            "video_length": 480.721,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=A2rEZKPfAIs",
+      "sampled_type": "opposing",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=SBdVhvo2UUM",
+        "https://www.youtube.com/watch?v=2SHgbsow7mM",
+        "https://www.youtube.com/watch?v=P3vCD7mFaZU",
+        "https://www.youtube.com/watch?v=ZEMi3s2IDS8",
+        "https://www.youtube.com/watch?v=6uddGul0oAc",
+        "https://www.youtube.com/watch?v=bh9S5KOOCd0",
+        "https://www.youtube.com/watch?v=KYPXGqtacpw",
+        "https://www.youtube.com/watch?v=KchdBfAK2aw",
+        "https://www.youtube.com/watch?v=H3Den05Q_D0",
+        "https://www.youtube.com/watch?v=F95jAZtVmFE"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "3,999",
+        "content creator": "Business Insider",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "A2rEZKPfAIs",
+        "likes": "58,814 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=A2rEZKPfAIs",
+        "video_length": 587.101,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=a8lbitoBhP4",
+                  "sampled_type": "opposing",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=TF4kNzHIz3o",
+                    "https://www.youtube.com/watch?v=IdP0s6xykG8",
+                    "https://www.youtube.com/watch?v=pKcJ-0bAHB4",
+                    "https://www.youtube.com/watch?v=K1qwKFgfu0g",
+                    "https://www.youtube.com/watch?v=Mv7J2CLBYBk",
+                    "https://www.youtube.com/watch?v=ppplOhy-Tn0",
+                    "https://www.youtube.com/watch?v=SzuZnh91U8E",
+                    "https://www.youtube.com/watch?v=N6MX6m9lDbg",
+                    "https://www.youtube.com/watch?v=w7846gm3z_s",
+                    "https://www.youtube.com/watch?v=oI8trlbCbU8"
+                  ],
+                  "video": {
+                    "ad": true,
+                    "comments": "3,845",
+                    "content creator": "Business Insider",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "a8lbitoBhP4",
+                    "likes": "105,808 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=a8lbitoBhP4",
+                    "video_length": 369.001,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=q8u3-3Y1xno",
+              "sampled_type": "opposing",
+              "title": "",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "https://www.youtube.com/watch?v=a8lbitoBhP4"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "5,711",
+                "content creator": "Business Insider",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "q8u3-3Y1xno",
+                "likes": "94,949 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=q8u3-3Y1xno",
+                "video_length": 459.781,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=1_7rYbMeVQc",
+          "sampled_type": "opposing",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=q8u3-3Y1xno",
+            "https://www.youtube.com/watch?v=kvymoFdjuHw",
+            "https://www.youtube.com/watch?v=G1wsCworwWk",
+            "https://www.youtube.com/watch?v=REhLHpdLCE0",
+            "https://www.youtube.com/watch?v=daDzt1Ilwvg",
+            "https://www.youtube.com/watch?v=r15_6z9xryo",
+            "https://www.youtube.com/watch?v=agLUDl4YpQg",
+            "https://www.youtube.com/watch?v=kF8I_r9XT7A",
+            "https://www.youtube.com/watch?v=NUPruqZt9J0",
+            "https://www.youtube.com/watch?v=RVjXyvtI_lU"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,606",
+            "content creator": "Business Insider",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "1_7rYbMeVQc",
+            "likes": "20,948 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=1_7rYbMeVQc",
+            "video_length": 303.881,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=NCZmq_hZLK8",
+      "sampled_type": "opposing",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=1_7rYbMeVQc",
+        "https://www.youtube.com/watch?v=FeJKJ5MoCHY",
+        "https://www.youtube.com/watch?v=LaUHzjcuqMk",
+        "https://www.youtube.com/watch?v=NUPruqZt9J0",
+        "https://www.youtube.com/watch?v=tanqrySJ5Ng",
+        "https://www.youtube.com/watch?v=suT82AdWfTU",
+        "https://www.youtube.com/watch?v=mqZS-hEPE6k",
+        "https://www.youtube.com/watch?v=RD1g1bKpKPo",
+        "https://www.youtube.com/watch?v=APVD7xDLrUg",
+        "https://www.youtube.com/watch?v=kzOoiR6Q3hI"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,498",
+        "content creator": "Business Insider",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "NCZmq_hZLK8",
+        "likes": "24,768 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=NCZmq_hZLK8",
+        "video_length": 368.921,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=OhUyMZbOwrk",
+                  "sampled_type": "random",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=WlA1KO5CDIw",
+                    "https://www.youtube.com/watch?v=OhUyMZbOwrk&list=RDCMUCeP7ZHcuDFnN5GQCReHDfpA&start_radio=1&rv=OhUyMZbOwrk",
+                    "https://www.youtube.com/watch?v=yfYjEkaN-1s",
+                    "https://www.youtube.com/watch?v=KGbphrJNVwE",
+                    "https://www.youtube.com/watch?v=FVxBX263Jzs",
+                    "https://www.youtube.com/watch?v=Pj2bj2MdDKs",
+                    "https://www.youtube.com/watch?v=MEpn5zp2DHE",
+                    "https://www.youtube.com/watch?v=A41JXWHo264",
+                    "https://www.youtube.com/watch?v=at5dP_gsdFk",
+                    "https://www.youtube.com/watch?v=QxV8xYzqDKQ"
+                  ],
+                  "video": {
+                    "ad": true,
+                    "comments": "379",
+                    "content creator": "Air-Clips.com",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "OhUyMZbOwrk",
+                    "likes": "11,007 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=OhUyMZbOwrk",
+                    "video_length": 8884.221,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=jk-WClye4bw",
+              "sampled_type": "random",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=_dydUEaFjfo",
+                "https://www.youtube.com/watch?v=jk-WClye4bw&list=RDCMUCeP7ZHcuDFnN5GQCReHDfpA&start_radio=1&rv=jk-WClye4bw",
+                "https://www.youtube.com/watch?v=fLrZloqULnY",
+                "https://www.youtube.com/watch?v=3qNzI8E2Zec",
+                "https://www.youtube.com/watch?v=1TlwVs58qpw",
+                "https://www.youtube.com/watch?v=R2NzN1ew9j0",
+                "https://www.youtube.com/watch?v=sd4hSipKPh0",
+                "https://www.youtube.com/watch?v=nZrfg-2bTTQ",
+                "https://www.youtube.com/watch?v=n2J-bzNJUwc",
+                "https://www.youtube.com/watch?v=ppmfjoxGnbc"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,410",
+                "content creator": "Air-Clips.com",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "jk-WClye4bw",
+                "likes": "66,067 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=jk-WClye4bw",
+                "video_length": 7063.461,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=z9Us4pJTajU",
+          "sampled_type": "random",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=PTCQT2tkj40",
+            "https://www.youtube.com/watch?v=pK0GlToFya8",
+            "https://www.youtube.com/watch?v=069y1MpOkQY",
+            "https://www.youtube.com/watch?v=z9Us4pJTajU&list=RDCMUCBkJ4r-eLl8XAjg30dW8oIw&start_radio=1&rv=z9Us4pJTajU",
+            "https://www.youtube.com/watch?v=QfdheyQDqmc",
+            "https://www.youtube.com/watch?v=YD-HSifUN2I",
+            "https://www.youtube.com/watch?v=syDtBpdol-Y",
+            "https://www.youtube.com/watch?v=cSSFRim8OK8",
+            "https://www.youtube.com/watch?v=C3WBzG8cZnA",
+            "https://www.youtube.com/watch?v=-zNNFQVGdFc"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "3,783",
+            "content creator": "The Points Guy UK",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "z9Us4pJTajU",
+            "likes": "68,109 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=z9Us4pJTajU",
+            "video_length": 1254.181,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=lFm4EM1juls",
+      "sampled_type": "random",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=069y1MpOkQY",
+        "https://www.youtube.com/watch?v=kd2KEHvK-q8",
+        "https://www.youtube.com/watch?v=lFm4EM1juls&list=RDCMUCHAK6CyegY22Zj2GWrcaIxg&start_radio=1&rv=lFm4EM1juls",
+        "https://www.youtube.com/watch?v=m1gRPEZdKyI",
+        "https://www.youtube.com/watch?v=C0Jho16mOKw",
+        "https://www.youtube.com/watch?v=Ze1Ku4gkvgE",
+        "https://www.youtube.com/watch?v=nZrfg-2bTTQ",
+        "https://www.youtube.com/watch?v=lfmCT54cwXI",
+        "https://www.youtube.com/watch?v=EgTOq-2acT0",
+        "https://www.youtube.com/watch?v=G2IG1tRJqoU"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "2,139",
+        "content creator": "Tech Vision",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "lFm4EM1juls",
+        "likes": "39,231 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=lFm4EM1juls",
+        "video_length": 432.961,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=YxHY6atLwnQ",
+                  "sampled_type": "random",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=McPg1lE-MnY",
+                    "https://www.youtube.com/watch?v=YxHY6atLwnQ&list=RDCMUCJ6jdm9qTla9Lp3Jf-TPwbg&start_radio=1&rv=YxHY6atLwnQ",
+                    "https://www.youtube.com/watch?v=q7JJnCAzJx8",
+                    "https://www.youtube.com/watch?v=54OwG9CCziY",
+                    "https://www.youtube.com/watch?v=_NVEsM3v8Jw",
+                    "https://www.youtube.com/watch?v=3y560I51l0k",
+                    "https://www.youtube.com/watch?v=GSyP7xrxLME",
+                    "https://www.youtube.com/watch?v=MA5LCS9buUw",
+                    "https://www.youtube.com/watch?v=NbugdWD7g-8",
+                    "https://www.youtube.com/watch?v=-0OXNingXKE"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "218",
+                    "content creator": "Emirates",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "YxHY6atLwnQ",
+                    "likes": "3,682 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=YxHY6atLwnQ",
+                    "video_length": 134.441,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=-0OXNingXKE",
+              "sampled_type": "random",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=3hLXP1R8y6o",
+                "https://www.youtube.com/watch?v=-0OXNingXKE&list=RDCMUCJ6jdm9qTla9Lp3Jf-TPwbg&start_radio=1&rv=-0OXNingXKE",
+                "https://www.youtube.com/watch?v=BIUqQD_o25g",
+                "https://www.youtube.com/watch?v=oFBr5d1ZO4U",
+                "https://www.youtube.com/watch?v=hQ3FJIPsT-g",
+                "https://www.youtube.com/watch?v=YxHY6atLwnQ",
+                "https://www.youtube.com/watch?v=jkFmJqVl-kc",
+                "https://www.youtube.com/watch?v=8zAjqg3yAKo",
+                "https://www.youtube.com/watch?v=UGtzwn5yXSU",
+                "https://www.youtube.com/watch?v=7T-ujzU6vSc"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "360",
+                "content creator": "Emirates",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "-0OXNingXKE",
+                "likes": "8,482 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=-0OXNingXKE",
+                "video_length": 192.701,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=tx0gMidbJvI",
+          "sampled_type": "random",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=XvF6ukdEYc0",
+            "https://www.youtube.com/watch?v=AAR1j6UfoG0",
+            "https://www.youtube.com/watch?v=tx0gMidbJvI&list=RDCMUCJ6jdm9qTla9Lp3Jf-TPwbg&start_radio=1&rv=tx0gMidbJvI",
+            "https://www.youtube.com/watch?v=54OwG9CCziY",
+            "https://www.youtube.com/watch?v=uQHhYRuaEtM",
+            "https://www.youtube.com/watch?v=p2hJxyF7mok",
+            "https://www.youtube.com/watch?v=DDZRyIzoYxg",
+            "https://www.youtube.com/watch?v=GSyP7xrxLME",
+            "https://www.youtube.com/watch?v=V-4Ev5ZRizc",
+            "https://www.youtube.com/watch?v=chhh4-2plYY"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "4,018",
+            "content creator": "Emirates",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "tx0gMidbJvI",
+            "likes": "81,257 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=tx0gMidbJvI",
+            "video_length": 261.141,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=AAR1j6UfoG0",
+      "sampled_type": "random",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=fbL9QdWWJzo",
+        "https://www.youtube.com/watch?v=AAR1j6UfoG0&list=RDCMUCJ6jdm9qTla9Lp3Jf-TPwbg&start_radio=1&rv=AAR1j6UfoG0",
+        "https://www.youtube.com/watch?v=uQHhYRuaEtM",
+        "https://www.youtube.com/watch?v=GSyP7xrxLME",
+        "https://www.youtube.com/watch?v=8PYX5lcUi18",
+        "https://www.youtube.com/watch?v=Cs2N85FujdA",
+        "https://www.youtube.com/watch?v=HagU3vUp0Ck",
+        "https://www.youtube.com/watch?v=warkOmGrSW4",
+        "https://www.youtube.com/watch?v=hPsDudWT0vY",
+        "https://www.youtube.com/watch?v=5EffU8M-V80"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "547",
+        "content creator": "Emirates",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "AAR1j6UfoG0",
+        "likes": "7,669 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=AAR1j6UfoG0",
+        "video_length": 75.741,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=QCTpN6pDTjk",
+                  "sampled_type": "opposing",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=h8os1dQco0o",
+                    "https://www.youtube.com/watch?v=rrSCDmRmVnI",
+                    "https://www.youtube.com/watch?v=p3BMwFDB-qg",
+                    "https://www.youtube.com/watch?v=KaVsc18wqwQ",
+                    "https://www.youtube.com/watch?v=w_Ma8oQLmSM",
+                    "https://www.youtube.com/watch?v=3eo5SplOAl8",
+                    "https://www.youtube.com/watch?v=n0CT8zrw6lw",
+                    "https://www.youtube.com/watch?v=sGXHJvEttpE",
+                    "https://www.youtube.com/watch?v=q8y-RLkpsnk",
+                    "https://www.youtube.com/watch?v=bnlI2EhVWhc"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "8,773",
+                    "content creator": "ABC News",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "QCTpN6pDTjk",
+                    "likes": "35,322 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=QCTpN6pDTjk",
+                    "video_length": 133.061,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=6gr_gMSF0c0",
+              "sampled_type": "opposing",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=3wAQxJeyyXo",
+                "https://www.youtube.com/watch?v=WfTqpTDdYL0",
+                "https://www.youtube.com/watch?v=MVMu3UmkBTE",
+                "https://www.youtube.com/watch?v=QCTpN6pDTjk",
+                "https://www.youtube.com/watch?v=xhiuxMPJ-8U",
+                "https://www.youtube.com/watch?v=V2UBdsWR18I",
+                "https://www.youtube.com/watch?v=509uHebkNsI",
+                "https://www.youtube.com/watch?v=2NutfCHAyNM",
+                "https://www.youtube.com/watch?v=-gal8E_dgE8",
+                "https://www.youtube.com/watch?v=HTHw53tZHUE"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,513",
+                "content creator": "Business Insider",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "6gr_gMSF0c0",
+                "likes": "68,169 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=6gr_gMSF0c0",
+                "video_length": 420.221,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=D2aZkpam2Ms",
+          "sampled_type": "opposing",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=6gr_gMSF0c0",
+            "https://www.youtube.com/watch?v=oo5wuJQekuU",
+            "https://www.youtube.com/watch?v=IYRmHjA1HiA",
+            "https://www.youtube.com/watch?v=RgAONydtbnU",
+            "https://www.youtube.com/watch?v=CSgDjZ_Vv8g",
+            "https://www.youtube.com/watch?v=6G6BWPTTPaQ",
+            "https://www.youtube.com/watch?v=m07OvPEoR6g",
+            "https://www.youtube.com/watch?v=GEfdTmNxcgY",
+            "https://www.youtube.com/watch?v=sRH5KzNQxmc",
+            "https://www.youtube.com/watch?v=vWb58bM34rA"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "2,078",
+            "content creator": "Business Insider",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "D2aZkpam2Ms",
+            "likes": "29,498 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=D2aZkpam2Ms",
+            "video_length": 280.261,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=KZAp4r0n0B0",
+      "sampled_type": "opposing",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=x6btmJSRueE",
+        "https://www.youtube.com/watch?v=D2aZkpam2Ms",
+        "https://www.youtube.com/watch?v=1a7f9wzOfWk",
+        "https://www.youtube.com/watch?v=fTgm36y884c",
+        "https://www.youtube.com/watch?v=TT-N5wl0l-s",
+        "https://www.youtube.com/watch?v=ZgjWOo7IqQY",
+        "https://www.youtube.com/watch?v=XW-ejnjlj_4",
+        "https://www.youtube.com/watch?v=KPqK5LyGsiE",
+        "https://www.youtube.com/watch?v=ilLDdqh0rEc",
+        "https://www.youtube.com/watch?v=YKPHYk4GB4g"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "1,254",
+        "content creator": "Business Insider",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "KZAp4r0n0B0",
+        "likes": "16,286 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=KZAp4r0n0B0",
+        "video_length": 343.841,
+        "views": ""
+      }
+    }
+  ],
+  "id": "dummy"
+}

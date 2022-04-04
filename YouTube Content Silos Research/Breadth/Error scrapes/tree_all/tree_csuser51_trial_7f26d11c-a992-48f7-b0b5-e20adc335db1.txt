@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=RmiKAoAmYSg",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=P2AUat93a8Q&list=RDLVP2AUat93a8Q&start_radio=1&rv=P2AUat93a8Q",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=nEnklxGAmak",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=qlBV_CDvuYs",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=QFwWvr1YUjA",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=5Yhf0wBFtvY",
+                          "title": "Brutally Honest Advice From Steve Jobs | BEST SPEECH Ever! (HQ Version)",
+                          "video": {
+                            "ad": null,
+                            "comments": "2,160",
+                            "content creator": "Evan Carmichael",
+                            "date": "Jan 10, 2015",
+                            "description": "Check out these books about Steve Jobs: \n* Steve Jobs: https://amzn.to/2PGH3nM\n* The Presentation Secrets of Steve Jobs: https://amzn.to/2JB1j55",
+                            "dislikes": " Unavailable",
+                            "id": "5Yhf0wBFtvY",
+                            "likes": "51,817 likes",
+                            "title": "Brutally Honest Advice From Steve Jobs | BEST SPEECH Ever! (HQ Version)",
+                            "url": "https://www.youtube.com/watch?v=5Yhf0wBFtvY",
+                            "video_length": 870.861,
+                            "views": "2,976,759 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=-EvvPZFdjyk&list=RDLV-EvvPZFdjyk&start_radio=1&rv=-EvvPZFdjyk",
+                          "title": "Why You Will Marry the Wrong Person",
+                          "video": {
+                            "ad": null,
+                            "comments": "10,742",
+                            "content creator": "The School of Life",
+                            "date": "Aug 13, 2017",
+                            "description": "This video sees Alain de Botton, Creator of The School of Life and narrator on the majority of our videos, talking at a Google event in London in 2017.\n\nThis film is brought to you by ",
+                            "dislikes": " Unavailable",
+                            "id": "-EvvPZFdjyk&list",
+                            "likes": "204,894 likes",
+                            "title": "Why You Will Marry the Wrong Person",
+                            "url": "https://www.youtube.com/watch?v=-EvvPZFdjyk&list=RDLV-EvvPZFdjyk&start_radio=1&rv=-EvvPZFdjyk",
+                            "video_length": 1339,
+                            "views": "6,040,010 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=wFCsLSGPLMk",
+                          "title": "The Concept of true Love \u2013 TV-Talk with Alain de Botton | Sternstunde Philosophie | SRF Kultur",
+                          "video": {
+                            "ad": null,
+                            "comments": "418",
+                            "content creator": "SRF Kultur",
+                            "date": "Feb 14, 2019",
+                            "description": "Sich verlieben geht ganz einfach. Die Liebe durch den Alltag retten, ist schon schwieriger. Der Starphilosoph Alain de Botton erkl\u00e4rt im Gespr\u00e4ch mit Barbara Bleisch, warum alte Liebe nicht unbedingt rosten muss und weshalb die Philosophie ein gutes Rostschutzmittel ist.  \n\n\ud83d\udd14 Abonniere jetzt SRF Kultur auf YouTube \ud83d\udc49 ",
+                            "dislikes": " Unavailable",
+                            "id": "wFCsLSGPLMk",
+                            "likes": "11,856 likes",
+                            "title": "The Concept of true Love \u2013 TV-Talk with Alain de Botton | Sternstunde Philosophie | SRF Kultur",
+                            "url": "https://www.youtube.com/watch?v=wFCsLSGPLMk",
+                            "video_length": 3532.501,
+                            "views": "471,427 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=7lLLOjIiIAM",
+                          "title": "The 5 BIG SIGNS That Relationship WON'T LAST! | Esther Perel & Lewis Howes",
+                          "video": {
+                            "ad": null,
+                            "comments": "931",
+                            "content creator": "Lewis Howes",
+                            "date": "Jun 11, 2021",
+                            "description": "Download podcast episodes a week early! http://www.lewishowes.com/pod\nDownload podcast episodes a week early here! - http://www.lewishowes.com/pod",
+                            "dislikes": " Unavailable",
+                            "id": "7lLLOjIiIAM",
+                            "likes": "16,680 likes",
+                            "title": "The 5 BIG SIGNS That Relationship WON'T LAST! | Esther Perel & Lewis Howes",
+                            "url": "https://www.youtube.com/watch?v=7lLLOjIiIAM",
+                            "video_length": 6514.701,
+                            "views": "616,594 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=P2AUat93a8Q",
+                          "title": "Rethinking infidelity ... a talk for anyone who has ever loved | Esther Perel",
+                          "video": {
+                            "ad": null,
+                            "comments": "10,846",
+                            "content creator": "TED",
+                            "date": "May 21, 2015",
+                            "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized Talk recommendations and more.\n\nInfidelity is the ultimate betrayal. But does it have to be? Relationship therapist Esther Perel examines why people cheat, and unpacks why affairs are so traumatic: because they threaten our emotional security. In infidelity, she sees something unexpected \u2014 an expression of longing and loss. A must-watch for anyone who has ever cheated or been cheated on, or who simply wants a new framework for understanding relationships.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: ",
+                            "dislikes": " Unavailable",
+                            "id": "P2AUat93a8Q",
+                            "likes": "193,648 likes",
+                            "title": "Rethinking infidelity ... a talk for anyone who has ever loved | Esther Perel",
+                            "url": "https://www.youtube.com/watch?v=P2AUat93a8Q",
+                            "video_length": 1290.961,
+                            "views": "11,607,557 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=a_HfSnQqeyY",
+                      "title": "Learning and Memory: How it Works and When it Fails",
+                      "video": {
+                        "ad": null,
+                        "comments": "211",
+                        "content creator": "Stanford",
+                        "date": "Jun 9, 2010",
+                        "description": "(March 9, 2010) Frank Longo, MD, PhD, George and Lucy Becker Professor, discusses the intricacy human mind and how different types of memory and memory loss function.\n\nStanford Mini Med School is a series arranged and directed by Stanford's School of Medicine, and presented by the Stanford Continuing Studies program.\n\nStanford University:",
+                        "dislikes": " Unavailable",
+                        "id": "a_HfSnQqeyY",
+                        "likes": "6,873 likes",
+                        "title": "Learning and Memory: How it Works and When it Fails",
+                        "url": "https://www.youtube.com/watch?v=a_HfSnQqeyY",
+                        "video_length": 6828.381,
+                        "views": "728,118 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ouZrZa5pLXk",
+                      "title": "ADD/ADHD | What Is Attention Deficit Hyperactivity Disorder?",
+                      "video": {
+                        "ad": null,
+                        "comments": "22,301",
+                        "content creator": "Understood",
+                        "date": "May 4, 2016",
+                        "description": "Here\u2019s everything you need to know about Attention Deficit Hyperactivity Disorder (ADHD) in children. Thomas E. Brown, PhD, discusses ADHD diagnosis, ADHD symptoms, available ADHD treatment options, and ADHD medication. \n\nAs our expert says, ADD/ADHD is not a behavior problem. It has far more to do with the brain\u2019s management system. Remember, ADHD has nothing to do with how smart a person is.\n\nClick here to subscribe to UNDERSTOOD: ",
+                        "dislikes": " Unavailable",
+                        "id": "ouZrZa5pLXk",
+                        "likes": "162,418 likes",
+                        "title": "ADD/ADHD | What Is Attention Deficit Hyperactivity Disorder?",
+                        "url": "https://www.youtube.com/watch?v=ouZrZa5pLXk",
+                        "video_length": 1694,
+                        "views": "5,910,576 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+                      "title": "LEADERSHIP LAB: The Craft of Writing Effectively",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,686",
+                        "content creator": "UChicago Social Sciences",
+                        "date": "Jun 26, 2014",
+                        "description": "Do you worry about the effectiveness of your writing style? As emerging scholars, perfecting the craft of writing is an essential component of developing as graduate students, and yet resources for honing these skills are largely under utilized. Larry McEnerney, Director of the University of Chicago's Writing Program, led this session in an effort to communicate helpful rules, skills, and resources that are available to graduate students interested in further developing their writing style.",
+                        "dislikes": " Unavailable",
+                        "id": "vtIzMaLkCaM",
+                        "likes": "82,275 likes",
+                        "title": "LEADERSHIP LAB: The Craft of Writing Effectively",
+                        "url": "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+                        "video_length": 4911,
+                        "views": "4,568,701 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=JiwZQNYlGQI",
+                      "title": "Failing at Normal: An ADHD Success Story | Jessica McCabe | TEDxBratislava",
+                      "video": {
+                        "ad": null,
+                        "comments": "12,581",
+                        "content creator": "TEDx Talks",
+                        "date": "Oct 9, 2017",
+                        "description": "Jessica McCabe tell us the story of her life. Once a gifted child with bright future, who later lives a life of a constant failures, because one thing - her ADHD diagnosis. Until one thing changed everything and she realized, that she is not alone. Her Youtube channel HowtoADHD is dedicated to help not only people with ADHD, but also their parents, partners a teachers and to remind them, that they are not alone.\nJessica McCabe n\u00e1m rozpr\u00e1va pr\u00edbeh svojho \u017eivota. Kedysi nadan\u00e9 die\u0165a so \u017eiarivou bud\u00facnos\u0165ou, ktor\u00e9 nesk\u00f4r \u017eije \u017eivot pln\u00fd neust\u00e1lych ne\u00faspechov, len kv\u00f4li jednej veci - jej ADHD diagn\u00f3ze. A\u017e do momentu kedy sa v\u0161etko zmen\u00ed a ona si uvedom\u00ed, \u017ee v tom nie je sama. Jej YouTube kan\u00e1l HowtoADHD je venovan\u00fd pomoci a usmer\u0148ovaniu nielen \u013eud\u00ed s ADHD ale takisto aj ich rodi\u010dom, partnerom a u\u010dite\u013eom a takisto aj odkazu, \u017ee v tom nie s\u00fa nikdy sam\u00ed. Jessica is the author of popular YouTube series How to ADHD focused on educating and supporting ADHD brains around the world. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at ",
+                        "dislikes": " Unavailable",
+                        "id": "JiwZQNYlGQI",
+                        "likes": "160,191 likes",
+                        "title": "Failing at Normal: An ADHD Success Story | Jessica McCabe | TEDxBratislava",
+                        "url": "https://www.youtube.com/watch?v=JiwZQNYlGQI",
+                        "video_length": 1032.281,
+                        "views": "3,809,177 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-EvvPZFdjyk",
+                      "title": "Why You Will Marry the Wrong Person",
+                      "video": {
+                        "ad": null,
+                        "comments": "10,742",
+                        "content creator": "The School of Life",
+                        "date": "Aug 13, 2017",
+                        "description": "This video sees Alain de Botton, Creator of The School of Life and narrator on the majority of our videos, talking at a Google event in London in 2017.\n\nThis film is brought to you by ",
+                        "dislikes": " Unavailable",
+                        "id": "-EvvPZFdjyk",
+                        "likes": "204,893 likes",
+                        "title": "Why You Will Marry the Wrong Person",
+                        "url": "https://www.youtube.com/watch?v=-EvvPZFdjyk",
+                        "video_length": 1339.281,
+                        "views": "6,040,010 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3WMuzhQXJoY",
+                  "title": "MEETING THE ENEMY A feminist comes to terms with the Men's Rights movement | Cassie Jaye | TEDxMarin",
+                  "video": {
+                    "ad": null,
+                    "comments": "41,046",
+                    "content creator": "TEDx Talks",
+                    "date": "Oct 18, 2017",
+                    "description": "By facing long-held assumptions, one woman reevaluates her own gender biases. Documentary Filmmaker, The Red Pill \n\nCassie Jaye founded Jaye Bird Productions in 2008, which has since produced a  collection  of documentary films that have been praised for being thought-provoking, entertaining and respectful in representing multiple competing views within each film. Jaye is known for tackling complex and often controversial subject matters. Her latest film is  The Red Pill. Prior to  \u201cThe Red Pill\u201d, Jaye\u2019s most notable films were  the award winning feature documentaries \u201cDaddy I Do\u201d (which examined the Abstinence-Only Movement versus Comprehensive Sex Education) and \u201cThe Right to Love: An American Family\u201d (which followed one family\u2019s activism fighting for same-sex marriage rights in California). Both films showed that Jaye\u2019s interview style is to allow people to share their views honestly, openly and candidly while allowing audiences to come to  their own conclusions.",
+                    "dislikes": " Unavailable",
+                    "id": "3WMuzhQXJoY",
+                    "likes": "452,643 likes",
+                    "title": "MEETING THE ENEMY A feminist comes to terms with the Men's Rights movement | Cassie Jaye | TEDxMarin",
+                    "url": "https://www.youtube.com/watch?v=3WMuzhQXJoY",
+                    "video_length": 887.421,
+                    "views": "9,657,790 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=v6H2HmKDbZA&list=RDLVv6H2HmKDbZA&start_radio=1&rv=v6H2HmKDbZA",
+                  "title": "Jordan Peterson: From the Barricades of the Culture Wars",
+                  "video": {
+                    "ad": null,
+                    "comments": "11,348",
+                    "content creator": "The Aspen Institute",
+                    "date": "Jun 27, 2018",
+                    "description": "From the Aspen Ideas Festival, recorded Tuesday, June 26, 2018. Jordan Peterson, author of the best-selling 12 Rules for Life: An Antidote to Chaos, may be one of the most famous intellectuals in North America today. He also may be among the most misunderstood. His fans say that he\u2019s saved their lives, and detractors say that he\u2019s the gateway drug to the alt-right. Who is this psychologist-philosopher whom so many of us had never heard of two years ago, and what does he really believe?\n\nFeaturing Jordan Peterson in conversation with Bari Weiss. Hosted in the St. Regis Hotel Ballroom, Aspen, Colorado.",
+                    "dislikes": " Unavailable",
+                    "id": "v6H2HmKDbZA&list",
+                    "likes": "77,338 likes",
+                    "title": "Jordan Peterson: From the Barricades of the Culture Wars",
+                    "url": "https://www.youtube.com/watch?v=v6H2HmKDbZA&list=RDLVv6H2HmKDbZA&start_radio=1&rv=v6H2HmKDbZA",
+                    "video_length": 5523,
+                    "views": "7,204,890 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Iy4vq8RdPGU",
+                  "title": "Jordan Peterson discusses whether men and women can ever be equal",
+                  "video": {
+                    "ad": null,
+                    "comments": "50,536",
+                    "content creator": "Jeremy Vine on 5 - Official Channel",
+                    "date": "May 18, 2018",
+                    "description": "Psychologist and author Jordan Peterson discusses notions of gender equality with the Wright Stuff panel including Sophie Walker, leader of the Women's Equality Party.\n\nThe Wright Stuff is on television every weekday at 9:15am until ",
+                    "dislikes": " Unavailable",
+                    "id": "Iy4vq8RdPGU",
+                    "likes": "195,176 likes",
+                    "title": "Jordan Peterson discusses whether men and women can ever be equal",
+                    "url": "https://www.youtube.com/watch?v=Iy4vq8RdPGU",
+                    "video_length": 566.721,
+                    "views": "12,705,347 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Xm_2zmX6Akc",
+                  "title": "Jordan Peterson: How To Deal With Depression | Powerful Motivational Speech",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,773",
+                    "content creator": "Motivation Madness",
+                    "date": "Feb 25, 2018",
+                    "description": "Jordan Peterson talks about how you can overcome and defeat depression. \n\nSubscribe for Motivational Videos Every Weekday, Helping You Get Through The Week! ",
+                    "dislikes": " Unavailable",
+                    "id": "Xm_2zmX6Akc",
+                    "likes": "93,690 likes",
+                    "title": "Jordan Peterson: How To Deal With Depression | Powerful Motivational Speech",
+                    "url": "https://www.youtube.com/watch?v=Xm_2zmX6Akc",
+                    "video_length": 2985.061,
+                    "views": "4,531,777 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=LuZFThlOiJI",
+                  "title": "Could It Be Aspergers?",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Generation Next",
+                    "date": "Jan 25, 2016",
+                    "description": "In this empowering lecture Professor Tony Attwood discusses defining characteristics of 'Aspies' - people with Asperger's Syndrome - how these change from early childhood to adulthood & vary by gender. Buy the book feat. \"Could it be Asperger's\": https://www.generationnext.com.au/pro... \n\nProfessor Tony Attwood challenges you to imagine life through the eyes of an Aspie, and recognise the invaluable and unique contribution they make to society and intellectual development.\n\n********************************************************************\n\nGeneration Next provides education and information about the prevention and management of mental illness in youth to professionals, young people and the wider community. Our objective is to raise community awareness of mental illness through increasing mental health literacy, reducing associated sigma and positively influencing individual and community behaviour to improve the mental health of young people. \n\nGET THE BOOKS: \u201cGrowing Happy, Healthy Young Minds\u201d and \u201cNurturing Young Minds\u201d. Each self-contained chapter can be read in separate bites with additional resources available at the end of each chapter for more in-depth information. Buy your copy here: ",
+                    "dislikes": " Unavailable",
+                    "id": "LuZFThlOiJI",
+                    "likes": "37,642 likes",
+                    "title": "Could It Be Aspergers?",
+                    "url": "https://www.youtube.com/watch?v=LuZFThlOiJI",
+                    "video_length": 2041.141,
+                    "views": "1,768,067 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=f5rUPatnXSE",
+              "title": "Jordan Peterson | Political Correctness and Postmodernism",
+              "video": {
+                "ad": null,
+                "comments": "4,393",
+                "content creator": "ideacity",
+                "date": "Sep 12, 2017",
+                "description": "He\u2019s been cheered and condemned, boosted and banned\u2026 and now he\u2019s at ideacity to offer perspectives from the front lines of the political correctness battleground. Professor and clinical psychologist Dr. Jordan Peterson believes that no matter how controversial, we must recognize the importance of free speech \u2013 particularly on college campuses.",
+                "dislikes": " Unavailable",
+                "id": "f5rUPatnXSE",
+                "likes": "39,433 likes",
+                "title": "Jordan Peterson | Political Correctness and Postmodernism",
+                "url": "https://www.youtube.com/watch?v=f5rUPatnXSE",
+                "video_length": 1671.341,
+                "views": "2,405,273 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=AscPHmLWo-M",
+              "title": "Oz Talk: Jordan Peterson\u2019s Rules to Live By",
+              "video": {
+                "ad": null,
+                "comments": "10,974",
+                "content creator": "DoctorOz",
+                "date": "Oct 4, 2018",
+                "description": "FInd out how to live a healthier life with Sharecare!\nVisit https://www.youtube.com/c/SharecareTv\nFor more health and well-being content, make sure to subscribe to Sharecare\u2019s YouTube channel. ",
+                "dislikes": " Unavailable",
+                "id": "AscPHmLWo-M",
+                "likes": "78,782 likes",
+                "title": "Oz Talk: Jordan Peterson\u2019s Rules to Live By",
+                "url": "https://www.youtube.com/watch?v=AscPHmLWo-M",
+                "video_length": 9751.501,
+                "views": "4,907,983 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+              "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+              "video": {
+                "ad": null,
+                "comments": "14,583",
+                "content creator": "OxfordUnion",
+                "date": "Jun 24, 2018",
+                "description": "SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion\nOxford Union on Facebook: https://www.facebook.com/theoxfordunion\nOxford Union on Twitter: @OxfordUnion\nWebsite: ",
+                "dislikes": " Unavailable",
+                "id": "UZMIbo_DxJk",
+                "likes": "102,971 likes",
+                "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                "url": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                "video_length": 4549.861,
+                "views": "8,790,349 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+              "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "abcqanda",
+                "date": "Streamed live on Feb 25, 2019",
+                "description": "Monday, 25 February 2019\n\nJordan Peterson join the live Q&A Panel with Alex Hawke, Terri Butler, Cathryn McGregor and Van Badham. \n\nFor more from Q&A, click here: ",
+                "dislikes": " Unavailable",
+                "id": "TmNSlF7lcaw",
+                "likes": "109,400 likes",
+                "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+                "url": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                "video_length": 4763.181,
+                "views": "9,650,167 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=v6H2HmKDbZA",
+              "title": "Jordan Peterson: From the Barricades of the Culture Wars",
+              "video": {
+                "ad": null,
+                "comments": "11,348",
+                "content creator": "The Aspen Institute",
+                "date": "Jun 27, 2018",
+                "description": "From the Aspen Ideas Festival, recorded Tuesday, June 26, 2018. Jordan Peterson, author of the best-selling 12 Rules for Life: An Antidote to Chaos, may be one of the most famous intellectuals in North America today. He also may be among the most misunderstood. His fans say that he\u2019s saved their lives, and detractors say that he\u2019s the gateway drug to the alt-right. Who is this psychologist-philosopher whom so many of us had never heard of two years ago, and what does he really believe?\n\nFeaturing Jordan Peterson in conversation with Bari Weiss. Hosted in the St. Regis Hotel Ballroom, Aspen, Colorado.",
+                "dislikes": " Unavailable",
+                "id": "v6H2HmKDbZA",
+                "likes": "77,338 likes",
+                "title": "Jordan Peterson: From the Barricades of the Culture Wars",
+                "url": "https://www.youtube.com/watch?v=v6H2HmKDbZA",
+                "video_length": 5522.601,
+                "views": "7,204,890 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=-6DLT9MHO4M",
+          "title": "Professor Richard Wolff: Opposition to Paying for Capitalism's Crisis | The New School",
+          "video": {
+            "ad": null,
+            "comments": "126",
+            "content creator": "The New School",
+            "date": "Apr 2, 2011",
+            "description": "Study non-profit management, urban and environmental policy, human resources, and international affairs at the Milano School of International Affairs, Management, and Urban Policy, a part of The New School in New York City.  | http://www.newschool.edu/milano",
+            "dislikes": " Unavailable",
+            "id": "-6DLT9MHO4M",
+            "likes": "17,980 likes",
+            "title": "Professor Richard Wolff: Opposition to Paying for Capitalism's Crisis | The New School",
+            "url": "https://www.youtube.com/watch?v=-6DLT9MHO4M",
+            "video_length": 7184.481,
+            "views": "4,518,899 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+          "title": "Jordan B. Peterson on 12 Rules for Life",
+          "video": {
+            "ad": null,
+            "comments": "12,988",
+            "content creator": "How To Academy Mindset",
+            "date": "Jan 17, 2018",
+            "description": "Don't forget to Subscribe to our Channel!. \n\nThe clinical psychologist Jordan Peterson sets out twelve profound and practical principles for living a meaningful life. His 12 Rules for Life will offer an antidote to the chaos in our lives: with eternal truths applied to our modern problems.",
+            "dislikes": " Unavailable",
+            "id": "-5RCmu-HuTg",
+            "likes": "208,980 likes",
+            "title": "Jordan B. Peterson on 12 Rules for Life",
+            "url": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+            "video_length": 5432.461,
+            "views": "14,803,386 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6JipQNWuYnA",
+          "title": "Alexander Fridman: My Dad, the Plasma Physicist | Lex Fridman Podcast #100",
+          "video": {
+            "ad": null,
+            "comments": "5,451",
+            "content creator": "Lex Fridman",
+            "date": "Jun 3, 2020",
+            "description": "Alexander Fridman is a professor at Drexel University and the director of the Nyheim Plasma Institute. He is one of the top plasma physicists and plasma chemists in the world. And most importantly to me, he is my dad.\n\nSupport this podcast by supporting our sponsors:\n- The Jordan Harbinger Show: ",
+            "dislikes": " Unavailable",
+            "id": "6JipQNWuYnA",
+            "likes": "51,982 likes",
+            "title": "Alexander Fridman: My Dad, the Plasma Physicist | Lex Fridman Podcast #100",
+            "url": "https://www.youtube.com/watch?v=6JipQNWuYnA",
+            "video_length": 13113,
+            "views": "2,688,663 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0tYm41hb48o",
+          "title": "Does God Exist? William Lane Craig vs. Christopher Hitchens - Full Debate [HD]",
+          "video": {
+            "ad": null,
+            "comments": "92,418",
+            "content creator": "Biola University",
+            "date": "Sep 28, 2014",
+            "description": "On April 4, 2009, William Lane Craig and Christopher Hitchens met at Biola University to debate the question of God\u2019s existence. Craig is one of the world\u2019s foremost Christian apologists. Hitchens, is a leading spokesman for the \u201cnew atheism\u201d movement. \n\nIn front of an overflow crowd and a global internet audience, they debated the origin and design of the universe, the implications of human morality, the deity of Jesus, and the validity of Christ\u2019s resurrection. It was a compelling clash of worldviews and an examination of the major arguments for and against Christianity and atheism.",
+            "dislikes": " Unavailable",
+            "id": "0tYm41hb48o",
+            "likes": "43,348 likes",
+            "title": "Does God Exist? William Lane Craig vs. Christopher Hitchens - Full Debate [HD]",
+            "url": "https://www.youtube.com/watch?v=0tYm41hb48o",
+            "video_length": 8862.941,
+            "views": "5,463,427 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+          "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+          "video": {
+            "ad": null,
+            "comments": "65,468",
+            "content creator": "Skavlan",
+            "date": "Oct 29, 2018",
+            "description": "Watch the complete Skavlan interview with psychologist and professor Jordan B. Peterson.\n\nAlso present in the studio are Swedish politician Annie L\u00f6\u00f6f and Norwegian author Erlend Loe. The show's presenter is Fredrik Skavlan. \n\nMore Skavlan\nTwitter: ",
+            "dislikes": " Unavailable",
+            "id": "_iudkPi4_sY",
+            "likes": "290,945 likes",
+            "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+            "url": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+            "video_length": 2319.741,
+            "views": "23,037,760 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+      "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+      "video": {
+        "ad": null,
+        "comments": "27,726",
+        "content creator": "Fiddy",
+        "date": "Nov 10, 2017",
+        "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+        "dislikes": " Unavailable",
+        "id": "8GvwYOfHXMM",
+        "likes": "165,540 likes",
+        "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+        "url": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+        "video_length": 1037.501,
+        "views": "10,621,558 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kasiov0ytEc",
+      "title": "Genders, Rights and Freedom of Speech",
+      "video": {
+        "ad": null,
+        "comments": "49,650",
+        "content creator": "The Agenda with Steve Paikin",
+        "date": "Oct 26, 2016",
+        "description": "Jordan Peterson, a psychology professor at the University of Toronto, posted a YouTube video criticizing the proposed Bill C-16, which adds gender identity and gender expression to the list of prohibited grounds of discrimination. His video caused concern and sparked conversation. The Agenda convenes a panel to ask: Is the legislation a matter of human rights or a case of legal overreach that threatens freedom of speech?",
+        "dislikes": " Unavailable",
+        "id": "kasiov0ytEc",
+        "likes": "99,638 likes",
+        "title": "Genders, Rights and Freedom of Speech",
+        "url": "https://www.youtube.com/watch?v=kasiov0ytEc",
+        "video_length": 3298.441,
+        "views": "7,474,636 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=bAL6mSJjsS4",
+      "title": "FEMINISM VS LOGIC (OWNED COMPILATION)",
+      "video": {
+        "ad": null,
+        "comments": "4,897",
+        "content creator": "Fiddy",
+        "date": "Aug 8, 2017",
+        "description": "Feminist get debunked and exposed.\n\n2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw",
+        "dislikes": " Unavailable",
+        "id": "bAL6mSJjsS4",
+        "likes": "45,602 likes",
+        "title": "FEMINISM VS LOGIC (OWNED COMPILATION)",
+        "url": "https://www.youtube.com/watch?v=bAL6mSJjsS4",
+        "video_length": 1217.141,
+        "views": "2,002,931 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=dVo0v5yypW0",
+      "title": "YAF SUPERCUT: Best of Ben Shapiro Q&A",
+      "video": {
+        "ad": null,
+        "comments": "8,195",
+        "content creator": "Young America's Foundation",
+        "date": "Premiered Mar 19, 2020",
+        "description": "Through YAF's Fred Allen Lecture Series, The Daily Wire's Ben Shapiro has spread conservative ideas to 50+ campuses throughout the past years. Here are his best moments.\n\nWant to see more of Ben Shapiro and YAF\u2019s all-star speaker team? Sign up to get notified about all of our live events: ",
+        "dislikes": " Unavailable",
+        "id": "dVo0v5yypW0",
+        "likes": "98,266 likes",
+        "title": "YAF SUPERCUT: Best of Ben Shapiro Q&A",
+        "url": "https://www.youtube.com/watch?v=dVo0v5yypW0",
+        "video_length": 1501.681,
+        "views": "4,795,690 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+      "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+      "video": {
+        "ad": null,
+        "comments": "226,571",
+        "content creator": "British GQ",
+        "date": "Oct 30, 2018",
+        "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "yZYQpge1W5s",
+        "likes": "695,930 likes",
+        "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+        "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "video_length": 6133.181,
+        "views": "47,690,068 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+  "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+  "video": {
+    "ad": null,
+    "comments": "41,915",
+    "content creator": "Fiddy",
+    "date": "Oct 15, 2017",
+    "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+    "dislikes": " Unavailable",
+    "id": "5cIvH-iZZfA",
+    "likes": "291,423 likes",
+    "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+    "url": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+    "video_length": 1018.301,
+    "views": "15,005,575 views"
+  }
+}

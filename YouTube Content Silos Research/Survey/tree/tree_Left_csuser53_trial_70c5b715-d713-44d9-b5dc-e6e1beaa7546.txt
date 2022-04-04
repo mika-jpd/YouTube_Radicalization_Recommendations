@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=NViZYL-U8s0",
+                  "sampled_type": "curated",
+                  "title": "Death of the Author 2: Rowling Boogaloo",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=MGn9x4-Y_7A",
+                    "https://www.youtube.com/watch?v=7gDKbT_l2us",
+                    "https://www.youtube.com/watch?v=NViZYL-U8s0&list=RDCMUCG1h-Wqjtwz7uUANw6gazRw&start_radio=1&rv=NViZYL-U8s0",
+                    "https://www.youtube.com/watch?v=hW4U_lfgPac",
+                    "https://www.youtube.com/watch?v=OaO3M-zZR8E",
+                    "https://www.youtube.com/watch?v=8FJEtCvb2Kw",
+                    "https://www.youtube.com/watch?v=uTRUQ-RKfUs",
+                    "https://www.youtube.com/watch?v=AIIWy3TZ1eI",
+                    "https://www.youtube.com/watch?v=H0AGjuuX1q8",
+                    "https://www.youtube.com/watch?v=C7aWz8q_IM4"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "15,266",
+                    "content creator": "Lindsay Ellis",
+                    "date": "Jul 6, 2020",
+                    "description": "I'm so tired.\n\nDeath of the Author:",
+                    "dislikes": " Unavailable",
+                    "id": "NViZYL-U8s0",
+                    "likes": "100,836 likes",
+                    "title": "Death of the Author 2: Rowling Boogaloo",
+                    "url": "https://www.youtube.com/watch?v=NViZYL-U8s0",
+                    "video_length": 1078.401,
+                    "views": "1,919,736 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=hW4U_lfgPac",
+              "sampled_type": "curated",
+              "title": "Is Titanic Good, Actually?",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=1ikqU6G6Xgs",
+                "https://www.youtube.com/watch?v=fVhKn6vmheQ&pp=sAQB",
+                "https://www.youtube.com/watch?v=obZAzGflJxY&pp=sAQB",
+                "https://www.youtube.com/watch?v=hW4U_lfgPac&list=RDCMUCG1h-Wqjtwz7uUANw6gazRw&start_radio=1&rv=hW4U_lfgPac",
+                "https://www.youtube.com/watch?v=NViZYL-U8s0",
+                "https://www.youtube.com/watch?v=ehbgAGlrVKE",
+                "https://www.youtube.com/watch?v=S1xxcKCGljY",
+                "https://www.youtube.com/watch?v=hys_m3BPTS8",
+                "https://www.youtube.com/watch?v=Pfz-_WxGu3Y",
+                "https://www.youtube.com/watch?v=vpUx9DnQUkA"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "10,686",
+                "content creator": "Lindsay Ellis",
+                "date": "Jul 3, 2020",
+                "description": "Thing Good (except Pearl Harbor).\n\nAxiom\u2019s End regular old Pre-order link: http://bit.ly/AxiomsEnd",
+                "dislikes": " Unavailable",
+                "id": "hW4U_lfgPac",
+                "likes": "81,903 likes",
+                "title": "Is Titanic Good, Actually?",
+                "url": "https://www.youtube.com/watch?v=hW4U_lfgPac",
+                "video_length": 2436.861,
+                "views": "1,627,618 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=7gDKbT_l2us",
+          "sampled_type": "curated",
+          "title": "J.K. Rowling | ContraPoints",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=hW4U_lfgPac",
+            "https://www.youtube.com/watch?v=aPhrTOg1RUk",
+            "https://www.youtube.com/watch?v=7gDKbT_l2us&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=7gDKbT_l2us",
+            "https://www.youtube.com/watch?v=xLuNGhQPDHM",
+            "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+            "https://www.youtube.com/watch?v=AqZVl_bdhhQ",
+            "https://www.youtube.com/watch?v=n9mspMJTNEY",
+            "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+            "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+            "https://www.youtube.com/watch?v=rQIwHD_ITIo"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "38,638",
+            "content creator": "ContraPoints",
+            "date": "Jan 26, 2021",
+            "description": "I did not come out of the cupboard under the stairs for this.\nSupport this channel: https://www.patreon.com/contrapoints",
+            "dislikes": " Unavailable",
+            "id": "7gDKbT_l2us",
+            "likes": "248,308 likes",
+            "title": "J.K. Rowling | ContraPoints",
+            "url": "https://www.youtube.com/watch?v=7gDKbT_l2us",
+            "video_length": 5384.861,
+            "views": "4,760,925 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=aPhrTOg1RUk&t=1230s",
+      "sampled_type": "curated",
+      "title": "Envy | ContraPoints",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=7gDKbT_l2us",
+        "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+        "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+        "https://www.youtube.com/watch?v=aPhrTOg1RUk&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=aPhrTOg1RUk",
+        "https://www.youtube.com/watch?v=GNwBlXCepSk",
+        "https://www.youtube.com/watch?v=smQsfNw_7V4",
+        "https://www.youtube.com/watch?v=9bbINLWtMKI",
+        "https://www.youtube.com/watch?v=41B5YonixBs",
+        "https://www.youtube.com/watch?v=1o2fnTNxE_Q",
+        "https://www.youtube.com/watch?v=jbZo4x0NbbI"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "24,362",
+        "content creator": "ContraPoints",
+        "date": "Aug 7, 2021",
+        "description": "Starting at the surface with celebrity gossip, then spiraling into the inferno of the human psyche. Virgil, get me out of here.\n\nSupport this channel: ",
+        "dislikes": " Unavailable",
+        "id": "aPhrTOg1RUk&t",
+        "likes": "207,086 likes",
+        "title": "Envy | ContraPoints",
+        "url": "https://www.youtube.com/watch?v=aPhrTOg1RUk&t=1230s",
+        "video_length": 6495.801,
+        "views": "3,856,029 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+                  "sampled_type": "curated",
+                  "title": "The Bell Curve",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=FtCV421T52s",
+                    "https://www.youtube.com/watch?v=XJTvn_WHiXk",
+                    "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+                    "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+                    "https://www.youtube.com/watch?v=BHW3Y_p2llo",
+                    "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+                    "https://www.youtube.com/watch?v=JsNm2YLrk30",
+                    "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                    "https://www.youtube.com/watch?v=R92f94cVUrg",
+                    "https://www.youtube.com/watch?v=mLJ1gyIzg78"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "19,331",
+                    "content creator": "Shaun",
+                    "date": "Dec 3, 2019",
+                    "description": "I would like to never hear about The Bell Curve ever again.\n\nContact:",
+                    "dislikes": " Unavailable",
+                    "id": "UBc7qBS1Ujo",
+                    "likes": "54,696 likes",
+                    "title": "The Bell Curve",
+                    "url": "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+                    "video_length": 9585.301,
+                    "views": "1,890,073 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=cXZ6BZzQeCQ",
+              "sampled_type": "curated",
+              "title": "What is white supremacy? - A Response to Steven Crowder",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=BQLEW1c-69c",
+                "https://www.youtube.com/watch?v=JZRcYaAYWg4",
+                "https://www.youtube.com/watch?v=Q6FknMOlU_w",
+                "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+                "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+                "https://www.youtube.com/watch?v=a_yfnQPaD_E",
+                "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+                "https://www.youtube.com/watch?v=Xd_nVCWPgiA",
+                "https://www.youtube.com/watch?v=l63nY0AYebI"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "9,015",
+                "content creator": "Shaun",
+                "date": "Jun 20, 2019",
+                "description": "Yep, that's a reference to the Carlos Maza situation at the end, there. YouTube needs to do better.\n\nContent warning: all the racisms. all of them\n\nSpecial thanks to Three Arrows!\n\nSources:\nSteven Crowder's video: ",
+                "dislikes": " Unavailable",
+                "id": "cXZ6BZzQeCQ",
+                "likes": "56,066 likes",
+                "title": "What is white supremacy? - A Response to Steven Crowder",
+                "url": "https://www.youtube.com/watch?v=cXZ6BZzQeCQ",
+                "video_length": 2012.801,
+                "views": "1,304,540 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+          "sampled_type": "curated",
+          "title": "The 1776 Report",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+            "https://www.youtube.com/watch?v=cXZ6BZzQeCQ",
+            "https://www.youtube.com/watch?v=aQTWor_2nu4",
+            "https://www.youtube.com/watch?v=Pp2wbyLoEtM",
+            "https://www.youtube.com/watch?v=5wRDLf54Scs",
+            "https://www.youtube.com/watch?v=QL_YEe7jLVc",
+            "https://www.youtube.com/watch?v=MCTp_kYwz1E",
+            "https://www.youtube.com/watch?v=xjnubfRy8Ws",
+            "https://www.youtube.com/watch?v=HeK36g92zjo",
+            "https://www.youtube.com/watch?v=b9IBlbfjNH0"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "5,885",
+            "content creator": "Shaun",
+            "date": "Mar 21, 2021",
+            "description": "CW: racism\n\ni look at school\n\nLinks:",
+            "dislikes": " Unavailable",
+            "id": "b2d8u2QyvAo",
+            "likes": "40,566 likes",
+            "title": "The 1776 Report",
+            "url": "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+            "video_length": 3437.701,
+            "views": "913,425 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=5wRDLf54Scs",
+      "sampled_type": "curated",
+      "title": "Jimmy Dore's Anti-Vaccine Lies",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=1Jwo5qc78QU",
+        "https://www.youtube.com/watch?v=BQLEW1c-69c",
+        "https://www.youtube.com/watch?v=xPGdOXstSyk",
+        "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+        "https://www.youtube.com/watch?v=2ARX0-AylFI",
+        "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+        "https://www.youtube.com/watch?v=OpLvioS8GbQ",
+        "https://www.youtube.com/watch?v=OJAMO_bLMw8",
+        "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+        "https://www.youtube.com/watch?v=T6HdBplLmuU"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "12,849",
+        "content creator": "Shaun",
+        "date": "Nov 5, 2021",
+        "description": "Content warning: injections, needles, animal testing, blood, all manner of medical stuff\n\nRip to the mice.\n\nSingapore article:",
+        "dislikes": " Unavailable",
+        "id": "5wRDLf54Scs",
+        "likes": "39,848 likes",
+        "title": "Jimmy Dore's Anti-Vaccine Lies",
+        "url": "https://www.youtube.com/watch?v=5wRDLf54Scs",
+        "video_length": 3001.261,
+        "views": "644,155 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=n-PHbg7bx3U",
+                  "sampled_type": "curated",
+                  "title": "Destiny Forces Moderator To Leave In Heated Personal Debate - HIPPY DIPPY CHAMPIONSHIP",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "3,050",
+                    "content creator": "Destiny",
+                    "date": "Nov 27, 2021",
+                    "description": "DEBATE: Destiny forces the moderator to leave by using new cage match rule in a heated and personal debate against ActualJake in DylanBurnsTV's hippy dippy debate championship...\n\nDate: 26 Nov, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+                    "dislikes": " Unavailable",
+                    "id": "n-PHbg7bx3U",
+                    "likes": "7,399 likes",
+                    "title": "Destiny Forces Moderator To Leave In Heated Personal Debate - HIPPY DIPPY CHAMPIONSHIP",
+                    "url": "https://www.youtube.com/watch?v=n-PHbg7bx3U",
+                    "video_length": 11534.361,
+                    "views": "381,422 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=wcgJXhcWt0k",
+              "sampled_type": "curated",
+              "title": "Bob7 Manifesto: Addressing my allegations",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=n-PHbg7bx3U",
+                "https://www.youtube.com/watch?v=GUHHBBI7I50",
+                "https://www.youtube.com/watch?v=Y-yTqBstuds",
+                "https://www.youtube.com/watch?v=wcgJXhcWt0k&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=wcgJXhcWt0k",
+                "https://www.youtube.com/watch?v=HnR2rqsmrhw",
+                "https://www.youtube.com/watch?v=sYCqXrNsPGk",
+                "https://www.youtube.com/watch?v=6UCKF1ZbSME",
+                "https://www.youtube.com/watch?v=dmLSJrA0n9w",
+                "https://www.youtube.com/watch?v=9-UH6VOg4Zo",
+                "https://www.youtube.com/watch?v=A4nU9DMVBL0"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,816",
+                "content creator": "Destiny",
+                "date": "Jan 18, 2021",
+                "description": "Forced into a corner, Destiny responds to Bob7's manifesto and debunks every single claim, drops audio recordings between Bob, Melina, Peach, BigBossBoze and Austin, exposing him, plus a lot more...\n\nFollow Destiny\n\u25baSTREAM - ",
+                "dislikes": " Unavailable",
+                "id": "wcgJXhcWt0k",
+                "likes": "12,606 likes",
+                "title": "Bob7 Manifesto: Addressing my allegations",
+                "url": "https://www.youtube.com/watch?v=wcgJXhcWt0k",
+                "video_length": 12378.901,
+                "views": "502,854 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=7rZ-4uZLpNY",
+          "sampled_type": "curated",
+          "title": "Liberalism vs Islam - Does Liberalism Require Domination of Islam?",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": null,
+            "comments": "467",
+            "content creator": "Destiny",
+            "date": "Jan 16, 2022",
+            "description": "DEBATE: things heat up after a long opening in Destiny's debate against Daniel Haqiqatjou on Liberalism vs Islam...\n\nDate: 15 Jan, 2022\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "7rZ-4uZLpNY",
+            "likes": "909 likes",
+            "title": "Liberalism vs Islam - Does Liberalism Require Domination of Islam?",
+            "url": "https://www.youtube.com/watch?v=7rZ-4uZLpNY",
+            "video_length": 7809.081,
+            "views": "16,985 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=Pde69rK1yQk",
+      "sampled_type": "curated",
+      "title": "Destiny vs Jesse Lee Peterson, Conservative Panel And MAGA Audience | IRL DEBATE",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=7rZ-4uZLpNY",
+        "https://www.youtube.com/watch?v=53ZFo8jpDfI",
+        "https://www.youtube.com/watch?v=dtGovEfzG8U",
+        "https://www.youtube.com/watch?v=8XbT4UojaRw",
+        "https://www.youtube.com/watch?v=F3ZMly9YAPA",
+        "https://www.youtube.com/watch?v=7gDKbT_l2us",
+        "https://www.youtube.com/watch?v=1yPxPKUfjDU",
+        "https://www.youtube.com/watch?v=Ypk37SHCKYE",
+        "https://www.youtube.com/watch?v=B4KYTUNg8lc",
+        "https://www.youtube.com/watch?v=-whUChKd8Kc"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "5,036",
+        "content creator": "Destiny",
+        "date": "Premiered Jun 21, 2021",
+        "description": "DEBATE PANEL: Destiny attends a live Jesse Lee Peterson panel and debates everyone in the room.\n\nMaybe one of Destiny's best live debate panel with horrible audio which I've tried to fix to the best of my ability.\n\nDate: 9 Aug, 2019\n\nFollow Destiny\n\u25baSTREAM - ",
+        "dislikes": " Unavailable",
+        "id": "Pde69rK1yQk",
+        "likes": "7,934 likes",
+        "title": "Destiny vs Jesse Lee Peterson, Conservative Panel And MAGA Audience | IRL DEBATE",
+        "url": "https://www.youtube.com/watch?v=Pde69rK1yQk",
+        "video_length": 7869.881,
+        "views": "316,696 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=Cy-O4myeUzg",
+                  "sampled_type": "curated",
+                  "title": "Mercadeo Multinivel: Last Week Tonight With John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                    "https://www.youtube.com/watch?v=-6DLT9MHO4M",
+                    "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                    "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                    "https://www.youtube.com/watch?v=hnoMsftQPY8",
+                    "https://www.youtube.com/watch?v=8-hahRWhFvg",
+                    "https://www.youtube.com/watch?v=0b_eHBZLM6U",
+                    "https://www.youtube.com/watch?v=QbhzM6vrNho",
+                    "https://www.youtube.com/watch?v=0lTczPEG8iI",
+                    "https://www.youtube.com/watch?v=XEVlyP4_11M"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,655",
+                    "content creator": "LastWeekTonight",
+                    "date": "Nov 7, 2016",
+                    "description": "Las compa\u00f1\u00edas de mercadeo multinivel aclaman ser negocios leg\u00edtimos, pero algunas parecen ser terriblemente... piramidales. John Oliver y Jaime Camil nos demuestran como funcionan. \n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "Cy-O4myeUzg",
+                    "likes": "45,254 likes",
+                    "title": "Mercadeo Multinivel: Last Week Tonight With John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=Cy-O4myeUzg",
+                    "video_length": 1948.681,
+                    "views": "4,368,589 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+              "sampled_type": "curated",
+              "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Cy-O4myeUzg",
+                "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+                "https://www.youtube.com/watch?v=SBGfHk91Vrk",
+                "https://www.youtube.com/watch?v=YKAblynZYhI",
+                "https://www.youtube.com/watch?v=DlJEt2KU33I",
+                "https://www.youtube.com/watch?v=0lTczPEG8iI",
+                "https://www.youtube.com/watch?v=-6DLT9MHO4M",
+                "https://www.youtube.com/watch?v=yw_nqzVfxFQ",
+                "https://www.youtube.com/watch?v=Ezv8sdTLxKo",
+                "https://www.youtube.com/watch?v=mXQuto1fMp4"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "27,040",
+                "content creator": "LastWeekTonight",
+                "date": "Nov 7, 2016",
+                "description": "Multilevel marketing companies claim to be legitimate businesses, but some seem awfully\u2026pyramid shaped. John Oliver and Jaime Camil demonstrate how they work. \n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "s6MwGeOm8iI",
+                "likes": "312,613 likes",
+                "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                "video_length": 1917.681,
+                "views": "31,192,989 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+          "sampled_type": "curated",
+          "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+            "https://www.youtube.com/watch?v=6HZuSzlN2eI",
+            "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I",
+            "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+            "https://www.youtube.com/watch?v=7y1xJAVZxXg",
+            "https://www.youtube.com/watch?v=6UsHHOCH4q8",
+            "https://www.youtube.com/watch?v=0GbPtHA5gYA",
+            "https://www.youtube.com/watch?v=5d667Bb_iYA",
+            "https://www.youtube.com/watch?v=xecEV4dSAXE",
+            "https://www.youtube.com/watch?v=WhMGcp9xIhY"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "58,326",
+            "content creator": "LastWeekTonight",
+            "date": "Oct 9, 2017",
+            "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "J5b_-TZwQ0I",
+            "likes": "342,402 likes",
+            "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+            "video_length": 1298.221,
+            "views": "26,917,715 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=BTgPq26wTuM",
+      "sampled_type": "curated",
+      "title": "Candace Owens Loses Control Of Trump Interview When Donald Goes Pro-Vax",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=-6DLT9MHO4M",
+        "https://www.youtube.com/watch?v=lF5Bb3Mt0rg",
+        "https://www.youtube.com/watch?v=CDn2TiLyME8",
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=_EpeF1fcji0",
+        "https://www.youtube.com/watch?v=t3w5NuUsOq8",
+        "https://www.youtube.com/watch?v=SphWuM-DZHg",
+        "https://www.youtube.com/watch?v=Owu-Sukcpyo",
+        "https://www.youtube.com/watch?v=3s2qAFfpJf4",
+        "https://www.youtube.com/watch?v=fl0x9Swgfgw"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,174",
+        "content creator": "The Majority Report w/ Sam Seder",
+        "date": "Dec 23, 2021",
+        "description": "Candace Owens is forced to change the subject during an interview with Donald Trump because of his stance on vaccines and calling Covid vaccines the greatest scientific achievement of all time. Owens instead pivots to talking about mask mandates among children. The Majority Report crew discusses how ",
+        "dislikes": " Unavailable",
+        "id": "BTgPq26wTuM",
+        "likes": "3,187 likes",
+        "title": "Candace Owens Loses Control Of Trump Interview When Donald Goes Pro-Vax",
+        "url": "https://www.youtube.com/watch?v=BTgPq26wTuM",
+        "video_length": 858.881,
+        "views": "112,857 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+                  "sampled_type": "curated",
+                  "title": "Fake Elector Struggles To Explain Role In Scheme To Submit False Election Papers",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=Wyb9b7mOSNs",
+                    "https://www.youtube.com/watch?v=UWEjxkkB8Xs",
+                    "https://www.youtube.com/watch?v=MKubYEbPL-Y",
+                    "https://www.youtube.com/watch?v=oCqO2oFjWrg",
+                    "https://www.youtube.com/watch?v=xt_HNFI4ckY",
+                    "https://www.youtube.com/watch?v=RpJjpMo3_00",
+                    "https://www.youtube.com/watch?v=ivRyMqHHO58",
+                    "https://www.youtube.com/watch?v=5HVVxlrXclE",
+                    "https://www.youtube.com/watch?v=wq1HGGLWdEA",
+                    "https://www.youtube.com/watch?v=WnSdNOqw40k"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "5,740",
+                    "content creator": "MSNBC",
+                    "date": "Jan 13, 2022",
+                    "description": "Rachel Maddow shares video shot by a KPNX photojournalist of Arizona Republic reporter Richard Ruelas asking Arizona State Representative Jake Hoffman how he came to represent himself as an elector on paperwork that falsely claimed Donald Trump had won Arizona in 2020.\n\u00bb Subscribe to MSNBC: ",
+                    "dislikes": " Unavailable",
+                    "id": "lJx-m6v4bTU",
+                    "likes": "20,177 likes",
+                    "title": "Fake Elector Struggles To Explain Role In Scheme To Submit False Election Papers",
+                    "url": "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+                    "video_length": 232.361,
+                    "views": "837,441 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=0Pwho7C5-OY",
+              "sampled_type": "curated",
+              "title": "Chris Hayes: People Get Indicted For A Lot Less Than What Trump Has Done",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+                "https://www.youtube.com/watch?v=abneI9DL04A",
+                "https://www.youtube.com/watch?v=xdruE5GYDhM",
+                "https://www.youtube.com/watch?v=DxgUAk0NM9k",
+                "https://www.youtube.com/watch?v=t4n3o5NV65c",
+                "https://www.youtube.com/watch?v=sQOAtztz8fc",
+                "https://www.youtube.com/watch?v=LMbnF4TDX5w",
+                "https://www.youtube.com/watch?v=0BZAgT848q0",
+                "https://www.youtube.com/watch?v=XInINzic-h4",
+                "https://www.youtube.com/watch?v=JChkXAN2v9I"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,511",
+                "content creator": "MSNBC",
+                "date": "Jan 14, 2022",
+                "description": "MSNBC's Chris Hayes compares the indictment of Baltimore State's Attorney Marilyn Mosby and the evidence of corruption surrounding Donald Trump.\n\n\u00bb Subscribe to MSNBC: ",
+                "dislikes": " Unavailable",
+                "id": "0Pwho7C5-OY",
+                "likes": "5,315 likes",
+                "title": "Chris Hayes: People Get Indicted For A Lot Less Than What Trump Has Done",
+                "url": "https://www.youtube.com/watch?v=0Pwho7C5-OY",
+                "video_length": 287.221,
+                "views": "202,408 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=xdruE5GYDhM",
+          "sampled_type": "curated",
+          "title": "Chris Hayes: Oath Keepers Were Doing What They Thought Trump Wanted",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=0Pwho7C5-OY",
+            "https://www.youtube.com/watch?v=sKCeqiWA-gQ",
+            "https://www.youtube.com/watch?v=uOBF9qPto4c",
+            "https://www.youtube.com/watch?v=ta3V_kLP4WY",
+            "https://www.youtube.com/watch?v=ARt8ffPROY0",
+            "https://www.youtube.com/watch?v=JFtTTQU-xbw",
+            "https://www.youtube.com/watch?v=QbhzM6vrNho",
+            "https://www.youtube.com/watch?v=FFgt3toKKOI",
+            "https://www.youtube.com/watch?v=wTlCjrHY0DM",
+            "https://www.youtube.com/watch?v=BoiQzmxJ51s"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "2,522",
+            "content creator": "MSNBC",
+            "date": "Jan 14, 2022",
+            "description": "MSNBC's Chris Hayes looks at the charges against the founder of the Oath Keepers and ten others, the events leading up to the Capitol insurrection, and the link between these right-wing extremists and Trump World.\n\n\u00bb Subscribe to MSNBC: ",
+            "dislikes": " Unavailable",
+            "id": "xdruE5GYDhM",
+            "likes": "7,055 likes",
+            "title": "Chris Hayes: Oath Keepers Were Doing What They Thought Trump Wanted",
+            "url": "https://www.youtube.com/watch?v=xdruE5GYDhM",
+            "video_length": 590.381,
+            "views": "308,479 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=9ES9G6brWZw",
+      "sampled_type": "curated",
+      "title": "Breaking Points Brings On Glenn Greenwald, Stupidity Ensues",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=n30zO0ABFqc",
+        "https://www.youtube.com/watch?v=5zZk0NPxiGM",
+        "https://www.youtube.com/watch?v=xdruE5GYDhM",
+        "https://www.youtube.com/watch?v=0wTMAVlwys4",
+        "https://www.youtube.com/watch?v=2G56_mQwyBM",
+        "https://www.youtube.com/watch?v=3BhOA9NHGdQ",
+        "https://www.youtube.com/watch?v=qOzsy6IHNUM",
+        "https://www.youtube.com/watch?v=phbzjSl4JDw",
+        "https://www.youtube.com/watch?v=_BWsF7zEhsY",
+        "https://www.youtube.com/watch?v=5wRDLf54Scs"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,292",
+        "content creator": "Vaush",
+        "date": "Jan 8, 2022",
+        "description": "Krystal, Saagar and the gang are all here!\n\n\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...",
+        "dislikes": " Unavailable",
+        "id": "9ES9G6brWZw",
+        "likes": "4,139 likes",
+        "title": "Breaking Points Brings On Glenn Greenwald, Stupidity Ensues",
+        "url": "https://www.youtube.com/watch?v=9ES9G6brWZw",
+        "video_length": 3214.721,
+        "views": "109,226 views"
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=lHKOsO2WB-Q",
+                  "sampled_type": "opposing",
+                  "title": "Tomi Lahren roasts VP Harris for latest media gaffe",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=U2xNf4cuK3c",
+                    "https://www.youtube.com/watch?v=Z8Ws4PEky28",
+                    "https://www.youtube.com/watch?v=zpkIn0jjeMM",
+                    "https://www.youtube.com/watch?v=lVcTvHTn6Dw",
+                    "https://www.youtube.com/watch?v=i6rFSV1efLc",
+                    "https://www.youtube.com/watch?v=CC_L0_9PM_4",
+                    "https://www.youtube.com/watch?v=lCuw6cCBI7s",
+                    "https://www.youtube.com/watch?v=q-kb6wClzuM",
+                    "https://www.youtube.com/watch?v=xt_HNFI4ckY",
+                    "https://www.youtube.com/watch?v=qk-tJgnhdEo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,068",
+                    "content creator": "Fox News",
+                    "date": "Jan 13, 2022",
+                    "description": "\u2018Outnumbered\u2019 weighs in on Vice President Kamala Harris getting grilled over the Biden administration\u2019s COVID strategy. #FoxNews",
+                    "dislikes": " Unavailable",
+                    "id": "lHKOsO2WB-Q",
+                    "likes": "8,380 likes",
+                    "title": "Tomi Lahren roasts VP Harris for latest media gaffe",
+                    "url": "https://www.youtube.com/watch?v=lHKOsO2WB-Q",
+                    "video_length": 82.401,
+                    "views": "293,178 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=bjiJr3Mn9hc",
+              "sampled_type": "opposing",
+              "title": "Huckabee: I don't think Biden knows what he's saying",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=lHKOsO2WB-Q",
+                "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+                "https://www.youtube.com/watch?v=VBmDMp3d8H8",
+                "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+                "https://www.youtube.com/watch?v=O57AvC8Shzg",
+                "https://www.youtube.com/watch?v=WYoOOKoS084",
+                "https://www.youtube.com/watch?v=EICDA2yzlJE",
+                "https://www.youtube.com/watch?v=-eYeJP5Mc5I",
+                "https://www.youtube.com/watch?v=I6GyM3v_7qw",
+                "https://www.youtube.com/watch?v=xt_HNFI4ckY"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,838",
+                "content creator": "Fox News",
+                "date": "Jan 13, 2022",
+                "description": "Former Arkansas Governor Mike Huckabee weighs in after President Biden delivered a speech on Georgia's election law. #FoxNews",
+                "dislikes": " Unavailable",
+                "id": "bjiJr3Mn9hc",
+                "likes": "8,120 likes",
+                "title": "Huckabee: I don't think Biden knows what he's saying",
+                "url": "https://www.youtube.com/watch?v=bjiJr3Mn9hc",
+                "video_length": 306.901,
+                "views": "216,478 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+          "sampled_type": "opposing",
+          "title": "Tucker: Here's why NPR is collapsing",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=-eYeJP5Mc5I",
+            "https://www.youtube.com/watch?v=VyDQdswNNK8",
+            "https://www.youtube.com/watch?v=huPF3Gid7DE",
+            "https://www.youtube.com/watch?v=U3W84wb5jKo",
+            "https://www.youtube.com/watch?v=T8SKmG-X_vk",
+            "https://www.youtube.com/watch?v=bjiJr3Mn9hc",
+            "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+            "https://www.youtube.com/watch?v=q6i5eMM11G4",
+            "https://www.youtube.com/watch?v=puPUxXVt6QE",
+            "https://www.youtube.com/watch?v=lF5Bb3Mt0rg"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "4,327",
+            "content creator": "Fox News",
+            "date": "Jan 13, 2022",
+            "description": "'Tucker Carlson Tonight' host examines why NPR is losing its listeners. \n#FoxNews #Tucker",
+            "dislikes": " Unavailable",
+            "id": "-VVGyRJHuMY",
+            "likes": "22,940 likes",
+            "title": "Tucker: Here's why NPR is collapsing",
+            "url": "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+            "video_length": 168.601,
+            "views": "505,763 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=JK1cmQ4DTYA",
+      "sampled_type": "opposing",
+      "title": "Microsoft called out for new 'woke' feature",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+        "https://www.youtube.com/watch?v=U3W84wb5jKo",
+        "https://www.youtube.com/watch?v=huPF3Gid7DE",
+        "https://www.youtube.com/watch?v=W3qmShVlaUw",
+        "https://www.youtube.com/watch?v=xu3ux1h_caU",
+        "https://www.youtube.com/watch?v=ueLINWgmsvU",
+        "https://www.youtube.com/watch?v=fVTVVkMYiTg",
+        "https://www.youtube.com/watch?v=CC_L0_9PM_4",
+        "https://www.youtube.com/watch?v=VdkB3u6jzfE",
+        "https://www.youtube.com/watch?v=0MzctOaJZS0"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "2,742",
+        "content creator": "Fox News",
+        "date": "Jan 14, 2022",
+        "description": "Biotech entrepreneur Vivek Ramaswamy on Microsoft Word correcting offensive terms for the woke crowd, including 'mailman' and 'mankind.' #FoxNews",
+        "dislikes": " Unavailable",
+        "id": "JK1cmQ4DTYA",
+        "likes": "9,949 likes",
+        "title": "Microsoft called out for new 'woke' feature",
+        "url": "https://www.youtube.com/watch?v=JK1cmQ4DTYA",
+        "video_length": 260.681,
+        "views": "254,120 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

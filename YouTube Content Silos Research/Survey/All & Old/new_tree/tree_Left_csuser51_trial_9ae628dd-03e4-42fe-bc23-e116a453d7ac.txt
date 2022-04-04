@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=-H30opsrvvs",
+                  "sampled_type": "opposing",
+                  "title": "GTA 5, but if I say \"cop\" then the cops try to kill me",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=VCEQkYXNs1w",
+                    "https://www.youtube.com/watch?v=2bTt-qBgRoI",
+                    "https://www.youtube.com/watch?v=JsYWZSTbEPU",
+                    "https://www.youtube.com/watch?v=vRR4fExHPEs",
+                    "https://www.youtube.com/watch?v=-H30opsrvvs&list=RDCMUClyGlKOhDUooPJFy4v_mqPg&start_radio=1&rv=-H30opsrvvs",
+                    "https://www.youtube.com/watch?v=T6ythDYp8eQ",
+                    "https://www.youtube.com/watch?v=QIacthT6c84",
+                    "https://www.youtube.com/watch?v=G94iqXqoRLA",
+                    "https://www.youtube.com/watch?v=iP_F_k2rtpg",
+                    "https://www.youtube.com/watch?v=v-xNjgNKycs"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "3,249",
+                    "content creator": "DougDoug",
+                    "date": "Dec 2, 2021",
+                    "description": "Never say \"cop\" out loud.\nThis was streamed live on Twitch! https://bit.ly/DougTwitch\nFull stream recording: https://www.youtube.com/watch?v=lr-H9...",
+                    "dislikes": " Unavailable",
+                    "id": "-H30opsrvvs",
+                    "likes": "157,971 likes",
+                    "title": "GTA 5, but if I say \"cop\" then the cops try to kill me",
+                    "url": "https://www.youtube.com/watch?v=-H30opsrvvs",
+                    "video_length": 899.481,
+                    "views": "3,732,033 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=iP_F_k2rtpg",
+              "sampled_type": "opposing",
+              "title": "Adding a Giant Crab to my Game So Netflix doesn't Sue me",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=GWc7QppCPHM",
+                "https://www.youtube.com/watch?v=iP_F_k2rtpg&list=RDCMUCIabPXjvT5BVTxRDPCBBOOQ&start_radio=1&rv=iP_F_k2rtpg",
+                "https://www.youtube.com/watch?v=NWr2VL_w2qw",
+                "https://www.youtube.com/watch?v=zy8vPqOdAqk",
+                "https://www.youtube.com/watch?v=ti06yoP9vhw",
+                "https://www.youtube.com/watch?v=YUcLPuFk9FM",
+                "https://www.youtube.com/watch?v=6fqW3GYAd2c",
+                "https://www.youtube.com/watch?v=K0X5A6aURms",
+                "https://www.youtube.com/watch?v=BCxhQpS5fQ0",
+                "https://www.youtube.com/watch?v=bLwZiriLHaI"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "24,634",
+                "content creator": "Dani",
+                "date": "Jan 14, 2022",
+                "description": "haha netflix please have mercy brrr\n\n\u27a4 Download Crab Game for free - https://store.steampowered.com/app/17...",
+                "dislikes": " Unavailable",
+                "id": "iP_F_k2rtpg",
+                "likes": "290,134 likes",
+                "title": "Adding a Giant Crab to my Game So Netflix doesn't Sue me",
+                "url": "https://www.youtube.com/watch?v=iP_F_k2rtpg",
+                "video_length": 780.821,
+                "views": "3,252,021 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=BCxhQpS5fQ0",
+          "sampled_type": "opposing",
+          "title": "CONNOR: DEVIANT PATH PLAYTHROUGH - Detroit: Become Human",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Afr77al2_JM",
+            "https://www.youtube.com/watch?v=BCxhQpS5fQ0&list=RDCMUCclNsmS7BFU62su5QIPh1tg&start_radio=1&rv=BCxhQpS5fQ0",
+            "https://www.youtube.com/watch?v=lADBHDg-JtA",
+            "https://www.youtube.com/watch?v=RjBpEw5Wehk",
+            "https://www.youtube.com/watch?v=z8XF2TByVbI",
+            "https://www.youtube.com/watch?v=CbUjuwhQPKs",
+            "https://www.youtube.com/watch?v=46PXKzbDLYM",
+            "https://www.youtube.com/watch?v=10mRmGhN3D4",
+            "https://www.youtube.com/watch?v=g2qxWy2XdWk",
+            "https://www.youtube.com/watch?v=ng7NnqeSwz0"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "8,031",
+            "content creator": "BOSSzombie",
+            "date": "Jun 23, 2018",
+            "description": "The story of Clancy Brown and his cyber son.\n\nI'm on tumblr and twitter! Feel free to ask me stuff or submit thingies:",
+            "dislikes": " Unavailable",
+            "id": "BCxhQpS5fQ0",
+            "likes": "85,459 likes",
+            "title": "CONNOR: DEVIANT PATH PLAYTHROUGH - Detroit: Become Human",
+            "url": "https://www.youtube.com/watch?v=BCxhQpS5fQ0",
+            "video_length": 9859.601,
+            "views": "5,783,038 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=3MZX9EqyJuo",
+      "sampled_type": "opposing",
+      "title": "Peter Parker vs Flash - High School Life - The Amazing Spider-Man (2012) Movie CLIP HD",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=SR5MAlJ-51Q",
+        "https://www.youtube.com/watch?v=3MZX9EqyJuo&list=RDCMUClVbhSLxwws-KSsPKz135bw&start_radio=1&rv=3MZX9EqyJuo",
+        "https://www.youtube.com/watch?v=YX7yxdnw_J0",
+        "https://www.youtube.com/watch?v=y_RObDqbF0o",
+        "https://www.youtube.com/watch?v=BCxhQpS5fQ0",
+        "https://www.youtube.com/watch?v=pvJif3-c3H8",
+        "https://www.youtube.com/watch?v=GfGN7bfohms",
+        "https://www.youtube.com/watch?v=nQL896SVVAo",
+        "https://www.youtube.com/watch?v=SWX5IbKlCNg",
+        "https://www.youtube.com/watch?v=Ni0jp4bnKdw"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "8,014",
+        "content creator": "TopMovieClips",
+        "date": "Jan 25, 2019",
+        "description": "Peter Parker's High School Life - Peter Parker vs Flash Thompson - The Amazing Spider-Man (2012) Movie CLIP HD [1080p]\n\nTM & \u00a9 Sony (2012)\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+        "dislikes": " Unavailable",
+        "id": "3MZX9EqyJuo",
+        "likes": "443,238 likes",
+        "title": "Peter Parker vs Flash - High School Life - The Amazing Spider-Man (2012) Movie CLIP HD",
+        "url": "https://www.youtube.com/watch?v=3MZX9EqyJuo",
+        "video_length": 191.501,
+        "views": "47,178,317 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=nQL896SVVAo",
+                  "sampled_type": "random",
+                  "title": "Every Live Action SPIDER-MAN Movie Recapped (Watch Before \u2018No Way Home\u2019)",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,298",
+                    "content creator": "OneTake",
+                    "date": "Dec 12, 2021",
+                    "description": "With Spider-Man: No Way Home upon us, revisit all the previous Spider-Men with this recap, covering the Tobey Maguire, Andrew Garfield, and Tom Holland continuities!\n\nUse the chapter markers below if you want to skip to a particular movie:",
+                    "dislikes": " Unavailable",
+                    "id": "nQL896SVVAo",
+                    "likes": "141,995 likes",
+                    "title": "Every Live Action SPIDER-MAN Movie Recapped (Watch Before \u2018No Way Home\u2019)",
+                    "url": "https://www.youtube.com/watch?v=nQL896SVVAo",
+                    "video_length": 5861.481,
+                    "views": "12,693,940 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+              "sampled_type": "random",
+              "title": "The Pig War - OverSimplified",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=o7HoZ-ZMSiA",
+                "https://www.youtube.com/watch?v=QLq6GEiHqR8&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=QLq6GEiHqR8",
+                "https://www.youtube.com/watch?v=kjyeCdd-dl8",
+                "https://www.youtube.com/watch?v=ATlila3e9dM",
+                "https://www.youtube.com/watch?v=h399G-Wohek",
+                "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+                "https://www.youtube.com/watch?v=cP0bQGrQZlc",
+                "https://www.youtube.com/watch?v=Cln0J87vulU",
+                "https://www.youtube.com/watch?v=hG-FU-wGBKw",
+                "https://www.youtube.com/watch?v=OpLvioS8GbQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "44,276",
+                "content creator": "OverSimplified",
+                "date": "Premiered Dec 6, 2021",
+                "description": "Go to https://nordvpn.com/oversimplified to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee!\n\nMERCH (Plushie and new character pins OUT NOW!) - ",
+                "dislikes": " Unavailable",
+                "id": "QLq6GEiHqR8",
+                "likes": "517,064 likes",
+                "title": "The Pig War - OverSimplified",
+                "url": "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+                "video_length": 2322.521,
+                "views": "10,127,831 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Cln0J87vulU",
+          "sampled_type": "random",
+          "title": "The War of the Bucket - OverSimplified",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+            "https://www.youtube.com/watch?v=26EivpCPHnQ",
+            "https://www.youtube.com/watch?v=ATlila3e9dM",
+            "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+            "https://www.youtube.com/watch?v=AAGIi62-sAU",
+            "https://www.youtube.com/watch?v=VcnSsEVsrf0",
+            "https://www.youtube.com/watch?v=BXpu6tbFCsI",
+            "https://www.youtube.com/watch?v=Cln0J87vulU&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=Cln0J87vulU",
+            "https://www.youtube.com/watch?v=T9aeMccUPY0",
+            "https://www.youtube.com/watch?v=Ozb-hBVQK9c"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "23,383",
+            "content creator": "OverSimplified",
+            "date": "Premiered Sep 21, 2019",
+            "description": "Get Honey for FREE and start saving money today \u25b8 https://joinhoney.com/oversimplified\nHoney has found its 10 million members over a billion dollars in savings on stores like Amazon, eBay, and Domino's. Thanks Honey for sponsoring today\u2019s video!\n\nMany thanks for M. Laser History for helping with the research in this video. Check his channel out here - ",
+            "dislikes": " Unavailable",
+            "id": "Cln0J87vulU",
+            "likes": "396,846 likes",
+            "title": "The War of the Bucket - OverSimplified",
+            "url": "https://www.youtube.com/watch?v=Cln0J87vulU",
+            "video_length": 1120.001,
+            "views": "17,531,638 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8qRZcXIODNU",
+      "sampled_type": "random",
+      "title": "The French Revolution - OverSimplified (Part 1)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=EQmjXM4VK2U",
+        "https://www.youtube.com/watch?v=26EivpCPHnQ",
+        "https://www.youtube.com/watch?v=ewLpXw6uN28",
+        "https://www.youtube.com/watch?v=I79TpDe3t2g",
+        "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+        "https://www.youtube.com/watch?v=_uk_6vfqwTA",
+        "https://www.youtube.com/watch?v=BXpu6tbFCsI",
+        "https://www.youtube.com/watch?v=Cln0J87vulU",
+        "https://www.youtube.com/watch?v=AAGIi62-sAU",
+        "https://www.youtube.com/watch?v=8qRZcXIODNU&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=8qRZcXIODNU"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "29,851",
+        "content creator": "OverSimplified",
+        "date": "Jun 28, 2019",
+        "description": "Get 75% off NordVPN! Only $2.99/mo, plus you get an additional month FREE at:\nhttps://nordvpn.com/oversimplified\nUse codeword: oversimplified\n\nPart 2 - ",
+        "dislikes": " Unavailable",
+        "id": "8qRZcXIODNU",
+        "likes": "442,613 likes",
+        "title": "The French Revolution - OverSimplified (Part 1)",
+        "url": "https://www.youtube.com/watch?v=8qRZcXIODNU",
+        "video_length": 1073.661,
+        "views": "27,693,752 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=92Tl99lW6mI",
+                  "sampled_type": "random",
+                  "title": "Hypixel vs Technoblade",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=pPmo21gkETU",
+                    "https://www.youtube.com/watch?v=0Q5tTb3-Kb0",
+                    "https://www.youtube.com/watch?v=vAACnDkKqFo",
+                    "https://www.youtube.com/watch?v=jCQd6YqTnOk",
+                    "https://www.youtube.com/watch?v=E36HKvFmUEY",
+                    "https://www.youtube.com/watch?v=5MfhpJOkCKc",
+                    "https://www.youtube.com/watch?v=vXibzWAcPrY",
+                    "https://www.youtube.com/watch?v=8TZsICCidC8",
+                    "https://www.youtube.com/watch?v=5qjnDd1rsII",
+                    "https://www.youtube.com/watch?v=nQL896SVVAo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "12,340",
+                    "content creator": "Technoblade",
+                    "date": "Mar 3, 2018",
+                    "description": "sub to LouisDraws he made the awesome techno vs hypixel art in the thumbnail/video: https://www.youtube.com/channel/UC0JG...\n--------------------------------\nHypixel: ",
+                    "dislikes": " Unavailable",
+                    "id": "92Tl99lW6mI",
+                    "likes": "427,899 likes",
+                    "title": "Hypixel vs Technoblade",
+                    "url": "https://www.youtube.com/watch?v=92Tl99lW6mI",
+                    "video_length": 611.321,
+                    "views": "12,276,595 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=6G8OVCEdbIo",
+              "sampled_type": "random",
+              "title": "skeppy tries to troll me but i troll him first",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Pw6b0-Wi_FI",
+                "https://www.youtube.com/watch?v=6G8OVCEdbIo&list=RDCMUCFAiFyGs6oDiF1Nf-rRJpZA&start_radio=1&rv=6G8OVCEdbIo",
+                "https://www.youtube.com/watch?v=ljarqkLfqDQ",
+                "https://www.youtube.com/watch?v=T2mwbXInQCI",
+                "https://www.youtube.com/watch?v=cn0twamefS4",
+                "https://www.youtube.com/watch?v=qNThtgB3A1U",
+                "https://www.youtube.com/watch?v=jCQd6YqTnOk",
+                "https://www.youtube.com/watch?v=61PVs2N61H0",
+                "https://www.youtube.com/watch?v=6D13iNaJFBs",
+                "https://www.youtube.com/watch?v=ptc4GTMkh68"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "22,207",
+                "content creator": "Technoblade",
+                "date": "Jul 19, 2019",
+                "description": "training for minecraft monday week 5 in which everyone except me will be in creative mode\nthumbnail by https://twitter.com/Jaxxattack1000/st...\nsub to skeppy: https://www.youtube.com/channel/UCzMj...",
+                "dislikes": " Unavailable",
+                "id": "6G8OVCEdbIo",
+                "likes": "564,755 likes",
+                "title": "skeppy tries to troll me but i troll him first",
+                "url": "https://www.youtube.com/watch?v=6G8OVCEdbIo",
+                "video_length": 949.861,
+                "views": "23,371,893 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=09CeBwGbCeg",
+          "sampled_type": "random",
+          "title": "Skyblock: Potato War 3 (FINALE)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=5qjnDd1rsII",
+            "https://www.youtube.com/watch?v=09CeBwGbCeg&list=RDCMUCFAiFyGs6oDiF1Nf-rRJpZA&start_radio=1&rv=09CeBwGbCeg",
+            "https://www.youtube.com/watch?v=0PAEqgfAts4",
+            "https://www.youtube.com/watch?v=6G8OVCEdbIo",
+            "https://www.youtube.com/watch?v=g_0Q1uOzunU",
+            "https://www.youtube.com/watch?v=N_dIRLhSNaE",
+            "https://www.youtube.com/watch?v=7qJAoH6ItOc",
+            "https://www.youtube.com/watch?v=lU6sEIGq8qg",
+            "https://www.youtube.com/watch?v=jCQd6YqTnOk",
+            "https://www.youtube.com/watch?v=8RqPs324X28"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "63,787",
+            "content creator": "Technoblade",
+            "date": "Jul 13, 2020",
+            "description": "why did i spend 600 hours on this war. this was a terrible idea\nthumbnail by https://twitter.com/hillmoel/status/1...\n--------------------------------\nsquid kid: ",
+            "dislikes": " Unavailable",
+            "id": "09CeBwGbCeg",
+            "likes": "844,905 likes",
+            "title": "Skyblock: Potato War 3 (FINALE)",
+            "url": "https://www.youtube.com/watch?v=09CeBwGbCeg",
+            "video_length": 1209.441,
+            "views": "22,869,594 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=--DFJ_rOXWo",
+      "sampled_type": "random",
+      "title": "A History Teacher Reacts | Oversimplified - WW2 (Part 1)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=E4OFUSN7O2Q",
+        "https://www.youtube.com/watch?v=32CKIbLTrXQ",
+        "https://www.youtube.com/watch?v=KNSnrBWa1So",
+        "https://www.youtube.com/watch?v=zqGgKycT-Uo",
+        "https://www.youtube.com/watch?v=--DFJ_rOXWo&list=RDCMUCCbJSm-pLHjna1JW9X31N8g&start_radio=1&rv=--DFJ_rOXWo",
+        "https://www.youtube.com/watch?v=u5TfPEWGig8",
+        "https://www.youtube.com/watch?v=B082capa3jI",
+        "https://www.youtube.com/watch?v=5XKd9tfYSv0",
+        "https://www.youtube.com/watch?v=ezQA7HFhOsg",
+        "https://www.youtube.com/watch?v=oI8trlbCbU8"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "3,262",
+        "content creator": "Mr. Terry History",
+        "date": "Jun 10, 2019",
+        "description": "Mr Terry checks out Oversimplified's video - WW2 (Part 1)\n\nBe sure to support the creators by visiting the original video below.",
+        "dislikes": " Unavailable",
+        "id": "--DFJ_rOXWo",
+        "likes": "66,900 likes",
+        "title": "A History Teacher Reacts | Oversimplified - WW2 (Part 1)",
+        "url": "https://www.youtube.com/watch?v=--DFJ_rOXWo",
+        "video_length": 1640.361,
+        "views": "2,492,131 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=fukL7eMzi-g",
+                  "sampled_type": "random",
+                  "title": "FNAF Security Breach Unused Maps, Minigames & MORE | LOST BITS [TetraBitGaming]",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "926",
+                    "content creator": "TetraBitGaming",
+                    "date": "Jan 14, 2022",
+                    "description": "Yo! The Five Nights at Freddy's Security Lost Bits are finally here! Well... at least the first part is! This game has SO much content left unused that I wanted to split this up! So here, we'll be diving into several of FNAF Security Breach's unused maps & minigames, and we'll go over some stuff seen in pre-release trailers that didn't make it into the final game!\n\n\u25ba Support me and get extra perks by becoming a member!: ",
+                    "dislikes": " Unavailable",
+                    "id": "fukL7eMzi-g",
+                    "likes": "17,632 likes",
+                    "title": "FNAF Security Breach Unused Maps, Minigames & MORE | LOST BITS [TetraBitGaming]",
+                    "url": "https://www.youtube.com/watch?v=fukL7eMzi-g",
+                    "video_length": 1546.461,
+                    "views": "416,519 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=AC-80rW9fNY",
+              "sampled_type": "random",
+              "title": "COOLEST THING EVER IN FNAF | Five Nights at Freddy's: Security Breach #4",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=6fqW3GYAd2c",
+                "https://www.youtube.com/watch?v=AC-80rW9fNY&list=RDCMUCYzPXprvl5Y-Sf0g4vX-m6g&start_radio=1&rv=AC-80rW9fNY",
+                "https://www.youtube.com/watch?v=zUd8JfGiCr4",
+                "https://www.youtube.com/watch?v=bB41CXDSO8A",
+                "https://www.youtube.com/watch?v=oeLXkmonTvk",
+                "https://www.youtube.com/watch?v=9t_h3yKntww",
+                "https://www.youtube.com/watch?v=2IEpC76MIK8",
+                "https://www.youtube.com/watch?v=J9BaGUp4BS8",
+                "https://www.youtube.com/watch?v=fukL7eMzi-g",
+                "https://www.youtube.com/watch?v=7bn8hM9k0b0"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "5,126",
+                "content creator": "jacksepticeye",
+                "date": "Jan 14, 2022",
+                "description": "This might just be the coolest thing any FNAF game has ever done. I mean it, I'm not foolies right now. This is so mind blowing that you will wonder \"How do games ever get better than this again?\" The answer? They don't!\n\nTwitter : ",
+                "dislikes": " Unavailable",
+                "id": "AC-80rW9fNY",
+                "likes": "81,019 likes",
+                "title": "COOLEST THING EVER IN FNAF | Five Nights at Freddy's: Security Breach #4",
+                "url": "https://www.youtube.com/watch?v=AC-80rW9fNY",
+                "video_length": 3201.021,
+                "views": "1,526,467 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=zUd8JfGiCr4",
+          "sampled_type": "random",
+          "title": "SOMEONE IS WATCHING ME THROUGH THE WINDOW",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=m7xvUwGUqt0",
+            "https://www.youtube.com/watch?v=zUd8JfGiCr4&list=RDCMUCYzPXprvl5Y-Sf0g4vX-m6g&start_radio=1&rv=zUd8JfGiCr4",
+            "https://www.youtube.com/watch?v=rwBj2RA6eVQ",
+            "https://www.youtube.com/watch?v=AC-80rW9fNY",
+            "https://www.youtube.com/watch?v=xDL5ZCqu1OU",
+            "https://www.youtube.com/watch?v=Ty0z2--atro",
+            "https://www.youtube.com/watch?v=kiWb4_eeckQ",
+            "https://www.youtube.com/watch?v=-IjsRrraOQA",
+            "https://www.youtube.com/watch?v=iP_F_k2rtpg",
+            "https://www.youtube.com/watch?v=dmtgvYkHuM4"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "8,950",
+            "content creator": "jacksepticeye",
+            "date": "Jan 13, 2022",
+            "description": "Stuck in an unknown place all alone...\n\nTwitter : https://twitter.com/Jacksepticeye",
+            "dislikes": " Unavailable",
+            "id": "zUd8JfGiCr4",
+            "likes": "161,108 likes",
+            "title": "SOMEONE IS WATCHING ME THROUGH THE WINDOW",
+            "url": "https://www.youtube.com/watch?v=zUd8JfGiCr4",
+            "video_length": 2849.381,
+            "views": "2,823,084 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=d2sVk3ughFo",
+      "sampled_type": "random",
+      "title": "EXTREME HIDE N' SEEK and it was HILARIOUS!!! (Gorilla Tag VR)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=ru5Q34_zFn4",
+        "https://www.youtube.com/watch?v=iP_F_k2rtpg",
+        "https://www.youtube.com/watch?v=8Mr4a84prMc",
+        "https://www.youtube.com/watch?v=p1FuZVjVQ-4",
+        "https://www.youtube.com/watch?v=6688hIwpODY",
+        "https://www.youtube.com/watch?v=chipNahLS6Y",
+        "https://www.youtube.com/watch?v=zUd8JfGiCr4",
+        "https://www.youtube.com/watch?v=nR9UfOueJPU",
+        "https://www.youtube.com/watch?v=WmAiPCp5osI",
+        "https://www.youtube.com/watch?v=4wQFc_iU0ec"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "23",
+        "content creator": "Iceey_0",
+        "date": "Jan 15, 2022",
+        "description": "I played Hide n' Seek in Gorilla Tag VR and it was so funny!!! I hope you guys enjoy and make sure to get your stickers down below! Please Subscribe and like the video.\n-----------------------------------------------------\nBUT MY MERCH!",
+        "dislikes": " Unavailable",
+        "id": "d2sVk3ughFo",
+        "likes": "87 likes",
+        "title": "EXTREME HIDE N' SEEK and it was HILARIOUS!!! (Gorilla Tag VR)",
+        "url": "https://www.youtube.com/watch?v=d2sVk3ughFo",
+        "video_length": 324.301,
+        "views": "1,736 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=qmebxS8uQFk",
+                  "sampled_type": "opposing",
+                  "title": "The Mexican American Border | Manifest Destinies",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "https://www.youtube.com/watch?v=7rIJNT7dCmE"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,482",
+                    "content creator": "Kraut",
+                    "date": "Premiered Apr 17, 2021",
+                    "description": "Go to https://Surfshark.deals/kraut and use code KRAUT to get 83% off a 2-year plan and 3 extra months for free!\n\nYou can check out the features of SurfShark VPN here: ",
+                    "dislikes": " Unavailable",
+                    "id": "qmebxS8uQFk",
+                    "likes": "27,627 likes",
+                    "title": "The Mexican American Border | Manifest Destinies",
+                    "url": "https://www.youtube.com/watch?v=qmebxS8uQFk",
+                    "video_length": 4079.821,
+                    "views": "549,661 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Uek04Jw15kY",
+              "sampled_type": "opposing",
+              "title": "The Mexican American Border | From War to Wall",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "https://www.youtube.com/watch?v=qmebxS8uQFk"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "3,333",
+                "content creator": "Kraut",
+                "date": "Premiered Jun 24, 2021",
+                "description": "Go to https://Surfshark.deals/kraut and use code KRAUT to get 83% off a 2-year plan and 3 extra months for free!\n\nYou can check out the features of SurfShark VPN here: ",
+                "dislikes": " Unavailable",
+                "id": "Uek04Jw15kY",
+                "likes": "28,017 likes",
+                "title": "The Mexican American Border | From War to Wall",
+                "url": "https://www.youtube.com/watch?v=Uek04Jw15kY",
+                "video_length": 7397.301,
+                "views": "597,826 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=b1reY72ktEc",
+          "sampled_type": "opposing",
+          "title": "The Russian Revolution - OverSimplified (Part 2)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=G3yUEAJMd-k",
+            "https://www.youtube.com/watch?v=b1reY72ktEc&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=b1reY72ktEc",
+            "https://www.youtube.com/watch?v=BiDvLshi9CY",
+            "https://www.youtube.com/watch?v=G-KHaJQxBs0",
+            "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+            "https://www.youtube.com/watch?v=nh-ZMvS3Vpw",
+            "https://www.youtube.com/watch?v=KQtd2NzZWPo",
+            "https://www.youtube.com/watch?v=ATlila3e9dM",
+            "https://www.youtube.com/watch?v=HePvLYiZVko",
+            "https://www.youtube.com/watch?v=BsgkGQA9U8s"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "23,576",
+            "content creator": "OverSimplified",
+            "date": "Premiered Aug 17, 2020",
+            "description": "Join me in Rise of Kingdoms today: https://bit.ly/OverSimplified_ROK\nUse code ConquerROK to treat yourself with 500 Gems\nThanks to Lilith Games for making this video happen!\n\nMERCH (Russian Revolution merch OUT NOW!) - ",
+            "dislikes": " Unavailable",
+            "id": "b1reY72ktEc",
+            "likes": "361,384 likes",
+            "title": "The Russian Revolution - OverSimplified (Part 2)",
+            "url": "https://www.youtube.com/watch?v=b1reY72ktEc",
+            "video_length": 1461.241,
+            "views": "16,694,720 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=BiDvLshi9CY",
+      "sampled_type": "opposing",
+      "title": "The Falklands - MiniWars #1",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=AAGIi62-sAU",
+        "https://www.youtube.com/watch?v=BiDvLshi9CY&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=BiDvLshi9CY",
+        "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+        "https://www.youtube.com/watch?v=W12vb_Crf00",
+        "https://www.youtube.com/watch?v=BXpu6tbFCsI",
+        "https://www.youtube.com/watch?v=26EivpCPHnQ",
+        "https://www.youtube.com/watch?v=QYPM6xshI50",
+        "https://www.youtube.com/watch?v=xb7j0db765M",
+        "https://www.youtube.com/watch?v=zqllxbPWKNI",
+        "https://www.youtube.com/watch?v=mY3SEMTROas"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "29,163",
+        "content creator": "OverSimplified",
+        "date": "Oct 22, 2017",
+        "description": "MERCH: oversimplified.tv/merch\n\nSupport us on Patreon (please):",
+        "dislikes": " Unavailable",
+        "id": "BiDvLshi9CY",
+        "likes": "307,434 likes",
+        "title": "The Falklands - MiniWars #1",
+        "url": "https://www.youtube.com/watch?v=BiDvLshi9CY",
+        "video_length": 448.981,
+        "views": "19,952,117 views"
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=f8ZqBLcIvw0",
+                  "sampled_type": "opposing",
+                  "title": "The Origins of Russian Authoritarianism",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "3,476",
+                    "content creator": "Kraut",
+                    "date": "Aug 20, 2021",
+                    "description": "Head to https://keeps.com/kraut to get 50% off your first order of hair loss treatment!\nThanks to Keeps for sponsoring this video.\n\nWhy has there never been a consistently functioning Russian democracy? No functioning system of public accountability? Why is Russia so incredibly corrupt? Why is it that Russia seems to have spent almost the entirety of its history as an authoritarian state? In this video, I will explain to you the political developments that over the course of centuries came to shape the authoritarian Russian state.\n\nHere is a link to my Odysee, many thanks to them for this opportunity: \n\n\u25baYou can support my channel on Patreon here: ",
+                    "dislikes": " Unavailable",
+                    "id": "f8ZqBLcIvw0",
+                    "likes": "36,881 likes",
+                    "title": "The Origins of Russian Authoritarianism",
+                    "url": "https://www.youtube.com/watch?v=f8ZqBLcIvw0",
+                    "video_length": 1335.021,
+                    "views": "561,088 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=SPs6tjXsf7M",
+              "sampled_type": "opposing",
+              "title": "The Mexican American Border | A Tale of two Colonies",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=9XBxMk_plhA",
+                "https://www.youtube.com/watch?v=qmebxS8uQFk",
+                "https://www.youtube.com/watch?v=Uek04Jw15kY",
+                "https://www.youtube.com/watch?v=7rIJNT7dCmE",
+                "https://www.youtube.com/watch?v=BDFCVOB-RLU",
+                "https://www.youtube.com/watch?v=Qh9KBwqGxTI",
+                "https://www.youtube.com/watch?v=eNMmSkE8ua4",
+                "https://www.youtube.com/watch?v=_HkY7qUqYjI",
+                "https://www.youtube.com/watch?v=XgjiJHV8P0w",
+                "https://www.youtube.com/watch?v=R9OHn5ZF4Uo"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,957",
+                "content creator": "Kraut",
+                "date": "Premiered Dec 30, 2020",
+                "description": "Why is Mexico so different from the United States? Why is one country poorer than the other?   In this video, the first of a 3 part series, I would like to take you on a journey through the socio-economic developments that took place in two countries throughout their recent 400 years of history and compare them.\n\nI feel obliged, first and foremost, to thank a group of artists, who chimed in to help finish the video sooner. A significant amount of the donations and patreon support for this video will go to them.\n\nHow can you Support this channel?\n\n\n\u25baYou can support my channel on Patreon here: ",
+                "dislikes": " Unavailable",
+                "id": "SPs6tjXsf7M",
+                "likes": "50,403 likes",
+                "title": "The Mexican American Border | A Tale of two Colonies",
+                "url": "https://www.youtube.com/watch?v=SPs6tjXsf7M",
+                "video_length": 3977.941,
+                "views": "1,030,264 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=XgjiJHV8P0w",
+          "sampled_type": "opposing",
+          "title": "The Turkish Century | From Hittites to Atat\u00fcrk",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=91OmO2YMiDM",
+            "https://www.youtube.com/watch?v=SPs6tjXsf7M",
+            "https://www.youtube.com/watch?v=eNMmSkE8ua4",
+            "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+            "https://www.youtube.com/watch?v=zvt_jAy5DjA",
+            "https://www.youtube.com/watch?v=tiGMX6-7VFE",
+            "https://www.youtube.com/watch?v=bzatw32j-i4",
+            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+            "https://www.youtube.com/watch?v=gHQPvUk6nFY",
+            "https://www.youtube.com/watch?v=GG0LY8OLBG8"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "9,262",
+            "content creator": "Kraut",
+            "date": "Premiered Mar 26, 2020",
+            "description": "From the first to work with bronze in the Anatolian plains to nomadic horsemen fighting with Chinese kingdoms, to the conquerors of Iran, to the heirs of Rome, to the mightiest power in the hemisphere, through a century of turmoil, to a revolution with radical vision and the republic it birthed. \nThis is the first part of one of the greatest stories in our history books. The story of Turkey.\n\n\u25baYou can support my channel on Patreon here: ",
+            "dislikes": " Unavailable",
+            "id": "XgjiJHV8P0w",
+            "likes": "51,744 likes",
+            "title": "The Turkish Century | From Hittites to Atat\u00fcrk",
+            "url": "https://www.youtube.com/watch?v=XgjiJHV8P0w",
+            "video_length": 6403.221,
+            "views": "1,702,255 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=1kJf4krMY4A",
+      "sampled_type": "opposing",
+      "title": "India & Pakistan - A continuing Story",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+        "https://www.youtube.com/watch?v=XgjiJHV8P0w",
+        "https://www.youtube.com/watch?v=hhMAt3BluAU",
+        "https://www.youtube.com/watch?v=1Uk5bY22RSE",
+        "https://www.youtube.com/watch?v=VM_fzaWAybw",
+        "https://www.youtube.com/watch?v=zUd8JfGiCr4",
+        "https://www.youtube.com/watch?v=uhXFgKEkwbU",
+        "https://www.youtube.com/watch?v=Uek04Jw15kY",
+        "https://www.youtube.com/watch?v=WL9FnYX5wDg",
+        "https://www.youtube.com/watch?v=FxZXCxixEOI"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "10,981",
+        "content creator": "Kraut",
+        "date": "Premiered Dec 30, 2019",
+        "description": "My sincere apologies for keeping you waiting for a month with this video. It was supposed to only be 12 minutes long, but I got lost in the research and the scope and size of this topic, so I ended up making an almost one-hour long video. And still... I think this video doesn't contain enough information.\nThe Topic is India and Pakistan, their conflicts for independence and the historical background of such. As well as the conflicts that resulted out of independence. An overview of the Indian republic and the Islamic Republic of Pakistan. As well as a brief intermission on Bangladesh and the geopolitics surrounding Sri Lanka. I hope you enjoyed the video. Don't forget to support the channel. And as said in the video, here is a bibliography:\n\nHermann Kulke - A History of India, 1998\n\nFr\u00e9d\u00e9ric Landy - Dictionnaire de l'Inde contemporaine, 2010 (many thanks to the French subscriber who provided translations and information)\n\nLaurent Gayer - Karachi: Ordered Disorder and the Struggle for the City, 2014\n\nLaurent Gayer - Armed Militias of South Asia: Fundamentalists, Maoists and Separatists, 2008\n\n\n\u25baYou can support my channel on Patreon here: ",
+        "dislikes": " Unavailable",
+        "id": "1kJf4krMY4A",
+        "likes": "51,138 likes",
+        "title": "India & Pakistan - A continuing Story",
+        "url": "https://www.youtube.com/watch?v=1kJf4krMY4A",
+        "video_length": 2878.621,
+        "views": "1,379,082 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

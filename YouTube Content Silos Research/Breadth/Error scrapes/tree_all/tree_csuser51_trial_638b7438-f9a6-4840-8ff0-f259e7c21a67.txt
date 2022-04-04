@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=lj7QRP37Wn0",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=gIU09F8jdwc",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=LvfK1kZbqEA",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=PGvU_4-5fBk",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=WXuK6gekU1Y",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=BinwuzZVjnE",
+                          "title": "The Rolling Stones - Anybody Seen My Baby - OFFICIAL PROMO",
+                          "video": {
+                            "ad": null,
+                            "comments": "7,354",
+                            "content creator": "The Rolling Stones",
+                            "date": "May 8, 2012",
+                            "description": "Welcome to Goats Head Soup 2020. Featuring three unheard tracks, sitting alongside an all-new stereo mix of the original 1973 album, plus demos, outtakes, live performances & more.\n\nOrder here including deluxe 4CD & 4LP boxsets:\nOfficial store: ",
+                            "dislikes": " Unavailable",
+                            "id": "BinwuzZVjnE",
+                            "likes": "325,165 likes",
+                            "title": "The Rolling Stones - Anybody Seen My Baby - OFFICIAL PROMO",
+                            "url": "https://www.youtube.com/watch?v=BinwuzZVjnE",
+                            "video_length": 268,
+                            "views": "61,446,506 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=z3Or7huOK7o&list=RDz3Or7huOK7o&start_radio=1&rv=z3Or7huOK7o",
+                          "title": "Muddy Waters & The Rolling Stones - Baby Please Don't Go - Live At Checkerboard Lounge",
+                          "video": {
+                            "ad": null,
+                            "comments": "4,762",
+                            "content creator": "The Rolling Stones",
+                            "date": "Jul 2, 2012",
+                            "description": "Welcome to Goats Head Soup 2020. Featuring three unheard tracks, sitting alongside an all-new stereo mix of the original 1973 album, plus demos, outtakes, live performances & more.\n\nOrder here including deluxe 4CD & 4LP boxsets:\nOfficial store: ",
+                            "dislikes": " Unavailable",
+                            "id": "z3Or7huOK7o&list",
+                            "likes": "116,532 likes",
+                            "title": "Muddy Waters & The Rolling Stones - Baby Please Don't Go - Live At Checkerboard Lounge",
+                            "url": "https://www.youtube.com/watch?v=z3Or7huOK7o&list=RDz3Or7huOK7o&start_radio=1&rv=z3Or7huOK7o",
+                            "video_length": 655,
+                            "views": "16,234,758 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=jTf0-bEaAFQ",
+                          "title": "Broke - 2009 - Documentary on Canadian Pawn Shop A1 Trading",
+                          "video": {
+                            "ad": null,
+                            "comments": "5,286",
+                            "content creator": "Cideart",
+                            "date": "Sep 12, 2018",
+                            "description": "Broke. 2009 Edmonton, Alberta Canadian Documentary on a Local Pawn Shop Legend called A1 Trading. #Documentary",
+                            "dislikes": " Unavailable",
+                            "id": "jTf0-bEaAFQ",
+                            "likes": "10,745 likes",
+                            "title": "Broke - 2009 - Documentary on Canadian Pawn Shop A1 Trading",
+                            "url": "https://www.youtube.com/watch?v=jTf0-bEaAFQ",
+                            "video_length": 4659.041,
+                            "views": "872,882 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=yYcyacLRPNs&list=RDCLAK5uy_mfut9V_o1n9nVG_m5yZ3ztCif29AHUffI&start_radio=1&rv=z3Or7huOK7o",
+                          "title": "Elton John - Tiny Dancer (Official Music Video)",
+                          "video": {
+                            "ad": null,
+                            "comments": "14,286",
+                            "content creator": "Elton John",
+                            "date": "May 22, 2017",
+                            "description": "Building on Elton John and Bernie Taupin\u2019s Californian inspiration, Max Weiland filmed a video for \u201cTiny Dancer\u201d that reflects on life in Los Angeles from a dozen different perspectives. The Cut, proudly supported by YouTube, invited filmmakers to create the first official music videos for three of Elton\u2019s most famous songs: ",
+                            "dislikes": " Unavailable",
+                            "id": "yYcyacLRPNs&list",
+                            "likes": "462,615 likes",
+                            "title": "Elton John - Tiny Dancer (Official Music Video)",
+                            "url": "https://www.youtube.com/watch?v=yYcyacLRPNs&list=RDCLAK5uy_mfut9V_o1n9nVG_m5yZ3ztCif29AHUffI&start_radio=1&rv=z3Or7huOK7o",
+                            "video_length": 406.161,
+                            "views": "99,448,532 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=NSkoGTrYiG0",
+                          "title": "The Case of Col. Russell Williams - Full Interrogation Analysis - Police vs Military (JCS Inspired)",
+                          "video": {
+                            "ad": null,
+                            "comments": "8,367",
+                            "content creator": "Lethal Secrets",
+                            "date": "Mar 23, 2021",
+                            "description": "The Case of Russell Williams done in a JCS style format. I hope you enjoy it! \n\nSummary:\n\nThe tragic events surrounding Colonel Russell Williams stunned all Canadians and none more so than the members of the Canadian Forces.\n\nIn October of 2009, Russell Williams was a 46-year-old commander of the largest and highest functioning air force base in Canada. Williams was a model military man and highly respected by his peers. \n\nHe had been described as an elite pilot over the course of his 23-year career. He had flown Queen Elizabeth, the Duke of Edinburgh, the Governor General of Canada, the Prime Minister of Canada, and many other dignitaries in the Canadian Forces VIP aircraft.\n\nHe seemed to be the perfect example of a military leader, but something sinister and deadly was lurking deep within him. In October of 2010, he pleaded guilty to two counts of first-degree murder, two counts of sexual assault and confinement, and 82 other counts of break and enter, and theft. \n\nWhen that news came out, it made the headlines across Canada and around the world for months; a man that Canada had placed in a senior position of trust and authority turned out to have a dark secret life as a deviant killer. \n\nOn February 7, 2010, Williams was asked to be present at the Ottawa Police Service headquarters.\n\nEven 10 years after the interrogation took place at the Ottawa police headquarters, the Russell Williams interrogation video still packs a massive punch. It captures a vividly emotional and intellectual game of cat and mouse between a seasoned investigator and a powerful yet terrifying man who is slowly realizing that his game is up, and there is no room to maneuver.\n\nCredits:\n\nMusic:\nLemmino",
+                            "dislikes": " Unavailable",
+                            "id": "NSkoGTrYiG0",
+                            "likes": "47,264 likes",
+                            "title": "The Case of Col. Russell Williams - Full Interrogation Analysis - Police vs Military (JCS Inspired)",
+                            "url": "https://www.youtube.com/watch?v=NSkoGTrYiG0",
+                            "video_length": 4503.001,
+                            "views": "2,440,907 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=lSzICmwmRsA",
+                      "title": "Gregory Porter performs It's Probably Me at the Polar Music Prize Ceremony 2017",
+                      "video": {
+                        "ad": null,
+                        "comments": "10,460",
+                        "content creator": "Polar Music Prize",
+                        "date": "Jun 22, 2017",
+                        "description": "It\u2019s Probably Me\n(Gordon Sumner, Eric Clapton, Michael Kamen)\n\nPerformed by Gregory Porter, The Royal Stockholm Philharmonic Orchestra conducted by Hans Ek and the Polar Music Prize band at the Polar Music Prize Ceremony 2017\n\u00a9 Polar Music Prize\n\nFor Licensing Inquiries, please email: licensing@polarmusicprize.org\n\nConnect with the Polar Music Prize: \nWebsite: ",
+                        "dislikes": " Unavailable",
+                        "id": "lSzICmwmRsA",
+                        "likes": "224,130 likes",
+                        "title": "Gregory Porter performs It's Probably Me at the Polar Music Prize Ceremony 2017",
+                        "url": "https://www.youtube.com/watch?v=lSzICmwmRsA",
+                        "video_length": 327.901,
+                        "views": "35,458,195 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=s_paZpQvca0",
+                      "title": "Leon Bridges - River (Live on Austin City Limits)",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,909",
+                        "content creator": "Leon Bridges",
+                        "date": "Feb 12, 2016",
+                        "description": "\"River\" by Leon Bridges from Live on Austin City Limits\nListen to Leon Bridges: https://LeonBridges.lnk.to/listenYD",
+                        "dislikes": " Unavailable",
+                        "id": "s_paZpQvca0",
+                        "likes": "97,393 likes",
+                        "title": "Leon Bridges - River (Live on Austin City Limits)",
+                        "url": "https://www.youtube.com/watch?v=s_paZpQvca0",
+                        "video_length": 262.781,
+                        "views": "6,994,067 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tozhe0yTAqo",
+                      "title": "Cuba Feliz - Lagrimas Negras (Lyric added)",
+                      "video": {
+                        "ad": null,
+                        "comments": "16,123",
+                        "content creator": "hapataat",
+                        "date": "Dec 12, 2007",
+                        "description": "A scene from the musical-documentary movie \"Cuba Feliz\", directed by Karim Dridi.\n\nKarim Dridi's youtube channel:",
+                        "dislikes": " Unavailable",
+                        "id": "tozhe0yTAqo",
+                        "likes": "350,520 likes",
+                        "title": "Cuba Feliz - Lagrimas Negras (Lyric added)",
+                        "url": "https://www.youtube.com/watch?v=tozhe0yTAqo",
+                        "video_length": 319,
+                        "views": "39,545,726 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=q7RhqX2t9A4",
+                      "title": "John Fogerty & ZZ Top - Blues & Bayous Tour In-Studio Jam Session",
+                      "video": {
+                        "ad": null,
+                        "comments": "2,814",
+                        "content creator": "John Fogerty",
+                        "date": "May 22, 2018",
+                        "description": "Legendary rock musician\u2019s and cultural icon\u2019s John Fogerty of Creedence Clearwater Revival and ZZ Top come together for the \u201cBlues and Bayous Tour\u201d in spring of 2018.  The tour, which opens on May 25th ,  will make stops across the USA from the East Coast to the West.\n\nOf the pairing, Fogerty said, \u201cZZ Top is one of my favorite bands, and Billy F Gibbons is one of my all-time favorite guitarists. Riffs, blues and bayous... bucket list!\u201d\n\n----\n\nWelcome to the official YouTube page of legendary musician John Fogerty of Creedence Clearwater Revival. \n\nSome songs you might recognize from John's historical career are 'Proud Mary,' 'Fortunate Son,' 'Down on the Corner,' 'Centerfield,' and tons more! \n\nAlthough in his 70s, John shows no signs of slowing down, creating new music and continuing to tour the world, so be sure to tune in, subscribe, and keep on the pulse of all things John Fogerty. \n\nFor more on John, make sure to follow him across social media at the links below. ",
+                        "dislikes": " Unavailable",
+                        "id": "q7RhqX2t9A4",
+                        "likes": "145,090 likes",
+                        "title": "John Fogerty & ZZ Top - Blues & Bayous Tour In-Studio Jam Session",
+                        "url": "https://www.youtube.com/watch?v=q7RhqX2t9A4",
+                        "video_length": 389,
+                        "views": "13,668,474 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=z3Or7huOK7o",
+                      "title": "Muddy Waters & The Rolling Stones - Baby Please Don't Go - Live At Checkerboard Lounge",
+                      "video": {
+                        "ad": null,
+                        "comments": "4,762",
+                        "content creator": "The Rolling Stones",
+                        "date": "Jul 2, 2012",
+                        "description": "Welcome to Goats Head Soup 2020. Featuring three unheard tracks, sitting alongside an all-new stereo mix of the original 1973 album, plus demos, outtakes, live performances & more.\n\nOrder here including deluxe 4CD & 4LP boxsets:\nOfficial store: ",
+                        "dislikes": " Unavailable",
+                        "id": "z3Or7huOK7o",
+                        "likes": "116,532 likes",
+                        "title": "Muddy Waters & The Rolling Stones - Baby Please Don't Go - Live At Checkerboard Lounge",
+                        "url": "https://www.youtube.com/watch?v=z3Or7huOK7o",
+                        "video_length": 655.301,
+                        "views": "16,234,638 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=8U32CSdIe9U",
+                  "title": "Kathryn Harris interviewed as Harriet Tubman",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,107",
+                    "content creator": "Abraham Lincoln Presidential Library and Museum",
+                    "date": "Mar 8, 2016",
+                    "description": "For a complete interview with Kathryn Harris including transcripts, an abstract, and donated photos see the Abraham Lincoln Presidential Library Oral History Website at: http://goo.gl/XJD6lW",
+                    "dislikes": " Unavailable",
+                    "id": "8U32CSdIe9U",
+                    "likes": "12,432 likes",
+                    "title": "Kathryn Harris interviewed as Harriet Tubman",
+                    "url": "https://www.youtube.com/watch?v=8U32CSdIe9U",
+                    "video_length": 6267,
+                    "views": "1,451,785 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Hlm0Qd4mP-I",
+                  "title": "(ORIGINAL) ALIVE INSIDE clip of HENRY",
+                  "video": {
+                    "ad": null,
+                    "comments": "34",
+                    "content creator": "Alive Inside Foundation",
+                    "date": "Jul 3, 2012",
+                    "description": "This is the clip that 7 million people have seen, the clip that is helping change the lives for over a million residents in nursing homes! Thank you everyone!\n\nHelp us get the word out- help us pay for the finishing of the film! 18 days to go on our Kickstarter- ",
+                    "dislikes": " Unavailable",
+                    "id": "Hlm0Qd4mP-I",
+                    "likes": "499 likes",
+                    "title": "(ORIGINAL) ALIVE INSIDE clip of HENRY",
+                    "url": "https://www.youtube.com/watch?v=Hlm0Qd4mP-I",
+                    "video_length": 405,
+                    "views": "76,446 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=vfNZrlXMJrs",
+                  "title": "Born Too White: What It's Like To Have Albinism in Tanzania | Full Documentary | Reel Truth",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,300",
+                    "content creator": "All Documentary",
+                    "date": "Aug 24, 2018",
+                    "description": "Oscar Duke, an NHS doctor with albinism heads to Tanzania and Malawi to discover what life is like for other people with the same genetic condition. Whilst in East Africa, Oscar explores the reasons why albino people are vulnerable to attack in these countries as well as interview some of the people who hold prejudiced views towards albinism.\n\nSubscribe here for more full length documentaries: ",
+                    "dislikes": " Unavailable",
+                    "id": "vfNZrlXMJrs",
+                    "likes": "53,371 likes",
+                    "title": "Born Too White: What It's Like To Have Albinism in Tanzania | Full Documentary | Reel Truth",
+                    "url": "https://www.youtube.com/watch?v=vfNZrlXMJrs",
+                    "video_length": 3536.901,
+                    "views": "3,015,778 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=-njHjebtIg4",
+                  "title": "When Tech Companies Lie to Us...",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,445",
+                    "content creator": "Marques Brownlee",
+                    "date": "Jan 13, 2022",
+                    "description": "Tech company lies exist on a spectrum. How far is too far?\n(Did you know 1-inch camera sensors are not 1 inch?)\n\nThe Death of AirPower Explained: ",
+                    "dislikes": " Unavailable",
+                    "id": "-njHjebtIg4",
+                    "likes": "107,768 likes",
+                    "title": "When Tech Companies Lie to Us...",
+                    "url": "https://www.youtube.com/watch?v=-njHjebtIg4",
+                    "video_length": 862.581,
+                    "views": "1,815,962 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=diwF1-xJwZM",
+                  "title": "Watch Aretha Franklin Make President Obama Emotional",
+                  "video": {
+                    "ad": null,
+                    "comments": "17,079",
+                    "content creator": "TV360 Nigeria",
+                    "date": "Dec 30, 2015",
+                    "description": "The iconic Aretha Franklin performance was simply \u2018Electric\u2019 as she performed before dignitaries at the Kennedy Centre Honours on Sunday, December 6 but was aired for the first time on Tuesday, December 29.",
+                    "dislikes": " Unavailable",
+                    "id": "diwF1-xJwZM",
+                    "likes": "246,744 likes",
+                    "title": "Watch Aretha Franklin Make President Obama Emotional",
+                    "url": "https://www.youtube.com/watch?v=diwF1-xJwZM",
+                    "video_length": 276.701,
+                    "views": "28,907,636 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=BZlW7gIA3H0",
+              "title": "Oath Keepers Charged With Seditious Conspiracy | We've Peaked As A Country",
+              "video": {
+                "ad": null,
+                "comments": "3,407",
+                "content creator": "The Late Show with Stephen Colbert",
+                "date": "Jan 13, 2022",
+                "description": "Stephen's faith in the Justice Department was restored today when ten so-called Oath Keepers were charged with sedition for their participation in the Jan. 6th attack. In covid news, experts think Omicron has hit its peak in the United States, with case numbers on the East Coast already starting to fall. ",
+                "dislikes": " Unavailable",
+                "id": "BZlW7gIA3H0",
+                "likes": "32,669 likes",
+                "title": "Oath Keepers Charged With Seditious Conspiracy | We've Peaked As A Country",
+                "url": "https://www.youtube.com/watch?v=BZlW7gIA3H0",
+                "video_length": 767.921,
+                "views": "1,348,629 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=allxx9EzoxU",
+              "title": "Aaron Lewis - Everybody Talks To God (Lyric Video)",
+              "video": {
+                "ad": null,
+                "comments": "405",
+                "content creator": "Aaron Lewis",
+                "date": "Jan 14, 2022",
+                "description": "Music video by Aaron Lewis performing Everybody Talks To God (Lyric Video). \u00a9 2022 Big Machine Label Group, LLC",
+                "dislikes": " Unavailable",
+                "id": "allxx9EzoxU",
+                "likes": "6,996 likes",
+                "title": "Aaron Lewis - Everybody Talks To God (Lyric Video)",
+                "url": "https://www.youtube.com/watch?v=allxx9EzoxU",
+                "video_length": 264,
+                "views": "69,596 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=GBGShUmEAFA",
+              "title": "How America Bungled the Plague | NYT Opinion",
+              "video": {
+                "ad": null,
+                "comments": "10,360",
+                "content creator": "The New York Times",
+                "date": "Sep 29, 2020",
+                "description": "A year ago, the United States was regarded as the country best prepared for a pandemic. Our government had spent nearly two decades strategizing for a doomsday scenario. So what went wrong?\n\nHow is it that America, which wrote the global playbook for pandemic response, accounts for just 4 percent of the world\u2019s population yet more than 20 percent of the world\u2019s coronavirus deaths?\n\nOne of the most important functions of journalism is to provide accountability, so in the video above, Johnny Harris dives deep into an exploration of what went wrong and when, and who\u2019s to blame and why.\n\nSubscribe: ",
+                "dislikes": " Unavailable",
+                "id": "GBGShUmEAFA",
+                "likes": "74,976 likes",
+                "title": "How America Bungled the Plague | NYT Opinion",
+                "url": "https://www.youtube.com/watch?v=GBGShUmEAFA",
+                "video_length": 1262.901,
+                "views": "1,445,399 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=pvS_nigjJ8E",
+              "title": "Jimmy Vs The United States Of AMERICA | Jimmy Carr",
+              "video": {
+                "ad": null,
+                "comments": "500",
+                "content creator": "Jimmy Carr",
+                "date": "Dec 13, 2021",
+                "description": "Jimmy Carr is not afraid of anything...especially not the so-called \"most powerful\" country in the world (or the singer from Red Hot Chili Peppers). \n\nWatch more of Jimmy\u2019s Best Moments - ",
+                "dislikes": " Unavailable",
+                "id": "pvS_nigjJ8E",
+                "likes": "10,933 likes",
+                "title": "Jimmy Vs The United States Of AMERICA | Jimmy Carr",
+                "url": "https://www.youtube.com/watch?v=pvS_nigjJ8E",
+                "video_length": 748.541,
+                "views": "503,890 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=fyZQf0p73QM",
+              "title": "(original) Man In Nursing Home Reacts To Hearing Music From His Era",
+              "video": {
+                "ad": null,
+                "comments": "12,828",
+                "content creator": "Music & Memory",
+                "date": "Nov 18, 2011",
+                "description": "http://www.MusicandMemory.org For more on how Music and Memory helps elderly residents and facility patients, to volunteer or to donate iPods, please visit www.MusicandMemory.org Get FREE resources on the project!  Volunteer an iPod drive!  Find a local facility you can help! \n\nMusic & Memory on Facebook: ",
+                "dislikes": " Unavailable",
+                "id": "fyZQf0p73QM",
+                "likes": "159,405 likes",
+                "title": "(original) Man In Nursing Home Reacts To Hearing Music From His Era",
+                "url": "https://www.youtube.com/watch?v=fyZQf0p73QM",
+                "video_length": 389.941,
+                "views": "6,665,871 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=hid7EJkwDNk",
+          "title": "Is The Metric System Actually Better?",
+          "video": {
+            "ad": null,
+            "comments": "30,838",
+            "content creator": "Real Engineering",
+            "date": "Aug 15, 2020",
+            "description": "Be one of the first 500 people to sign up with this link and get 20% off your subscription with Brilliant.org! https://brilliant.org/realengineering/ \n\nNew streaming platform: ",
+            "dislikes": " Unavailable",
+            "id": "hid7EJkwDNk",
+            "likes": "110,857 likes",
+            "title": "Is The Metric System Actually Better?",
+            "url": "https://www.youtube.com/watch?v=hid7EJkwDNk",
+            "video_length": 772,
+            "views": "1,845,350 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+          "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+          "video": {
+            "ad": null,
+            "comments": "226,668",
+            "content creator": "British GQ",
+            "date": "Oct 30, 2018",
+            "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+            "dislikes": " Unavailable",
+            "id": "yZYQpge1W5s",
+            "likes": "696,987 likes",
+            "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+            "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+            "video_length": 6133.181,
+            "views": "47,757,662 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E2zrqzvtWio",
+          "title": "The Paranoia That Cost Hitler The War | Warlords: Hitler vs Stalin | Timeline",
+          "video": {
+            "ad": null,
+            "comments": "14,708",
+            "content creator": "Timeline - World History Documentaries",
+            "date": "Oct 11, 2017",
+            "description": "The personalities and spectres of Adolf Hitler and Joseph Stalin loom large in the events of the twentieth Century. They were similar in some respects and yet very different in others.\n\nThe first in a series that examines the interaction of the leading protagonists of WW2, this program looks in some depth at the nature of the relationship and interaction of these two \u2018warlords\u2019. The use of primary materials and memoirs as sources gives the psycho-historical analysis some substance.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+            "dislikes": " Unavailable",
+            "id": "E2zrqzvtWio",
+            "likes": "145,003 likes",
+            "title": "The Paranoia That Cost Hitler The War | Warlords: Hitler vs Stalin | Timeline",
+            "url": "https://www.youtube.com/watch?v=E2zrqzvtWio",
+            "video_length": 2925.761,
+            "views": "19,105,394 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HrNTOKYbhG4",
+          "title": "Mob Psychology: A Guide for the Modern Day Wealthy Elite",
+          "video": {
+            "ad": null,
+            "comments": "1,691",
+            "content creator": "Jake Tran",
+            "date": "Jun 10, 2020",
+            "description": "\ud83d\ude08 Watch exclusive 40+ minute documentaries that are too controversial to ever be released to the public: https://jake.yt/join \n\n\ud83d\udcf9 Take a peak at all the private documentaries here: ",
+            "dislikes": " Unavailable",
+            "id": "HrNTOKYbhG4",
+            "likes": "22,507 likes",
+            "title": "Mob Psychology: A Guide for the Modern Day Wealthy Elite",
+            "url": "https://www.youtube.com/watch?v=HrNTOKYbhG4",
+            "video_length": 803.001,
+            "views": "360,190 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hNDgcjVGHIw",
+          "title": "Liberal Hypocrisy is Fueling American Inequality. Here\u2019s How. | NYT Opinion",
+          "video": {
+            "ad": null,
+            "comments": "46,022",
+            "content creator": "The New York Times",
+            "date": "Nov 9, 2021",
+            "description": "It\u2019s easy to blame the other side. And for many Democrats, it\u2019s obvious that Republicans are thwarting progress toward a more equal society.\n\nBut what happens when Republicans aren\u2019t standing in the way?\n\nIn many states \u2014 including California, New York and Illinois \u2014 Democrats control all the levers of power. They run the government. They write the laws. And as we explore in the video above, they often aren\u2019t living up to their values.\n\nIn key respects, many blue states are actually doing worse than red states. It is in the blue states where affordable housing is often hardest to find, there are some of the most acute disparities in education funding and economic inequality is increasing most quickly.\n\nInstead of asking, \u201cWhat\u2019s the matter with Kansas?\u201d Democrats need to spend more time pondering, \u201cWhat\u2019s the matter with California?\u201d\n\nSubscribe: ",
+            "dislikes": " Unavailable",
+            "id": "hNDgcjVGHIw",
+            "likes": "300,088 likes",
+            "title": "Liberal Hypocrisy is Fueling American Inequality. Here\u2019s How. | NYT Opinion",
+            "url": "https://www.youtube.com/watch?v=hNDgcjVGHIw",
+            "video_length": 860.301,
+            "views": "5,508,818 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=hYlb06pLBMc",
+      "title": "Inside Chaz, Seattle's police-free zone: 'We're proving the world can change'",
+      "video": {
+        "ad": null,
+        "comments": "Error found",
+        "content creator": "Guardian News",
+        "date": "Jun 16, 2020",
+        "description": "The Capitol Hill Autonomous Zone (otherwise known as Chaz or Chop) was established by George Floyd protestors after the Seattle Police Department vacated its East Precinct building on the site. Over the past week, organizers have created a community garden, painted murals, opened free co-op grocery stores \u2013 all in an effort to push the message of Black Lives Matter forward\nSubscribe to Guardian News on YouTube \u25ba ",
+        "dislikes": " Unavailable",
+        "id": "hYlb06pLBMc",
+        "likes": "3,184 likes",
+        "title": "Inside Chaz, Seattle's police-free zone: 'We're proving the world can change'",
+        "url": "https://www.youtube.com/watch?v=hYlb06pLBMc",
+        "video_length": 289.201,
+        "views": "554,965 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+      "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+      "video": {
+        "ad": null,
+        "comments": "205,973",
+        "content creator": "Channel 4 News",
+        "date": "Jan 16, 2018",
+        "description": "Channel 4 News\u2019 full, fiery interview with clinical psychologist and professor Jordan B Peterson, whose views on gender have amassed great controversy - and a huge online following. He discusses the pay gap, patriarchy and his new book \"12 Rules for Life.\" Subscribe: ",
+        "dislikes": " Unavailable",
+        "id": "aMcjxSThD54",
+        "likes": "698,045 likes",
+        "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+        "url": "https://www.youtube.com/watch?v=aMcjxSThD54",
+        "video_length": 1795.461,
+        "views": "35,523,002 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ay5h5dq14mM",
+      "title": "Inside Seattle's 'Autonomous Zone'. No police allowed.",
+      "video": {
+        "ad": null,
+        "comments": "6,335",
+        "content creator": "KING 5",
+        "date": "Jun 14, 2020",
+        "description": "Amidst nationwide protests in the U.S. over the death of George Floyd and biased policing, a pocket of Seattle has emerged as a police-free zone. \n\nProtesters have occupied an entire city block of the Capitol Hill Neighborhood, including a police station. They started out calling it the 'Capitol Hill Autonomous Zone' or CHAZ.",
+        "dislikes": " Unavailable",
+        "id": "ay5h5dq14mM",
+        "likes": "7,797 likes",
+        "title": "Inside Seattle's 'Autonomous Zone'. No police allowed.",
+        "url": "https://www.youtube.com/watch?v=ay5h5dq14mM",
+        "video_length": 332.021,
+        "views": "825,495 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FUqFJbSk4qA",
+      "title": "Saadia VS Kematu, Who Is Telling The TRUTH & Who Is LYING? - Elder Scrolls Detective",
+      "video": {
+        "ad": null,
+        "comments": "5,761",
+        "content creator": "Camelworks",
+        "date": "Apr 28, 2020",
+        "description": "\ud83d\udc2b MERCH - camelworks.creator-spring.com\n\ud83d\udc2b https://twitter.com/Camelworks\n\ud83d\udc2b https://www.instagram.com/camelworks_...",
+        "dislikes": " Unavailable",
+        "id": "FUqFJbSk4qA",
+        "likes": "28,812 likes",
+        "title": "Saadia VS Kematu, Who Is Telling The TRUTH & Who Is LYING? - Elder Scrolls Detective",
+        "url": "https://www.youtube.com/watch?v=FUqFJbSk4qA",
+        "video_length": 3145,
+        "views": "763,069 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=i8l-UxhFew0",
+      "title": "The Economics of CHAZ / CHOP: Anarchy at its Finest",
+      "video": {
+        "ad": null,
+        "comments": "6,466",
+        "content creator": "Jake Tran",
+        "date": "Jul 1, 2020",
+        "description": "\ud83d\ude08 Watch exclusive 40+ minute documentaries that are too controversial to ever be released to the public: https://jake.yt/join \n\n\ud83d\udcf9 Take a peak at all the private documentaries here: ",
+        "dislikes": " Unavailable",
+        "id": "i8l-UxhFew0",
+        "likes": "53,706 likes",
+        "title": "The Economics of CHAZ / CHOP: Anarchy at its Finest",
+        "url": "https://www.youtube.com/watch?v=i8l-UxhFew0",
+        "video_length": 775.421,
+        "views": "899,833 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=XcV1AVNz8P8",
+  "title": "The CHAZ Funniest Home Videos",
+  "video": {
+    "ad": null,
+    "comments": "5,665",
+    "content creator": "Michael Knowles",
+    "date": "Jun 27, 2020",
+    "description": "LIKE & SUBSCRIBE for new videos everyday. http://bit.ly/2QA8RbN \n\nMichael takes a look back on the best moments from The Captial Hill Autonomous Zone. Post your favorite moment from CHAZ in the comment section! \n\nSpecial thanks and clips referenced: \nJohn Ward: Welcome to Chaz! ",
+    "dislikes": " Unavailable",
+    "id": "XcV1AVNz8P8",
+    "likes": "78,180 likes",
+    "title": "The CHAZ Funniest Home Videos",
+    "url": "https://www.youtube.com/watch?v=XcV1AVNz8P8",
+    "video_length": 330,
+    "views": "1,635,655 views"
+  }
+}

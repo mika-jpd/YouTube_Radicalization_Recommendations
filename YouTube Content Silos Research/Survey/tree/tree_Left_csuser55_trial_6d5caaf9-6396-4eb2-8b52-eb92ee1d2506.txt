@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+                  "sampled_type": "curated",
+                  "title": "Union Busting: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+                    "https://www.youtube.com/watch?v=svEuG_ekNT0",
+                    "https://www.youtube.com/watch?v=jm9YKT0dItk",
+                    "https://www.youtube.com/watch?v=Gk8dUXRpoy8&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=Gk8dUXRpoy8",
+                    "https://www.youtube.com/watch?v=ET_b78GSBUs",
+                    "https://www.youtube.com/watch?v=oDPCmmZifE8",
+                    "https://www.youtube.com/watch?v=l_htSPGAY7I",
+                    "https://www.youtube.com/watch?v=liptMbjF3EE",
+                    "https://www.youtube.com/watch?v=9Y18-07g39g",
+                    "https://www.youtube.com/watch?v=g6iDZspbRMg"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "13,194",
+                    "content creator": "LastWeekTonight",
+                    "date": "Nov 15, 2021",
+                    "description": "John Oliver discusses the mechanics of union busting, why the companies who do it face so few consequences, and what it really means when your manager wants to talk to you about \u201cyour attendance.\u201d\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "Gk8dUXRpoy8",
+                    "likes": "130,306 likes",
+                    "title": "Union Busting: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+                    "video_length": 1416.781,
+                    "views": "4,800,566 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=liptMbjF3EE",
+              "sampled_type": "curated",
+              "title": "Homelessness: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+                "https://www.youtube.com/watch?v=l5jtFqWq5iU",
+                "https://www.youtube.com/watch?v=vTF-Kz_7L0c",
+                "https://www.youtube.com/watch?v=tXqnRMU1fTs",
+                "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+                "https://www.youtube.com/watch?v=9W74aeuqsiU",
+                "https://www.youtube.com/watch?v=_-0J49_9lwc",
+                "https://www.youtube.com/watch?v=XMGxxRRtmHc",
+                "https://www.youtube.com/watch?v=9Y18-07g39g",
+                "https://www.youtube.com/watch?v=2xlol-SNQRU"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "17,745",
+                "content creator": "LastWeekTonight",
+                "date": "Nov 1, 2021",
+                "description": "With homelessness increasing nationwide, John Oliver takes a look at the way we discuss the unhoused, what policy failures are making the problem worse, and how we can help.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "liptMbjF3EE",
+                "likes": "133,286 likes",
+                "title": "Homelessness: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=liptMbjF3EE",
+                "video_length": 1495.581,
+                "views": "4,835,605 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=9Y18-07g39g",
+          "sampled_type": "curated",
+          "title": "Taiwan: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=liptMbjF3EE",
+            "https://www.youtube.com/watch?v=9Y18-07g39g&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=9Y18-07g39g",
+            "https://www.youtube.com/watch?v=0b_eHBZLM6U",
+            "https://www.youtube.com/watch?v=29lXsOYBaow",
+            "https://www.youtube.com/watch?v=27FpoRiStgk",
+            "https://www.youtube.com/watch?v=OubM8bD9kck",
+            "https://www.youtube.com/watch?v=-TSqjRgh2ZY",
+            "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+            "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+            "https://www.youtube.com/watch?v=UN8bJb8biZU"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "20,627",
+            "content creator": "LastWeekTonight",
+            "date": "Oct 25, 2021",
+            "description": "John Oliver discusses Taiwan\u2019s history of being governed by other countries, its fraught present-day relationship with China, and what its citizens would like their future to look like.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "9Y18-07g39g",
+            "likes": "196,635 likes",
+            "title": "Taiwan: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=9Y18-07g39g",
+            "video_length": 1338.181,
+            "views": "6,696,190 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=PC2GtkGBEWU",
+      "sampled_type": "curated",
+      "title": "Crowder's Racist Covid-Denying Freak-Out Made His Producer Cringe",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=9Y18-07g39g",
+        "https://www.youtube.com/watch?v=b5fNif_WGdc",
+        "https://www.youtube.com/watch?v=7hb6IwJKDTA",
+        "https://www.youtube.com/watch?v=bHIhgxav9LY",
+        "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+        "https://www.youtube.com/watch?v=EWX5B6cD4_4",
+        "https://www.youtube.com/watch?v=OJAMO_bLMw8",
+        "https://www.youtube.com/watch?v=oCqO2oFjWrg",
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=PilJj0TR_xk"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "1,667",
+        "content creator": "The Majority Report w/ Sam Seder",
+        "date": "Dec 15, 2021",
+        "description": "Steven Crowder makes absolutely racist comments about rapper Megan Thee Stallion and singer Lizzo when comparing Covid strains. The Majority Report crew discuss and clarify Crowder\u2019s misconception of the Omicron variant being a less lethal godsend. \n\nWe stream our live show every day at 12 PM ET.\n\nWe need your help to keep providing free videos! Support the Majority Report's video content by going to ",
+        "dislikes": " Unavailable",
+        "id": "PC2GtkGBEWU",
+        "likes": "5,373 likes",
+        "title": "Crowder's Racist Covid-Denying Freak-Out Made His Producer Cringe",
+        "url": "https://www.youtube.com/watch?v=PC2GtkGBEWU",
+        "video_length": 408.941,
+        "views": "142,134 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=mXQuto1fMp4",
+                  "sampled_type": "curated",
+                  "title": "Rudy Giuliani: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=mOVPStnVgvU",
+                    "https://www.youtube.com/watch?v=wD8AwgO0AQI",
+                    "https://www.youtube.com/watch?v=5xnZ_CeTqyM",
+                    "https://www.youtube.com/watch?v=1ZNZY-gd3K0",
+                    "https://www.youtube.com/watch?v=0lTczPEG8iI",
+                    "https://www.youtube.com/watch?v=0utzB6oDan0",
+                    "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                    "https://www.youtube.com/watch?v=mXQuto1fMp4&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=mXQuto1fMp4",
+                    "https://www.youtube.com/watch?v=cBUeipXFisQ",
+                    "https://www.youtube.com/watch?v=opi8X9hQ7q8"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "6,493",
+                    "content creator": "LastWeekTonight",
+                    "date": "May 7, 2018",
+                    "description": "Rudy Giuliani is new to Trump\u2019s legal team, but not to public controversy. John Oliver examines his turbulent record as a lawyer, a politician, and an enemy to ferrets.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "mXQuto1fMp4",
+                    "likes": "126,114 likes",
+                    "title": "Rudy Giuliani: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=mXQuto1fMp4",
+                    "video_length": 936.681,
+                    "views": "11,240,355 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=LEcbagW4O-s",
+              "sampled_type": "curated",
+              "title": "NRA TV: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=mXQuto1fMp4",
+                "https://www.youtube.com/watch?v=rs2RlZQVXBU",
+                "https://www.youtube.com/watch?v=WA0wKeokWUU",
+                "https://www.youtube.com/watch?v=LEcbagW4O-s&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=LEcbagW4O-s",
+                "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                "https://www.youtube.com/watch?v=6UsHHOCH4q8",
+                "https://www.youtube.com/watch?v=g6iDZspbRMg",
+                "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+                "https://www.youtube.com/watch?v=vU8dCYocuyI",
+                "https://www.youtube.com/watch?v=opi8X9hQ7q8"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "22,885",
+                "content creator": "LastWeekTonight",
+                "date": "Mar 5, 2018",
+                "description": "The NRA's streaming lifestyle network aims to boost gun sales, often by using an ominous tone that would make just about anything sound terrifying...including muffins.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "LEcbagW4O-s",
+                "likes": "189,841 likes",
+                "title": "NRA TV: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=LEcbagW4O-s",
+                "video_length": 1200.721,
+                "views": "12,627,034 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+          "sampled_type": "curated",
+          "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=LEcbagW4O-s",
+            "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+            "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+            "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+            "https://www.youtube.com/watch?v=opi8X9hQ7q8",
+            "https://www.youtube.com/watch?v=XMGxxRRtmHc",
+            "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I",
+            "https://www.youtube.com/watch?v=xecEV4dSAXE",
+            "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+            "https://www.youtube.com/watch?v=0b_eHBZLM6U"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "58,328",
+            "content creator": "LastWeekTonight",
+            "date": "Oct 9, 2017",
+            "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "J5b_-TZwQ0I",
+            "likes": "342,418 likes",
+            "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+            "video_length": 1298.221,
+            "views": "26,919,429 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=kknfvfmdiYI",
+      "sampled_type": "curated",
+      "title": "Tim Pool Narrowly Avoids Mortal Kombat With RA Rugged Man During Explosive Debate",
+      "top_10_recommended": [
+        null,
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "https://www.youtube.com/watch?v=sw0VfmXKq54",
+        "https://www.youtube.com/watch?v=kknfvfmdiYI&list=RDCMUC-3jIAlnQmbbVMV6gR7K8aQ&start_radio=1&rv=kknfvfmdiYI",
+        "https://www.youtube.com/watch?v=6BTJ7feX0aQ",
+        "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+        "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+        "https://www.youtube.com/watch?v=7VJ5VY610O0",
+        "https://www.youtube.com/watch?v=BazitK-ZgDk"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "1,984",
+        "content creator": "The Majority Report w/ Sam Seder",
+        "date": "Dec 17, 2021",
+        "description": "Tim Pool and rapper RA Rugged Man's debate on anti-racism and abolishing the police gets out of hand. RA Rugged man lashes out and Pool is evidently scared. The Majority Report crew discuss the incident as well as when Sam Seder's debate with Tim Pool and how he might have been embarrassed leading him not to post it on his more relevant channel. \n\nWe stream our live show every day at 12 PM ET.\n\nWe need your help to keep providing free videos! Support the Majority Report's video content by going to ",
+        "dislikes": " Unavailable",
+        "id": "kknfvfmdiYI",
+        "likes": "4,000 likes",
+        "title": "Tim Pool Narrowly Avoids Mortal Kombat With RA Rugged Man During Explosive Debate",
+        "url": "https://www.youtube.com/watch?v=kknfvfmdiYI",
+        "video_length": 921.601,
+        "views": "109,546 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=TTFoJQSd48c",
+                  "sampled_type": "random",
+                  "title": "If Brains are Computers, Who Designs the Software? - with Daniel Dennett",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+                    "https://www.youtube.com/watch?v=HESOat2iPzU",
+                    "https://www.youtube.com/watch?v=IF4UhElRUFg",
+                    "https://www.youtube.com/watch?v=TTFoJQSd48c&list=RDCMUCYeF244yNGuFefuFKqxIAXw&start_radio=1&rv=TTFoJQSd48c",
+                    "https://www.youtube.com/watch?v=reeU09R4TIA",
+                    "https://www.youtube.com/watch?v=Na7Bp4frYGw",
+                    "https://www.youtube.com/watch?v=zNVQfWC_evg",
+                    "https://www.youtube.com/watch?v=wE1OCXvaDtc",
+                    "https://www.youtube.com/watch?v=no3qLqUYBLo",
+                    "https://www.youtube.com/watch?v=daEH2qkChFI"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,483",
+                    "content creator": "The Royal Institution",
+                    "date": "Apr 6, 2017",
+                    "description": "Cognitive science sees the brain as a sort of computer, but how does education redesign these cerebral computers? Cognitive scientist, philosopher, and expert on consciousness Daniel Dennett explains.\nWatch the Q&A: ",
+                    "dislikes": " Unavailable",
+                    "id": "TTFoJQSd48c",
+                    "likes": "8,588 likes",
+                    "title": "If Brains are Computers, Who Designs the Software? - with Daniel Dennett",
+                    "url": "https://www.youtube.com/watch?v=TTFoJQSd48c",
+                    "video_length": 4581.461,
+                    "views": "595,632 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=zNVQfWC_evg",
+              "sampled_type": "random",
+              "title": "Quantum Fields: The Real Building Blocks of the Universe - with David Tong",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=5hVmeOCJjOU",
+                "https://www.youtube.com/watch?v=edvdzh9Pggg",
+                "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+                "https://www.youtube.com/watch?v=_8bhtEgB8Mo",
+                "https://www.youtube.com/watch?v=oIOGUYOPAsA",
+                "https://www.youtube.com/watch?v=ISdBAf-ysI0",
+                "https://www.youtube.com/watch?v=pLbSlC0Pucw",
+                "https://www.youtube.com/watch?v=Xc0kbM4tBYE",
+                "https://www.youtube.com/watch?v=NNnIGh9g6fA",
+                "https://www.youtube.com/watch?v=aq4G-7v-_xI"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "5,344",
+                "content creator": "The Royal Institution",
+                "date": "Feb 15, 2017",
+                "description": "According to our best theories of physics, the fundamental building blocks of matter are not particles, but continuous fluid-like substances known as 'quantum fields'. David Tong explains what we know about these fields, and how they fit into our understanding of the Universe.\nWatch the Q&A here: ",
+                "dislikes": " Unavailable",
+                "id": "zNVQfWC_evg",
+                "likes": "60,668 likes",
+                "title": "Quantum Fields: The Real Building Blocks of the Universe - with David Tong",
+                "url": "https://www.youtube.com/watch?v=zNVQfWC_evg",
+                "video_length": 3617.301,
+                "views": "4,544,400 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=6JwEYamjXpA",
+          "sampled_type": "random",
+          "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+            "https://www.youtube.com/watch?v=leX541Dr2rU",
+            "https://www.youtube.com/watch?v=edvdzh9Pggg",
+            "https://www.youtube.com/watch?v=ZuXzvjBYW8A",
+            "https://www.youtube.com/watch?v=Na7Bp4frYGw",
+            "https://www.youtube.com/watch?v=BV_DkQCNfu4",
+            "https://www.youtube.com/watch?v=6JwEYamjXpA&list=RDLV6JwEYamjXpA&start_radio=1&rv=6JwEYamjXpA",
+            "https://www.youtube.com/watch?v=TTFoJQSd48c",
+            "https://www.youtube.com/watch?v=9eYdGGfObKk",
+            "https://www.youtube.com/watch?v=uHQ4WCU1WQc"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "3,165",
+            "content creator": "The Royal Institution",
+            "date": "Mar 7, 2019",
+            "description": "Most of the time, the maths in our everyday lives works quietly behind the scenes, until someone forgets to carry a '1' and a bridge collapses or a plane drops out of the sky.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+            "dislikes": " Unavailable",
+            "id": "6JwEYamjXpA",
+            "likes": "45,064 likes",
+            "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+            "url": "https://www.youtube.com/watch?v=6JwEYamjXpA",
+            "video_length": 4053.501,
+            "views": "2,564,860 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=IdoD2147Fik",
+      "sampled_type": "random",
+      "title": "Dumbledore asked calmly",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=02pr2W7FT-c",
+        "https://www.youtube.com/watch?v=DrmcAh2FRHQ",
+        "https://www.youtube.com/watch?v=oI8trlbCbU8",
+        "https://www.youtube.com/watch?v=F3ZMly9YAPA",
+        "https://www.youtube.com/watch?v=wO1G7GkIrWE",
+        "https://www.youtube.com/watch?v=1o2fnTNxE_Q",
+        "https://www.youtube.com/watch?v=8-uvM7k3TlQ",
+        "https://www.youtube.com/watch?v=Tx1XIm6q4r4",
+        "https://www.youtube.com/watch?v=iJyweEcpsGc",
+        "https://www.youtube.com/watch?v=6JwEYamjXpA"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "67,882",
+        "content creator": "Long John Shlongson",
+        "date": "Mar 28, 2016",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "IdoD2147Fik",
+        "likes": "2,086,524 likes",
+        "title": "Dumbledore asked calmly",
+        "url": "https://www.youtube.com/watch?v=IdoD2147Fik",
+        "video_length": 11.181,
+        "views": "37,645,703 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=Xk5pzLeHvdY&pp=sAQB",
+                  "sampled_type": "curated",
+                  "title": "Is Racism Making People Sick?",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=4kfcsOhgzRA&pp=sAQB",
+                    "https://www.youtube.com/watch?v=WLoVHyuYVBY",
+                    "https://www.youtube.com/watch?v=phbzjSl4JDw",
+                    "https://www.youtube.com/watch?v=jWJVMoe7OY0",
+                    "https://www.youtube.com/watch?v=3CccfnRpPtM",
+                    "https://www.youtube.com/watch?v=hLrFyjGZ9NU",
+                    "https://www.youtube.com/watch?v=YF6Z0IE6bNo",
+                    "https://www.youtube.com/watch?v=KEjgAXxrkXY",
+                    "https://www.youtube.com/watch?v=Pc0Bum_daq0",
+                    "https://www.youtube.com/watch?v=1cd4wQq9EMA"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "190",
+                    "content creator": "Vox",
+                    "date": "Apr 3, 2021",
+                    "description": "After the events of 2020, we are no strangers to stress and anxiety. But for Black and brown Americans, that stress was nothing new. Racial health gaps have always existed, and socioeconomics and racism within the medical system have long kept equal healthcare out of reach. But what kind of toll does the experience of racism itself have on your body? Glad You Asked host Christophe Haubursin wants to know.",
+                    "dislikes": " Unavailable",
+                    "id": "Xk5pzLeHvdY&pp",
+                    "likes": "Unavailable",
+                    "title": "Is Racism Making People Sick?",
+                    "url": "https://www.youtube.com/watch?v=Xk5pzLeHvdY&pp=sAQB",
+                    "video_length": 1276.301,
+                    "views": "1,680,528 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=YUbSpI0J9aQ&pp=sAQB",
+              "sampled_type": "curated",
+              "title": "Is Meritocracy a Myth?",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Xk5pzLeHvdY&pp=sAQB",
+                "https://www.youtube.com/watch?v=6uddGul0oAc",
+                "https://www.youtube.com/watch?v=Z6R0NvVr164",
+                "https://www.youtube.com/watch?v=arj7oStGLkU",
+                "https://www.youtube.com/watch?v=GD1d8wKIrps",
+                "https://www.youtube.com/watch?v=UWEjxkkB8Xs",
+                "https://www.youtube.com/watch?v=lxMWSmKieuc",
+                "https://www.youtube.com/watch?v=QMWlRWnAZH8",
+                "https://www.youtube.com/watch?v=1-OJX1rwnl8",
+                "https://www.youtube.com/watch?v=zqllxbPWKNI"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "149",
+                "content creator": "Vox",
+                "date": "Apr 2, 2021",
+                "description": "Education in the United States is supposed to be meritocratic, meaning a student\u2019s achievement is measured solely by their efforts. But how do class and privilege affect opportunity, and does everyone really get the same shot? Glad You Asked host Fabiola Cineas explores how the myth of meritocracy perpetuates racism while keeping the American dream achievable only for a privileged few.",
+                "dislikes": " Unavailable",
+                "id": "YUbSpI0J9aQ&pp",
+                "likes": "Unavailable",
+                "title": "Is Meritocracy a Myth?",
+                "url": "https://www.youtube.com/watch?v=YUbSpI0J9aQ&pp=sAQB",
+                "video_length": 1201.401,
+                "views": "1,791,450 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=pu2sKNJMH-k&pp=sAQB",
+          "sampled_type": "curated",
+          "title": "Does My Neighborhood Determine My Future?",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=YUbSpI0J9aQ&pp=sAQB",
+            "https://www.youtube.com/watch?v=orakE9t1tpo",
+            "https://www.youtube.com/watch?v=5v13wrVEQ2M",
+            "https://www.youtube.com/watch?v=5qap5aO4i9A",
+            "https://www.youtube.com/watch?v=xPGdOXstSyk",
+            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+            "https://www.youtube.com/watch?v=_7X6Yeydgyg",
+            "https://www.youtube.com/watch?v=bYJZA86dPEo&pp=sAQB",
+            "https://www.youtube.com/watch?v=phbzjSl4JDw",
+            "https://www.youtube.com/watch?v=KC7YD98HixM"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "217",
+            "content creator": "Vox",
+            "date": "Apr 1, 2021",
+            "description": "Housing policy in the United States has a long history of deepening segregation. Redlining, exclusionary lending, and targeted zoning laws have all played a role in isolating minority populations while simultaneously privileging white residents. Glad You Asked host Lee Adams wants to know how this happened, and what effect residential segregation has on your future.",
+            "dislikes": " Unavailable",
+            "id": "pu2sKNJMH-k&pp",
+            "likes": "Unavailable",
+            "title": "Does My Neighborhood Determine My Future?",
+            "url": "https://www.youtube.com/watch?v=pu2sKNJMH-k&pp=sAQB",
+            "video_length": 1328.101,
+            "views": "1,613,488 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=Ok5sKLXqynQ",
+      "sampled_type": "curated",
+      "title": "Are We Automating Racism?",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=pu2sKNJMH-k&pp=sAQB",
+        "https://www.youtube.com/watch?v=akqcYEIXoEo",
+        "https://www.youtube.com/watch?v=G6717bNakuA",
+        "https://www.youtube.com/watch?v=3c584TGG7jQ",
+        "https://www.youtube.com/watch?v=Fx-KrvuiafE",
+        "https://www.youtube.com/watch?v=1UnIDL-eHOs",
+        "https://www.youtube.com/watch?v=wPmuAfoO4ig",
+        "https://www.youtube.com/watch?v=W36s447UUE8",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=9yjZpBq1XBE"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "229",
+        "content creator": "Vox",
+        "date": "Mar 31, 2021",
+        "description": "Many of us assume that tech is neutral, and we have turned to tech as a way to root out racism, sexism, or other \u201cisms\u201d plaguing human decision-making. But as data-driven systems become a bigger and bigger part of our lives, we also notice more and more when they fail, and, more importantly, that they don\u2019t fail on everyone equally. Glad You Asked host Joss Fong wants to know: Why do we think tech is neutral? How do algorithms become biased? And how can we fix these algorithms before they cause harm?",
+        "dislikes": " Unavailable",
+        "id": "Ok5sKLXqynQ",
+        "likes": "Unavailable",
+        "title": "Are We Automating Racism?",
+        "url": "https://www.youtube.com/watch?v=Ok5sKLXqynQ",
+        "video_length": 1373.981,
+        "views": "2,748,267 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=u45SP7Xv_oU",
+                  "sampled_type": "opposing",
+                  "title": "Final Thoughts on Free Will (Episode #241)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=0PTAc4WqZAg",
+                    "https://www.youtube.com/watch?v=UOuRYsAP5Lo",
+                    "https://www.youtube.com/watch?v=_njf8jwEGRo",
+                    "https://www.youtube.com/watch?v=ITTxTCz4Ums",
+                    "https://www.youtube.com/watch?v=u45SP7Xv_oU&list=RDCMUCNAxrHudMfdzNi6NxruKPLw&start_radio=1&rv=u45SP7Xv_oU",
+                    "https://www.youtube.com/watch?v=Owu-Sukcpyo",
+                    "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+                    "https://www.youtube.com/watch?v=_FanhvXO9Pk",
+                    "https://www.youtube.com/watch?v=fJRx9wItvKo",
+                    "https://www.youtube.com/watch?v=Xc0kbM4tBYE"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,123",
+                    "content creator": "Sam Harris",
+                    "date": "Mar 12, 2021",
+                    "description": "In this episode of the podcast, Sam Harris presents his full argument on the illusoriness of free will \u2014 and explores its ethical and psychological implications.\n\nReleased: March 12, 2021\n\nSUBSCRIBE to listen to the rest of this episode and gain access to all full-length episodes of the podcast at samharris.org/subscribe.\n\nSubscribe to the YT channel: ",
+                    "dislikes": " Unavailable",
+                    "id": "u45SP7Xv_oU",
+                    "likes": "4,259 likes",
+                    "title": "Final Thoughts on Free Will (Episode #241)",
+                    "url": "https://www.youtube.com/watch?v=u45SP7Xv_oU",
+                    "video_length": 2640.301,
+                    "views": "184,542 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=vod4aOOucaY",
+              "sampled_type": "opposing",
+              "title": "What Have We Learned from the Pandemic?: A Conversation with Nicholas Christakis",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                "https://www.youtube.com/watch?v=89XPBelvrZk",
+                "https://www.youtube.com/watch?v=G433fa01oMU",
+                "https://www.youtube.com/watch?v=Owu-Sukcpyo",
+                "https://www.youtube.com/watch?v=-1jAOJHvll0",
+                "https://www.youtube.com/watch?v=u45SP7Xv_oU",
+                "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+                "https://www.youtube.com/watch?v=oIOGUYOPAsA",
+                "https://www.youtube.com/watch?v=TZhr8Hz03jY",
+                "https://www.youtube.com/watch?v=rfKiTGj-zeQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,186",
+                "content creator": "Sam Harris",
+                "date": "Dec 14, 2021",
+                "description": "In this episode, Sam Harris speaks with Nicholas Christakis about the lessons of the COVID pandemic. They discuss our failures to coordinate an effective response, the politics surrounding vaccination, vaccine efficacy, vaccine safety, how to think about scientific controversies, the epidemiology of excess deaths, transmission among the vaccinated, natural immunity, selection pressures and new variants, the failure of institutions, the lab-leak hypothesis, the efficacy of lockdowns, vaccine mandates, boosters, what would happen in a worse pandemic, and other topics.\n\nNicholas A. Christakis, MD, PhD, MPH, is the Sterling Professor of Social and Natural Science at Yale University, where he directs the Human Nature Lab and is the Co-Director of the Yale Institute for Network Science. He was elected to the National Academy of Medicine in 2006, the American Association for the Advancement of Science in 2010, and the American Academy of Arts and Sciences in 2017. \n\nHe is the author of several books\u2014Connected: The Amazing Power of Social Networks and How They Shape Our Lives, Blueprint: The Evolutionary Origins of a Good Society, and most recently Apollo\u2019s Arrow: The Profound and Enduring Impact of Coronavirus on the Way We Live.\n\nReleased: December 14, 2021\n\nSUBSCRIBE to gain access to all full-length episodes of the podcast at ",
+                "dislikes": " Unavailable",
+                "id": "vod4aOOucaY",
+                "likes": "3,160 likes",
+                "title": "What Have We Learned from the Pandemic?: A Conversation with Nicholas Christakis",
+                "url": "https://www.youtube.com/watch?v=vod4aOOucaY",
+                "video_length": 10311.401,
+                "views": "180,491 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Owu-Sukcpyo",
+          "sampled_type": "opposing",
+          "title": "On Disappointing My Audience (Episode #272)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+            "https://www.youtube.com/watch?v=U3W84wb5jKo",
+            "https://www.youtube.com/watch?v=40snEAG238g",
+            "https://www.youtube.com/watch?v=5f-JlzBuUUU",
+            "https://www.youtube.com/watch?v=Vrz8YDl9CeA",
+            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+            "https://www.youtube.com/watch?v=aB8zcAttP1E",
+            "https://www.youtube.com/watch?v=6JipQNWuYnA",
+            "https://www.youtube.com/watch?v=vod4aOOucaY",
+            "https://www.youtube.com/watch?v=4dC_nRYIDZU"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "4,946",
+            "content creator": "Sam Harris",
+            "date": "Jan 11, 2022",
+            "description": "In this episode, Sam discusses some of the topics he has and hasn't covered, to the disappointment of many Making Sense listeners.\n\nReleased: January 10, 2022\n\nSUBSCRIBE to gain access to all full-length episodes of the podcast at ",
+            "dislikes": " Unavailable",
+            "id": "Owu-Sukcpyo",
+            "likes": "2,651 likes",
+            "title": "On Disappointing My Audience (Episode #272)",
+            "url": "https://www.youtube.com/watch?v=Owu-Sukcpyo",
+            "video_length": 2810.441,
+            "views": "88,525 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=bMEooz-htvw",
+      "sampled_type": "opposing",
+      "title": "'Famous And Lonely' Lara Loomer Resurfaces To Cry About Being \u2018Unpersoned\u2019",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=059sxQbDPos",
+        "https://www.youtube.com/watch?v=27gMvFTL4Xk",
+        "https://www.youtube.com/watch?v=97GMkrhDqWM",
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=aDMjgOYOcDw",
+        "https://www.youtube.com/watch?v=2G56_mQwyBM",
+        "https://www.youtube.com/watch?v=xX5IV9n223M",
+        "https://www.youtube.com/watch?v=flR2gP8H90w",
+        "https://www.youtube.com/watch?v=bPL9YJG1Tog",
+        "https://www.youtube.com/watch?v=Owu-Sukcpyo"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "467",
+        "content creator": "The Majority Report w/ Sam Seder",
+        "date": "Jan 12, 2022",
+        "description": "Lara Loomer joins Far-Right podcast VDARE to complain about her lonely life after being banned from Twitter, Uber and Lyft. The Majority Report discuss how Looner\u2019s rise to fame was because she got deplatformed in the first place.\n\nWe stream our live show every day at 12 PM ET.\n\nWe need your help to keep providing free videos! Support the Majority Report's video content by going to ",
+        "dislikes": " Unavailable",
+        "id": "bMEooz-htvw",
+        "likes": "1,369 likes",
+        "title": "'Famous And Lonely' Lara Loomer Resurfaces To Cry About Being \u2018Unpersoned\u2019",
+        "url": "https://www.youtube.com/watch?v=bMEooz-htvw",
+        "video_length": 290.601,
+        "views": "36,845 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                  "sampled_type": "curated",
+                  "title": "Logic | Philosophy Tube",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+                    "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+                    "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                    "https://www.youtube.com/watch?v=LRNkDZy30xU",
+                    "https://www.youtube.com/watch?v=81fdKWOHrdE",
+                    "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                    "https://www.youtube.com/watch?v=bFeXJkcKYaU",
+                    "https://www.youtube.com/watch?v=5gnlhmaM-dM",
+                    "https://www.youtube.com/watch?v=BNhj_s8flUk",
+                    "https://www.youtube.com/watch?v=x2W7P3wGBI8"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,925",
+                    "content creator": "Philosophy Tube",
+                    "date": "Jul 31, 2020",
+                    "description": "Support the show here! https://www.patreon.com/PhilosophyTube \nThanks to Space Baby for the credits song!  https://www.youtube.com/channel/UC__U...",
+                    "dislikes": " Unavailable",
+                    "id": "q8NVy00tfdI",
+                    "likes": "57,125 likes",
+                    "title": "Logic | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                    "video_length": 2063.481,
+                    "views": "931,173 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+              "sampled_type": "curated",
+              "title": "Jordan Peterson & The Meaning of Life | Philosophy Tube",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+                "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                "https://www.youtube.com/watch?v=4LqZdkkBDas",
+                "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                "https://www.youtube.com/watch?v=SEMB1Ky2n1E&list=RDLVSEMB1Ky2n1E&start_radio=1&rv=SEMB1Ky2n1E",
+                "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+                "https://www.youtube.com/watch?v=x2W7P3wGBI8",
+                "https://www.youtube.com/watch?v=_dPpRg9XM2g"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "10,435",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Apr 12, 2019",
+                "description": "Why this is Hell, nor are we out of it!\nPatreon: http://www.patreon.com/PhilosophyTube",
+                "dislikes": " Unavailable",
+                "id": "SEMB1Ky2n1E",
+                "likes": "76,319 likes",
+                "title": "Jordan Peterson & The Meaning of Life | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+                "video_length": 2390.421,
+                "views": "2,009,200 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+          "sampled_type": "curated",
+          "title": "Steve Bannon | Philosophy Tube",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+            "https://www.youtube.com/watch?v=oENI8NnTx0w",
+            "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+            "https://www.youtube.com/watch?v=tmk47kh7fiE",
+            "https://www.youtube.com/watch?v=BNhj_s8flUk",
+            "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+            "https://www.youtube.com/watch?v=x2W7P3wGBI8",
+            "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+            "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+            "https://www.youtube.com/watch?v=5gnlhmaM-dM"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "9,528",
+            "content creator": "Philosophy Tube",
+            "date": "Premiered Feb 4, 2019",
+            "description": "Alternate title - Why Do We Build the Wall?\nPatreon: http://www.patreon.com/PhilosophyTube",
+            "dislikes": " Unavailable",
+            "id": "wO6uD3c2qMo",
+            "likes": "70,281 likes",
+            "title": "Steve Bannon | Philosophy Tube",
+            "url": "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+            "video_length": 2697.061,
+            "views": "2,152,132 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=-WhkGDFM04o&t=1430s",
+      "sampled_type": "curated",
+      "title": "The Conservative Propaganda of Dr Phil",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+        "https://www.youtube.com/watch?v=dsiFsVaKSAw",
+        "https://www.youtube.com/watch?v=QK0Qo-UAvc0",
+        "https://www.youtube.com/watch?v=jMdDKfFHE1U",
+        "https://www.youtube.com/watch?v=VG_hsUdFkOM",
+        "https://www.youtube.com/watch?v=-WhkGDFM04o&list=RDCMUCaN8DZdc8EHo5y1LsQWMiig&start_radio=1&rv=-WhkGDFM04o",
+        "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+        "https://www.youtube.com/watch?v=ckmiO50anfg",
+        "https://www.youtube.com/watch?v=oV_yhvaU6Vk",
+        "https://www.youtube.com/watch?v=KkMfKihy33w"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "7,855",
+        "content creator": "Big Joel",
+        "date": "Mar 4, 2021",
+        "description": "Let's talk about the man himself, Dr Phil, and the time he met a furry. Visit http://curiositystream.com/bigjoel and get thousands of exciting documentaries and access to my streaming service Nebula, where I have all my beautiful Nebula Plus videos. \n\nSupport me on Patreon: ",
+        "dislikes": " Unavailable",
+        "id": "-WhkGDFM04o&t",
+        "likes": "52,277 likes",
+        "title": "The Conservative Propaganda of Dr Phil",
+        "url": "https://www.youtube.com/watch?v=-WhkGDFM04o&t=1430s",
+        "video_length": 1637.201,
+        "views": "841,883 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

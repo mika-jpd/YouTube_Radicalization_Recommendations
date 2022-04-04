@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=8WSFo6XIWSg",
+                  "sampled_type": "curated",
+                  "title": "Jesse Watters: Kamala Harris can't answer basic questions | Brian Kilmeade Show",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=Lp3wo1JR3es",
+                    "https://www.youtube.com/watch?v=QMWlRWnAZH8",
+                    "https://www.youtube.com/watch?v=aFPJf-wKTd0",
+                    "https://www.youtube.com/watch?v=-EvvPZFdjyk",
+                    "https://www.youtube.com/watch?v=b6Yqw6J8WHo",
+                    "https://www.youtube.com/watch?v=jgAlEROl0PA",
+                    "https://www.youtube.com/watch?v=mSuAcDiwkk4",
+                    "https://www.youtube.com/watch?v=ALsEIT3HFmg",
+                    "https://www.youtube.com/watch?v=gXMqy6FlGco",
+                    "https://www.youtube.com/watch?v=7Exst44CyG0"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,693",
+                    "content creator": "Fox News",
+                    "date": "Premiered Jan 14, 2022",
+                    "description": "Jesse Watters, co-host of \"The Five\" and the new host of \"Jesse Watters Primetime\" joins the Brian Kilmeade Show to discuss the how Kamala Harris is handling her role as Vice President. #FoxNews",
+                    "dislikes": " Unavailable",
+                    "id": "8WSFo6XIWSg",
+                    "likes": "18,393 likes",
+                    "title": "Jesse Watters: Kamala Harris can't answer basic questions | Brian Kilmeade Show",
+                    "url": "https://www.youtube.com/watch?v=8WSFo6XIWSg",
+                    "video_length": 554.501,
+                    "views": "622,178 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Lp3wo1JR3es",
+              "sampled_type": "curated",
+              "title": "'The Five' torches Kamala Harris' recent interview",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=8WSFo6XIWSg",
+                "https://www.youtube.com/watch?v=zoMRwyNhqJ4",
+                "https://www.youtube.com/watch?v=8b7erU_DOfE",
+                "https://www.youtube.com/watch?v=3c584TGG7jQ",
+                "https://www.youtube.com/watch?v=U3W84wb5jKo",
+                "https://www.youtube.com/watch?v=puPUxXVt6QE",
+                "https://www.youtube.com/watch?v=gXMqy6FlGco",
+                "https://www.youtube.com/watch?v=U2xNf4cuK3c",
+                "https://www.youtube.com/watch?v=ErPsyBUCijM",
+                "https://www.youtube.com/watch?v=0MzctOaJZS0"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "3,835",
+                "content creator": "Fox News",
+                "date": "Jan 14, 2022",
+                "description": "'The Five' weighs in on criticism the vice president has received over her 'word salad' interview",
+                "dislikes": " Unavailable",
+                "id": "Lp3wo1JR3es",
+                "likes": "15,287 likes",
+                "title": "'The Five' torches Kamala Harris' recent interview",
+                "url": "https://www.youtube.com/watch?v=Lp3wo1JR3es",
+                "video_length": 493.961,
+                "views": "607,082 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=VBmDMp3d8H8",
+          "sampled_type": "curated",
+          "title": "'The Five' roast Biden for his 'epic' week of failure",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Lp3wo1JR3es",
+            "https://www.youtube.com/watch?v=658xlubwnDc",
+            "https://www.youtube.com/watch?v=ueLINWgmsvU",
+            "https://www.youtube.com/watch?v=puPUxXVt6QE",
+            "https://www.youtube.com/watch?v=k9mNRbx6LOM",
+            "https://www.youtube.com/watch?v=0MzctOaJZS0",
+            "https://www.youtube.com/watch?v=8WSFo6XIWSg",
+            "https://www.youtube.com/watch?v=hiz9ugQKgSo",
+            "https://www.youtube.com/watch?v=huPF3Gid7DE",
+            "https://www.youtube.com/watch?v=UwNDqiuhK58"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "4,487",
+            "content creator": "Fox News",
+            "date": "Jan 14, 2022",
+            "description": "White House tries to spin the president's brutal week of defeats; 'The Five' reacts. \n#FoxNews #TheFive",
+            "dislikes": " Unavailable",
+            "id": "VBmDMp3d8H8",
+            "likes": "18,288 likes",
+            "title": "'The Five' roast Biden for his 'epic' week of failure",
+            "url": "https://www.youtube.com/watch?v=VBmDMp3d8H8",
+            "video_length": 651.901,
+            "views": "702,050 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=hSM-jkyN8F0",
+      "sampled_type": "curated",
+      "title": "Watch Biden Booed As He Approaches the Crowd at 9/11 Memorial | DM CLIPS | Rubin Report",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=gXMqy6FlGco",
+        "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "https://www.youtube.com/watch?v=bHIhgxav9LY",
+        "https://www.youtube.com/watch?v=NCwMsSS-CIk",
+        "https://www.youtube.com/watch?v=VBmDMp3d8H8",
+        "https://www.youtube.com/watch?v=zFleLL5zlaI",
+        "https://www.youtube.com/watch?v=sD0i_YxPATc",
+        "https://www.youtube.com/watch?v=oh2Sj_QpZOA",
+        "https://www.youtube.com/watch?v=j7BHmWNI5o4",
+        "https://www.youtube.com/watch?v=fl0x9Swgfgw"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "5,819",
+        "content creator": "The Rubin Report",
+        "date": "Sep 13, 2021",
+        "description": "Dave Rubin of The Rubin Report talks about Joe Biden being booed at the 9/11 memorial and the hypocrisy of his vaccine mandate. Joe Biden is getting enormous amounts of backlash for his COVID vaccine mandate. While the Biden administration is resorting to force to deal with vaccine hesitancy to fight the Delta variant it was not long ago he was questioning the COVID 19 vaccine. Dave shares video of Kamala Harris, Dr. Fauci, and Joe Biden all being skeptical of the vaccine when it was under the Trump administration. Dave also questions why there is a vaccine mandate exemption for members of congress and their staff.\n\nWatch Dave's FULL DIRECT MESSAGE here:",
+        "dislikes": " Unavailable",
+        "id": "hSM-jkyN8F0",
+        "likes": "41,671 likes",
+        "title": "Watch Biden Booed As He Approaches the Crowd at 9/11 Memorial | DM CLIPS | Rubin Report",
+        "url": "https://www.youtube.com/watch?v=hSM-jkyN8F0",
+        "video_length": 523.481,
+        "views": "1,046,046 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=SGcdPakoytg",
+                  "sampled_type": "curated",
+                  "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+                    "https://www.youtube.com/watch?v=6VixqvOcK8E",
+                    "https://www.youtube.com/watch?v=lImHh7fqrQo",
+                    "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                    "https://www.youtube.com/watch?v=U0QGZSY35sI",
+                    "https://www.youtube.com/watch?v=vln9D81eO60",
+                    "https://www.youtube.com/watch?v=JOEF5m6GaGs",
+                    "https://www.youtube.com/watch?v=0pabbzNjZ2s",
+                    "https://www.youtube.com/watch?v=dVo0v5yypW0",
+                    "https://www.youtube.com/watch?v=vj5JXrpwsZs"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "64,988",
+                    "content creator": "Real Time with Bill Maher",
+                    "date": "Jun 30, 2018",
+                    "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nDaily Wire Editor-in-Chief and syndicated radio host Ben Shapiro joins Bill to discuss civility in the age of Trump.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "SGcdPakoytg",
+                    "likes": "119,625 likes",
+                    "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+                    "url": "https://www.youtube.com/watch?v=SGcdPakoytg",
+                    "video_length": 663.881,
+                    "views": "15,323,171 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+              "sampled_type": "curated",
+              "title": "Ben Shapiro and Malcolm Nance on Critical Race Theory | Real Time with Bill Maher (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=SGcdPakoytg",
+                "https://www.youtube.com/watch?v=6VixqvOcK8E",
+                "https://www.youtube.com/watch?v=kasiov0ytEc",
+                "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                "https://www.youtube.com/watch?v=aMcjxSThD54",
+                "https://www.youtube.com/watch?v=vln9D81eO60",
+                "https://www.youtube.com/watch?v=0pabbzNjZ2s",
+                "https://www.youtube.com/watch?v=vj5JXrpwsZs",
+                "https://www.youtube.com/watch?v=PYM-sS-0-yg",
+                "https://www.youtube.com/watch?v=R_Du_wF9wUw"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "71,767",
+                "content creator": "Real Time with Bill Maher",
+                "date": "Aug 6, 2021",
+                "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nMalcolm Nance and Ben Shapiro join Bill to discuss the \"muzzle laws\" being introduced by Republican lawmakers that seek to limit the degree to which educators can talk about race in the classroom.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                "dislikes": " Unavailable",
+                "id": "dwgsbZ1MsAE",
+                "likes": "79,408 likes",
+                "title": "Ben Shapiro and Malcolm Nance on Critical Race Theory | Real Time with Bill Maher (HBO)",
+                "url": "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+                "video_length": 570.941,
+                "views": "5,485,806 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=vln9D81eO60",
+          "sampled_type": "curated",
+          "title": "Ben Affleck, Sam Harris and Bill Maher Debate Radical Islam | Real Time with Bill Maher (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=P5ZOwNK6n9U",
+            "https://www.youtube.com/watch?v=kasiov0ytEc",
+            "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+            "https://www.youtube.com/watch?v=Hj9oB4zpHww",
+            "https://www.youtube.com/watch?v=LV7eVvph69Y",
+            "https://www.youtube.com/watch?v=MlAw7qYLk5w",
+            "https://www.youtube.com/watch?v=0pabbzNjZ2s",
+            "https://www.youtube.com/watch?v=zRlm4o6he74",
+            "https://www.youtube.com/watch?v=6VixqvOcK8E",
+            "https://www.youtube.com/watch?v=_iudkPi4_sY"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "73,657",
+            "content creator": "Real Time with Bill Maher",
+            "date": "Oct 6, 2014",
+            "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nBill Maher and his guests \u2013 Sam Harris, Ben Affleck, Michael Steele and Nicholas Kristof - discuss ISIS and radical Islam during the panel portion of \u201cReal Time.\u201d\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+            "dislikes": " Unavailable",
+            "id": "vln9D81eO60",
+            "likes": "81,267 likes",
+            "title": "Ben Affleck, Sam Harris and Bill Maher Debate Radical Islam | Real Time with Bill Maher (HBO)",
+            "url": "https://www.youtube.com/watch?v=vln9D81eO60",
+            "video_length": 605.061,
+            "views": "10,037,532 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=qa6txb6nYGI",
+      "sampled_type": "curated",
+      "title": "BREAKING: We\u2019re taking our lawsuit against Biden to the Supreme Court",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=QabAtYBnqro",
+        "https://www.youtube.com/watch?v=lawHlaEQ58I",
+        "https://www.youtube.com/watch?v=wIg90sVSwSE",
+        "https://www.youtube.com/watch?v=vln9D81eO60",
+        "https://www.youtube.com/watch?v=xxzrvpeRmio",
+        "https://www.youtube.com/watch?v=-1jAOJHvll0",
+        "https://www.youtube.com/watch?v=1bmBbKFVRz4",
+        "https://www.youtube.com/watch?v=IRJpIwBGT40",
+        "https://www.youtube.com/watch?v=LNRBhq2oV8k",
+        "https://www.youtube.com/watch?v=hNDgcjVGHIw"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,037",
+        "content creator": "The Daily Wire",
+        "date": "Dec 20, 2021",
+        "description": "Daily Wire god-king Jeremy Boreing provides an update on the Daily Wire\u2019s ongoing legal battle with the Biden administration over their unconstitutional and tyrannical vaccine mandate.  ",
+        "dislikes": " Unavailable",
+        "id": "qa6txb6nYGI",
+        "likes": "11,672 likes",
+        "title": "BREAKING: We\u2019re taking our lawsuit against Biden to the Supreme Court",
+        "url": "https://www.youtube.com/watch?v=qa6txb6nYGI",
+        "video_length": 212.201,
+        "views": "85,634 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+                  "sampled_type": "curated",
+                  "title": "Reacting to the MOST INSANE Woke Tik Toks (ft. Michael Malice)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=W4ktLen9cVM",
+                    "https://www.youtube.com/watch?v=nltUJIPLvfo",
+                    "https://www.youtube.com/watch?v=JK1cmQ4DTYA",
+                    "https://www.youtube.com/watch?v=bvikt3Ynsss",
+                    "https://www.youtube.com/watch?v=RsiqmDEWAtI",
+                    "https://www.youtube.com/watch?v=70wdkfGJNpE",
+                    "https://www.youtube.com/watch?v=b1zSneMdPy8",
+                    "https://www.youtube.com/watch?v=hvyCvH-n5BM",
+                    "https://www.youtube.com/watch?v=po1cS4BsrSM",
+                    "https://www.youtube.com/watch?v=zfbsNpx3dSE"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,777",
+                    "content creator": "Blaire White",
+                    "date": "Premiered Nov 16, 2021",
+                    "description": "Today I needed to sit my friend Michael Malice down and show him the depths of WOKE TIK TOK. He will never be the same.\n\u25cf Check out FloraCBD and use code BLAIRE for 25% off!: https://bit.ly/3wSvSMe",
+                    "dislikes": " Unavailable",
+                    "id": "yvQ6ppE7tKo",
+                    "likes": "31,168 likes",
+                    "title": "Reacting to the MOST INSANE Woke Tik Toks (ft. Michael Malice)",
+                    "url": "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+                    "video_length": 1077.421,
+                    "views": "513,303 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=JDW53q0-0PM",
+              "sampled_type": "curated",
+              "title": "Exposing Trans Predator: Alok Vaid-Menon",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Qh9KBwqGxTI",
+                "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                "https://www.youtube.com/watch?v=Isc8u8KI7Qk",
+                "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                "https://www.youtube.com/watch?v=5d667Bb_iYA",
+                "https://www.youtube.com/watch?v=5_A8dq2fA5o",
+                "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+                "https://www.youtube.com/watch?v=4jl6tK0gU28",
+                "https://www.youtube.com/watch?v=JF6bWdUkohU",
+                "https://www.youtube.com/watch?v=KTybcHbX3ks"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,994",
+                "content creator": "Blaire White",
+                "date": "Premiered Jul 14, 2021",
+                "description": "Today we're diving into past predatory posts from famous trans activist Alok Vaid Menon. I don't know how I missed this before..\n-Use code BLAIRE to get 30% off your first month at Scentbird https://sbird.co/3xsH2WX",
+                "dislikes": " Unavailable",
+                "id": "JDW53q0-0PM",
+                "likes": "34,214 likes",
+                "title": "Exposing Trans Predator: Alok Vaid-Menon",
+                "url": "https://www.youtube.com/watch?v=JDW53q0-0PM",
+                "video_length": 853.661,
+                "views": "457,246 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Ta40ZPTIAlA",
+          "sampled_type": "curated",
+          "title": "\"Date Me Or You're Transphobic!\" - Trans Activist",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=JDW53q0-0PM",
+            "https://www.youtube.com/watch?v=4jl6tK0gU28",
+            "https://www.youtube.com/watch?v=KqKKr4ICQC4",
+            "https://www.youtube.com/watch?v=JP9ucyoJraQ",
+            "https://www.youtube.com/watch?v=iCVQWJ8KwHI",
+            "https://www.youtube.com/watch?v=0UDvC_Mfbv8",
+            "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+            "https://www.youtube.com/watch?v=HPeGmjvgXI4",
+            "https://www.youtube.com/watch?v=Tq3C9R8HNUQ",
+            "https://www.youtube.com/watch?v=St8LnRKv_2k"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "10,256",
+            "content creator": "Blaire White",
+            "date": "Jul 15, 2020",
+            "description": "Reacting to people who think that those without a preference for trans people are inherently transphobic.\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite",
+            "dislikes": " Unavailable",
+            "id": "Ta40ZPTIAlA",
+            "likes": "62,776 likes",
+            "title": "\"Date Me Or You're Transphobic!\" - Trans Activist",
+            "url": "https://www.youtube.com/watch?v=Ta40ZPTIAlA",
+            "video_length": 626.361,
+            "views": "945,058 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=tYy-IlZT1Yw",
+      "sampled_type": "curated",
+      "title": "The Fat Positive Movement Just Officially LOST THEIR MINDS.",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=W4ktLen9cVM",
+        "https://www.youtube.com/watch?v=kasiov0ytEc",
+        "https://www.youtube.com/watch?v=XQhV6Y6GuWE",
+        "https://www.youtube.com/watch?v=T8SKmG-X_vk",
+        "https://www.youtube.com/watch?v=lbicNSnF7e0",
+        "https://www.youtube.com/watch?v=fl0x9Swgfgw",
+        "https://www.youtube.com/watch?v=Ta40ZPTIAlA",
+        "https://www.youtube.com/watch?v=KTybcHbX3ks",
+        "https://www.youtube.com/watch?v=_DCMxBmbCSU",
+        "https://www.youtube.com/watch?v=nAAHVAuSkDU"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "6,393",
+        "content creator": "Blaire White",
+        "date": "Premiered Jan 5, 2021",
+        "description": "Let's talk about Cosmopolitan  Magazine jumping on the fat acceptance train this week as well as singer Lizzo receiving massive BACKLASH simply because she wants to lose weight.. You can't make this up.\n\u25cf MY NEW PODCAST!!: ",
+        "dislikes": " Unavailable",
+        "id": "tYy-IlZT1Yw",
+        "likes": "35,135 likes",
+        "title": "The Fat Positive Movement Just Officially LOST THEIR MINDS.",
+        "url": "https://www.youtube.com/watch?v=tYy-IlZT1Yw",
+        "video_length": 647.841,
+        "views": "478,270 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=rrKOnp1dcoo",
+                  "sampled_type": "curated",
+                  "title": "Candace Owens - Liberty University Convocation",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=0cUQqPxw3hc",
+                    "https://www.youtube.com/watch?v=-1jAOJHvll0",
+                    "https://www.youtube.com/watch?v=mC0NuYILgwc",
+                    "https://www.youtube.com/watch?v=3WMuzhQXJoY",
+                    "https://www.youtube.com/watch?v=UQCipqsjsW8",
+                    "https://www.youtube.com/watch?v=kasiov0ytEc",
+                    "https://www.youtube.com/watch?v=m8Nudmm7ha4",
+                    "https://www.youtube.com/watch?v=uL3ywB3ycgY",
+                    "https://www.youtube.com/watch?v=3Y_LI_u5WLA",
+                    "https://www.youtube.com/watch?v=yqaHXKLRKzg"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Liberty University",
+                    "date": "Sep 26, 2018",
+                    "description": "On September 26, 2018, at Convocation, North America's largest weekly gathering of Christian students, welcomed Candace Owens, American conservative commentator to the stage. \n\nConvocation is North America\u2019s largest weekly gathering of Christian students, and each year it plays host to more than 80 guest speakers of national significance from every sphere of society. ",
+                    "dislikes": " Unavailable",
+                    "id": "rrKOnp1dcoo",
+                    "likes": "48,308 likes",
+                    "title": "Candace Owens - Liberty University Convocation",
+                    "url": "https://www.youtube.com/watch?v=rrKOnp1dcoo",
+                    "video_length": 2012.361,
+                    "views": "3,179,748 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=n72HNgvvWK8",
+              "sampled_type": "curated",
+              "title": "Ben Shapiro - Liberty University",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=-1jAOJHvll0",
+                "https://www.youtube.com/watch?v=n30zO0ABFqc",
+                "https://www.youtube.com/watch?v=kasiov0ytEc",
+                "https://www.youtube.com/watch?v=rrKOnp1dcoo",
+                "https://www.youtube.com/watch?v=3WMuzhQXJoY",
+                "https://www.youtube.com/watch?v=aDepoPl1oEM",
+                "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+                "https://www.youtube.com/watch?v=6VixqvOcK8E",
+                "https://www.youtube.com/watch?v=p7MO1IgMty8",
+                "https://www.youtube.com/watch?v=TmNSlF7lcaw"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Liberty University",
+                "date": "Apr 25, 2018",
+                "description": "On April 25, 2018, at Convocation, North America's largest weekly gathering of Christian students, Host of the Daily Wire Ben Shapiro spoke about the importance of individual freedom and preserving God and society. \n\nConvocation is North America\u2019s largest weekly gathering of Christian students, and each year it plays host to more than 80 guest speakers of national significance from every sphere of society. ",
+                "dislikes": " Unavailable",
+                "id": "n72HNgvvWK8",
+                "likes": "32,516 likes",
+                "title": "Ben Shapiro - Liberty University",
+                "url": "https://www.youtube.com/watch?v=n72HNgvvWK8",
+                "video_length": 1704.801,
+                "views": "2,375,043 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=dVo0v5yypW0",
+          "sampled_type": "curated",
+          "title": "YAF SUPERCUT: Best of Ben Shapiro Q&A",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=6VixqvOcK8E",
+            "https://www.youtube.com/watch?v=aMcjxSThD54",
+            "https://www.youtube.com/watch?v=kasiov0ytEc",
+            "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+            "https://www.youtube.com/watch?v=yZYQpge1W5s",
+            "https://www.youtube.com/watch?v=SiijS_9hPkM",
+            "https://www.youtube.com/watch?v=n72HNgvvWK8",
+            "https://www.youtube.com/watch?v=jgAlEROl0PA",
+            "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+            "https://www.youtube.com/watch?v=vj5JXrpwsZs"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "8,212",
+            "content creator": "Young America's Foundation",
+            "date": "Premiered Mar 19, 2020",
+            "description": "Through YAF's Fred Allen Lecture Series, The Daily Wire's Ben Shapiro has spread conservative ideas to 50+ campuses throughout the past years. Here are his best moments.\n\nWant to see more of Ben Shapiro and YAF\u2019s all-star speaker team? Sign up to get notified about all of our live events: ",
+            "dislikes": " Unavailable",
+            "id": "dVo0v5yypW0",
+            "likes": "98,580 likes",
+            "title": "YAF SUPERCUT: Best of Ben Shapiro Q&A",
+            "url": "https://www.youtube.com/watch?v=dVo0v5yypW0",
+            "video_length": 1501.681,
+            "views": "4,814,547 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=Y45-_HE91Us",
+      "sampled_type": "curated",
+      "title": "Common Sense Gun Control is Nonsense | Change My Mind",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=-1jAOJHvll0",
+        "https://www.youtube.com/watch?v=kasiov0ytEc",
+        "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "https://www.youtube.com/watch?v=SiijS_9hPkM",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=aMcjxSThD54",
+        "https://www.youtube.com/watch?v=_iudkPi4_sY",
+        "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+        "https://www.youtube.com/watch?v=dVo0v5yypW0"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "21,782",
+        "content creator": "StevenCrowder",
+        "date": "Premiered Apr 13, 2021",
+        "description": "Steven Crowder goes to a college campus to have real conversations with real people. In this installment, Steven discusses the recent executive orders of former Vice President Joe Biden regarding gun control.\n\nNEW MERCH! ",
+        "dislikes": " Unavailable",
+        "id": "Y45-_HE91Us",
+        "likes": "143,178 likes",
+        "title": "Common Sense Gun Control is Nonsense | Change My Mind",
+        "url": "https://www.youtube.com/watch?v=Y45-_HE91Us",
+        "video_length": 2585.701,
+        "views": "3,369,134 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=sfo5cb7uxCM",
+                  "sampled_type": "curated",
+                  "title": "Biden's approval rating plummets as more Americans think he's doing more to divide US",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                    "https://www.youtube.com/watch?v=vwTzGm7R9Ew",
+                    "https://www.youtube.com/watch?v=4Iq2gBjn3YU",
+                    "https://www.youtube.com/watch?v=t5qwL3JUpRg",
+                    "https://www.youtube.com/watch?v=1iw8NlSujx0",
+                    "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+                    "https://www.youtube.com/watch?v=l4btRl2HhEM",
+                    "https://www.youtube.com/watch?v=h3OGWryHgAg",
+                    "https://www.youtube.com/watch?v=8SZWzErB-H8",
+                    "https://www.youtube.com/watch?v=kVOTPAxrrP4"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,332",
+                    "content creator": "Fox Business",
+                    "date": "Jan 13, 2022",
+                    "description": "FOX Business' Maria Bartiromo, Dagen McDowell and Strategic Wealth Partners President and CEO Mark Tepper discusses Biden's presidency as he battles low approval numbers amid mounting troubles in the U.S.\n\nSubscribe to Fox Business! ",
+                    "dislikes": " Unavailable",
+                    "id": "sfo5cb7uxCM",
+                    "likes": "3,973 likes",
+                    "title": "Biden's approval rating plummets as more Americans think he's doing more to divide US",
+                    "url": "https://www.youtube.com/watch?v=sfo5cb7uxCM",
+                    "video_length": 292.941,
+                    "views": "101,219 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=EICDA2yzlJE",
+              "sampled_type": "curated",
+              "title": "Biden has 'nothing' when it comes to fighting problems: Dagen McDowell",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=sfo5cb7uxCM",
+                "https://www.youtube.com/watch?v=vpwY3nmLLaA",
+                "https://www.youtube.com/watch?v=l7ZXUUlMZ1o",
+                "https://www.youtube.com/watch?v=OY6X_603MMc",
+                "https://www.youtube.com/watch?v=ulAUIFguJbk",
+                "https://www.youtube.com/watch?v=Io1AAmHwdqk",
+                "https://www.youtube.com/watch?v=c_QWKiWa6SU",
+                "https://www.youtube.com/watch?v=SUKXtCdSgcQ",
+                "https://www.youtube.com/watch?v=n548Gq0_PqU",
+                "https://www.youtube.com/watch?v=xnu294BUjBQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "690",
+                "content creator": "Fox Business",
+                "date": "Jan 13, 2022",
+                "description": "FOX Business' Maria Bartiromo, Dagen McDowell and Strategic Wealth Partners president and CEO Mark Tepper discuss press secretary Jen Psaki's reaction to Biden's critics and the White House's handling of the president's critics.\n\nSubscribe to Fox Business! ",
+                "dislikes": " Unavailable",
+                "id": "EICDA2yzlJE",
+                "likes": "3,206 likes",
+                "title": "Biden has 'nothing' when it comes to fighting problems: Dagen McDowell",
+                "url": "https://www.youtube.com/watch?v=EICDA2yzlJE",
+                "video_length": 264.821,
+                "views": "75,378 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=UHPmhisf5yY",
+          "sampled_type": "curated",
+          "title": "Grover Norquist: 'Combating inflation' isn't on Biden's list",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=EICDA2yzlJE",
+            "https://www.youtube.com/watch?v=8b7erU_DOfE",
+            "https://www.youtube.com/watch?v=59A8-rKRs-0",
+            "https://www.youtube.com/watch?v=8WSFo6XIWSg",
+            "https://www.youtube.com/watch?v=jRL2-4UoyLQ",
+            "https://www.youtube.com/watch?v=_3XIQsb_22U",
+            "https://www.youtube.com/watch?v=3cZfEzTRGOc",
+            "https://www.youtube.com/watch?v=rcKjCzd4Pyw",
+            "https://www.youtube.com/watch?v=gptbftU69XE",
+            "https://www.youtube.com/watch?v=LKBmVR56aAM"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "213",
+            "content creator": "Fox Business",
+            "date": "Jan 14, 2022",
+            "description": "Americans for Tax Reform President Grover Norquist weighs in on surging inflation and Biden\u2019s economy.\n\nSubscribe to Fox Business! ",
+            "dislikes": " Unavailable",
+            "id": "UHPmhisf5yY",
+            "likes": "1,032 likes",
+            "title": "Grover Norquist: 'Combating inflation' isn't on Biden's list",
+            "url": "https://www.youtube.com/watch?v=UHPmhisf5yY",
+            "video_length": 339.421,
+            "views": "34,533 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=f9q0Xlnyl-A",
+      "sampled_type": "curated",
+      "title": "BEIJING BIDEN AND TRUMP'S LAST STAND AGAINST SOCIALISM",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=aMcjxSThD54",
+        "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+        "https://www.youtube.com/watch?v=so4v_2zq35k",
+        "https://www.youtube.com/watch?v=6LDNtZrxMq0",
+        "https://www.youtube.com/watch?v=t_YyrMV7SuE",
+        "https://www.youtube.com/watch?v=WfRJEm96Lgo",
+        "https://www.youtube.com/watch?v=UHPmhisf5yY",
+        "https://www.youtube.com/watch?v=SiijS_9hPkM",
+        "https://www.youtube.com/watch?v=GZJjBMGf0qQ"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "9,276",
+        "content creator": "Candace Owens",
+        "date": "Streamed live on Nov 10, 2020",
+        "description": "VISIT WWW.FACTCHECKZUCK.COM TO JOIN MY EFFORTS TO SUE THE \"FACT-CHECKERS\"",
+        "dislikes": " Unavailable",
+        "id": "f9q0Xlnyl-A",
+        "likes": "44,132 likes",
+        "title": "BEIJING BIDEN AND TRUMP'S LAST STAND AGAINST SOCIALISM",
+        "url": "https://www.youtube.com/watch?v=f9q0Xlnyl-A",
+        "video_length": 2017.161,
+        "views": "419,316 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=xu3ux1h_caU",
+                  "sampled_type": "curated",
+                  "title": "It's Time to Live",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=3iLiKMUiyTI",
+                    "https://www.youtube.com/watch?v=kasiov0ytEc",
+                    "https://www.youtube.com/watch?v=MBWyBdUYPgk",
+                    "https://www.youtube.com/watch?v=tzoGTQXBATM",
+                    "https://www.youtube.com/watch?v=j_MXSE3wUT4",
+                    "https://www.youtube.com/watch?v=f5rUPatnXSE",
+                    "https://www.youtube.com/watch?v=hC2zy3mM6BM",
+                    "https://www.youtube.com/watch?v=ERj3QeGw9Ok",
+                    "https://www.youtube.com/watch?v=Cn_lucBscH4",
+                    "https://www.youtube.com/watch?v=KZ-ArH19Kvs"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "12,770",
+                    "content creator": "Jordan B Peterson",
+                    "date": "Jan 12, 2022",
+                    "description": "It\u2019s mid January, 2022. I wrote this column this week for one of Canada\u2019s major newspapers, the National Post, and thought I\u2019d read it for those of you who want to watch or listen. \n\nLink to National Post article: ",
+                    "dislikes": " Unavailable",
+                    "id": "xu3ux1h_caU",
+                    "likes": "60,709 likes",
+                    "title": "It's Time to Live",
+                    "url": "https://www.youtube.com/watch?v=xu3ux1h_caU",
+                    "video_length": 628.901,
+                    "views": "552,440 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=vDNSnMTem98",
+              "sampled_type": "curated",
+              "title": "Is Everything Better Than We Think? | Bjorn Lomborg - Jordan B Peterson Podcast S4 E16",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=0Te5al2APrQ",
+                "https://www.youtube.com/watch?v=pLbSlC0Pucw",
+                "https://www.youtube.com/watch?v=SEjNVWV5jbs",
+                "https://www.youtube.com/watch?v=xu3ux1h_caU",
+                "https://www.youtube.com/watch?v=4O-UZGnv9O0",
+                "https://www.youtube.com/watch?v=SF_SwujfiYk",
+                "https://www.youtube.com/watch?v=NGIP-3Q-p_s",
+                "https://www.youtube.com/watch?v=dHXxtyUVTGU",
+                "https://www.youtube.com/watch?v=TJg9wd8agQY",
+                "https://www.youtube.com/watch?v=EJsC-buIkSE"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "3,641",
+                "content creator": "Jordan B Peterson",
+                "date": "Apr 26, 2021",
+                "description": "Bjorn Lomborg's newest book \"False Alarm\" available here: https://www.amazon.com/False-Alarm-Cl...",
+                "dislikes": " Unavailable",
+                "id": "vDNSnMTem98",
+                "likes": "22,386 likes",
+                "title": "Is Everything Better Than We Think? | Bjorn Lomborg - Jordan B Peterson Podcast S4 E16",
+                "url": "https://www.youtube.com/watch?v=vDNSnMTem98",
+                "video_length": 6859.721,
+                "views": "640,708 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=0Te5al2APrQ",
+          "sampled_type": "curated",
+          "title": "Keeping Your Cool on the Climate Debate with Bjorn Lomborg",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=-1jAOJHvll0",
+            "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+            "https://www.youtube.com/watch?v=N-yALPEpV4w",
+            "https://www.youtube.com/watch?v=kasiov0ytEc",
+            "https://www.youtube.com/watch?v=vDNSnMTem98",
+            "https://www.youtube.com/watch?v=BQSjO5-sSOY",
+            "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+            "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+            "https://www.youtube.com/watch?v=E5K5i5Wv7jQ",
+            "https://www.youtube.com/watch?v=seBbVDlU8Pc"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "351",
+            "content creator": "Hoover Institution",
+            "date": "Mar 10, 2021",
+            "description": "Recorded on March 4, 2021\n\nDr. Bjorn Lomborg is president of the Copenhagen Consensus Center, visiting fellow at the Hoover Institution, Stanford University, and visiting professor at Copenhagen Business School. He\u2019s also been speaking and writing about climate science for almost 20 years. In this wide-ranging discussion with Peter Robinson, Lomborg analyzes the Biden administration\u2019s plan to address climate change, lauds a slew of new clean energy technologies that are coming in the next decade, and discusses the upsides\u2014and the downsides\u2014of migrating the world from a carbon-based economy to one based on electricity generated by clean energy sources. \n\nFor further information: ",
+            "dislikes": " Unavailable",
+            "id": "0Te5al2APrQ",
+            "likes": "14,090 likes",
+            "title": "Keeping Your Cool on the Climate Debate with Bjorn Lomborg",
+            "url": "https://www.youtube.com/watch?v=0Te5al2APrQ",
+            "video_length": 3956.201,
+            "views": "884,391 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=jBRodbaI5uA",
+      "sampled_type": "curated",
+      "title": "The Bankrupting of America",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=0Te5al2APrQ",
+        "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+        "https://www.youtube.com/watch?v=BQSjO5-sSOY",
+        "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+        "https://www.youtube.com/watch?v=dtpiK0sbCnU",
+        "https://www.youtube.com/watch?v=y7bfKzD4FmM",
+        "https://www.youtube.com/watch?v=UilCdxAgf2U",
+        "https://www.youtube.com/watch?v=HeGVeBWECu8",
+        "https://www.youtube.com/watch?v=0X8pmPHyKFQ",
+        "https://www.youtube.com/watch?v=EUTo1urxwPo"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,364",
+        "content creator": "PragerU",
+        "date": "Premiered Oct 11, 2021",
+        "description": "What happens when you spend money you don\u2019t have? Everyone knows the answer to that question. But what happens when the government does it on an unprecedented scale? Sooner or later, all debts have to be repaid. The question is, who\u2019s going to foot the bill? Economist Stephen Moore has the answer.\n\n\ud83d\udea8  PragerU is experiencing severe censorship on Big Tech platforms. Go to ",
+        "dislikes": " Unavailable",
+        "id": "jBRodbaI5uA",
+        "likes": "11,360 likes",
+        "title": "The Bankrupting of America",
+        "url": "https://www.youtube.com/watch?v=jBRodbaI5uA",
+        "video_length": 349.841,
+        "views": "7,030,836 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

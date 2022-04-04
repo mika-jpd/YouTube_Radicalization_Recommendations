@@ -1,0 +1,982 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=a8WGz3cEpuo",
+                          "title": "Classics Summarized: Dante's Paradiso",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=PmdzptbykzI",
+                            "https://www.youtube.com/watch?v=zqllxbPWKNI",
+                            "https://www.youtube.com/watch?v=7gDKbT_l2us",
+                            "https://www.youtube.com/watch?v=9-AGIUNsGgA&list=PLDb22nlVXGgf9AEdrPlhw697zScQtFHa7",
+                            "https://www.youtube.com/watch?v=a8WGz3cEpuo&list=RDCMUCodbH5mUeF-m_BsNueRDjcw&start_radio=1&rv=a8WGz3cEpuo",
+                            "https://www.youtube.com/watch?v=-NMDtsPgfD0",
+                            "https://www.youtube.com/watch?v=vs2TkXBYT9A",
+                            "https://www.youtube.com/watch?v=tiGMX6-7VFE",
+                            "https://www.youtube.com/watch?v=QRruBVFXjnY",
+                            "https://www.youtube.com/watch?v=XwMjPWOailQ"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "3,952",
+                            "content creator": "Overly Sarcastic Productions",
+                            "date": "Jun 28, 2015",
+                            "description": "At last! The thrilling conclusion!\n\nOh god this took so long D:\n\nHave requests? Put 'em in the comments!",
+                            "dislikes": " Unavailable",
+                            "id": "a8WGz3cEpuo",
+                            "likes": "59,786 likes",
+                            "title": "Classics Summarized: Dante's Paradiso",
+                            "url": "https://www.youtube.com/watch?v=a8WGz3cEpuo",
+                            "video_length": 748.261,
+                            "views": "2,362,978 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=8-ImAfevCOM",
+                      "title": "Classics Summarized: Dante's Purgatorio",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=a8WGz3cEpuo",
+                        "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+                        "https://www.youtube.com/watch?v=tKFhhYvOBcQ",
+                        "https://www.youtube.com/watch?v=8-ImAfevCOM&list=RDCMUCodbH5mUeF-m_BsNueRDjcw&start_radio=1&rv=8-ImAfevCOM",
+                        "https://www.youtube.com/watch?v=9-AGIUNsGgA&list=PLDb22nlVXGgf9AEdrPlhw697zScQtFHa7",
+                        "https://www.youtube.com/watch?v=8pTLhim5c4g",
+                        "https://www.youtube.com/watch?v=PmdzptbykzI",
+                        "https://www.youtube.com/watch?v=61nuXrvqNgI",
+                        "https://www.youtube.com/watch?v=ofiD-cD4LH8",
+                        "https://www.youtube.com/watch?v=Z4dAMMkqPoY"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "1,738",
+                        "content creator": "Overly Sarcastic Productions",
+                        "date": "Apr 24, 2015",
+                        "description": "Funny story: That half-second-long scream? Took me about four hours to record. I'm really bad at screaming and/or laughing on demand, so I sat down with some videos of the Game Grumps playing horror games and recorded my reactions to use whenever I need them. I now have a fifteen-second sound file of laughter and screams with varying degrees of shameful girliness.\n\nPart 2 of the centuries-old trilogy has finally been summarized! Surely you've awaited this moment with bated breath. As always, I am happy to oblige.",
+                        "dislikes": " Unavailable",
+                        "id": "8-ImAfevCOM",
+                        "likes": "51,125 likes",
+                        "title": "Classics Summarized: Dante's Purgatorio",
+                        "url": "https://www.youtube.com/watch?v=8-ImAfevCOM",
+                        "video_length": 537.701,
+                        "views": "2,647,773 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=gp8JGQk0CFQ",
+                  "title": "Classics Summarized: Dante's Inferno",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=8-ImAfevCOM",
+                    "https://www.youtube.com/watch?v=tiGMX6-7VFE",
+                    "https://www.youtube.com/watch?v=faSrRHw6eZ8",
+                    "https://www.youtube.com/watch?v=gp8JGQk0CFQ&list=RDLVgp8JGQk0CFQ&start_radio=1&rv=gp8JGQk0CFQ",
+                    "https://www.youtube.com/watch?v=61nuXrvqNgI",
+                    "https://www.youtube.com/watch?v=DcqMp_D5pdE",
+                    "https://www.youtube.com/watch?v=PmdzptbykzI",
+                    "https://www.youtube.com/watch?v=9-AGIUNsGgA&list=PLDb22nlVXGgf9AEdrPlhw697zScQtFHa7",
+                    "https://www.youtube.com/watch?v=ZsaFUEq5UEo",
+                    "https://www.youtube.com/watch?v=_KZqzk7p2uY"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,299",
+                    "content creator": "Overly Sarcastic Productions",
+                    "date": "Mar 21, 2015",
+                    "description": "BREAKING NEWS: Overly Sarcastic Productions has a twitter now! Check it out: https://www.twitter.com/OSPyoutube/",
+                    "dislikes": " Unavailable",
+                    "id": "gp8JGQk0CFQ",
+                    "likes": "104,446 likes",
+                    "title": "Classics Summarized: Dante's Inferno",
+                    "url": "https://www.youtube.com/watch?v=gp8JGQk0CFQ",
+                    "video_length": 762.541,
+                    "views": "4,899,844 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=aKB6WduDwNE",
+              "title": "History Summarized: Persistence of Judaism",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=gp8JGQk0CFQ",
+                "https://www.youtube.com/watch?v=A86fIELxFds",
+                "https://www.youtube.com/watch?v=qRr538aPIfk&list=PLDb22nlVXGgd0-Obov_tdEh1cNKIvXcMm",
+                "https://www.youtube.com/watch?v=rJfj47PnsJY",
+                "https://www.youtube.com/watch?v=uZ-yjGDrRM8",
+                "https://www.youtube.com/watch?v=aKB6WduDwNE&list=RDLVaKB6WduDwNE&start_radio=1&rv=aKB6WduDwNE",
+                "https://www.youtube.com/watch?v=AsR-C9WtoKg",
+                "https://www.youtube.com/watch?v=_6_KKLeRgbk",
+                "https://www.youtube.com/watch?v=0VAylWxDQfk",
+                "https://www.youtube.com/watch?v=H0AGjuuX1q8"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,844",
+                "content creator": "Overly Sarcastic Productions",
+                "date": "Apr 7, 2017",
+                "description": "Gooooood morning everybody! Today, Blue finishes the trilogy of Abrahamic religions with a video summarizing the history of the Hebrew people and the Jewish faith. There's a lot of ground to cover, so fasten your seatbelts for a twenty-minute rundown of the facts, the theories, and the ever-so-popular misconceptions!\n\nLook forward to next time, when Blue brings it all together to talk about Religious Wars and Religious Philosophy!\n\nPATREON: www.patreon.com/user?u=4664797\n\nMERCH LINKS:\nShirts - ",
+                "dislikes": " Unavailable",
+                "id": "aKB6WduDwNE",
+                "likes": "25,137 likes",
+                "title": "History Summarized: Persistence of Judaism",
+                "url": "https://www.youtube.com/watch?v=aKB6WduDwNE",
+                "video_length": 1234.621,
+                "views": "904,783 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=A86fIELxFds",
+          "title": "History Summarized: Spread of Christianity",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=aKB6WduDwNE",
+            "https://www.youtube.com/watch?v=AsR-C9WtoKg",
+            "https://www.youtube.com/watch?v=A86fIELxFds&list=RDLVA86fIELxFds&start_radio=1&rv=A86fIELxFds",
+            "https://www.youtube.com/watch?v=rqBRUEmVzmU",
+            "https://www.youtube.com/watch?v=aq4G-7v-_xI",
+            "https://www.youtube.com/watch?v=qRr538aPIfk&list=PLDb22nlVXGgd0-Obov_tdEh1cNKIvXcMm",
+            "https://www.youtube.com/watch?v=-NMDtsPgfD0",
+            "https://www.youtube.com/watch?v=7LZbSbatwSg",
+            "https://www.youtube.com/watch?v=V4niY5Uq95k",
+            "https://www.youtube.com/watch?v=7cHK4xzAhzE"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "3,083",
+            "content creator": "Overly Sarcastic Productions",
+            "date": "Jan 10, 2017",
+            "description": "Things I learned when making this video: 1) when your script goes beyond 4 single-spaced pages, you're heading into the danger zone 2) Gregorian Chants are awesome and you should totally listen to them, 3) editing always takes longer than you'd hope 4) self care is huffing frankincense for breakfast lunch and dinner and single-handedly sacking a levantine city!\nHave a question about something I mentioned, or maybe something I might have left out? Leave it down below and I'll do my best to respond!\n\nPATREON: ",
+            "dislikes": " Unavailable",
+            "id": "A86fIELxFds",
+            "likes": "29,012 likes",
+            "title": "History Summarized: Spread of Christianity",
+            "url": "https://www.youtube.com/watch?v=A86fIELxFds",
+            "video_length": 1214.381,
+            "views": "1,238,939 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=wZhyDIIkeLo",
+      "title": "History Summarized: The Crusades",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=A86fIELxFds",
+        "https://www.youtube.com/watch?v=ULkgIpTg0_M",
+        "https://www.youtube.com/watch?v=B7myRRt0Mn8",
+        "https://www.youtube.com/watch?v=iU2IJb4GoC0",
+        "https://www.youtube.com/watch?v=wZhyDIIkeLo&list=RDLVwZhyDIIkeLo&start_radio=1&rv=wZhyDIIkeLo",
+        "https://www.youtube.com/watch?v=qRr538aPIfk&list=PLDb22nlVXGgd0-Obov_tdEh1cNKIvXcMm",
+        "https://www.youtube.com/watch?v=aKB6WduDwNE",
+        "https://www.youtube.com/watch?v=PmdzptbykzI",
+        "https://www.youtube.com/watch?v=_uk_6vfqwTA",
+        "https://www.youtube.com/watch?v=mzGVpkYiJ9w"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "2,093",
+        "content creator": "Overly Sarcastic Productions",
+        "date": "Jun 11, 2017",
+        "description": "Making a video exclusively about the crusades? That's a bold strategy, Blue, let's see how it pays off.\n\nRELEVANT LINKS:\nHistory Summarized: Islam: ",
+        "dislikes": " Unavailable",
+        "id": "wZhyDIIkeLo",
+        "likes": "20,391 likes",
+        "title": "History Summarized: The Crusades",
+        "url": "https://www.youtube.com/watch?v=wZhyDIIkeLo",
+        "video_length": 621.861,
+        "views": "789,320 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=3IG0Y63LkDM",
+                          "title": "Artists & Fandoms | Philosophy Tube",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=J1eyaVWpL2U",
+                            "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                            "https://www.youtube.com/watch?v=3IG0Y63LkDM&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=3IG0Y63LkDM",
+                            "https://www.youtube.com/watch?v=vetEHYRo1Kk",
+                            "https://www.youtube.com/watch?v=XGbHLZ9hZDk",
+                            "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                            "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                            "https://www.youtube.com/watch?v=Ly0YzGpi63M",
+                            "https://www.youtube.com/watch?v=hyaftqCORT4",
+                            "https://www.youtube.com/watch?v=ow41LswGA2g"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "5,415",
+                            "content creator": "Philosophy Tube",
+                            "date": "Premiered Mar 18, 2020",
+                            "description": "From Star Wars to Shakespeare to parasocial relationships and Twitter hate mobs https://www.patreon.com/PhilosophyTube",
+                            "dislikes": " Unavailable",
+                            "id": "3IG0Y63LkDM",
+                            "likes": "58,225 likes",
+                            "title": "Artists & Fandoms | Philosophy Tube",
+                            "url": "https://www.youtube.com/watch?v=3IG0Y63LkDM",
+                            "video_length": 2708.281,
+                            "views": "1,221,793 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                      "title": "The Trouble with the Video Game Industry | Philosophy Tube",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=3IG0Y63LkDM",
+                        "https://www.youtube.com/watch?v=IYkLVU5UGM8&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=IYkLVU5UGM8",
+                        "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                        "https://www.youtube.com/watch?v=YuScjF0Ixok",
+                        "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                        "https://www.youtube.com/watch?v=lF-D8tfMsFY",
+                        "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+                        "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                        "https://www.youtube.com/watch?v=wZoHGAK3k-I",
+                        "https://www.youtube.com/watch?v=JsNm2YLrk30"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "7,345",
+                        "content creator": "Philosophy Tube",
+                        "date": "Premiered Nov 29, 2019",
+                        "description": "https://curiositystream.com/philosoph...\nhttps://www.patreon.com/PhilosophyTube",
+                        "dislikes": " Unavailable",
+                        "id": "IYkLVU5UGM8",
+                        "likes": "75,236 likes",
+                        "title": "The Trouble with the Video Game Industry | Philosophy Tube",
+                        "url": "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                        "video_length": 1999.061,
+                        "views": "1,440,194 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                  "title": "HBO's Chernobyl & Personal Responsibility | Philosophy Tube",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                    "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+                    "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+                    "https://www.youtube.com/watch?v=tmk47kh7fiE",
+                    "https://www.youtube.com/watch?v=oENI8NnTx0w&list=RDLVoENI8NnTx0w&start_radio=1&rv=oENI8NnTx0w",
+                    "https://www.youtube.com/watch?v=AeGEv0YVLtw",
+                    "https://www.youtube.com/watch?v=KAFbpWVO-ow",
+                    "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                    "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                    "https://www.youtube.com/watch?v=m81q-ZkfBm0"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,037",
+                    "content creator": "Philosophy Tube",
+                    "date": "Premiered Sep 28, 2019",
+                    "description": "Power corrupts - literally https://www.patreon.com/PhilosophyTube\n\nSubscribe! http://tinyurl.com/pr99a46",
+                    "dislikes": " Unavailable",
+                    "id": "oENI8NnTx0w",
+                    "likes": "45,958 likes",
+                    "title": "HBO's Chernobyl & Personal Responsibility | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                    "video_length": 2010.781,
+                    "views": "1,080,758 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+              "title": "Steve Bannon | Philosophy Tube",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                "https://www.youtube.com/watch?v=AeGEv0YVLtw",
+                "https://www.youtube.com/watch?v=x2W7P3wGBI8",
+                "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+                "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+                "https://www.youtube.com/watch?v=BNhj_s8flUk",
+                "https://www.youtube.com/watch?v=tmk47kh7fiE"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "9,530",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Feb 4, 2019",
+                "description": "Alternate title - Why Do We Build the Wall?\nPatreon: http://www.patreon.com/PhilosophyTube",
+                "dislikes": " Unavailable",
+                "id": "wO6uD3c2qMo",
+                "likes": "70,302 likes",
+                "title": "Steve Bannon | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                "video_length": 2697.061,
+                "views": "2,152,648 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+          "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+            "https://www.youtube.com/watch?v=KAFbpWVO-ow",
+            "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+            "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+            "https://www.youtube.com/watch?v=q8NVy00tfdI",
+            "https://www.youtube.com/watch?v=PdYLRTGmQ3c",
+            "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+            "https://www.youtube.com/watch?v=bFeXJkcKYaU",
+            "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+            "https://www.youtube.com/watch?v=rfYvLlbXj_8&list=RDLVrfYvLlbXj_8&start_radio=1&rv=rfYvLlbXj_8"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "8,837",
+            "content creator": "Philosophy Tube",
+            "date": "Jul 1, 2020",
+            "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/philosophytube3\nSupport the show here! https://www.patreon.com/PhilosophyTube \ud83e\uddec\ud83d\ude49\ud83e\uddec\n\nSubscribe! ",
+            "dislikes": " Unavailable",
+            "id": "rfYvLlbXj_8",
+            "likes": "61,070 likes",
+            "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+            "url": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+            "video_length": 3686.141,
+            "views": "1,337,409 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=2o3pkoZyYRA",
+      "title": "Germany's Demographic Demise?",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+        "https://www.youtube.com/watch?v=wtV5ev6813I",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=1Jwo5qc78QU",
+        "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "https://www.youtube.com/watch?v=SiijS_9hPkM",
+        "https://www.youtube.com/watch?v=SB_OThWd-eA",
+        "https://www.youtube.com/watch?v=kasiov0ytEc",
+        "https://www.youtube.com/watch?v=I_HdqYCDcVE",
+        "https://www.youtube.com/watch?v=ejdlkfXwPQc"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "5,712",
+        "content creator": "Three Arrows",
+        "date": "Jan 6, 2019",
+        "description": "Is your favorite transnational organization trying to GENOCIDE your race?  \u0336O\u0336R\u0336D\u0336E\u0336R\u0336 \u0336N\u0336O\u0336W\u0336  Watch to find out!\n\n=Support me via=\n\u25ba Patreon: ",
+        "dislikes": " Unavailable",
+        "id": "2o3pkoZyYRA",
+        "likes": "22,924 likes",
+        "title": "Germany's Demographic Demise?",
+        "url": "https://www.youtube.com/watch?v=2o3pkoZyYRA",
+        "video_length": 2907.821,
+        "views": "532,536 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=sTB6K1kEPgs",
+                          "title": "Whiplash Fletcher Best Bits",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=4noaE0CdZUw",
+                            "https://www.youtube.com/watch?v=V35IaRhgZJU&pp=sAQB",
+                            "https://www.youtube.com/watch?v=3IKbkjs8xd0",
+                            "https://www.youtube.com/watch?v=nzJDXjpzIpM",
+                            "https://www.youtube.com/watch?v=VmeRYo10acg",
+                            "https://www.youtube.com/watch?v=i8HATRPJwAk",
+                            "https://www.youtube.com/watch?v=cISYzA36-ZY",
+                            "https://www.youtube.com/watch?v=SF0w2B6DNUE",
+                            "https://www.youtube.com/watch?v=_UiL7ErcPf0",
+                            "https://www.youtube.com/watch?v=GE6VHtUlO4M"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "2,699",
+                            "content creator": "OutForAMeal",
+                            "date": "Feb 9, 2015",
+                            "description": "The best of Fletcher!",
+                            "dislikes": " Unavailable",
+                            "id": "sTB6K1kEPgs",
+                            "likes": "32,723 likes",
+                            "title": "Whiplash Fletcher Best Bits",
+                            "url": "https://www.youtube.com/watch?v=sTB6K1kEPgs",
+                            "video_length": 405.621,
+                            "views": "3,168,742 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=7eEuds1Qtqk",
+                      "title": "Miles Teller & J.K. Simmons talk Whiplash | Film4 Interview Special",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=sTB6K1kEPgs",
+                        "https://www.youtube.com/watch?v=V35IaRhgZJU&pp=sAQB",
+                        "https://www.youtube.com/watch?v=7eEuds1Qtqk&list=RDCMUCnmDn3QFyDe4WJ44CsiSiiw&start_radio=1&rv=7eEuds1Qtqk",
+                        "https://www.youtube.com/watch?v=c3BhVSQjxFo",
+                        "https://www.youtube.com/watch?v=n-YNd5dCvhg",
+                        "https://www.youtube.com/watch?v=EBoMKkmJEMg",
+                        "https://www.youtube.com/watch?v=sR6UeVptzRg",
+                        "https://www.youtube.com/watch?v=rHmi3Z0R3Aw",
+                        "https://www.youtube.com/watch?v=RSDmo-gJ8XY",
+                        "https://www.youtube.com/watch?v=U-PSZuiWuhY"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "1,522",
+                        "content creator": "Film4",
+                        "date": "Dec 30, 2014",
+                        "description": "Director Damien Chazelle and stars Miles Teller and JK Simmons talk about making their intense drama Whiplash, set in the world of contemporary jazz.\n\nSubscribe to Film4 for more interviews, clips and trailers: ",
+                        "dislikes": " Unavailable",
+                        "id": "7eEuds1Qtqk",
+                        "likes": "33,188 likes",
+                        "title": "Miles Teller & J.K. Simmons talk Whiplash | Film4 Interview Special",
+                        "url": "https://www.youtube.com/watch?v=7eEuds1Qtqk",
+                        "video_length": 589.021,
+                        "views": "2,008,528 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=0x5zTiGHpBk",
+                  "title": "Undercover FBI Agent Recounts Taking Down El Chapo | Screen Written | Vanity Fair",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=7eEuds1Qtqk",
+                    "https://www.youtube.com/watch?v=Tgr7LTRWkLo",
+                    "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+                    "https://www.youtube.com/watch?v=CtWqv0Z3ErM",
+                    "https://www.youtube.com/watch?v=LkY_BkIb4QA",
+                    "https://www.youtube.com/watch?v=DD841NmJbjM",
+                    "https://www.youtube.com/watch?v=tpJcBozuF6A",
+                    "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+                    "https://www.youtube.com/watch?v=azZz3jhN28E",
+                    "https://www.youtube.com/watch?v=NrRTFMaL0LE"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "859",
+                    "content creator": "Vanity Fair",
+                    "date": "Mar 23, 2020",
+                    "description": "Retired undercover FBI agent, Mike McGowan, recalls the time he set-up a sting operation to take down Joaqu\u00edn \"El Chapo\" Guzm\u00e1n and the Sinaloa Cartel. From drug trafficking to a purple velour bathrobe, watch as Mike gives his account of the screenplay of his life.\n\nFor more on Mike's life undercover check out his book here:",
+                    "dislikes": " Unavailable",
+                    "id": "0x5zTiGHpBk",
+                    "likes": "18,451 likes",
+                    "title": "Undercover FBI Agent Recounts Taking Down El Chapo | Screen Written | Vanity Fair",
+                    "url": "https://www.youtube.com/watch?v=0x5zTiGHpBk",
+                    "video_length": 669.041,
+                    "views": "847,880 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Tgr7LTRWkLo",
+              "title": "Undercover FBI Agent Fact Checks Mob Movies & TV | Vanity Fair",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=0x5zTiGHpBk",
+                "https://www.youtube.com/watch?v=NrRTFMaL0LE",
+                "https://www.youtube.com/watch?v=WLoVHyuYVBY",
+                "https://www.youtube.com/watch?v=Q-AQ9DCoKQ8",
+                "https://www.youtube.com/watch?v=0EEYEW1B3To",
+                "https://www.youtube.com/watch?v=LHqbfJ3tq4Y",
+                "https://www.youtube.com/watch?v=nlnhnb9phBY",
+                "https://www.youtube.com/watch?v=CtWqv0Z3ErM",
+                "https://www.youtube.com/watch?v=aKW_THDHjXA",
+                "https://www.youtube.com/watch?v=_HZbkdEggHI"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,958",
+                "content creator": "Vanity Fair",
+                "date": "Feb 24, 2020",
+                "description": "Former undercover FBI agent, Mike McGowan, reviews notorious organized crime scenes from movies and television. He deep dives into \u2018Reservoir Dogs,\u2019 \u2018The Departed,\u2019 \u2018Donnie Brasco,\u2019 \u2018Boardwalk Empire,\u2019 \u2018The Sopranos,\u2019 \u2018Goodfellas,\u2019 \u2018Scarface,\u2019 \u2018The Irishman,\u2019 \u2018Billy Bathgate,\u2019 \u2018True Detective\u2019 and \u2018Narcos' and analyzes the probability, craft, and execution of their tactics.\n\nFor more on Mike's life undercover check out his book here:",
+                "dislikes": " Unavailable",
+                "id": "Tgr7LTRWkLo",
+                "likes": "50,086 likes",
+                "title": "Undercover FBI Agent Fact Checks Mob Movies & TV | Vanity Fair",
+                "url": "https://www.youtube.com/watch?v=Tgr7LTRWkLo",
+                "video_length": 1247.501,
+                "views": "2,827,509 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=CtWqv0Z3ErM",
+          "title": "Former Jewel Thief Reviews Famous Heist Movies, From \u2018Ocean\u2019s Eleven\u2019 to \u2018Heat\u2019",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Tgr7LTRWkLo",
+            "https://www.youtube.com/watch?v=LkY_BkIb4QA",
+            "https://www.youtube.com/watch?v=b5fNif_WGdc",
+            "https://www.youtube.com/watch?v=-C3CjOkF-jY",
+            "https://www.youtube.com/watch?v=rKFMa-GH0bQ",
+            "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+            "https://www.youtube.com/watch?v=Fgvdl87lqc8",
+            "https://www.youtube.com/watch?v=MQAVbwUTaYU",
+            "https://www.youtube.com/watch?v=u2ivR5B1PVs",
+            "https://www.youtube.com/watch?v=nlnhnb9phBY"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "9,915",
+            "content creator": "Vanity Fair",
+            "date": "Nov 7, 2019",
+            "description": "Former jewel thief, Larry Lawton, reviews scenes from famous heist movies including 'Ocean's Eleven,' 'The Italian Job,' 'Heat,' 'Fast Times at Ridgemont High,' 'The Thomas Crown Affair,' 'Come Hell or High Water,' and 'Snatch' and analyzes their probability, craft, and execution.\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+            "dislikes": " Unavailable",
+            "id": "CtWqv0Z3ErM",
+            "likes": "244,626 likes",
+            "title": "Former Jewel Thief Reviews Famous Heist Movies, From \u2018Ocean\u2019s Eleven\u2019 to \u2018Heat\u2019",
+            "url": "https://www.youtube.com/watch?v=CtWqv0Z3ErM",
+            "video_length": 1188.021,
+            "views": "10,858,743 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+      "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+      "top_10_recommended": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "video": {
+        "ad": null,
+        "comments": "4,518",
+        "content creator": "Vanity Fair",
+        "date": "Sep 30, 2021",
+        "description": "Casino game protection expert Sal Piacente reviews notorious card counting and casino game cheating scenes from films including 'Rain Man,' 'Rounders,' 'The Sting,' 'Austin Powers,' 'Casino,' 'Ocean's Thirteen,' 'The Cooler,' 'Runner Runner,' 'Now You See Me 2,' 'Shade' and '21.'\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "ki4Fbctwnjs",
+        "likes": "183,560 likes",
+        "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "video_length": 1404.421,
+        "views": "7,858,982 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=8XpnseaS3TI",
+                          "title": "Who Were The Great Invaders Of Ancient Egypt? | Immortal Egypt | Timeline",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=ZU2Roq-emxw",
+                            "https://www.youtube.com/watch?v=XdOxBCpk39c",
+                            "https://www.youtube.com/watch?v=WXuK6gekU1Y",
+                            "https://www.youtube.com/watch?v=xPRBQadLNIM",
+                            "https://www.youtube.com/watch?v=EiDnNUdeoag",
+                            "https://www.youtube.com/watch?v=KsDGDzwuQ-I",
+                            "https://www.youtube.com/watch?v=YymSvp0vosg",
+                            "https://www.youtube.com/watch?v=QDf5xMDFN_c",
+                            "https://www.youtube.com/watch?v=JOWFPTzK7D4",
+                            "https://www.youtube.com/watch?v=Wo6OO992ywI"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "2,873",
+                            "content creator": "Timeline - World History Documentaries",
+                            "date": "Aug 7, 2018",
+                            "description": "The historian reveals how Egypt's enemies exploited a country weakened by internal strife, travelling south to Sudan to examine the story of the forgotten Nubian kings, who ruled Egypt from their southern homeland for a century, even building their own pyramids to bury their monarchs. She then explores how the next group of invaders the Saites took the tradition of mummification to new extremes by preserving millions of animals, before Alexander the Great came to Egypt's rescue and founded the greatest city on Earth. \n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                            "dislikes": " Unavailable",
+                            "id": "8XpnseaS3TI",
+                            "likes": "24,899 likes",
+                            "title": "Who Were The Great Invaders Of Ancient Egypt? | Immortal Egypt | Timeline",
+                            "url": "https://www.youtube.com/watch?v=8XpnseaS3TI",
+                            "video_length": 3531.981,
+                            "views": "4,145,600 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=EiDnNUdeoag",
+                      "title": "The Tombs Of Egypt's Greatest Kings | Immortal Egypt | Timeline",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=8XpnseaS3TI",
+                        "https://www.youtube.com/watch?v=7BLKttn_cS8",
+                        "https://www.youtube.com/watch?v=-rZkdPXP6H4",
+                        "https://www.youtube.com/watch?v=k3QiW0gEpYM",
+                        "https://www.youtube.com/watch?v=EVBCLAaflaw",
+                        "https://www.youtube.com/watch?v=tRPu5u_Pizk",
+                        "https://www.youtube.com/watch?v=Wo6OO992ywI",
+                        "https://www.youtube.com/watch?v=BRIA_8oscIA",
+                        "https://www.youtube.com/watch?v=5OBsHnS5S4U",
+                        "https://www.youtube.com/watch?v=nS-CSJUht10"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "1,812",
+                        "content creator": "Timeline - World History Documentaries",
+                        "date": "Jul 31, 2018",
+                        "description": "Joann explores the peak of ancient Egyptian civilisation by looking at the Colossi of Memnon, two massive stone statues depicting Pharaoh Amenhotep III, and examining the lives of the workers and artisans involved in the building of the Valley of the Kings. This golden age was threatened by the growing power of Karnak's priests, and Joann reveals how Tutankhamen's early death was a chance for Egypt to start afresh and rewrite history, but was undermined by decades of state-sanctioned looting of the tombs.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                        "dislikes": " Unavailable",
+                        "id": "EiDnNUdeoag",
+                        "likes": "29,037 likes",
+                        "title": "The Tombs Of Egypt's Greatest Kings | Immortal Egypt | Timeline",
+                        "url": "https://www.youtube.com/watch?v=EiDnNUdeoag",
+                        "video_length": 3529.221,
+                        "views": "5,571,403 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=k3QiW0gEpYM",
+                  "title": "Why Did The Egyptians Stop Building Pyramids? | Immortal Egypt | Timeline",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=EiDnNUdeoag",
+                    "https://www.youtube.com/watch?v=ISdBAf-ysI0",
+                    "https://www.youtube.com/watch?v=Zn0GBm1ltIk",
+                    "https://www.youtube.com/watch?v=SPvJ-M-hU5w",
+                    "https://www.youtube.com/watch?v=quLhkqwtOg8",
+                    "https://www.youtube.com/watch?v=sm6AL5lA4Zc",
+                    "https://www.youtube.com/watch?v=kd2KEHvK-q8",
+                    "https://www.youtube.com/watch?v=tRPu5u_Pizk",
+                    "https://www.youtube.com/watch?v=UoIGbYv89bA",
+                    "https://www.youtube.com/watch?v=OQ9zng2S810"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,966",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Jul 24, 2018",
+                    "description": "The professor explores one of Saqqara's last pyramid complexes to illustrate how Ancient Egypt's `Pyramid Age' came to an end. A worsening climate combined with political upheaval, famine and economic difficulties to plunge the state into a dark era of civil war, with the land dividing into smaller city-states headed by ambitious small-town leaders. In an obscure tomb in Thebes, she uncovers the stories of warriors who fought in the bloody battle that would eventually lead to Egypt's reunification, and reveals how settlers known as the `Hyksos' tried to infiltrate the fledgling nation's government to seize the throne.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "k3QiW0gEpYM",
+                    "likes": "51,325 likes",
+                    "title": "Why Did The Egyptians Stop Building Pyramids? | Immortal Egypt | Timeline",
+                    "url": "https://www.youtube.com/watch?v=k3QiW0gEpYM",
+                    "video_length": 3528.861,
+                    "views": "8,538,563 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Wo6OO992ywI",
+              "title": "The Real Origins Of Ancient Egypt | Immortal Egypt | Timeline",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=k3QiW0gEpYM",
+                "https://www.youtube.com/watch?v=JOWFPTzK7D4",
+                "https://www.youtube.com/watch?v=vJybfmbrOCE",
+                "https://www.youtube.com/watch?v=hO1tzmi1V5g",
+                "https://www.youtube.com/watch?v=2fS9ixfQ_no",
+                "https://www.youtube.com/watch?v=E3ky-NwBEU4",
+                "https://www.youtube.com/watch?v=ojB5MDuf2xY",
+                "https://www.youtube.com/watch?v=nbBHdhFs1q0",
+                "https://www.youtube.com/watch?v=qp8ljHFDLFc",
+                "https://www.youtube.com/watch?v=EiDnNUdeoag"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "5,052",
+                "content creator": "Timeline - World History Documentaries",
+                "date": "Jul 18, 2018",
+                "description": "In the first episode, Professor Joann Fletcher goes in search of the building blocks of Egyptian civilisation and finds out what made ancient Egypt the incredible civilisation that it was.\n\nJoann sees how people here changed, in just a few centuries, from primitive farmers to pyramid builders and finds the early evidence for Egypt's amazing gods and obsession with death and the afterlife.\n\nOn her search, Joann travels almost 20,000 years back in time to discover north Africa's earliest rock art, she discovers how the first writing was used to calculate taxes and explores one of the first stone structures on earth - Egypt's first pyramid. Joann ends her journey in the largest monument of them all - the Great Pyramid. Here, she explains how Egypt had now reached a pinnacle - the ultimate society, creating one of the wonders of the ancient world.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                "dislikes": " Unavailable",
+                "id": "Wo6OO992ywI",
+                "likes": "40,077 likes",
+                "title": "The Real Origins Of Ancient Egypt | Immortal Egypt | Timeline",
+                "url": "https://www.youtube.com/watch?v=Wo6OO992ywI",
+                "video_length": 3527.621,
+                "views": "6,216,344 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=QLilwKbbr0M",
+          "title": "The Mystery Of The Dead Sea Scrolls | Dead Sea Scrolls (1/3) | Timeline",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Wo6OO992ywI",
+            "https://www.youtube.com/watch?v=XdOxBCpk39c",
+            "https://www.youtube.com/watch?v=ieXR3L_DLHk",
+            "https://www.youtube.com/watch?v=8p8tFcIQ8K4",
+            "https://www.youtube.com/watch?v=KsDGDzwuQ-I",
+            "https://www.youtube.com/watch?v=piAEzVOqHHU",
+            "https://www.youtube.com/watch?v=Qyrrdoqspdg",
+            "https://www.youtube.com/watch?v=w0Wmc8C0Eq0",
+            "https://www.youtube.com/watch?v=OIfsm2lZa54",
+            "https://www.youtube.com/watch?v=LRV185XaMIM"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,438",
+            "content creator": "Timeline - World History Documentaries",
+            "date": "Mar 24, 2018",
+            "description": "Ever since their discovery in 1947, the Dead Sea Scrolls have captured the imagination and interest of scholars and the public. After more than fifty years of research, the diverse perspectives of biblical scholarship, science, and technology will bring this legendary find to life.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+            "dislikes": " Unavailable",
+            "id": "QLilwKbbr0M",
+            "likes": "13,308 likes",
+            "title": "The Mystery Of The Dead Sea Scrolls | Dead Sea Scrolls (1/3) | Timeline",
+            "url": "https://www.youtube.com/watch?v=QLilwKbbr0M",
+            "video_length": 2967.661,
+            "views": "1,754,493 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=kKjbc66qp3Y",
+      "title": "The Dead Sea Scrolls // Ancient History Documentary",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=QLilwKbbr0M",
+        "https://www.youtube.com/watch?v=XdOxBCpk39c",
+        "https://www.youtube.com/watch?v=E2zrqzvtWio",
+        "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+        "https://www.youtube.com/watch?v=xwGJYIWhZDM",
+        "https://www.youtube.com/watch?v=PPySn3slfXI",
+        "https://www.youtube.com/watch?v=GG0LY8OLBG8",
+        "https://www.youtube.com/watch?v=WfRJEm96Lgo",
+        "https://www.youtube.com/watch?v=51VXjm5itcg",
+        "https://www.youtube.com/watch?v=Ezjb2sGZ-Ss"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "5,297",
+        "content creator": "History Time",
+        "date": "Sep 14, 2019",
+        "description": "Sponsored by MagellanTV - a new streaming service with 2,000+ documentaries worth watching. MagellanTV has extended an exclusive offer to History Time's viewers: Visit this link below to receive a first one-month FREE trial! \n\nMagellanTV - ",
+        "dislikes": " Unavailable",
+        "id": "kKjbc66qp3Y",
+        "likes": "46,635 likes",
+        "title": "The Dead Sea Scrolls // Ancient History Documentary",
+        "url": "https://www.youtube.com/watch?v=kKjbc66qp3Y",
+        "video_length": 3433.721,
+        "views": "3,681,068 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=AGvGQSazaTM",
+                          "title": "Flat Earth OR Why Do People Reject Science? | Philosophy Tube",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+                            "https://www.youtube.com/watch?v=erA3WQE9Zes",
+                            "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+                            "https://www.youtube.com/watch?v=HXXoO0FwUKQ",
+                            "https://www.youtube.com/watch?v=3c584TGG7jQ",
+                            "https://www.youtube.com/watch?v=tixOyiR8B-8",
+                            "https://www.youtube.com/watch?v=NNnIGh9g6fA",
+                            "https://www.youtube.com/watch?v=lwP9H9qTuUY",
+                            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+                            "https://www.youtube.com/watch?v=vetEHYRo1Kk"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "1,902",
+                            "content creator": "Philosophy Tube",
+                            "date": "Apr 13, 2018",
+                            "description": "Why do some people believe the globe is flat? What is the philosophical position known as Direct Realism, and how can optical illusions help us learn about what science is?\n\nSubscribe! ",
+                            "dislikes": " Unavailable",
+                            "id": "AGvGQSazaTM",
+                            "likes": "15,124 likes",
+                            "title": "Flat Earth OR Why Do People Reject Science? | Philosophy Tube",
+                            "url": "https://www.youtube.com/watch?v=AGvGQSazaTM",
+                            "video_length": 1187.301,
+                            "views": "441,623 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=mBcW_ylIN14",
+                      "title": "Marx Part 4: Beyond Capitalism | Philosophy Tube",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=AGvGQSazaTM",
+                        "https://www.youtube.com/watch?v=mBcW_ylIN14&list=RDLVmBcW_ylIN14&start_radio=1&rv=mBcW_ylIN14",
+                        "https://www.youtube.com/watch?v=CWF_0lkBhjY&list=PLvoAL-KSZ32f2WAqejJdLM2ByZWKpREt8",
+                        "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                        "https://www.youtube.com/watch?v=q-y2g9Ot5GA",
+                        "https://www.youtube.com/watch?v=gJW4-cOZt8A",
+                        "https://www.youtube.com/watch?v=Ly0YzGpi63M",
+                        "https://www.youtube.com/watch?v=lF-D8tfMsFY",
+                        "https://www.youtube.com/watch?v=5uRG4RB_Nvo",
+                        "https://www.youtube.com/watch?v=6P97r9Ci5Kg"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "852",
+                        "content creator": "Philosophy Tube",
+                        "date": "Mar 25, 2016",
+                        "description": "How will information technology affect capitalism and the future of economics? How did Thatcher and Reagan pave the way for David Cameron, Hillary Clinton, and the politics of today?\nMy Mad Marx Series: https://www.youtube.com/watch?v=CWF_0...\n\nSubscribe! ",
+                        "dislikes": " Unavailable",
+                        "id": "mBcW_ylIN14",
+                        "likes": "11,377 likes",
+                        "title": "Marx Part 4: Beyond Capitalism | Philosophy Tube",
+                        "url": "https://www.youtube.com/watch?v=mBcW_ylIN14",
+                        "video_length": 645.141,
+                        "views": "190,803 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=X98uzqpQ3JM",
+                  "title": "Marx Part 3: Cultural Marxism & Political Correctness | Philosophy Tube",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=mBcW_ylIN14",
+                    "https://www.youtube.com/watch?v=kasiov0ytEc",
+                    "https://www.youtube.com/watch?v=yvYtaM7Jlkc",
+                    "https://www.youtube.com/watch?v=fSQgCy_iIcc",
+                    "https://www.youtube.com/watch?v=dNraXId6uog",
+                    "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                    "https://www.youtube.com/watch?v=s4X-CSFTUfo",
+                    "https://www.youtube.com/watch?v=JsNm2YLrk30",
+                    "https://www.youtube.com/watch?v=vetEHYRo1Kk",
+                    "https://www.youtube.com/watch?v=HZh30qUuD2I"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,167",
+                    "content creator": "Philosophy Tube",
+                    "date": "Mar 18, 2016",
+                    "description": "What is Cultural Marxism? What is the conspiracy theory around the Frankfurt school; how is it linked to right wing white nationalism and political correctness?\nSubscribe! http://tinyurl.com/pr99a46",
+                    "dislikes": " Unavailable",
+                    "id": "X98uzqpQ3JM",
+                    "likes": "8,655 likes",
+                    "title": "Marx Part 3: Cultural Marxism & Political Correctness | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=X98uzqpQ3JM",
+                    "video_length": 462.881,
+                    "views": "236,340 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=yynYFEp8H6w",
+              "title": "Marx Part 2: Capitalism's Consequences | Philosophy Tube",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=X98uzqpQ3JM",
+                "https://www.youtube.com/watch?v=yynYFEp8H6w&list=RDLVyynYFEp8H6w&start_radio=1&rv=yynYFEp8H6w",
+                "https://www.youtube.com/watch?v=CWF_0lkBhjY&list=PLvoAL-KSZ32f2WAqejJdLM2ByZWKpREt8",
+                "https://www.youtube.com/watch?v=vJybfmbrOCE",
+                "https://www.youtube.com/watch?v=Ly0YzGpi63M",
+                "https://www.youtube.com/watch?v=nEnklxGAmak",
+                "https://www.youtube.com/watch?v=CWF_0lkBhjY",
+                "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                "https://www.youtube.com/watch?v=9dbGPzibXys",
+                "https://www.youtube.com/watch?v=HYNB4sAxemk"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "422",
+                "content creator": "Philosophy Tube",
+                "date": "Mar 11, 2016",
+                "description": "More economic philosophy from Karl Marx, talking about the problems of capitalism, Alienation, labour, and business.\nPart 1: Labour & Class Conflict - https://www.youtube.com/watch?v=CWF_0...\n\nSubscribe! ",
+                "dislikes": " Unavailable",
+                "id": "yynYFEp8H6w",
+                "likes": "9,238 likes",
+                "title": "Marx Part 2: Capitalism's Consequences | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=yynYFEp8H6w",
+                "video_length": 475.681,
+                "views": "260,982 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=CWF_0lkBhjY",
+          "title": "Marx Part 1: Labour & Class Conflict | Philosophy Tube",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=yynYFEp8H6w",
+            "https://www.youtube.com/watch?v=CWF_0lkBhjY&list=RDLVCWF_0lkBhjY&start_radio=1&rv=CWF_0lkBhjY",
+            "https://www.youtube.com/watch?v=vyl2DeKT-Vs",
+            "https://www.youtube.com/watch?v=L1jJXfufMzc",
+            "https://www.youtube.com/watch?v=W0GFSUu5UzA",
+            "https://www.youtube.com/watch?v=Z7NkILyjV2g",
+            "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+            "https://www.youtube.com/watch?v=4dHbLquRWHs",
+            "https://www.youtube.com/watch?v=gzALIXcY4pg",
+            "https://www.youtube.com/watch?v=lF-D8tfMsFY"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "912",
+            "content creator": "Philosophy Tube",
+            "date": "Mar 4, 2016",
+            "description": "Philosophy and economics! Part 1 of my series on Karl Marx. We talk about capitalism, exploitation, labour, and the working class.\nMore like this: http://tinyurl.com/nljmqsu",
+            "dislikes": " Unavailable",
+            "id": "CWF_0lkBhjY",
+            "likes": "15,717 likes",
+            "title": "Marx Part 1: Labour & Class Conflict | Philosophy Tube",
+            "url": "https://www.youtube.com/watch?v=CWF_0lkBhjY",
+            "video_length": 515.701,
+            "views": "493,612 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+      "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=CWF_0lkBhjY",
+        "https://www.youtube.com/watch?v=rfYvLlbXj_8&list=RDLVrfYvLlbXj_8&start_radio=1&rv=rfYvLlbXj_8",
+        "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+        "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+        "https://www.youtube.com/watch?v=d-7o9xYp7eE",
+        "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+        "https://www.youtube.com/watch?v=tixOyiR8B-8",
+        "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+        "https://www.youtube.com/watch?v=2G56_mQwyBM",
+        "https://www.youtube.com/watch?v=yZYQpge1W5s"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "8,837",
+        "content creator": "Philosophy Tube",
+        "date": "Jul 1, 2020",
+        "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/philosophytube3\nSupport the show here! https://www.patreon.com/PhilosophyTube \ud83e\uddec\ud83d\ude49\ud83e\uddec\n\nSubscribe! ",
+        "dislikes": " Unavailable",
+        "id": "rfYvLlbXj_8",
+        "likes": "61,070 likes",
+        "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+        "url": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+        "video_length": 3686.141,
+        "views": "1,337,414 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=ejdlkfXwPQc",
+  "title": "Were the Crusades Defensive? - A Response to Steven Crowder",
+  "top_10_recommended": [
+    "https://www.youtube.com/watch?v=wZhyDIIkeLo",
+    "https://www.youtube.com/watch?v=2o3pkoZyYRA",
+    "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+    "https://www.youtube.com/watch?v=kKjbc66qp3Y",
+    "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+    "https://www.youtube.com/watch?v=cXZ6BZzQeCQ",
+    "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+    "https://www.youtube.com/watch?v=sc-euVL8xQs",
+    "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+    "https://www.youtube.com/watch?v=JDy95_eNPzM"
+  ],
+  "video": {
+    "ad": null,
+    "comments": "10,258",
+    "content creator": "Three Arrows",
+    "date": "May 5, 2019",
+    "description": "From the confines of YouTube a horrible tale has gone forth...\n\n=Support me via=\n\u25ba Patreon: ",
+    "dislikes": " Unavailable",
+    "id": "ejdlkfXwPQc",
+    "likes": "37,186 likes",
+    "title": "Were the Crusades Defensive? - A Response to Steven Crowder",
+    "url": "https://www.youtube.com/watch?v=ejdlkfXwPQc",
+    "video_length": 3821.541,
+    "views": "952,836 views"
+  }
+}

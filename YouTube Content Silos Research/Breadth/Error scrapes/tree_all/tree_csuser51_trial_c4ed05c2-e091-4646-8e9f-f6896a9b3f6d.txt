@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=v9tM_YHvhuA",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=_HZbkdEggHI",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=Fgvdl87lqc8",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=NrRTFMaL0LE&list=RDCMUChTmMMt5nuRBEdmCItFHmAw&start_radio=1&rv=NrRTFMaL0LE",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=foBaW3YKokE",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=t93UCj1hzu8",
+                          "title": "Astronaut Chris Hadfield Answers the Web's Most Searched Questions | WIRED",
+                          "video": {
+                            "ad": null,
+                            "comments": "5,769",
+                            "content creator": "WIRED",
+                            "date": "Mar 13, 2020",
+                            "description": "Retired astronaut Chris Hadfield answers the internet's most searched questions about himself. What inspired Chris Hadfield to become an astronaut? What did Chris Hadfield learn in space? What awards has he won? What's his IQ? Chris answers all these questions and much, much more!\n\nIf you\u2019re interested in learning more about Chris Hadfield his first book, New York Times bestseller 'An Astronaut's Guide To Life On Earth' has been translated into 25 different languages. And if your children are interested, Chris's second book, 'The Darkest Dark,' is a New York Times bestselling children's book. His website is ",
+                            "dislikes": " Unavailable",
+                            "id": "t93UCj1hzu8",
+                            "likes": "110,488 likes",
+                            "title": "Astronaut Chris Hadfield Answers the Web's Most Searched Questions | WIRED",
+                            "url": "https://www.youtube.com/watch?v=t93UCj1hzu8",
+                            "video_length": 2388,
+                            "views": "4,379,314 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=dIMrWQCJ_mA",
+                          "title": "Meteorologist Breaks Down Natural Disasters in Movies & TV | GQ",
+                          "video": {
+                            "ad": null,
+                            "comments": "5,693",
+                            "content creator": "GQ",
+                            "date": "Mar 31, 2021",
+                            "description": "Meteorologist David Yeomans breaks down natural disaster scenes from movies and television, including 'Mad Max: Fury Road,' 'The Day After Tomorrow,' 'The Crown,' 'Only the Brave,' 'Twister,' 'The Wolf of Wall Street,' 'War of the Worlds,' 'The Impossible,' 'Dante's Peak' and 'Everest.' \n\nFollow David on Social:\nIG: @DavidYeomansWeather\nFB: ",
+                            "dislikes": " Unavailable",
+                            "id": "dIMrWQCJ_mA",
+                            "likes": "109,689 likes",
+                            "title": "Meteorologist Breaks Down Natural Disasters in Movies & TV | GQ",
+                            "url": "https://www.youtube.com/watch?v=dIMrWQCJ_mA",
+                            "video_length": 2769.341,
+                            "views": "4,111,881 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=xPGdOXstSyk",
+                          "title": "Ancient Warfare Expert Rates 10 Battle Tactics In Movies And TV | How Real Is It?",
+                          "video": {
+                            "ad": null,
+                            "comments": "11,477",
+                            "content creator": "Insider",
+                            "date": "Feb 2, 2021",
+                            "description": "Roel Konijnendijk, who has a doctorate in ancient history and is a lecturer at the University of Oxford's New College, rates 10 ancient-warfare scenes in movies and shows for realism. \n\nKonijnendijk rates the realism of tactics portrayed in films such as \u201c300\" (2006), \"Alexander\" (2004), and \"Braveheart\" (1995). He breaks down the martial arts prowess of stars such as Brad Pitt in \"Troy\" (2004), Orlando Bloom in \"Kingdom of Heaven\" (2005), and Russell Crowe in \"Gladiator\" (2000).\n\nHe also looks at some fantastical scenes such as the battle of Helm's Deep from \"The Lord of the Rings: The Two Towers\" (2002) and the battle of Winterfell from \"Game of Thrones.\" Konijnendijk analyzes the historical accuracy of scenes from \"The Last Kingdom\" (2015) and \"Red Cliff\" (2008), and he rates the realism of the military formations, tactics, movements, and weaponry of each scene.\n\nFind out more about Konijnendijk here: ",
+                            "dislikes": " Unavailable",
+                            "id": "xPGdOXstSyk",
+                            "likes": "116,012 likes",
+                            "title": "Ancient Warfare Expert Rates 10 Battle Tactics In Movies And TV | How Real Is It?",
+                            "url": "https://www.youtube.com/watch?v=xPGdOXstSyk",
+                            "video_length": 1233.761,
+                            "views": "4,500,384 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=Sbp_EeBk-As",
+                          "title": "Psychiatrist Breaks Down Mental Health Scenes From Movies & TV | GQ",
+                          "video": {
+                            "ad": null,
+                            "comments": "11,148",
+                            "content creator": "GQ",
+                            "date": "Feb 16, 2021",
+                            "description": "Psychiatrist Eric Bender breaks down mental health scenes from movies and TV, including 'Joker,' 'The Undoing,' 'BoJack Horseman,' 'Rain Man,' 'As Good as it Gets,' 'Girl Interrupted,' 'Inside Out,' 'Lars and the Real Girl,' 'Silver Linings Playbook' and 'A Beautiful Mind.' \n\nFollow Eric on Social:\nTwitter- @BTdocs\nwww.doctorericbender.com \nwww.broadcastthought.com\n\nStill haven\u2019t subscribed to GQ on YouTube? \u25ba\u25ba ",
+                            "dislikes": " Unavailable",
+                            "id": "Sbp_EeBk-As",
+                            "likes": "250,897 likes",
+                            "title": "Psychiatrist Breaks Down Mental Health Scenes From Movies & TV | GQ",
+                            "url": "https://www.youtube.com/watch?v=Sbp_EeBk-As",
+                            "video_length": 2481.501,
+                            "views": "6,172,495 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=NrRTFMaL0LE",
+                          "title": "WW2 Historian James Holland Breaks Down World War 2 Movies",
+                          "video": {
+                            "ad": null,
+                            "comments": "2,136",
+                            "content creator": "Penguin Books UK",
+                            "date": "Nov 4, 2021",
+                            "description": "Historian James Holland breaks down some scenes from movies that depict the Second World War, including 'Saving Private Ryan', 'The Imitation Game', 'Jojo Rabbit', 'Downfall' and 'Dunkirk'. His book, Brother in Arms, is available to buy now: https://amzn.to/3nULtqp",
+                            "dislikes": " Unavailable",
+                            "id": "NrRTFMaL0LE",
+                            "likes": "28,380 likes",
+                            "title": "WW2 Historian James Holland Breaks Down World War 2 Movies",
+                            "url": "https://www.youtube.com/watch?v=NrRTFMaL0LE",
+                            "video_length": 772.481,
+                            "views": "995,926 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=DPPnrDdNoUU",
+                      "title": "The Genius of Einstein: The Science, His Brain, the Man",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,315",
+                        "content creator": "World Science Festival",
+                        "date": "Mar 12, 2015",
+                        "description": "What made Albert Einstein one of the greatest scientific geniuses the world has ever known? His scientific breakthroughs revolutionized the way we understand the universe. The World Science Festival, in partnership with the 92Y\u2019s 7 Days of Genius Festival, presents an in-depth look into the genius of Einstein. Join physicist Brian Greene, neurologist Frederick Lepore and author and filmmaker Thomas Levenson for a lively and informative conversation on the science, the brain and the life of one of history\u2019s most fascinating men. Moderated by Cynthia McFadden of NBC News.\n\nSubscribe to our YouTube Channel for all the latest from WSF.\nVisit our Website: ",
+                        "dislikes": " Unavailable",
+                        "id": "DPPnrDdNoUU",
+                        "likes": "11,718 likes",
+                        "title": "The Genius of Einstein: The Science, His Brain, the Man",
+                        "url": "https://www.youtube.com/watch?v=DPPnrDdNoUU",
+                        "video_length": 4961.941,
+                        "views": "1,431,896 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                      "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                      "video": {
+                        "ad": null,
+                        "comments": "14,583",
+                        "content creator": "OxfordUnion",
+                        "date": "Jun 24, 2018",
+                        "description": "SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion\nOxford Union on Facebook: https://www.facebook.com/theoxfordunion\nOxford Union on Twitter: @OxfordUnion\nWebsite: ",
+                        "dislikes": " Unavailable",
+                        "id": "UZMIbo_DxJk",
+                        "likes": "102,975 likes",
+                        "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                        "url": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                        "video_length": 4550,
+                        "views": "8,791,263 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5OBsHnS5S4U",
+                      "title": "The Endurance: A Legendary Story Of Survival | Shackleton's Captain | Timeline",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,509",
+                        "content creator": "Timeline - World History Documentaries",
+                        "date": "Sep 28, 2021",
+                        "description": "Captain Frank Worsley signs on as Captain of the Endurance to navigate Sir Ernest Shackleton and his crew to Antarctica. Learn how when the expedition ship is crushed; Worsley's seamanship and navigational skills saves them all.\n\n\ud83d\udcfa It's like Netflix for history... Sign up to History Hit, the world's best history documentary service and get 50% off using the code 'TIMELINE' ",
+                        "dislikes": " Unavailable",
+                        "id": "5OBsHnS5S4U",
+                        "likes": "12,579 likes",
+                        "title": "The Endurance: A Legendary Story Of Survival | Shackleton's Captain | Timeline",
+                        "url": "https://www.youtube.com/watch?v=5OBsHnS5S4U",
+                        "video_length": 3130.821,
+                        "views": "1,085,440 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=zruhc7XqSxo",
+                      "title": "Richard Dawkins versus Rowan Williams: Humanity's ultimate origins",
+                      "video": {
+                        "ad": null,
+                        "comments": "78",
+                        "content creator": "University of Oxford",
+                        "date": "Nov 7, 2012",
+                        "description": "The Archbishop of Canterbury, Professor Richard Dawkins and Sir Anthony Kenny discuss \"The Nature of Human Beings and the Question of their Ultimate Origin\". Held at the Sheldonian Theatre, Oxford in Feb 2012.",
+                        "dislikes": " Unavailable",
+                        "id": "zruhc7XqSxo",
+                        "likes": "6,006 likes",
+                        "title": "Richard Dawkins versus Rowan Williams: Humanity's ultimate origins",
+                        "url": "https://www.youtube.com/watch?v=zruhc7XqSxo",
+                        "video_length": 5287.961,
+                        "views": "1,100,168 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+                      "title": "Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",
+                      "video": {
+                        "ad": null,
+                        "comments": "19,325",
+                        "content creator": "Vanity Fair",
+                        "date": "Mar 24, 2020",
+                        "description": "Retired astronaut and engineer Chris Hadfield fact checks notable space movies using his NASA experience and vast knowledge of outer space, including \u2019Gravity,\u2019 \u2018Passengers,\u2019 \u2018Armageddon,\u2019 \u2018The Martian,\u2019 \u2018Interstellar,\u2019 \u2018First Man,\u2019 \u2018Hidden Figures,\u2019 \u2018Ad Astra,\u2019 \u20182001: A Space Odyssey,\u2019 'Sunshine' and \u2018WALL-E.\u2019\n\nChris Hadfield's New York Times bestseller 'An Astronaut's Guide To Life On Earth' has been translated into 25 different languages. Visit chrishadfield.ca for more information.\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+                        "dislikes": " Unavailable",
+                        "id": "3RkhZgRNC1k",
+                        "likes": "321,707 likes",
+                        "title": "Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",
+                        "url": "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+                        "video_length": 2156.941,
+                        "views": "10,460,339 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=CAD25s53wmE",
+                  "title": "Cosmic Quandaries with Dr. Neil deGrasse Tyson",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,000",
+                    "content creator": "St. Petersburg College",
+                    "date": "May 7, 2009",
+                    "description": "http://www.youtube.com/user/StPetersb...\n\nAn out of this world event, Cosmic Quandaries, held at The Palladium in St. Petersburg at 7 p.m. on Wednesday, March 26th drew in an audience of nearly 800! With a one in a million chance of meeting one of only 6,000 astrophysicists in the world, audience members were lined up in order to have the opportunity to ask Dr. Neil deGrasse Tyson a question on any and all galactic wonders they may have.\n\nAbout St. Petersburg College:\nIn 1927, St. Petersburg College (then known as St. Petersburg Junior College) became Florida's first private, non-profit, two-year school of higher learning located in downtown St. Petersburg. Full accreditation followed in 1931 and in 1948 SPC became a public college. \nIn June 2001, SPJC officially became St. Petersburg College when Florida's governor signed legislation making it the first community college in Florida to offer four-year degrees. On Dec. 11, 2001, the college received the Southern Association of Colleges and Schools' accreditation to offer courses leading to bachelor's degrees.\nIn 2002, St. Petersburg College began offering courses leading to bachelor's degrees in Education, Nursing and Technology Management. The college's commitment to its two-year curriculum, which has earned it wide recognition and annually wins it high national rankings, remains as strong as ever.\nToday, SPC has eight learning sites throughout Pinellas County and recently became the first college in Florida to offer a four-year degree in Dental Hygiene. This program's offerings augment its two-year program, which has been in operation since 1963. SPC added four-year degrees in Veterinary Technology, Public Safety Administration and Orthotics and Prosthetics in 2005.\nCollege Accreditation\nSt. Petersburg College is accredited by the Commission on Colleges of the Southern Association of Colleges and Schools to award associates degrees and to offer courses leading to bachelor's degrees in the following areas: Banking, Nursing, Business Administration, Orthotics & Prosthetics, Elementary/Secondary Education, Paralegal Studies. Educational Studies. Post-Baccalaureate Teacher Certification. Dental Hygiene. Public Safety Administration. Health Services Administration. Sustainability Management. International Business. Technology Management. Management & Organizational Leadership. Veterinary Technology.\n \nSPC also offers access to junior and senior level courses for bachelors and graduate degrees at the University Partnership Center. The UPC partners with the University of South Florida, University of South Florida at St. Petersburg, Eckerd College, University of Florida, Florida State University, Embry-Riddle Aeronautical University, University of Central Florida, Florida International University, Florida A&M University, Saint Leo University, Florida Gulf Coast University, Florida Institute of Technology, Barry University, Case Western Reserve University, Cleveland State University, Indiana University, and St. Petersburg College.",
+                    "dislikes": " Unavailable",
+                    "id": "CAD25s53wmE",
+                    "likes": "18,117 likes",
+                    "title": "Cosmic Quandaries with Dr. Neil deGrasse Tyson",
+                    "url": "https://www.youtube.com/watch?v=CAD25s53wmE",
+                    "video_length": 5280,
+                    "views": "3,322,474 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=ErZq2ZQQTrs",
+                  "title": "\"Space Chronicles: Facing the Ultimate Frontier\" - Neil deGrasse Tyson",
+                  "video": {
+                    "ad": null,
+                    "comments": "762",
+                    "content creator": "SpinSnip",
+                    "date": "Jun 3, 2012",
+                    "description": "Neil deGrasse Tyson talks about the history and future of NASA and the US space program at the American Museum of Natural History in New York City.    He argues space science and exploration are more important than many think.",
+                    "dislikes": " Unavailable",
+                    "id": "ErZq2ZQQTrs",
+                    "likes": "5,452 likes",
+                    "title": "\"Space Chronicles: Facing the Ultimate Frontier\" - Neil deGrasse Tyson",
+                    "url": "https://www.youtube.com/watch?v=ErZq2ZQQTrs",
+                    "video_length": 8049.741,
+                    "views": "687,964 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=L3itkliz28w",
+                  "title": "Astrophysics for people in a hurry, Full Audiobook (Neil deGrasse Tyson)",
+                  "video": {
+                    "ad": null,
+                    "comments": "110",
+                    "content creator": "Stuff Worth Watching",
+                    "date": "May 24, 2021",
+                    "description": "Please check out my Patreon! I\u2019m trying to pay off my college loans, if you\u2019re feeling generous or find this video interesting, I\u2019d deeply appreciate it :D\n\n\ud83d\udc49",
+                    "dislikes": " Unavailable",
+                    "id": "L3itkliz28w",
+                    "likes": "2,070 likes",
+                    "title": "Astrophysics for people in a hurry, Full Audiobook (Neil deGrasse Tyson)",
+                    "url": "https://www.youtube.com/watch?v=L3itkliz28w",
+                    "video_length": 13263.321,
+                    "views": "131,813 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=AyAK3QBnMGQ&list=RDLVwp6cnp1kZBY&start_radio=1&rv=wp6cnp1kZBY",
+                  "title": "A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,851",
+                    "content creator": "92nd Street Y",
+                    "date": "May 10, 2017",
+                    "description": "Your support helps us keep our content free for all. Donate now: https://www.92y.org/donate",
+                    "dislikes": " Unavailable",
+                    "id": "AyAK3QBnMGQ&list",
+                    "likes": "49,668 likes",
+                    "title": "A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich",
+                    "url": "https://www.youtube.com/watch?v=AyAK3QBnMGQ&list=RDLVwp6cnp1kZBY&start_radio=1&rv=wp6cnp1kZBY",
+                    "video_length": 4961.681,
+                    "views": "5,936,231 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=z6kgvhG3AkI",
+                  "title": "Bill Nye Debates Ken Ham - HD (Official)",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Answers in Genesis",
+                    "date": "Streamed live on Feb 4, 2014",
+                    "description": "Starts at 13:14\n\nIs Creation a Viable Model of Origins in Today\u2019s Modern, Scientific Era?\n\nLeading creation apologist and bestselling Christian author Ken Ham hosted Emmy Award-winning science educator and CEO of the Planetary Society Bill Nye at the Creation Museum in February of 2014 for a live broadcast viewed by millions of people. \n\nWe've posted a list of recommended articles, videos, radio broadcasts, books, and other resources that answer the majority of Nye\u2019s statements and questions:",
+                    "dislikes": " Unavailable",
+                    "id": "z6kgvhG3AkI",
+                    "likes": "58,725 likes",
+                    "title": "Bill Nye Debates Ken Ham - HD (Official)",
+                    "url": "https://www.youtube.com/watch?v=z6kgvhG3AkI",
+                    "video_length": 9932.961,
+                    "views": "8,833,228 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=xq_kI2xpsJw",
+              "title": "Neil deGrasse Tyson with Bill Nye \u2014 COSMOS: Possible Worlds",
+              "video": {
+                "ad": null,
+                "comments": "1,673",
+                "content creator": "92nd Street Y",
+                "date": "Mar 19, 2020",
+                "description": "Astrophysicist icon Neil deGrasse Tyson joins science popularizer Bill Nye to talk about the return of COSMOS to television. Recorded March 9, 2020, at 92nd Street Y.\n\nSubscribe for more videos like this: ",
+                "dislikes": " Unavailable",
+                "id": "xq_kI2xpsJw",
+                "likes": "11,623 likes",
+                "title": "Neil deGrasse Tyson with Bill Nye \u2014 COSMOS: Possible Worlds",
+                "url": "https://www.youtube.com/watch?v=xq_kI2xpsJw",
+                "video_length": 3229,
+                "views": "957,317 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+              "title": "A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich",
+              "video": {
+                "ad": null,
+                "comments": "5,851",
+                "content creator": "92nd Street Y",
+                "date": "May 10, 2017",
+                "description": "Your support helps us keep our content free for all. Donate now: https://www.92y.org/donate",
+                "dislikes": " Unavailable",
+                "id": "AyAK3QBnMGQ",
+                "likes": "49,668 likes",
+                "title": "A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich",
+                "url": "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+                "video_length": 4961.681,
+                "views": "5,936,207 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+              "title": "The Future of Colonizing Space- Neil deGrasse Tyson- WGS 2018",
+              "video": {
+                "ad": null,
+                "comments": "6,223",
+                "content creator": "World Government Summit",
+                "date": "Mar 12, 2018",
+                "description": "Space missions need to have a defensive component or economic benefit. With economic returns often uncertain, space programmes have tended to be led by governments, because only they can invest in programmes that have a long-term pay-off, whether economic or geopolitical. When it comes to saving humanity from an asteroid impact, Tyson stressed that rather than establishing colonies in space, we would be better to try to deflect the asteroid.\n\n\u062a\u062d\u062f\u062b \u0646\u064a\u0644 \u062f\u064a\u063a\u0631\u0627\u0633 \u062a\u0627\u064a\u0633\u0648\u0646\u060c \u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0627\u0644\u0641\u0644\u0643\u064a\u0629\u060c \u0623\u0646 \u0627\u0644\u0628\u0639\u062b\u0627\u062a \u0627\u0644\u0641\u0636\u0627\u0626\u064a\u0629 \u062a\u064f\u0637\u0644\u0642 \u0639\u0627\u062f\u0629\u064b \u0625\u0645\u0627 \u0644\u0623\u063a\u0631\u0627\u0636 \u062f\u0641\u0627\u0639\u064a\u0629 \u0623\u0648 \u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629 \u0644\u062a\u0628\u0631\u064a\u0631 \u063a\u0627\u064a\u062a\u0647\u0627. \u0648\u0641\u064a \u063a\u064a\u0627\u0628 \u0636\u0645\u0627\u0646\u0627\u062a \u0627\u0644\u0639\u0627\u0626\u062f \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635\u060c \u062a\u062a\u0648\u0644\u0649 \u0627\u0644\u062d\u0643\u0648\u0645\u0627\u062a \u0625\u062f\u0627\u0631\u0629 \u062c\u0645\u064a\u0639 \u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0641\u0636\u0627\u0621 \u0644\u0645\u0627 \u062a\u0645\u0644\u0643\u0647 \u0645\u0646 \u0642\u062f\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u0641\u064a \u0628\u0631\u0627\u0645\u062c \u0630\u0627\u062a \u0639\u0627\u0626\u062f \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u062c\u0644\u060c \u0633\u0648\u0627\u0621 \u0643\u0627\u0646 \u0644\u0647\u0630\u0627 \u0627\u0644\u0639\u0627\u0626\u062f \u0628\u064f\u0639\u062f \u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0623\u0648 \u062c\u064a\u0648\u0633\u064a\u0627\u0633\u064a. \u0623\u0645\u0627 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0627\u0644\u062f\u0639\u0648\u0629 \u0644\u0628\u0646\u0627\u0621 \u0645\u0633\u062a\u0639\u0645\u0631\u0627\u062a \u0639\u0644\u0649 \u0633\u0637\u062d \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u0627\u0644\u0623\u062e\u0631\u0649 \u062a\u062d\u0633\u0628\u064b\u0627 \u0644\u0623\u064a \u062f\u0645\u0627\u0631 \u0642\u062f \u064a\u062d\u0644\u0651 \u0628\u0643\u0648\u0643\u0628 \u0627\u0644\u0623\u0631\u0636 \u0646\u062a\u064a\u062c\u0629 \u062a\u0639\u0631\u0636\u0647 \u0644\u0627\u0635\u0637\u062f\u0627\u0645 \u0646\u064a\u0632\u0643\u060c \u0642\u0627\u0644 \u062a\u0627\u064a\u0633\u0648\u0646 \u0625\u0646 \u062a\u062d\u0648\u064a\u0644 \u0645\u0633\u0627\u0631 \u0627\u0644\u0646\u064a\u0632\u0643 \u064a\u0638\u0644 \u0647\u0648 \u0627\u0644\u062d\u0644 \u0627\u0644\u0623\u0645\u062b\u0644 \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0645\u0631\u062d\u0644\u0629",
+                "dislikes": " Unavailable",
+                "id": "X_m1mPtYzTk",
+                "likes": "31,319 likes",
+                "title": "The Future of Colonizing Space- Neil deGrasse Tyson- WGS 2018",
+                "url": "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+                "video_length": 4791.301,
+                "views": "3,446,391 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=4KRZQQ_eICo",
+              "title": "SciCafe: Life the Universe and Everything with Neil deGrasse Tyson",
+              "video": {
+                "ad": null,
+                "comments": "2,810",
+                "content creator": "American Museum of Natural History",
+                "date": "Sep 9, 2010",
+                "description": "American Museum of Natural History's Director of the Hayden Planetarium, Neil deGrasse Tyson, hosted \"Life the Universe and Everything: A Conversation with Neil deGrasse Tyson\" at the Museum on June 2, 2010 as part of the ongoing free SciCafe series.\n\nTyson hosted the casual conversation about stars, planets, the universe, and beyond in the Frederick Phineas and Sandra Priest Rose Center for Earth and Space. The popular SciCafe series takes place at the American Museum of Natural History.\n\nFor more information and to see when the next SciCafe is occurring, visit ",
+                "dislikes": " Unavailable",
+                "id": "4KRZQQ_eICo",
+                "likes": "23,687 likes",
+                "title": "SciCafe: Life the Universe and Everything with Neil deGrasse Tyson",
+                "url": "https://www.youtube.com/watch?v=4KRZQQ_eICo",
+                "video_length": 5306.881,
+                "views": "2,596,801 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=wp6cnp1kZBY",
+              "title": "Neil deGrasse Tyson Lecture @ UW 5/12/2011 FULL",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "THG",
+                "date": "Sep 17, 2013",
+                "description": "{Edit 8/27/2019}  Due to the number of ignorant people constantly whining about the camera work (which I didn't do), or the introduction (which I was not involved in), or the blatant racism (which is not tolerated) - I have decided to close the comment section.  I feel that after 7+ years of constant, ignorant comments, that it is better to simply shut it off.  I apologize to those who actually had thoughtful, intelligent exchanges in the comments.  But enough is enough.\n\nNeil deGrasse Tyson gives a wonderful lecture at the University of Washington; covering Astronomy, Sociology, and Scientific development in an entertaining lecture.\n\nNDT Shows up around ",
+                "dislikes": " Unavailable",
+                "id": "wp6cnp1kZBY",
+                "likes": "18,880 likes",
+                "title": "Neil deGrasse Tyson Lecture @ UW 5/12/2011 FULL",
+                "url": "https://www.youtube.com/watch?v=wp6cnp1kZBY",
+                "video_length": 8586.841,
+                "views": "2,465,261 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=KyD8VIK032o",
+          "title": "The 10 Things That All Flat Earthers Say",
+          "video": {
+            "ad": null,
+            "comments": "73,707",
+            "content creator": "Professor Dave Explains",
+            "date": "Jul 2, 2019",
+            "description": "So it's been a minute since I made my response to the Globebusters, and for two months now I've had to listen to flat earthers spew the same nonsense in the comment section of that video, day after day. Now that I'm intimately familiar with their most popular and most ridiculous talking points, I thought I would put them all together in one clip for a vigorous debunking.\n\nMy original flat earth video:",
+            "dislikes": " Unavailable",
+            "id": "KyD8VIK032o",
+            "likes": "146,633 likes",
+            "title": "The 10 Things That All Flat Earthers Say",
+            "url": "https://www.youtube.com/watch?v=KyD8VIK032o",
+            "video_length": 1110,
+            "views": "4,057,185 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-1jAOJHvll0",
+          "title": "Glenn Greenwald: \"Edward Snowden and the Secrets of the National Security State\"",
+          "video": {
+            "ad": null,
+            "comments": "3,846",
+            "content creator": "University of Utah",
+            "date": "Apr 13, 2015",
+            "description": "Glenn Greenwald, best known for his series in \"The Guardian\" detailing classified information about global surveillance programs based on top-secret documents provided by Edward Snowden, spoke speak at the University of Utah on Tuesday, April 7, 2015.\n\nGreenwald, a Pulitzer-prize winning journalist who sparked a worldwide debate over freedom of speech, provided the keynote address during Secrecy Week, a week of events sponsored by the College of Humanities exploring government surveillance in the U. S.",
+            "dislikes": " Unavailable",
+            "id": "-1jAOJHvll0",
+            "likes": "33,945 likes",
+            "title": "Glenn Greenwald: \"Edward Snowden and the Secrets of the National Security State\"",
+            "url": "https://www.youtube.com/watch?v=-1jAOJHvll0",
+            "video_length": 5319.001,
+            "views": "12,286,347 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+          "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+          "video": {
+            "ad": null,
+            "comments": "37,536",
+            "content creator": "Professor Dave Explains",
+            "date": "Jan 26, 2020",
+            "description": "A channel named Modern Day Debate reached out to me based on my flat earth debunking to see if I would debate someone named Kent Hovind about Young Earth Creationism. Normally I stay out of religion, but I dug into this guy a little, and he is a total scumbag. The epitome of a con man. Nothing but lies and misrepresentations of science out of his mouth for several decades now. He's really no different than the flat earthers, manipulating people to make money. So I decided to take a chunk out of him. He's a slippery little greased pig, watch for his signature move, the gish gallop.\n\nWatch my other debunks/debates: ",
+            "dislikes": " Unavailable",
+            "id": "lbB7AhwaZy8",
+            "likes": "39,951 likes",
+            "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+            "url": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+            "video_length": 6465.861,
+            "views": "1,606,592 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+          "title": "The God Debate II: Harris vs. Craig",
+          "video": {
+            "ad": null,
+            "comments": "40,081",
+            "content creator": "University of Notre Dame",
+            "date": "Apr 12, 2011",
+            "description": "The second annual God Debate features atheist neuroscientist Sam Harris and Evangelical Christian apologist William Lane Craig as they debate the topic: \"Is Good From God?\" The debate was sponsored in large part by the Notre Dame College of Arts and Letters: The Henkels Lecturer Series, The Center for Philosophy of Religion and the Institute for Scholarship in the Liberal Arts.",
+            "dislikes": " Unavailable",
+            "id": "yqaHXKLRKzg",
+            "likes": "44,184 likes",
+            "title": "The God Debate II: Harris vs. Craig",
+            "url": "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+            "video_length": 7614.961,
+            "views": "10,199,521 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+          "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+          "video": {
+            "ad": null,
+            "comments": "6,645",
+            "content creator": "92nd Street Y",
+            "date": "Feb 21, 2013",
+            "description": "Your support helps us keep our content free for all. Donate now: https://www.92y.org/donate",
+            "dislikes": " Unavailable",
+            "id": "rYzBxo3hbYQ",
+            "likes": "35,697 likes",
+            "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+            "url": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+            "video_length": 6016.961,
+            "views": "8,664,368 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+      "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+      "video": {
+        "ad": null,
+        "comments": "27,726",
+        "content creator": "Fiddy",
+        "date": "Nov 10, 2017",
+        "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+        "dislikes": " Unavailable",
+        "id": "8GvwYOfHXMM",
+        "likes": "165,546 likes",
+        "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+        "url": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+        "video_length": 1037.501,
+        "views": "10,621,940 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+      "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+      "video": {
+        "ad": null,
+        "comments": "226,590",
+        "content creator": "British GQ",
+        "date": "Oct 30, 2018",
+        "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "yZYQpge1W5s",
+        "likes": "696,056 likes",
+        "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+        "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "video_length": 6133.181,
+        "views": "47,696,895 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+      "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+      "video": {
+        "ad": null,
+        "comments": "4,407",
+        "content creator": "Vanity Fair",
+        "date": "Sep 30, 2021",
+        "description": "Casino game protection expert Sal Piacente reviews notorious card counting and casino game cheating scenes from films including 'Rain Man,' 'Rounders,' 'The Sting,' 'Austin Powers,' 'Casino,' 'Ocean's Thirteen,' 'The Cooler,' 'Runner Runner,' 'Now You See Me 2,' 'Shade' and '21.'\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "ki4Fbctwnjs",
+        "likes": "181,419 likes",
+        "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "video_length": 1404,
+        "views": "7,747,082 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+      "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+      "video": {
+        "ad": null,
+        "comments": "31,611",
+        "content creator": "GQ",
+        "date": "Jan 17, 2020",
+        "description": "Retired Navy SEAL Jocko Willink breaks down combat scenes from movies, including 'American Sniper,' 'Zero Dark Thirty,' 'Captain Phillips,' 'Navy SEALS,' 'Act of Valor' and 'Lone Survivor.' \n\nJocko's new audiobook and book, Leadership Strategy and Tactics: Field Manual, is out now: ",
+        "dislikes": " Unavailable",
+        "id": "-L7o6HtX8Vg",
+        "likes": "551,376 likes",
+        "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+        "url": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "video_length": 1607,
+        "views": "30,625,370 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "video": {
+        "ad": null,
+        "comments": "114,346",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "231,163 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713.401,
+        "views": "8,451,455 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+  "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+  "video": {
+    "ad": null,
+    "comments": "41,921",
+    "content creator": "Fiddy",
+    "date": "Oct 15, 2017",
+    "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+    "dislikes": " Unavailable",
+    "id": "5cIvH-iZZfA",
+    "likes": "291,462 likes",
+    "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+    "url": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+    "video_length": 1018.301,
+    "views": "15,007,525 views"
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=uSTdUqgIdyk",
+                          "title": "Old Soldier Meets Young Soldier | The Gap | @LADbible TV",
+                          "video": {
+                            "ad": null,
+                            "comments": "52,387",
+                            "content creator": "LADbible TV",
+                            "date": "Premiered Nov 10, 2019",
+                            "description": "The Gap is a window into different lives and different generations. Two people, of vastly different ages, discuss a shared experience that impacted their lives, how it affected them and how they dealt with it to ultimately emerge stronger. \n\nIn this episode of The Gap with ",
+                            "dislikes": " Unavailable",
+                            "id": "uSTdUqgIdyk",
+                            "likes": "933,401 likes",
+                            "title": "Old Soldier Meets Young Soldier | The Gap | @LADbible TV",
+                            "url": "https://www.youtube.com/watch?v=uSTdUqgIdyk",
+                            "video_length": 769,
+                            "views": "32,331,750 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=tixOyiR8B-8&list=RDCMUC6wBro4B4pf9xnBh9Xi2zcQ&start_radio=1&rv=tixOyiR8B-8",
+                          "title": "Magnificent Storyteller Soldier Reveals What He Saw In Vietnam",
+                          "video": {
+                            "ad": null,
+                            "comments": "33,878",
+                            "content creator": "David Hoffman",
+                            "date": "Jul 19, 2018",
+                            "description": "In 1990 I did interviews with 180 baby boomers talking about their early life during the 1960s for my television series, Making Sense of the Sixties. This is a clip of poet and educator Bill Ehrhart from one of those interviews - a very articulate Vietnam veteran who joined the military with patriotism in his heart. He has written a book on his experiences - Vietnam-Perkasie: A Combat Marine Memoir, Search the word \"Vietnam\" on my YouTube channel to find more related clips. Including one more by this man. Here is his background of service - W. D. Ehrhart served with 1st Battalion, 1st Marines, from early February 1967 to late February 1968. His service number is 2279361. He holds the Purple Heart Medal, Navy Combat Action Ribbon, Presidential Unit Citation (2), Good Conduct Medal, National Defense Service Medal, Republic of Vietnam Service Medal, Cross of Gallantry Meritorious Unit Citation, Civic Action Meritorious Unit Citation, Vietnamese Campaign Medal. The last three were all awarded by the now-extinct government of the Republic of Vietnam.  He received the PUC and the two Vietnamese unit citations as a member of 1st Battalion, 1st Marine Regiment. You can find more at his website -www.wdehrhart.com. ",
+                            "dislikes": " Unavailable",
+                            "id": "tixOyiR8B-8&list",
+                            "likes": "353,674 likes",
+                            "title": "Magnificent Storyteller Soldier Reveals What He Saw In Vietnam",
+                            "url": "https://www.youtube.com/watch?v=tixOyiR8B-8&list=RDCMUC6wBro4B4pf9xnBh9Xi2zcQ&start_radio=1&rv=tixOyiR8B-8",
+                            "video_length": 925.601,
+                            "views": "14,828,740 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=eQkbPAwf8Jw",
+                          "title": "John Young on Battle of 19 June 1967",
+                          "video": {
+                            "ad": null,
+                            "comments": "168",
+                            "content creator": "John Tintera",
+                            "date": "Jul 30, 2012",
+                            "description": "Sgt. John Young",
+                            "dislikes": " Unavailable",
+                            "id": "eQkbPAwf8Jw",
+                            "likes": "1,242 likes",
+                            "title": "John Young on Battle of 19 June 1967",
+                            "url": "https://www.youtube.com/watch?v=eQkbPAwf8Jw",
+                            "video_length": 167.501,
+                            "views": "96,694 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=3ZUinZz_Q2Q",
+                          "title": "The Greatest Story Ever Told -- Peter O'Toole",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,192",
+                            "content creator": "Best of Humans",
+                            "date": "Aug 26, 2016",
+                            "description": "",
+                            "dislikes": " Unavailable",
+                            "id": "3ZUinZz_Q2Q",
+                            "likes": "17,348 likes",
+                            "title": "The Greatest Story Ever Told -- Peter O'Toole",
+                            "url": "https://www.youtube.com/watch?v=3ZUinZz_Q2Q",
+                            "video_length": 320.881,
+                            "views": "1,753,295 views"
+                          }
+                        },
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=Bd8_vO5zrjo",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=ML3qYHWRIZk",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=dU14Fa7IdUE",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=OHlwnB3Rlww",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=6APhdHnctco",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=6Dg_1unrM0o",
+                          "title": "John Young on his trip back to Vietnam",
+                          "video": {
+                            "ad": null,
+                            "comments": "48",
+                            "content creator": "John Tintera",
+                            "date": "Jul 30, 2012",
+                            "description": "Sgt. John Young speaks about going back to Vietnam with the class of professor Andy Wiest",
+                            "dislikes": " Unavailable",
+                            "id": "6Dg_1unrM0o",
+                            "likes": "257 likes",
+                            "title": "John Young on his trip back to Vietnam",
+                            "url": "https://www.youtube.com/watch?v=6Dg_1unrM0o",
+                            "video_length": 94.901,
+                            "views": "31,228 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=yDxleN2S6TY",
+                      "title": "33 Minutes of Bill Burr",
+                      "video": {
+                        "ad": null,
+                        "comments": "2,742",
+                        "content creator": "LaughPlanet",
+                        "date": "Apr 10, 2020",
+                        "description": "Best of Bill Burr standup Comedy\n\nCredits: \n\nBill Burr",
+                        "dislikes": " Unavailable",
+                        "id": "yDxleN2S6TY",
+                        "likes": "88,525 likes",
+                        "title": "33 Minutes of Bill Burr",
+                        "url": "https://www.youtube.com/watch?v=yDxleN2S6TY",
+                        "video_length": 2034.881,
+                        "views": "7,414,202 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=iErrFDS-YtI&list=RDVgRvFoLMgCQ&start_radio=1&rv=VgRvFoLMgCQ",
+                      "title": "Bill Burr is LETHAL",
+                      "video": {
+                        "ad": null,
+                        "comments": "5,985",
+                        "content creator": "NickGSpeaks",
+                        "date": "Aug 21, 2018",
+                        "description": "A short compilation of Bill Burr clips pulled from my Instagram. Since the time limit for a video on Instagram is one minute most of these clips are a minute long otherwise I would have provided more context to what is being said. I hope you can still find value in this.\n\n\nHere is a link to my Instagram, check it out if you want to see more clips on a variety of topics ",
+                        "dislikes": " Unavailable",
+                        "id": "iErrFDS-YtI&list",
+                        "likes": "129,551 likes",
+                        "title": "Bill Burr is LETHAL",
+                        "url": "https://www.youtube.com/watch?v=iErrFDS-YtI&list=RDVgRvFoLMgCQ&start_radio=1&rv=VgRvFoLMgCQ",
+                        "video_length": 642.541,
+                        "views": "10,966,408 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=LRDEGsZR-Ns",
+                      "title": "Bill Hader Celebrity Impressions (with references)",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,237",
+                        "content creator": "kleingedrucktes",
+                        "date": "Jun 27, 2020",
+                        "description": "Bill Hader is a master impressionist, we all know it. Here are some of his  performances which are absolutely impeccable and funny.",
+                        "dislikes": " Unavailable",
+                        "id": "LRDEGsZR-Ns",
+                        "likes": "43,747 likes",
+                        "title": "Bill Hader Celebrity Impressions (with references)",
+                        "url": "https://www.youtube.com/watch?v=LRDEGsZR-Ns",
+                        "video_length": 443.981,
+                        "views": "4,088,275 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=GsO92EQxEYo",
+                      "title": "Bill Burr - Best Moments In Talk Shows",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,182",
+                        "content creator": "BDZ",
+                        "date": "May 7, 2019",
+                        "description": "\ud83c\udf81100 YEEZY GIVEAWAY!!! CLICK HERE: https://cutwin.com/yeezy \ud83c\udf81",
+                        "dislikes": " Unavailable",
+                        "id": "GsO92EQxEYo",
+                        "likes": "33,350 likes",
+                        "title": "Bill Burr - Best Moments In Talk Shows",
+                        "url": "https://www.youtube.com/watch?v=GsO92EQxEYo",
+                        "video_length": 986.461,
+                        "views": "3,464,395 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tixOyiR8B-8",
+                      "title": "Magnificent Storyteller Soldier Reveals What He Saw In Vietnam",
+                      "video": {
+                        "ad": null,
+                        "comments": "33,878",
+                        "content creator": "David Hoffman",
+                        "date": "Jul 19, 2018",
+                        "description": "In 1990 I did interviews with 180 baby boomers talking about their early life during the 1960s for my television series, Making Sense of the Sixties. This is a clip of poet and educator Bill Ehrhart from one of those interviews - a very articulate Vietnam veteran who joined the military with patriotism in his heart. He has written a book on his experiences - Vietnam-Perkasie: A Combat Marine Memoir, Search the word \"Vietnam\" on my YouTube channel to find more related clips. Including one more by this man. Here is his background of service - W. D. Ehrhart served with 1st Battalion, 1st Marines, from early February 1967 to late February 1968. His service number is 2279361. He holds the Purple Heart Medal, Navy Combat Action Ribbon, Presidential Unit Citation (2), Good Conduct Medal, National Defense Service Medal, Republic of Vietnam Service Medal, Cross of Gallantry Meritorious Unit Citation, Civic Action Meritorious Unit Citation, Vietnamese Campaign Medal. The last three were all awarded by the now-extinct government of the Republic of Vietnam.  He received the PUC and the two Vietnamese unit citations as a member of 1st Battalion, 1st Marine Regiment. You can find more at his website -www.wdehrhart.com. ",
+                        "dislikes": " Unavailable",
+                        "id": "tixOyiR8B-8",
+                        "likes": "353,673 likes",
+                        "title": "Magnificent Storyteller Soldier Reveals What He Saw In Vietnam",
+                        "url": "https://www.youtube.com/watch?v=tixOyiR8B-8",
+                        "video_length": 925.601,
+                        "views": "14,828,740 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=GyIfy36xPkU",
+                  "title": "Receiving surprise black belt from Marcelo Garcia",
+                  "video": {
+                    "ad": null,
+                    "comments": "54",
+                    "content creator": "Anthony Arrigo",
+                    "date": "May 13, 2017",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "GyIfy36xPkU",
+                    "likes": "976 likes",
+                    "title": "Receiving surprise black belt from Marcelo Garcia",
+                    "url": "https://www.youtube.com/watch?v=GyIfy36xPkU",
+                    "video_length": 44.521,
+                    "views": "101,899 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=KwKnn4_YK68&list=RDCMUCS0X9YvU9c5uU3FAb5D30Uw&start_radio=1&rv=KwKnn4_YK68",
+                  "title": "JOCKO WILLINK & DEAN LISTER - 5 MOST PAINFUL SUBMISSIONS",
+                  "video": {
+                    "ad": null,
+                    "comments": "631",
+                    "content creator": "ORIGIN USA",
+                    "date": "Sep 17, 2021",
+                    "description": "If there ever comes a time you need to inflict pain... Jocko & Dean got you covered.\n\n\n________________________________________________________________________\nWhat is Jocko & Dean Wearing? : ",
+                    "dislikes": " Unavailable",
+                    "id": "KwKnn4_YK68&list",
+                    "likes": "12,474 likes",
+                    "title": "JOCKO WILLINK & DEAN LISTER - 5 MOST PAINFUL SUBMISSIONS",
+                    "url": "https://www.youtube.com/watch?v=KwKnn4_YK68&list=RDCMUCS0X9YvU9c5uU3FAb5D30Uw&start_radio=1&rv=KwKnn4_YK68",
+                    "video_length": 402.421,
+                    "views": "586,364 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=0NoVNJjXpX8",
+                  "title": "HOW TO MAKE YOUR BOOTS LAST LONGER",
+                  "video": {
+                    "ad": null,
+                    "comments": "29",
+                    "content creator": "ORIGIN USA",
+                    "date": "Dec 20, 2021",
+                    "description": "Some of you might be getting new boots this holiday season, and some of you have seasoned boots; here's how you can care for them.",
+                    "dislikes": " Unavailable",
+                    "id": "0NoVNJjXpX8",
+                    "likes": "298 likes",
+                    "title": "HOW TO MAKE YOUR BOOTS LAST LONGER",
+                    "url": "https://www.youtube.com/watch?v=0NoVNJjXpX8",
+                    "video_length": 230.681,
+                    "views": "3,766 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Xg2psply4no",
+                  "title": "Jordan Peterson vs The Gender Pay Gap",
+                  "video": {
+                    "ad": null,
+                    "comments": "29,895",
+                    "content creator": "ManOfAllCreation",
+                    "date": "Jan 19, 2018",
+                    "description": "JBP takes on female host from Channel 4 debating the reasons for the wage gap.\n\nDr. Jordan B Peterson is a Professor of Psychology, a clinical psychologist, a public speaker and a creator of Self Authoring.\n\nSource: ",
+                    "dislikes": " Unavailable",
+                    "id": "Xg2psply4no",
+                    "likes": "111,468 likes",
+                    "title": "Jordan Peterson vs The Gender Pay Gap",
+                    "url": "https://www.youtube.com/watch?v=Xg2psply4no",
+                    "video_length": 1013.161,
+                    "views": "5,217,769 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=VgRvFoLMgCQ",
+                  "title": "Top 10 Bill Burr Moments on Conan",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,395",
+                    "content creator": "Clip Master",
+                    "date": "Dec 3, 2019",
+                    "description": "Bill Burr is the master of making Conan laugh - updated Top 10 Bill Burr Conan Compliation for 2019.\n\nLike what you see? Get the original Bill Burr mug here: ",
+                    "dislikes": " Unavailable",
+                    "id": "VgRvFoLMgCQ",
+                    "likes": "56,313 likes",
+                    "title": "Top 10 Bill Burr Moments on Conan",
+                    "url": "https://www.youtube.com/watch?v=VgRvFoLMgCQ",
+                    "video_length": 985.081,
+                    "views": "4,212,947 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=yRSFA12d3EA",
+              "title": "WHAT IF IT SUCKS? - Jocko Willink",
+              "video": {
+                "ad": null,
+                "comments": "2,760",
+                "content creator": "ORIGIN USA",
+                "date": "Apr 22, 2021",
+                "description": "Jocko talking with the Pennsylvania National Guard. He served with Pennsylvania National Guard (2-28) in Ramadi.\nThe Bond of Combat Always Endures...especially when things are tough.\n\nWhat is Jocko wearing?\nBasic T - ",
+                "dislikes": " Unavailable",
+                "id": "yRSFA12d3EA",
+                "likes": "52,041 likes",
+                "title": "WHAT IF IT SUCKS? - Jocko Willink",
+                "url": "https://www.youtube.com/watch?v=yRSFA12d3EA",
+                "video_length": 197.381,
+                "views": "1,866,573 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=j95JFtcbwFA&list=RDCMUCnxGkOGNMqQEUMvroOWps6Q&start_radio=1&rv=j95JFtcbwFA",
+              "title": "What It\u2019s Like to Roll With Jocko Willink",
+              "video": {
+                "ad": null,
+                "comments": "1,866",
+                "content creator": "JRE Clips",
+                "date": "Feb 28, 2020",
+                "description": "Taken from JRE #1434 w/Trevor Thompson: https://youtu.be/E3nSqQhlCmA",
+                "dislikes": " Unavailable",
+                "id": "j95JFtcbwFA&list",
+                "likes": "44,067 likes",
+                "title": "What It\u2019s Like to Roll With Jocko Willink",
+                "url": "https://www.youtube.com/watch?v=j95JFtcbwFA&list=RDCMUCnxGkOGNMqQEUMvroOWps6Q&start_radio=1&rv=j95JFtcbwFA",
+                "video_length": 322.141,
+                "views": "3,205,022 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ehLt--LadKI",
+              "title": "Jocko Willink on What Went Down When He Rolled with John Dudley",
+              "video": {
+                "ad": null,
+                "comments": "923",
+                "content creator": "JRE Clips",
+                "date": "Jun 16, 2020",
+                "description": "Taken from JRE #1492 w/Jocko Willink: https://youtu.be/bL5RzI5LyVc",
+                "dislikes": " Unavailable",
+                "id": "ehLt--LadKI",
+                "likes": "16,645 likes",
+                "title": "Jocko Willink on What Went Down When He Rolled with John Dudley",
+                "url": "https://www.youtube.com/watch?v=ehLt--LadKI",
+                "video_length": 404.961,
+                "views": "1,047,598 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=rksKvZoUCPQ",
+              "title": "Bill Burr - no reason to hit a woman - how women argue (FULL) from You People are all the Same",
+              "video": {
+                "ad": null,
+                "comments": "12,907",
+                "content creator": "mcnyregrus",
+                "date": "Jan 29, 2016",
+                "description": "The FULL segment about how women argue and why there's no reason to hit a woman from Bill Burr's show \"You people are all the same\"",
+                "dislikes": " Unavailable",
+                "id": "rksKvZoUCPQ",
+                "likes": "280,550 likes",
+                "title": "Bill Burr - no reason to hit a woman - how women argue (FULL) from You People are all the Same",
+                "url": "https://www.youtube.com/watch?v=rksKvZoUCPQ",
+                "video_length": 734.241,
+                "views": "18,119,584 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=KwKnn4_YK68",
+              "title": "JOCKO WILLINK & DEAN LISTER - 5 MOST PAINFUL SUBMISSIONS",
+              "video": {
+                "ad": null,
+                "comments": "631",
+                "content creator": "ORIGIN USA",
+                "date": "Sep 17, 2021",
+                "description": "If there ever comes a time you need to inflict pain... Jocko & Dean got you covered.\n\n\n________________________________________________________________________\nWhat is Jocko & Dean Wearing? : ",
+                "dislikes": " Unavailable",
+                "id": "KwKnn4_YK68",
+                "likes": "12,474 likes",
+                "title": "JOCKO WILLINK & DEAN LISTER - 5 MOST PAINFUL SUBMISSIONS",
+                "url": "https://www.youtube.com/watch?v=KwKnn4_YK68",
+                "video_length": 402.421,
+                "views": "586,353 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=tCqwT2MqLxI",
+          "title": "Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ",
+          "video": {
+            "ad": null,
+            "comments": "8,019",
+            "content creator": "GQ",
+            "date": "Mar 16, 2020",
+            "description": "Survivalist Les Stroud breaks down survival scenes from movies, including '127 Hours,' 'The Office,' 'Into the Wild,' 'The Edge,' '127 Hours,' 'Life of Pi,' 'Open Water,' 'Alive' and 'Jeremiah Johnson.'\n\nStill haven\u2019t subscribed to GQ on YouTube? \u25ba\u25ba ",
+            "dislikes": " Unavailable",
+            "id": "tCqwT2MqLxI",
+            "likes": "222,051 likes",
+            "title": "Survivalist Les Stroud Breaks Down Survival Scenes from Movies | GQ",
+            "url": "https://www.youtube.com/watch?v=tCqwT2MqLxI",
+            "video_length": 1588.141,
+            "views": "9,855,397 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-L7o6HtX8Vg&list=RDCMUCsEukrAd64fqA7FjwkmZ_Dw&start_radio=1&rv=-L7o6HtX8Vg",
+          "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+          "video": {
+            "ad": null,
+            "comments": "31,569",
+            "content creator": "GQ",
+            "date": "Jan 17, 2020",
+            "description": "Retired Navy SEAL Jocko Willink breaks down combat scenes from movies, including 'American Sniper,' 'Zero Dark Thirty,' 'Captain Phillips,' 'Navy SEALS,' 'Act of Valor' and 'Lone Survivor.' \n\nJocko's new audiobook and book, Leadership Strategy and Tactics: Field Manual, is out now: ",
+            "dislikes": " Unavailable",
+            "id": "-L7o6HtX8Vg&list",
+            "likes": "550,827 likes",
+            "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+            "url": "https://www.youtube.com/watch?v=-L7o6HtX8Vg&list=RDCMUCsEukrAd64fqA7FjwkmZ_Dw&start_radio=1&rv=-L7o6HtX8Vg",
+            "video_length": 1607.041,
+            "views": "30,590,635 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xGzJGgQeSDE",
+          "title": "Whiplash - Give A Retard A Calculator Scene",
+          "video": {
+            "ad": null,
+            "comments": "2,472",
+            "content creator": "The Flix Hub",
+            "date": "Oct 23, 2020",
+            "description": "Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble",
+            "dislikes": " Unavailable",
+            "id": "xGzJGgQeSDE",
+            "likes": "32,468 likes",
+            "title": "Whiplash - Give A Retard A Calculator Scene",
+            "url": "https://www.youtube.com/watch?v=xGzJGgQeSDE",
+            "video_length": 410.621,
+            "views": "2,291,687 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qH1U9k0dwzI",
+          "title": "Jordan Peterson's BEST and MOST MISSED interview about the Channel 4 Cathy Newman Controversy",
+          "video": {
+            "ad": null,
+            "comments": "3,176",
+            "content creator": "Dose of Truth",
+            "date": "Apr 28, 2019",
+            "description": "Original upload: https://www.youtube.com/watch?v=E6qBx...\n\nPlease, like, share, subscribe, and comment!\nAlso, please, turn on your notification button/bell \nnext to the subscribe button for the latest interviews \nand Jordan Peterson clips, videos, lectures and speeches.\n\nJordan Peterson grants me Partial License.",
+            "dislikes": " Unavailable",
+            "id": "qH1U9k0dwzI",
+            "likes": "27,313 likes",
+            "title": "Jordan Peterson's BEST and MOST MISSED interview about the Channel 4 Cathy Newman Controversy",
+            "url": "https://www.youtube.com/watch?v=qH1U9k0dwzI",
+            "video_length": 1652.021,
+            "views": "1,482,675 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j95JFtcbwFA",
+          "title": "What It\u2019s Like to Roll With Jocko Willink",
+          "video": {
+            "ad": null,
+            "comments": "1,866",
+            "content creator": "JRE Clips",
+            "date": "Feb 28, 2020",
+            "description": "Taken from JRE #1434 w/Trevor Thompson: https://youtu.be/E3nSqQhlCmA",
+            "dislikes": " Unavailable",
+            "id": "j95JFtcbwFA",
+            "likes": "44,067 likes",
+            "title": "What It\u2019s Like to Roll With Jocko Willink",
+            "url": "https://www.youtube.com/watch?v=j95JFtcbwFA",
+            "video_length": 322.141,
+            "views": "3,205,012 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=m8Nudmm7ha4",
+      "title": "Candice Owens speaks at 2020 CPAC: full video",
+      "video": {
+        "ad": null,
+        "comments": "13,223",
+        "content creator": "News 19 WLTX",
+        "date": "Feb 28, 2020",
+        "description": "Conservative activist Candice Owens was one of the featured speakers at the 2020 CPAC convention taking place in suburban Washington, D.C.\nOwens has often spoke out on issued of race in America, often sharply criticizing liberals for their views on the topic. She spent two years working with Turning Point USA.\nFollow us on Twitter: @WLTX\nFollow us on Facebook: @WLTXNews19\nCheck out our website: WLTX.com",
+        "dislikes": " Unavailable",
+        "id": "m8Nudmm7ha4",
+        "likes": "96,862 likes",
+        "title": "Candice Owens speaks at 2020 CPAC: full video",
+        "url": "https://www.youtube.com/watch?v=m8Nudmm7ha4",
+        "video_length": 967.481,
+        "views": "3,806,566 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zFleLL5zlaI",
+      "title": "Traditional Archery Expert Rates 10 Archery Scenes In Movies And TV | How Real Is It?",
+      "video": {
+        "ad": null,
+        "comments": "2,541",
+        "content creator": "Insider",
+        "date": "Dec 21, 2021",
+        "description": "Archery expert Grizzly Jim looks at 10 bow-and-arrow scenes from popular TV shows and movies and rates them based on realism. \n\nHe looks at \"Hawkeye\" S1E1 (2021), \"The Hunger Games\" (2012), \"Brave\" (2012), \"The Lord of the Rings: The Two Towers\" (2002), \"Wonder Woman\" (2017), \"Robin Hood\" (2018), \"War of the Arrows\" (2011), \"The Avengers\" (2012), \"Game of Thrones\" S6E9 (2016), and \"Rambo III\" (1988). He comments on the technique of Hawkeye, Kate Bishop, Katniss Everdeen, Antiope, and more. \n\nJim is a British archer who provides workshops, seminars, and one-on-one instruction in traditional archery. He previously worked on the archery YouTube channel Merlin Archery and now works on the channel Archery Adventures. \n\nFor more information, visit ",
+        "dislikes": " Unavailable",
+        "id": "zFleLL5zlaI",
+        "likes": "72,069 likes",
+        "title": "Traditional Archery Expert Rates 10 Archery Scenes In Movies And TV | How Real Is It?",
+        "url": "https://www.youtube.com/watch?v=zFleLL5zlaI",
+        "video_length": 1224.701,
+        "views": "4,105,892 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+      "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+      "video": {
+        "ad": null,
+        "comments": "205,825",
+        "content creator": "Channel 4 News",
+        "date": "Jan 16, 2018",
+        "description": "Channel 4 News\u2019 full, fiery interview with clinical psychologist and professor Jordan B Peterson, whose views on gender have amassed great controversy - and a huge online following. He discusses the pay gap, patriarchy and his new book \"12 Rules for Life.\" Subscribe: ",
+        "dislikes": " Unavailable",
+        "id": "aMcjxSThD54",
+        "likes": "696,996 likes",
+        "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+        "url": "https://www.youtube.com/watch?v=aMcjxSThD54",
+        "video_length": 1795.461,
+        "views": "35,472,210 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=b5fNif_WGdc",
+      "title": "Willem Dafoe Breaks Down His Career, from 'The Boondock Saints' to 'Spider-Man' | Vanity Fair",
+      "video": {
+        "ad": null,
+        "comments": "12,950",
+        "content creator": "Vanity Fair",
+        "date": "Nov 5, 2019",
+        "description": "Willem Dafoe discusses the roles that make up his film career, including \"The Wooster Group,\" \"Heaven's Gate,\" \"The Loveless,\" \"Platoon,\" \"The Last Temptation of Christ,\" \"Wild at Heart,\" \"The Boondock Saints,\" \"Shadow of the Vampire,\" \"Spider-Man,\" \"The Life Aquatic with Steve Zissou,\" \"Antichrist,\" \"The Florida Project,\" \"At Eternity's Gate,\" \"The Lighthouse\" and \"Motherless Brooklyn.\" \n\nYou can see Willem Dafoe in The Lighthouse and Motherless Brooklyn in theaters now! \n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "b5fNif_WGdc",
+        "likes": "228,810 likes",
+        "title": "Willem Dafoe Breaks Down His Career, from 'The Boondock Saints' to 'Spider-Man' | Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=b5fNif_WGdc",
+        "video_length": 1032.141,
+        "views": "5,898,338 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+      "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+      "video": {
+        "ad": null,
+        "comments": "31,569",
+        "content creator": "GQ",
+        "date": "Jan 17, 2020",
+        "description": "Retired Navy SEAL Jocko Willink breaks down combat scenes from movies, including 'American Sniper,' 'Zero Dark Thirty,' 'Captain Phillips,' 'Navy SEALS,' 'Act of Valor' and 'Lone Survivor.' \n\nJocko's new audiobook and book, Leadership Strategy and Tactics: Field Manual, is out now: ",
+        "dislikes": " Unavailable",
+        "id": "-L7o6HtX8Vg",
+        "likes": "550,824 likes",
+        "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+        "url": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "video_length": 1607.041,
+        "views": "30,590,524 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=Tkr-azJVTAM",
+  "title": "DISGUSTING! Lebron James defends a knife-wielding maniac.",
+  "video": {
+    "ad": null,
+    "comments": "16,632",
+    "content creator": "Candace Owens",
+    "date": "Apr 21, 2021",
+    "description": "He should have all of his sponsorships stripped but he won't because black privilege.",
+    "dislikes": " Unavailable",
+    "id": "Tkr-azJVTAM",
+    "likes": "77,340 likes",
+    "title": "DISGUSTING! Lebron James defends a knife-wielding maniac.",
+    "url": "https://www.youtube.com/watch?v=Tkr-azJVTAM",
+    "video_length": 644.881,
+    "views": "526,820 views"
+  }
+}

@@ -1,0 +1,3618 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lRp5AC9W_F8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=jhKZIq3SlYE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5MuIMqhT8DM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=pwaWilO_Pig",
+                  "title": "Joe Rogan Experience #1109 - Matthew Walker",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,671",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on Apr 25, 2018",
+                    "description": "Matthew Walker is Professor of Neuroscience and Psychology at the University of California, Berkeley, and Founder and Director of the Center for Human Sleep Science. Check out his book \"Why We Sleep: Unlocking the Power of Sleep and Dreams\" on Amazon. ",
+                    "dislikes": " Unavailable",
+                    "id": "pwaWilO_Pig",
+                    "likes": "124,654 likes",
+                    "title": "Joe Rogan Experience #1109 - Matthew Walker",
+                    "url": "https://www.youtube.com/watch?v=pwaWilO_Pig",
+                    "video_length": 6932.321,
+                    "views": "8,056,541 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=qefElgEv-H0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=olDA7QR-vO0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3nImUAsL0_4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=gNHXDgv-nN8",
+                  "title": "Joe & GSP Talk About Aliens, Lost Knowledge",
+                  "video": {
+                    "ad": null,
+                    "comments": "9,085",
+                    "content creator": "PowerfulJRE",
+                    "date": "Apr 7, 2021",
+                    "description": "Taken from MMA Show #107 w/Georges St-Pierre:\nhttps://open.spotify.com/episode/6dND...",
+                    "dislikes": " Unavailable",
+                    "id": "gNHXDgv-nN8",
+                    "likes": "65,543 likes",
+                    "title": "Joe & GSP Talk About Aliens, Lost Knowledge",
+                    "url": "https://www.youtube.com/watch?v=gNHXDgv-nN8",
+                    "video_length": 997.121,
+                    "views": "3,503,670 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=NaPKrZTUoUs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ZopJkWmzftA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xPBejhoKlb8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=tCRjz1fyOE4",
+                  "title": "Joe Rogan Experience #1403 - Forrest Galante",
+                  "video": {
+                    "ad": null,
+                    "comments": "9,751",
+                    "content creator": "PowerfulJRE",
+                    "date": "Dec 19, 2019",
+                    "description": "Forrest Galante is an international wildlife adventurer and conservationist. He\u2019s also the host of \u201cExtinct of Alive\u201d on The Animal Planet. https://www.instagram.com/forrest.gal...",
+                    "dislikes": " Unavailable",
+                    "id": "tCRjz1fyOE4",
+                    "likes": "88,835 likes",
+                    "title": "Joe Rogan Experience #1403 - Forrest Galante",
+                    "url": "https://www.youtube.com/watch?v=tCRjz1fyOE4",
+                    "video_length": 9963.721,
+                    "views": "8,890,289 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=3RG5pXTpLBI",
+              "title": "Joe Rogan Experience #1425 - Garrett Reisman",
+              "video": {
+                "ad": null,
+                "comments": "15,359",
+                "content creator": "PowerfulJRE",
+                "date": "Feb 7, 2020",
+                "description": "Garrett Reisman is a former NASA Astronaut. He is currently a Professor of Astronautical Engineering at USC and a Senior Advisor at SpaceX.",
+                "dislikes": " Unavailable",
+                "id": "3RG5pXTpLBI",
+                "likes": "118,050 likes",
+                "title": "Joe Rogan Experience #1425 - Garrett Reisman",
+                "url": "https://www.youtube.com/watch?v=3RG5pXTpLBI",
+                "video_length": 7932.401,
+                "views": "12,603,094 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=plcc6E-E1uU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=hy2G3PhGm-g",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1JRZHFFO8KA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=aB8zcAttP1E",
+                  "title": "David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122",
+                  "video": {
+                    "ad": null,
+                    "comments": "13,215",
+                    "content creator": "Lex Fridman",
+                    "date": "Sep 8, 2020",
+                    "description": "David Fravor is a navy pilot of 18 years and a primary witness in one of the most credible UFO sightings in history. Please check out our sponsors to get a discount and to support this podcast:\n- Athletic Greens: https://athleticgreens.com/lex",
+                    "dislikes": " Unavailable",
+                    "id": "aB8zcAttP1E",
+                    "likes": "84,386 likes",
+                    "title": "David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122",
+                    "url": "https://www.youtube.com/watch?v=aB8zcAttP1E",
+                    "video_length": 14183.981,
+                    "views": "5,536,447 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=xF6x1ftN-H4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5f-JlzBuUUU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Udh22kuLebg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-k-ztNsBM54",
+                  "title": "Dan Carlin: Hardcore History | Lex Fridman Podcast #136",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,216",
+                    "content creator": "Lex Fridman",
+                    "date": "Nov 2, 2020",
+                    "description": "Dan Carlin is a historian, political thinker, and podcaster. Please support this podcast by checking out our sponsors:\n- Athletic Greens: https://athleticgreens.com/lex and use code LEX to get free vitamin D\n- SimpliSafe: ",
+                    "dislikes": " Unavailable",
+                    "id": "-k-ztNsBM54",
+                    "likes": "43,554 likes",
+                    "title": "Dan Carlin: Hardcore History | Lex Fridman Podcast #136",
+                    "url": "https://www.youtube.com/watch?v=-k-ztNsBM54",
+                    "video_length": 12085.081,
+                    "views": "3,339,457 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=7nT7JGZMbtM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Jq-d4Kl8Xh4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=4yX6ETCKyPo",
+                  "title": "Luis Elizondo on unidentified aerial phenomena, extraterrestrials and the Pentagon's UFO programme",
+                  "video": {
+                    "ad": null,
+                    "comments": "9,540",
+                    "content creator": "British GQ",
+                    "date": "Nov 25, 2021",
+                    "description": "Luis Elizondo ran the Pentagon's secretive UFO/UAP programme for a decade... We had some questions. Early last year, the US government officially acknowledged videos of \u201cunidentified aerial phenomena\u201d filmed by its Navy pilots. Was it evidence of extraterrestrials? Here the former Pentagon intelligence officer in charge of investigating these incidents, reveals (almost) all he knows at GQ Heroes\u2026\nGQHeroes ",
+                    "dislikes": " Unavailable",
+                    "id": "4yX6ETCKyPo",
+                    "likes": "35,907 likes",
+                    "title": "Luis Elizondo on unidentified aerial phenomena, extraterrestrials and the Pentagon's UFO programme",
+                    "url": "https://www.youtube.com/watch?v=4yX6ETCKyPo",
+                    "video_length": 1680.861,
+                    "views": "2,025,032 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=uTCc2-1tbBQ",
+              "title": "Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262",
+              "video": {
+                "ad": null,
+                "comments": "3,065",
+                "content creator": "Lex Fridman",
+                "date": "Feb 6, 2022",
+                "description": "Garry Nolan is a professor at Stanford University School of Medicine. His research is in microbiology, immunology, bio-computation, and analysis of UFO artifacts, materials, and reports of UFO encounters. Please support this podcast by checking out our sponsors:\n- Athletic Greens: ",
+                "dislikes": " Unavailable",
+                "id": "uTCc2-1tbBQ",
+                "likes": "19,760 likes",
+                "title": "Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262",
+                "url": "https://www.youtube.com/watch?v=uTCc2-1tbBQ",
+                "video_length": 6178.361,
+                "views": "942,582 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=f0eVXgMTT8o",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Vrz8YDl9CeA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-tDQ74I3Ovs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Rxmw9eizOAo",
+                  "title": "Joe Rogan Experience #1284 - Graham Hancock",
+                  "video": {
+                    "ad": null,
+                    "comments": "29,766",
+                    "content creator": "PowerfulJRE",
+                    "date": "Apr 22, 2019",
+                    "description": "Graham Hancock is an English author and journalist, well known for books such as \u201cFingerprints Of The Gods\u201d & \u201cMagicians of the Gods\u201d. His new book \"America Before\" comes on out April 23. http://grahamhancock.com/",
+                    "dislikes": " Unavailable",
+                    "id": "Rxmw9eizOAo",
+                    "likes": "197,381 likes",
+                    "title": "Joe Rogan Experience #1284 - Graham Hancock",
+                    "url": "https://www.youtube.com/watch?v=Rxmw9eizOAo",
+                    "video_length": 9928.821,
+                    "views": "14,188,491 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=xwpgmEvlRpM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=OaTKaHKCAFg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=I8aIKKaCVQo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=0H5LCLljJho",
+                  "title": "Joe Rogan Experience #872 - Graham Hancock & Randall Carlson",
+                  "video": {
+                    "ad": null,
+                    "comments": "13,636",
+                    "content creator": "PowerfulJRE",
+                    "date": "Nov 16, 2016",
+                    "description": "Graham Hancock is an English author and journalist, well known for books such as \"Fingerprints Of The Gods\" & his latest book \"Magicians of the Gods\" is available now. Randall Carlson is a master builder and architectural designer, teacher, geometrician, geomythologist, geological explorer and renegade scholar.\n\nComet Research Group Crowdfunding: ",
+                    "dislikes": " Unavailable",
+                    "id": "0H5LCLljJho",
+                    "likes": "88,725 likes",
+                    "title": "Joe Rogan Experience #872 - Graham Hancock & Randall Carlson",
+                    "url": "https://www.youtube.com/watch?v=0H5LCLljJho",
+                    "video_length": 13131.381,
+                    "views": "11,404,955 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=CrFcF-bmBvU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KkjxSKrcbOg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=P0CnZlX0gXU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=tFlAFo78xoQ",
+                  "title": "Joe Rogan Experience #961 - Graham Hancock, Randall Carlson & Michael Shermer",
+                  "video": {
+                    "ad": null,
+                    "comments": "36,911",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on May 16, 2017",
+                    "description": "Graham Hancock is an English author and journalist, well known for books such as \"Fingerprints Of The Gods\" & his latest book \"Magicians of the Gods\". Randall Carlson is a master builder and architectural designer, teacher, geometrician, geomythologist, geological explorer and renegade scholar. Michael Shermer is a science writer, historian of science, founder of The Skeptics Society, and Editor in Chief of its magazine Skeptic.",
+                    "dislikes": " Unavailable",
+                    "id": "tFlAFo78xoQ",
+                    "likes": "89,113 likes",
+                    "title": "Joe Rogan Experience #961 - Graham Hancock, Randall Carlson & Michael Shermer",
+                    "url": "https://www.youtube.com/watch?v=tFlAFo78xoQ",
+                    "video_length": 12909.421,
+                    "views": "8,125,071 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=G0Cp7DrvNLQ",
+              "title": "Joe Rogan Experience #606 - Randall Carlson",
+              "video": {
+                "ad": null,
+                "comments": "16,964",
+                "content creator": "PowerfulJRE",
+                "date": "Feb 2, 2015",
+                "description": "Randall Carlson is a master builder and architectural designer, teacher, geometrician, geomythologist, geological explorer and renegade scholar.",
+                "dislikes": " Unavailable",
+                "id": "G0Cp7DrvNLQ",
+                "likes": "109,107 likes",
+                "title": "Joe Rogan Experience #606 - Randall Carlson",
+                "url": "https://www.youtube.com/watch?v=G0Cp7DrvNLQ",
+                "video_length": 10856.861,
+                "views": "14,662,684 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+          "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+          "video": {
+            "ad": null,
+            "comments": "118,706",
+            "content creator": "PowerfulJRE",
+            "date": "Jun 20, 2019",
+            "description": "Bob Lazar is a physicist who worked at Los Alamos National Laboratory in New Mexico, and also on reverse engineering extraterrestrial technology at a site called S-4 near the Area 51 Groom Lake operating location. Jeremy Corbell is a contemporary artist and documentary filmmaker. Watch the documentary \"Bob Lazar: Area 51 & Flying Saucers\" now streaming on Netflix.",
+            "dislikes": " Unavailable",
+            "id": "BEWz4SXfyCQ",
+            "likes": "389,885 likes",
+            "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+            "url": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+            "video_length": 8084.321,
+            "views": "26,497,794 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=_Rl82OQDoOc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Cs_mDpIkUOY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=LimytC6bNZ0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=efs3QRr8LWw",
+                  "title": "Joe Rogan Experience #1368 - Edward Snowden",
+                  "video": {
+                    "ad": null,
+                    "comments": "81,375",
+                    "content creator": "PowerfulJRE",
+                    "date": "Oct 23, 2019",
+                    "description": "Edward Snowden is an American whistleblower who copied and leaked highly classified information from the National Security Agency in 2013 when he was a Central Intelligence Agency employee and subcontractor. His new book \"Permanent Record\" is now available.",
+                    "dislikes": " Unavailable",
+                    "id": "efs3QRr8LWw",
+                    "likes": "478,981 likes",
+                    "title": "Joe Rogan Experience #1368 - Edward Snowden",
+                    "url": "https://www.youtube.com/watch?v=efs3QRr8LWw",
+                    "video_length": 10171.661,
+                    "views": "29,771,295 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=KSuYDQ7tFEk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-L7o6HtX8Vg&list=RDCMUCsEukrAd64fqA7FjwkmZ_Dw&start_radio=1&rv=-L7o6HtX8Vg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IiVDtNjORbY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+                  "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+                  "video": {
+                    "ad": null,
+                    "comments": "32,092",
+                    "content creator": "GQ",
+                    "date": "Jan 17, 2020",
+                    "description": "Retired Navy SEAL Jocko Willink breaks down combat scenes from movies, including 'American Sniper,' 'Zero Dark Thirty,' 'Captain Phillips,' 'Navy SEALS,' 'Act of Valor' and 'Lone Survivor.' \n\nJocko's new audiobook and book, Leadership Strategy and Tactics: Field Manual, is out now: ",
+                    "dislikes": " Unavailable",
+                    "id": "-L7o6HtX8Vg",
+                    "likes": "564,167 likes",
+                    "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+                    "url": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+                    "video_length": 1607.041,
+                    "views": "31,492,115 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=36Svbpaknhk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9PYzlRu6zUQ&list=RDCMUCxcTeAKWJca6XyJ37_ZoKIQ&start_radio=1&rv=9PYzlRu6zUQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=VgRvFoLMgCQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=9PYzlRu6zUQ",
+                  "title": "Brock Lesnar Talks His Life From Farming, Football, Wrestling, And Fighting On The Pat McAfee Show",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,206",
+                    "content creator": "The Pat McAfee Show",
+                    "date": "Feb 14, 2022",
+                    "description": "Massive thank you to Brock for stopping by the show.\n\nCheck out the Brock Lesnar Blend Seasoning at https://beardedbutchers.com/brock-les... . Use code \"Brock\" for 10% off.\n\nThis is a clip from The Pat McAfee Show live from Noon-3PM EST Mon-Fri.\n\nIf you aren't on FanDuel, what are you doing? Go to ",
+                    "dislikes": " Unavailable",
+                    "id": "9PYzlRu6zUQ",
+                    "likes": "50,988 likes",
+                    "title": "Brock Lesnar Talks His Life From Farming, Football, Wrestling, And Fighting On The Pat McAfee Show",
+                    "url": "https://www.youtube.com/watch?v=9PYzlRu6zUQ",
+                    "video_length": 2998.361,
+                    "views": "1,373,772 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=hl0iNRXcUbE",
+              "title": "Joe Rogan Experience #1512 - Ben Shapiro",
+              "video": {
+                "ad": null,
+                "comments": "52,035",
+                "content creator": "PowerfulJRE",
+                "date": "Jul 22, 2020",
+                "description": "Ben Shapiro is editor-in-chief of the Daily Wire, syndicated columnist, and host of \u201cThe Ben Shapiro Show\u201d is available on SoundCloud and iTunes. His new book How to Destroy America in Three Easy Steps is available now everywhere. @Ben Shapiro",
+                "dislikes": " Unavailable",
+                "id": "hl0iNRXcUbE",
+                "likes": "256,795 likes",
+                "title": "Joe Rogan Experience #1512 - Ben Shapiro",
+                "url": "https://www.youtube.com/watch?v=hl0iNRXcUbE",
+                "video_length": 6210.401,
+                "views": "12,047,813 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=6G59zsjM2UI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=S_GnClytz34",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wf0_nMaQ6tA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=9Xc7DN-noAc",
+                  "title": "Joe Rogan Experience #1139 - Jordan Peterson",
+                  "video": {
+                    "ad": null,
+                    "comments": "22,446",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on Jul 2, 2018",
+                    "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
+                    "dislikes": " Unavailable",
+                    "id": "9Xc7DN-noAc",
+                    "likes": "164,115 likes",
+                    "title": "Joe Rogan Experience #1139 - Jordan Peterson",
+                    "url": "https://www.youtube.com/watch?v=9Xc7DN-noAc",
+                    "video_length": 12021.121,
+                    "views": "11,900,713 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Hr03CLeZVi8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-1jAOJHvll0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+                  "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+                  "video": {
+                    "ad": null,
+                    "comments": "209,222",
+                    "content creator": "Channel 4 News",
+                    "date": "Jan 16, 2018",
+                    "description": "Channel 4 News\u2019 full, fiery interview with clinical psychologist and professor Jordan B Peterson, whose views on gender have amassed great controversy - and a huge online following. He discusses the pay gap, patriarchy and his new book \"12 Rules for Life.\" Subscribe: ",
+                    "dislikes": " Unavailable",
+                    "id": "aMcjxSThD54",
+                    "likes": "716,172 likes",
+                    "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+                    "url": "https://www.youtube.com/watch?v=aMcjxSThD54",
+                    "video_length": 1795.461,
+                    "views": "36,441,881 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=XW_KhFq4LQo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=laSK7Pxh0_8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=E3URhJx0NSw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ycPr5-27vSI",
+                  "title": "Joe Rogan Experience #1169 - Elon Musk",
+                  "video": {
+                    "ad": null,
+                    "comments": "131,908",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on Sep 7, 2018",
+                    "description": "Elon Musk is a business magnet, investor and engineer.",
+                    "dislikes": " Unavailable",
+                    "id": "ycPr5-27vSI",
+                    "likes": "904,223 likes",
+                    "title": "Joe Rogan Experience #1169 - Elon Musk",
+                    "url": "https://www.youtube.com/watch?v=ycPr5-27vSI",
+                    "video_length": 9422.341,
+                    "views": "52,212,391 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=vIeFt88Hm8s",
+              "title": "Joe Rogan Experience #1208 - Jordan Peterson",
+              "video": {
+                "ad": null,
+                "comments": "25,612",
+                "content creator": "PowerfulJRE",
+                "date": "Streamed live on Nov 29, 2018",
+                "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
+                "dislikes": " Unavailable",
+                "id": "vIeFt88Hm8s",
+                "likes": "234,645 likes",
+                "title": "Joe Rogan Experience #1208 - Jordan Peterson",
+                "url": "https://www.youtube.com/watch?v=vIeFt88Hm8s",
+                "video_length": 10503.901,
+                "views": "15,156,277 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=JV8mIfjwPeM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Swj8GIIivXs&list=RDLVSwj8GIIivXs&start_radio=1&rv=Swj8GIIivXs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3uLDin9A9pc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Swj8GIIivXs",
+                  "title": "David Goggins on How He Became Unstoppable and Doing the Unthinkable | Impact Theory",
+                  "video": {
+                    "ad": null,
+                    "comments": "589",
+                    "content creator": "Tom Bilyeu",
+                    "date": "May 11, 2021",
+                    "description": "This episode is sponsored by Mack Weldon. For 20% off your first order, visit https://mackweldon.com/tom AND ENTER PROMO CODE: tom \n\nThe road from an utterly crappy life that started with abuse, hopelessness, and no way out has claimed the souls and livelihood of millions of people throughout history. Very few that have made it to a somewhat functional life dare to tell their stories. What is the way out of that brokenness, pain and hurt so many grow up suffocated by? In this episode, you get one of the most powerful messages and stories in modern history from the former Navy Seal, David Goggins himself. Few stories have ever been told so real, so raw, and so straight. Become the warrior of your life and start living above average by finding your greatness in the middle of discomfort.\n \nSHOW NOTES:\n \n30 Miles | David on being driven to finish the last 30 miles of race with stress fractures [",
+                    "dislikes": " Unavailable",
+                    "id": "Swj8GIIivXs",
+                    "likes": "7,120 likes",
+                    "title": "David Goggins on How He Became Unstoppable and Doing the Unthinkable | Impact Theory",
+                    "url": "https://www.youtube.com/watch?v=Swj8GIIivXs",
+                    "video_length": 3980,
+                    "views": "272,309 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=78I9dTB9vqM&list=RDLV78I9dTB9vqM&start_radio=1&rv=78I9dTB9vqM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fL0jIS9RcxY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-iJVVfUrvC8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=78I9dTB9vqM",
+                  "title": "How to Make Yourself Immune to Pain | David Goggins on Impact Theory",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,787",
+                    "content creator": "Tom Bilyeu",
+                    "date": "May 23, 2017",
+                    "description": "Ready to experience Christmas like never before?! Get in the full Holiday Spirit with Merry Modz NFTs! To participate pick up your Merry Modz (https://opensea.io/collection/merry-modz) on OpenSea and join in on the festivities today. A ton of gifts, games, and activities await you in our Discord! Join us today: ",
+                    "dislikes": " Unavailable",
+                    "id": "78I9dTB9vqM",
+                    "likes": "169,228 likes",
+                    "title": "How to Make Yourself Immune to Pain | David Goggins on Impact Theory",
+                    "url": "https://www.youtube.com/watch?v=78I9dTB9vqM",
+                    "video_length": 3460,
+                    "views": "6,957,508 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=SwQhKFMxmDY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=JZRcYaAYWg4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=UfB12E9Xdk8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=azROJC2YJ4g",
+                  "title": "David Goggins Will Change Your Life | Rich Roll Podcast",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,426",
+                    "content creator": "Rich Roll",
+                    "date": "Premiered Jan 1, 2019",
+                    "description": "Arguably the hardest man alive, David Goggins is a retired Navy SEAL, accomplished ultra-endurance athlete and the author of \"Can't Hurt Me.\" This is a brutally honest conversation about self-mastery that will leave you empowered to transform your life.\n\nEnjoy!\n\u270c\ud83c\udffc\ud83c\udf31 - Rich\n\nAUDIO PODCAST\nBlog & Show Notes: ",
+                    "dislikes": " Unavailable",
+                    "id": "azROJC2YJ4g",
+                    "likes": "65,910 likes",
+                    "title": "David Goggins Will Change Your Life | Rich Roll Podcast",
+                    "url": "https://www.youtube.com/watch?v=azROJC2YJ4g",
+                    "video_length": 7860.961,
+                    "views": "4,171,727 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=dIM7E8e9JKY",
+              "title": "Become A Savage & Live On Your Own Terms | David Goggins on Impact Theory",
+              "video": {
+                "ad": null,
+                "comments": "3,568",
+                "content creator": "Tom Bilyeu",
+                "date": "Dec 11, 2018",
+                "description": "Ready to experience Christmas like never before?! Get in the full Holiday Spirit with Merry Modz NFTs! To participate pick up your Merry Modz (https://opensea.io/collection/merry-modz) on OpenSea and join in on the festivities today. A ton of gifts, games, and activities await you in our Discord! Join us today: ",
+                "dislikes": " Unavailable",
+                "id": "dIM7E8e9JKY",
+                "likes": "60,677 likes",
+                "title": "Become A Savage & Live On Your Own Terms | David Goggins on Impact Theory",
+                "url": "https://www.youtube.com/watch?v=dIM7E8e9JKY",
+                "video_length": 3221.421,
+                "views": "2,654,546 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=BvWB7B8tXK8",
+          "title": "Joe Rogan Experience #1212 - David Goggins",
+          "video": {
+            "ad": null,
+            "comments": "10,921",
+            "content creator": "PowerfulJRE",
+            "date": "Streamed live on Dec 5, 2018",
+            "description": "David Goggins is a retired Navy SEAL and former USAF Tactical Air Control Party member who served in Iraq and Afghanistan. He is an ultramarathon runner, ultra-distance cyclist, triathlete and world record holder for the most pull-ups done in 24 hours. His new book \"Can't Hurt Me\" is available now via Amazon. ",
+            "dislikes": " Unavailable",
+            "id": "BvWB7B8tXK8",
+            "likes": "126,153 likes",
+            "title": "Joe Rogan Experience #1212 - David Goggins",
+            "url": "https://www.youtube.com/watch?v=BvWB7B8tXK8",
+            "video_length": 8277.561,
+            "views": "7,950,911 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=n2RcVEftY48",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=p2G7buZ2JSg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=I5pVVmcSXVU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=cTsEzmFamZ8",
+                  "title": "Joe Rogan Experience #1245 - Andrew Yang",
+                  "video": {
+                    "ad": null,
+                    "comments": "52,548",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on Feb 12, 2019",
+                    "description": "Andrew Yang is an American entrepreneur, the founder of Venture for America, and a 2020 Democratic presidential candidate.",
+                    "dislikes": " Unavailable",
+                    "id": "cTsEzmFamZ8",
+                    "likes": "169,271 likes",
+                    "title": "Joe Rogan Experience #1245 - Andrew Yang",
+                    "url": "https://www.youtube.com/watch?v=cTsEzmFamZ8",
+                    "video_length": 6722.561,
+                    "views": "6,175,729 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=6iYxbRZ21bw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fXvgZF01OTk&list=RDCMUCzQUP1qoWDoEbmsQxvdjxgQ&start_radio=1&rv=fXvgZF01OTk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kD5yc1LQrpQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=fXvgZF01OTk",
+                  "title": "Joe Rogan Experience #1140 - Joey Diaz",
+                  "video": {
+                    "ad": null,
+                    "comments": "14,126",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on Jul 4, 2018",
+                    "description": "Joey \u201cCoCo\u201d Diaz is a Cuban-American stand up comedian and actor.  Joey also hosts his own podcast called \u201cThe Church of What\u2019s Happening Now\u201d.",
+                    "dislikes": " Unavailable",
+                    "id": "fXvgZF01OTk",
+                    "likes": "117,698 likes",
+                    "title": "Joe Rogan Experience #1140 - Joey Diaz",
+                    "url": "https://www.youtube.com/watch?v=fXvgZF01OTk",
+                    "video_length": 12158.101,
+                    "views": "14,745,451 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=tlygUb9RVgA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=82N5z_7M7Cw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=D37W90aBoLo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ivROLiLmnro",
+                  "title": "It\u2019s Hard To Believe This Is Happening",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,875",
+                    "content creator": "Russell Brand",
+                    "date": "Feb 20, 2022",
+                    "description": "As Joe Biden escalates tensions over Ukraine, is this latest potential war being used to divert American public attention from government corruption and incompetence? \n#War #WW3 #Russia \n\nReferences",
+                    "dislikes": " Unavailable",
+                    "id": "ivROLiLmnro",
+                    "likes": "40,471 likes",
+                    "title": "It\u2019s Hard To Believe This Is Happening",
+                    "url": "https://www.youtube.com/watch?v=ivROLiLmnro",
+                    "video_length": 1024.361,
+                    "views": "434,610 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=2O-iLk1G_ng",
+              "title": "Joe Rogan Experience #1330 - Bernie Sanders",
+              "video": {
+                "ad": null,
+                "comments": "180,797",
+                "content creator": "PowerfulJRE",
+                "date": "Aug 6, 2019",
+                "description": "Bernie Sanders is a 2020 Presidential Candidate of the Democratic Party and is currently serving as the U.S. Senator of Vermont. https://berniesanders.com/",
+                "dislikes": " Unavailable",
+                "id": "2O-iLk1G_ng",
+                "likes": "451,728 likes",
+                "title": "Joe Rogan Experience #1330 - Bernie Sanders",
+                "url": "https://www.youtube.com/watch?v=2O-iLk1G_ng",
+                "video_length": 4061.101,
+                "views": "14,437,701 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=0m3hGZvD-0s",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=R_wscUcbynk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=iLzO5x_1PNc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=6JipQNWuYnA",
+                  "title": "Alexander Fridman: My Dad, the Plasma Physicist | Lex Fridman Podcast #100",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,777",
+                    "content creator": "Lex Fridman",
+                    "date": "Jun 3, 2020",
+                    "description": "Alexander Fridman is a professor at Drexel University and the director of the Nyheim Plasma Institute. He is one of the top plasma physicists and plasma chemists in the world. And most importantly to me, he is my dad.\n\nSupport this podcast by supporting our sponsors:\n- The Jordan Harbinger Show: ",
+                    "dislikes": " Unavailable",
+                    "id": "6JipQNWuYnA",
+                    "likes": "55,431 likes",
+                    "title": "Alexander Fridman: My Dad, the Plasma Physicist | Lex Fridman Podcast #100",
+                    "url": "https://www.youtube.com/watch?v=6JipQNWuYnA",
+                    "video_length": 13113.121,
+                    "views": "2,977,689 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=36A4W6sguyI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=NNnIGh9g6fA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=zNVQfWC_evg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=5efyUt5YDU0",
+                  "title": "The Catastrophe of Canada | Rex Murphy and Jordan B Peterson",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,639",
+                    "content creator": "Jordan B Peterson",
+                    "date": "Feb 20, 2022",
+                    "description": "This episode was recorded on February 19th, 2022. \n\nRex Murphy joins Dr. Peterson to discuss the most recent actions of Trudeau's Government, including the arresting of protestors, the freezing of the bank accounts of Canadians suspected of participating in the protests, and the long-term consequences of these extreme measures.\n\nRex is a Canadian commentator and author who deals primarily with Canadian political and social matters. He is best known for working on and for CBC Here and Now, CBC Radio 1\u2019s Cross Country Checkup, writing for The Globe and Mail, and writing for The National Post. He is a well-recognized and loved figure.\n\nView Rex's most recent article on the matter: ",
+                    "dislikes": " Unavailable",
+                    "id": "5efyUt5YDU0",
+                    "likes": "39,062 likes",
+                    "title": "The Catastrophe of Canada | Rex Murphy and Jordan B Peterson",
+                    "url": "https://www.youtube.com/watch?v=5efyUt5YDU0",
+                    "video_length": 3748.441,
+                    "views": "417,154 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=3MoiMCWhGuw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=LrVGE6OY9aA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0Jd7fJgFkPU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=FKCJWkPehdY",
+                  "title": "Joe Rogan: Fear, Love, Chaos, and the Joe Rogan Experience | Lex Fridman Podcast #127",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,029",
+                    "content creator": "Lex Fridman",
+                    "date": "Sep 26, 2020",
+                    "description": "Joe Rogan is a comedian, UFC commentator, and the host of the Joe Rogan Experience.  Please check out our sponsors to get a discount and to support this podcast:\n- Neuro: https://www.getneuro.com and use code LEX\n- Eight Sleep: ",
+                    "dislikes": " Unavailable",
+                    "id": "FKCJWkPehdY",
+                    "likes": "61,147 likes",
+                    "title": "Joe Rogan: Fear, Love, Chaos, and the Joe Rogan Experience | Lex Fridman Podcast #127",
+                    "url": "https://www.youtube.com/watch?v=FKCJWkPehdY",
+                    "video_length": 4563.601,
+                    "views": "2,470,391 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=6T7pUEZfgdI",
+              "title": "Joe Rogan Experience #1070 - Jordan Peterson",
+              "video": {
+                "ad": null,
+                "comments": "26,347",
+                "content creator": "PowerfulJRE",
+                "date": "Streamed live on Jan 30, 2018",
+                "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
+                "dislikes": " Unavailable",
+                "id": "6T7pUEZfgdI",
+                "likes": "288,292 likes",
+                "title": "Joe Rogan Experience #1070 - Jordan Peterson",
+                "url": "https://www.youtube.com/watch?v=6T7pUEZfgdI",
+                "video_length": 8932.721,
+                "views": "18,400,407 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/show/SC0b7fS1TBuycP_xoGzg5mBA?season=19&sbp=CgIxOQ%253D%253D",
+                  "title": "",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Error found",
+                    "date": "Error found",
+                    "description": "Bill Maher hosts this live one-hour talk series that features an opening monologue, 'roundtable discussions with Maher and a guest forum, segments with other special guests, and Maher's 'New Rules' segment that exposes society's most absurd habits and institutions.",
+                    "dislikes": " Unavailable",
+                    "id": "19&sbp",
+                    "likes": "Unavailable",
+                    "title": "",
+                    "url": "https://www.youtube.com/show/SC0b7fS1TBuycP_xoGzg5mBA?season=19&sbp=CgIxOQ%253D%253D",
+                    "video_length": 0,
+                    "views": "Error found"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=pKZENkKesGc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ZNJyDyCocGQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6VixqvOcK8E",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+                  "title": "Ben Shapiro and Malcolm Nance on Critical Race Theory | Real Time with Bill Maher (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "75,499",
+                    "content creator": "Real Time with Bill Maher",
+                    "date": "Aug 6, 2021",
+                    "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nMalcolm Nance and Ben Shapiro join Bill to discuss the \"muzzle laws\" being introduced by Republican lawmakers that seek to limit the degree to which educators can talk about race in the classroom.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "dwgsbZ1MsAE",
+                    "likes": "86,505 likes",
+                    "title": "Ben Shapiro and Malcolm Nance on Critical Race Theory | Real Time with Bill Maher (HBO)",
+                    "url": "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+                    "video_length": 570.941,
+                    "views": "6,083,322 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=UpCBIF1Yl4k",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=PYM-sS-0-yg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kxgeevlRElw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                  "title": "Jordan B. Peterson | Real Time with Bill Maher (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "40,467",
+                    "content creator": "Real Time with Bill Maher",
+                    "date": "Apr 21, 2018",
+                    "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nProfessor and author Jordan Peterson joins Bill to discuss political correctness and free speech.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "8wLCmDtCDAM",
+                    "likes": "216,118 likes",
+                    "title": "Jordan B. Peterson | Real Time with Bill Maher (HBO)",
+                    "url": "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                    "video_length": 575.841,
+                    "views": "17,397,536 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=SGcdPakoytg",
+              "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+              "video": {
+                "ad": null,
+                "comments": "66,110",
+                "content creator": "Real Time with Bill Maher",
+                "date": "Jun 30, 2018",
+                "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nDaily Wire Editor-in-Chief and syndicated radio host Ben Shapiro joins Bill to discuss civility in the age of Trump.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                "dislikes": " Unavailable",
+                "id": "SGcdPakoytg",
+                "likes": "122,791 likes",
+                "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+                "url": "https://www.youtube.com/watch?v=SGcdPakoytg",
+                "video_length": 663.881,
+                "views": "15,665,563 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=-KQGZa773sI",
+          "title": "Joe Rogan Experience #1413 - Bill Maher",
+          "video": {
+            "ad": null,
+            "comments": "28,754",
+            "content creator": "PowerfulJRE",
+            "date": "Jan 17, 2020",
+            "description": "Bill Maher is a comedian, political commentator, and television host. The new season of his show \"Real Time with Bill Maher\" premieres January 17 on HBO.",
+            "dislikes": " Unavailable",
+            "id": "-KQGZa773sI",
+            "likes": "98,136 likes",
+            "title": "Joe Rogan Experience #1413 - Bill Maher",
+            "url": "https://www.youtube.com/watch?v=-KQGZa773sI",
+            "video_length": 7077.301,
+            "views": "7,935,632 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=bL5RzI5LyVc",
+      "title": "Joe Rogan Experience #1492 - Jocko Willink",
+      "video": {
+        "ad": null,
+        "comments": "24,515",
+        "content creator": "PowerfulJRE",
+        "date": "Jun 16, 2020",
+        "description": "Jocko Willink is a decorated retired Navy SEAL officer, author of the book Extreme Ownership: How U.S. Navy SEALs Lead and Win, and co-founder of Echelon Front, where he is a leadership instructor, speaker, and executive coach. His podcast, The Jocko Podcast, is also available for download via Apple Podcasts & Stitcher. ",
+        "dislikes": " Unavailable",
+        "id": "bL5RzI5LyVc",
+        "likes": "134,241 likes",
+        "title": "Joe Rogan Experience #1492 - Jocko Willink",
+        "url": "https://www.youtube.com/watch?v=bL5RzI5LyVc",
+        "video_length": 10593.601,
+        "views": "8,578,448 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=9IKaKKZWp8E",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kcY-cXhQTq8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QxvnEwvgfeI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-bCeVswOIVQ",
+                  "title": "SEC Chairman Jay Clayton testifies at House hearing on SEC oversight \u2013 09/24/2019",
+                  "video": {
+                    "ad": null,
+                    "comments": "48",
+                    "content creator": "CNBC Television",
+                    "date": "Streamed live on Sep 24, 2019",
+                    "description": "Securities and Exchange Commission Chairman Jay Clayton testifies before the House Committee on Financial Services during a hearing on the oversight of the SEC.\n\n\u00bb Subscribe to CNBC TV: ",
+                    "dislikes": " Unavailable",
+                    "id": "-bCeVswOIVQ",
+                    "likes": "229 likes",
+                    "title": "SEC Chairman Jay Clayton testifies at House hearing on SEC oversight \u2013 09/24/2019",
+                    "url": "https://www.youtube.com/watch?v=-bCeVswOIVQ",
+                    "video_length": 12679.501,
+                    "views": "66,324 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=7eYV_fUSo1c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=32ZnAR82cXE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ypN8G3_tb2o",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=fYYMKvmfDSM",
+                  "title": "Facebook, Amazon, Apple and Google executives face antitrust committee \u2013 07/16/2019",
+                  "video": {
+                    "ad": null,
+                    "comments": "231",
+                    "content creator": "CNBC Television",
+                    "date": "Streamed live on Jul 16, 2019",
+                    "description": "Executives from big technology companies including Facebook, Amazon, Apple and Google appear before the House Judiciary Subcommittee on Antitrust for a hearing on online platforms and market power.\n\n\u00bb Subscribe to CNBC TV: ",
+                    "dislikes": " Unavailable",
+                    "id": "fYYMKvmfDSM",
+                    "likes": "1,413 likes",
+                    "title": "Facebook, Amazon, Apple and Google executives face antitrust committee \u2013 07/16/2019",
+                    "url": "https://www.youtube.com/watch?v=fYYMKvmfDSM",
+                    "video_length": 13183.561,
+                    "views": "687,179 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=hAZphlEzPNc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=BZFYXNxrWi0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dhg4dtuhvNk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=sWIa3OLOhhk",
+                  "title": "LIVE: Big Tech CEOS testify before the Senate Commerce Committee",
+                  "video": {
+                    "ad": null,
+                    "comments": "453",
+                    "content creator": "Engadget",
+                    "date": "Streamed live on Oct 28, 2020",
+                    "description": "Big Tech CEOS testify before the Senate Commerce Committee\n\nRead our full story on Engadget: \n\nGet More Engadget: \n\u2022 Like us on Facebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "sWIa3OLOhhk",
+                    "likes": "791 likes",
+                    "title": "LIVE: Big Tech CEOS testify before the Senate Commerce Committee",
+                    "url": "https://www.youtube.com/watch?v=sWIa3OLOhhk",
+                    "video_length": 13840.021,
+                    "views": "109,876 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=41P9cbaWiBc",
+              "title": "Twitter CEOJack Dorsey Testifies - Sept. 5, 2018",
+              "video": {
+                "ad": null,
+                "comments": "247",
+                "content creator": "CNBC Television",
+                "date": "Streamed live on Sep 5, 2018",
+                "description": "The House Energy and Commerce Committee holds a hearing on \"Twitter: Transparency and Accountability.\" Twitter CEO Jack Dorsey testifies.\n\u00bb Subscribe to CNBC: http://cnb.cx/SubscribeCNBC",
+                "dislikes": " Unavailable",
+                "id": "41P9cbaWiBc",
+                "likes": "536 likes",
+                "title": "Twitter CEOJack Dorsey Testifies - Sept. 5, 2018",
+                "url": "https://www.youtube.com/watch?v=41P9cbaWiBc",
+                "video_length": 14040.981,
+                "views": "289,993 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=OlXZPAxcH2Y",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=02RMTg2Jrls",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vNVosgqIesc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=k7Cr4chC13g",
+                  "title": "Treasury Secretary Mnuchin Testifies Before House Finance Committee \u2014 April 9, 2019",
+                  "video": {
+                    "ad": null,
+                    "comments": "228",
+                    "content creator": "CNBC Television",
+                    "date": "Streamed live on Apr 9, 2019",
+                    "description": "The House Financial Services Committee holds a hearing on \u201cAnnual Testimony of the Secretary of the Treasury on the State of the International Financial System.\u201d United States Treasury Secretary Steven Mnuchin testifies.\n\n\u00bb Subscribe to CNBC: ",
+                    "dislikes": " Unavailable",
+                    "id": "k7Cr4chC13g",
+                    "likes": "359 likes",
+                    "title": "Treasury Secretary Mnuchin Testifies Before House Finance Committee \u2014 April 9, 2019",
+                    "url": "https://www.youtube.com/watch?v=k7Cr4chC13g",
+                    "video_length": 12421.276,
+                    "views": "115,713 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=zIniYSkAWo0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dB7d89-YHjM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8qS7eyUo_uk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=DXyU0LOqKPM",
+                  "title": "Google CEO Sundar Pichai testifies before the House Judiciary Committee",
+                  "video": {
+                    "ad": null,
+                    "comments": "795",
+                    "content creator": "TechCrunch",
+                    "date": "Streamed live on Dec 11, 2018",
+                    "description": "Google CEO Sundar Pichai testifies before the House Judiciary Committee",
+                    "dislikes": " Unavailable",
+                    "id": "DXyU0LOqKPM",
+                    "likes": "3,188 likes",
+                    "title": "Google CEO Sundar Pichai testifies before the House Judiciary Committee",
+                    "url": "https://www.youtube.com/watch?v=DXyU0LOqKPM",
+                    "video_length": 13084.601,
+                    "views": "877,956 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=mpfxsvBPWEs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=F4-Ke0PDmKU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wmuROTmazco",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-nSHiHO6QJI",
+                  "title": "Google's congressional hearing highlights in 11 minutes",
+                  "video": {
+                    "ad": null,
+                    "comments": "14,767",
+                    "content creator": "CNET",
+                    "date": "Dec 11, 2018",
+                    "description": "Lawmakers questioned Google's CEO Sundar Pichai for over three hours, looking for answers on alleged anti-conservative bias, plans for a censored search engine for China, and data collection. \n\nWatch Google CEO Sundar Pichai testify before Congress in it's entirety here ",
+                    "dislikes": " Unavailable",
+                    "id": "-nSHiHO6QJI",
+                    "likes": "98,488 likes",
+                    "title": "Google's congressional hearing highlights in 11 minutes",
+                    "url": "https://www.youtube.com/watch?v=-nSHiHO6QJI",
+                    "video_length": 657.361,
+                    "views": "8,224,069 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=-ENrcvPICow",
+              "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+              "video": {
+                "ad": null,
+                "comments": "555",
+                "content creator": "CNBC Television",
+                "date": "Streamed live on Dec 11, 2018",
+                "description": "The House Judiciary Committee holds a hearing on \"Transparency and Accountability: Examining Google and Data Collection, Use and Filtering Practices.\"\n\u00bb Subscribe to CNBC: http://cnb.cx/SubscribeCNBC",
+                "dislikes": " Unavailable",
+                "id": "-ENrcvPICow",
+                "likes": "1,890 likes",
+                "title": "Google CEO Sundar Pichai Testifies Before the House Judiciary Committee - Dec.11, 2018",
+                "url": "https://www.youtube.com/watch?v=-ENrcvPICow",
+                "video_length": 13030.601,
+                "views": "742,126 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=vqoGRoPZ-FA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Fl_WGfgyUs4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=i-qSYZRU8xM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=q6pV-rca-_s",
+                  "title": "WATCH: Kirstjen Nielsen testifies on border security, future of border wall",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Streamed live on Mar 6, 2019",
+                    "description": "Homeland Security Secretary Kirstjen Nielsen will talk about the future of border security along the U.S-Mexico border, including President Donald Trump's plan for a border wall,  in a hearing Wednesday before the House Homeland Security Committee.\n\nIn opening remarks, Nielsen pointed to a \"crisis\" at the southern border,  a description often used by the White House and the president. Government data shows claims about a border crisis have been exaggerated.\n\nStream your PBS favorites with the PBS app: ",
+                    "dislikes": " Unavailable",
+                    "id": "q6pV-rca-_s",
+                    "likes": "1,961 likes",
+                    "title": "WATCH: Kirstjen Nielsen testifies on border security, future of border wall",
+                    "url": "https://www.youtube.com/watch?v=q6pV-rca-_s",
+                    "video_length": 11193.361,
+                    "views": "1,104,836 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Sfi8wdbLm-c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fJ9mv-PVWtg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=G0SbF9jrYo8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=MgOcMePVlU8",
+                  "title": "WATCH: Retired Gen. Lloyd Austin's Senate confirmation hearing for Secretary of Defense",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Streamed live on Jan 19, 2021",
+                    "description": "Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG\nFind more from PBS NewsHour at https://www.pbs.org/newshour\nSubscribe to our YouTube channel: https://bit.ly/2HfsCD6",
+                    "dislikes": " Unavailable",
+                    "id": "MgOcMePVlU8",
+                    "likes": "3,928 likes",
+                    "title": "WATCH: Retired Gen. Lloyd Austin's Senate confirmation hearing for Secretary of Defense",
+                    "url": "https://www.youtube.com/watch?v=MgOcMePVlU8",
+                    "video_length": 13070.021,
+                    "views": "712,033 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=aaFZJ_ymueA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=TVgQ_tgWMyU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5sxydDYNK-I",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=UPYlE72OzZA",
+                  "title": "What to Make of the Age of Trump by Thomas Frank",
+                  "video": {
+                    "ad": null,
+                    "comments": "0",
+                    "content creator": "The Kansas City Public Library",
+                    "date": "Streamed live on Apr 6, 2017",
+                    "description": "The day after Donald Trump was elected president, The New York Times recommended six books \u201cfor those trying to understand the political, economic, regional and social shifts that drove one of the most stunning political upsets in the nation\u2019s history.\u201d Among them: Thomas Frank\u2019s Listen, Liberal: Or What Ever Happened to the Party of the People?\n  \n Frank, a Kansas City native, has followed up, embarking on a 13-city barnstorming tour to talk to Trump voters, union leaders, and progressive activists across the Midwest in conjunction with Listen Liberal\u2019s release in paperback. On his last stop\u00acin Kansas City\u00ache discusses what he has learned.\n  \n This event is co-presented by Rainy Day Books. Frank discussed Listen Liberal at the Library in March 2016; you can view the video on YouTube, and you can find the book in the Library Catalog.",
+                    "dislikes": " Unavailable",
+                    "id": "UPYlE72OzZA",
+                    "likes": "5,942 likes",
+                    "title": "What to Make of the Age of Trump by Thomas Frank",
+                    "url": "https://www.youtube.com/watch?v=UPYlE72OzZA",
+                    "video_length": 5542.721,
+                    "views": "634,632 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=VRh0muE2WZE",
+              "title": "WATCH LIVE: Homeland Security Secretary Kirstjen Nielson testifies before House Judiciary Committee",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "PBS NewsHour",
+                "date": "Streamed live on Dec 20, 2018",
+                "description": "Homeland Security Secretary Kirstjen Nielson testifies before House Judiciary Committee, expected to address immigrant child's death in U.S. custody\n\n\nStream your PBS favorites with the PBS app: ",
+                "dislikes": " Unavailable",
+                "id": "VRh0muE2WZE",
+                "likes": "978 likes",
+                "title": "WATCH LIVE: Homeland Security Secretary Kirstjen Nielson testifies before House Judiciary Committee",
+                "url": "https://www.youtube.com/watch?v=VRh0muE2WZE",
+                "video_length": 13628.281,
+                "views": "560,245 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=GhutxScGbDQ",
+          "title": "WATCH LIVE: Google CEO Sundar Pichai testifies before the House Judiciary Committee",
+          "video": {
+            "ad": null,
+            "comments": "Error found",
+            "content creator": "PBS NewsHour",
+            "date": "Streamed live on Dec 11, 2018",
+            "description": "Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG\nFind more from PBS NewsHour at https://www.pbs.org/newshour\nSubscribe to our YouTube channel: https://bit.ly/2HfsCD6",
+            "dislikes": " Unavailable",
+            "id": "GhutxScGbDQ",
+            "likes": "1,603 likes",
+            "title": "WATCH LIVE: Google CEO Sundar Pichai testifies before the House Judiciary Committee",
+            "url": "https://www.youtube.com/watch?v=GhutxScGbDQ",
+            "video_length": 13330.681,
+            "views": "746,201 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=GLkJSWu3VP8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=qSGXnxHyUFQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0nUxwhgTIKs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=S0zo1vacLOc",
+                  "title": "WATCH NOW: Jeff Sessions | Senate Testimony on CBSN",
+                  "video": {
+                    "ad": null,
+                    "comments": "37",
+                    "content creator": "CBS News",
+                    "date": "Streamed live on Jun 13, 2017",
+                    "description": "Watch as Jeff Sessions testifies before the Senate Intelligence Committee. Live coverage begins at 2:30pm ET on CBSN.\n\n\nSubscribe to the \"CBSN\" Channel HERE: ",
+                    "dislikes": " Unavailable",
+                    "id": "S0zo1vacLOc",
+                    "likes": "728 likes",
+                    "title": "WATCH NOW: Jeff Sessions | Senate Testimony on CBSN",
+                    "url": "https://www.youtube.com/watch?v=S0zo1vacLOc",
+                    "video_length": 12003.061,
+                    "views": "233,541 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=eRYiPzDP94I",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=K8Z9Kqhrh5c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-B9awmpKTgE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=WlSsrBrnecU",
+                  "title": "WATCH: Mueller\u2019s full testimony before the House Judiciary Committee",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Jul 26, 2019",
+                    "description": "Former special counsel Robert Mueller testified for several hours before the House Judiciary Committee on July 24, answering lawmakers\u2019 questions about his investigation into Russian interference in the 2016 election as well as potential evidence showing President Donald Trump committed obstruction of justice. Watch Mueller\u2019s full testimony.\n\nStream your PBS favorites with the PBS app: ",
+                    "dislikes": " Unavailable",
+                    "id": "WlSsrBrnecU",
+                    "likes": "2,519 likes",
+                    "title": "WATCH: Mueller\u2019s full testimony before the House Judiciary Committee",
+                    "url": "https://www.youtube.com/watch?v=WlSsrBrnecU",
+                    "video_length": 13089.501,
+                    "views": "880,735 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=daLpiUt-msY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wm9009NpbjQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ooi9rfFUcic",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=J36Zr7K8Rt4",
+                  "title": "WATCH LIVE: Senate Intelligence hearing on worldwide threats",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Streamed live on Jan 29, 2019",
+                    "description": "Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG\nFind more from PBS NewsHour at https://www.pbs.org/newshour\nSubscribe to our YouTube channel: https://bit.ly/2HfsCD6",
+                    "dislikes": " Unavailable",
+                    "id": "J36Zr7K8Rt4",
+                    "likes": "519 likes",
+                    "title": "WATCH LIVE: Senate Intelligence hearing on worldwide threats",
+                    "url": "https://www.youtube.com/watch?v=J36Zr7K8Rt4",
+                    "video_length": 8651.721,
+                    "views": "191,040 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=BxjLFHsuflg",
+              "title": "WATCH LIVE: Attorney General Jeff Sessions testifies before Senate Intelligence Committee",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "PBS NewsHour",
+                "date": "Streamed live on Jun 13, 2017",
+                "description": "Attorney General Jeff Sessions will appear before the Senate Intelligence Committee on Tuesday.",
+                "dislikes": " Unavailable",
+                "id": "BxjLFHsuflg",
+                "likes": "4,218 likes",
+                "title": "WATCH LIVE: Attorney General Jeff Sessions testifies before Senate Intelligence Committee",
+                "url": "https://www.youtube.com/watch?v=BxjLFHsuflg",
+                "video_length": 9706.701,
+                "views": "1,596,410 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=b0Etlf4tc0s",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=YHF-3Q4PeiU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XLVSD9K5kp0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=WYNHbSDWUyc",
+                  "title": "WATCH: Deputy AG Rosenstein testifies before House Judiciary Committee (1/2)",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Streamed live on Dec 13, 2017",
+                    "description": "Deputy Attorney General Rod Rosenstein testifies before the House Judiciary Committee.",
+                    "dislikes": " Unavailable",
+                    "id": "WYNHbSDWUyc",
+                    "likes": "5,018 likes",
+                    "title": "WATCH: Deputy AG Rosenstein testifies before House Judiciary Committee (1/2)",
+                    "url": "https://www.youtube.com/watch?v=WYNHbSDWUyc",
+                    "video_length": 9718.441,
+                    "views": "3,905,904 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=PIVzua11qYc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=SOXjR5zSUwc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=o9gRP_Ylg2g",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ANohtXQhkQw",
+                  "title": "Complete exchange between Rep. Trey Gowdy and FBI Deputy Assistant Director Peter Strzok",
+                  "video": {
+                    "ad": null,
+                    "comments": "38,110",
+                    "content creator": "C-SPAN",
+                    "date": "Jul 12, 2018",
+                    "description": "Complete exchange between Rep. Trey Gowdy (R-SC) and FBI Deputy Assistant Director Peter Strzok. This exchange includes several Points of Order and Parliamentary Inquiries along with the following:\n\nStrzok: \"That text in no way suggested that I or the FBI would take any action to influence the candidacy\u2026\" \nGowdy: \"That is a fantastic answer to a question nobody asked.\"\n\nStrzok: \"I don't appreciate what was originally said being changed.\" Gowdy: \"I don't give a damn what you appreciate Agent Strzok.\"\n\nFull video here: ",
+                    "dislikes": " Unavailable",
+                    "id": "ANohtXQhkQw",
+                    "likes": "45,920 likes",
+                    "title": "Complete exchange between Rep. Trey Gowdy and FBI Deputy Assistant Director Peter Strzok",
+                    "url": "https://www.youtube.com/watch?v=ANohtXQhkQw",
+                    "video_length": 1695,
+                    "views": "6,169,699 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=AW_Bdf_jGaA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IWSreiORNpg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fmeeiA3pMuQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Tu1QZu4rNEU",
+                  "title": "Corey Lewandowski testifies at impeachment hearing before congress, live stream",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,326",
+                    "content creator": "CBS News",
+                    "date": "Streamed live on Sep 17, 2019",
+                    "description": "We are sorry the stream has ended. To watch the rest of the hearing, please go to: cbsnews.com/hearing\n\nFormer Trump campaign manager Corey Lewandowski testifying about the report by Special Counsel Robert Mueller before the House Judiciary Committee at the hearing on Tuesday. The White House directed former officials Rob Porter and Rick Dearborn to defy subpoenas from the committee to appear at the committee's first formal hearing on impeachment proceedings against the president. Watch live on CBSN: ",
+                    "dislikes": " Unavailable",
+                    "id": "Tu1QZu4rNEU",
+                    "likes": "10,930 likes",
+                    "title": "Corey Lewandowski testifies at impeachment hearing before congress, live stream",
+                    "url": "https://www.youtube.com/watch?v=Tu1QZu4rNEU",
+                    "video_length": 11847.721,
+                    "views": "3,868,828 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=G7DNrW2vLjA",
+              "title": "WATCH: Rod Rosenstein and Christopher Wray testify before Congress on Russia probe",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "PBS NewsHour",
+                "date": "Jun 29, 2018",
+                "description": "Republicans accused top federal law enforcement officials Thursday of withholding important documents from them and demanded details about surveillance tactics during the Russia investigation in a contentious congressional hearing that capped days of mounting partisan complaints.\n\nFind more from PBS NewsHour at ",
+                "dislikes": " Unavailable",
+                "id": "G7DNrW2vLjA",
+                "likes": "3,289 likes",
+                "title": "WATCH: Rod Rosenstein and Christopher Wray testify before Congress on Russia probe",
+                "url": "https://www.youtube.com/watch?v=G7DNrW2vLjA",
+                "video_length": 7654.041,
+                "views": "1,328,471 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=EHqHjwNAQM0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xXH5agV7skw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ontwO5Gnb5k",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=MnCno9oUYDc",
+                  "title": "WATCH: Barr says he didn't ask Deputy AG Rosenstein to leave Justice Dept.",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Jan 15, 2019",
+                    "description": "Sen. Sheldon Whitehouse, D-R.I., asked William Barr, President Donald Trump's pick for attorney general, whether he wanted Deputy Attorney General Rod Rosenstein to leave the Department of Justice.\n\n\"So, we will find no William Barr fingerprints on Rosenstein's departure?\" Whitehouse asked.\n\nBarr said no, adding that, in his conversations with Rosenstein the deputy attorney general viewed his current position as a two-year stint. Rosenstein, who has been repeatedly targeted by Trump, plans to leave the Justice Department in the coming weeks.\n\nStream your PBS favorites with the PBS app: ",
+                    "dislikes": " Unavailable",
+                    "id": "MnCno9oUYDc",
+                    "likes": "25 likes",
+                    "title": "WATCH: Barr says he didn't ask Deputy AG Rosenstein to leave Justice Dept.",
+                    "url": "https://www.youtube.com/watch?v=MnCno9oUYDc",
+                    "video_length": 92.092,
+                    "views": "1,942 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-Fevr-2Dh4E",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ipkCYsJWSTs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=WHv12wOWX08",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=n9I_9-eqHoE",
+                  "title": "Fed Chair Jerome Powell's House testimony on the state of the economy \u2013 07/10/2019",
+                  "video": {
+                    "ad": null,
+                    "comments": "170",
+                    "content creator": "CNBC Television",
+                    "date": "Streamed live on Jul 10, 2019",
+                    "description": "Federal Reserve Chairman Jerome Powell testifies before House Committee on Financial Services on the monetary policy and the state of the U.S. economy.\n\n\u00bb Subscribe to CNBC TV: ",
+                    "dislikes": " Unavailable",
+                    "id": "n9I_9-eqHoE",
+                    "likes": "734 likes",
+                    "title": "Fed Chair Jerome Powell's House testimony on the state of the economy \u2013 07/10/2019",
+                    "url": "https://www.youtube.com/watch?v=n9I_9-eqHoE",
+                    "video_length": 11390.781,
+                    "views": "319,161 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=B0fgI_SXxfw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=HK_qkyGE4ao",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=x0ZiYSaTDMo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=U34p21nUIjs",
+                  "title": "Live From Day 2 Of William Barr's Attorney General Hearings | TIME",
+                  "video": {
+                    "ad": null,
+                    "comments": "53",
+                    "content creator": "TIME",
+                    "date": "Streamed live on Jan 16, 2019",
+                    "description": "Day 2 of Attorney General nominee William Barr's hearings. \nSubscribe to TIME \u25ba\u25ba http://po.st/SubscribeTIME\n \nGet closer to the world of entertainment and celebrity news as TIME gives you access and insight on the people who make what you watch, read and share.",
+                    "dislikes": " Unavailable",
+                    "id": "U34p21nUIjs",
+                    "likes": "138 likes",
+                    "title": "Live From Day 2 Of William Barr's Attorney General Hearings | TIME",
+                    "url": "https://www.youtube.com/watch?v=U34p21nUIjs",
+                    "video_length": 13149.533333333333,
+                    "views": "67,396 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=k7U29DN3ajk",
+              "title": "Attorney General nominee William Barr's confirmation hearing \u2013 Jan. 16, 2019",
+              "video": {
+                "ad": null,
+                "comments": "193",
+                "content creator": "CNBC Television",
+                "date": "Streamed live on Jan 16, 2019",
+                "description": "The Senate Judiciary Committee holds a confirmation hearing for William Barr - President Trump's nominee to succeed Jeff Sessions, who left the post in November. \n\n\u00bb Subscribe to CNBC: ",
+                "dislikes": " Unavailable",
+                "id": "k7U29DN3ajk",
+                "likes": "666 likes",
+                "title": "Attorney General nominee William Barr's confirmation hearing \u2013 Jan. 16, 2019",
+                "url": "https://www.youtube.com/watch?v=k7U29DN3ajk",
+                "video_length": 12749.603533333333,
+                "views": "521,588 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=6UWmVoerOLI",
+          "title": "FBI Officials Testify Before Senate on Inspector General Report \u2014 June 18, 2018",
+          "video": {
+            "ad": null,
+            "comments": "493",
+            "content creator": "CNBC Television",
+            "date": "Streamed live on Jun 18, 2018",
+            "description": "FBI Director Christopher Wray and Department of Justice Inspector General Michael E. Horowitz testify before House Judiciary Committee on the IG's first report on DOJ and FBI actions in Clinton email probe.\n\n\n\u00bb Subscribe to CNBC: ",
+            "dislikes": " Unavailable",
+            "id": "6UWmVoerOLI",
+            "likes": "1,343 likes",
+            "title": "FBI Officials Testify Before Senate on Inspector General Report \u2014 June 18, 2018",
+            "url": "https://www.youtube.com/watch?v=6UWmVoerOLI",
+            "video_length": 11645.621,
+            "views": "463,911 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=59j27-e07XU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=73bIlOzjFHo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tuPTvi-WP18",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=yry9PV3DNfw",
+                  "title": "WATCH LIVE: James Comey testifies about Russian interference in U.S. election",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Streamed live on Jun 8, 2017",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "yry9PV3DNfw",
+                    "likes": "6,538 likes",
+                    "title": "WATCH LIVE: James Comey testifies about Russian interference in U.S. election",
+                    "url": "https://www.youtube.com/watch?v=yry9PV3DNfw",
+                    "video_length": 11914.401,
+                    "views": "2,682,963 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=UNlckwWHvSY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8X7Ng75e5gQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bSMfOPw8JA0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3KyKP_l3oMw",
+                  "title": "The Putin Files: Peter Baker",
+                  "video": {
+                    "ad": null,
+                    "comments": "456",
+                    "content creator": "FRONTLINE PBS | Official",
+                    "date": "Oct 25, 2017",
+                    "description": "Watch New York Times reporter Peter Baker's candid, full interview on Vladimir Putin and allegations of Russian interference in the 2016 U.S. election \u2013 all part of \"The Putin Files\", FRONTLINE's media transparency project.  Explore Baker's full interview and interactive transcript here: ",
+                    "dislikes": " Unavailable",
+                    "id": "3KyKP_l3oMw",
+                    "likes": "2,216 likes",
+                    "title": "The Putin Files: Peter Baker",
+                    "url": "https://www.youtube.com/watch?v=3KyKP_l3oMw",
+                    "video_length": 7971.481,
+                    "views": "630,137 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ynbgMKclWWc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-6DLT9MHO4M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Y0Oa4Lp5fLE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=n30zO0ABFqc",
+                  "title": "Professor Richard Wolff: Why the Economic Crisis Deepens | The New School",
+                  "video": {
+                    "ad": null,
+                    "comments": "165",
+                    "content creator": "The New School",
+                    "date": "Oct 20, 2010",
+                    "description": "Presented by the Graduate Program in International Affairs | http://www.newschool.edu/internationa...\nhttp://www.gpia.info",
+                    "dislikes": " Unavailable",
+                    "id": "n30zO0ABFqc",
+                    "likes": "24,478 likes",
+                    "title": "Professor Richard Wolff: Why the Economic Crisis Deepens | The New School",
+                    "url": "https://www.youtube.com/watch?v=n30zO0ABFqc",
+                    "video_length": 7341.041,
+                    "views": "5,225,952 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=jz8ug1UY-2k",
+              "title": "WATCH LIVE: FBI Director James Comey testifies before the Senate Judiciary Committee",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "PBS NewsHour",
+                "date": "Streamed live on May 3, 2017",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "jz8ug1UY-2k",
+                "likes": "7,361 likes",
+                "title": "WATCH LIVE: FBI Director James Comey testifies before the Senate Judiciary Committee",
+                "url": "https://www.youtube.com/watch?v=jz8ug1UY-2k",
+                "video_length": 13839.361,
+                "views": "4,581,861 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=FOy_hx_W2yM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IVAExDHaKcc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9dQQq_ltOuw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=KXkgAklX6jI",
+                  "title": "Peter Strozk testimony at House committee hearing resumes as FBI agent faces more questions",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,510",
+                    "content creator": "CBS News",
+                    "date": "Streamed live on Jul 12, 2018",
+                    "description": "FBI official Peter Strzok gives testimony to a hearing of both the House Judiciary and House Oversight committees. Strzok is publicly defending his actions during investigations of both Hillary Clinton and Donald Trump during the 2016 presidential election. \n\nStrzok's anti-Trump text messages fueled suspicions of partisan bias over the course of the 2016 election and Hillary Clinton email investigation.\n\nFollow live: ",
+                    "dislikes": " Unavailable",
+                    "id": "KXkgAklX6jI",
+                    "likes": "10,485 likes",
+                    "title": "Peter Strozk testimony at House committee hearing resumes as FBI agent faces more questions",
+                    "url": "https://www.youtube.com/watch?v=KXkgAklX6jI",
+                    "video_length": 10258.061,
+                    "views": "3,426,007 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=1usxTIDLExs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=uTUwL_vRoHE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=iLOURV_HWeU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=LiUBXt2NJNA",
+                  "title": "Rod Rosenstein testifies on origins of Russia probe before Senate",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,238",
+                    "content creator": "Fox News",
+                    "date": "Streamed live on Jun 3, 2020",
+                    "description": "Former Deputy Attorney General Rod Rosenstein will testify before the Senate Judiciary Committee this morning to answer questions about the origins of the Russia investigation. On the agenda: unmasking requests made by Obama Admin officials. Michael Flynn, the then-incoming National Security Advisor, was one of those unmasked and Sen Graham wants to know if requests to unmask him were legitimate. \n\nSubscribe to Fox News! ",
+                    "dislikes": " Unavailable",
+                    "id": "LiUBXt2NJNA",
+                    "likes": "23,595 likes",
+                    "title": "Rod Rosenstein testifies on origins of Russia probe before Senate",
+                    "url": "https://www.youtube.com/watch?v=LiUBXt2NJNA",
+                    "video_length": 12445.941,
+                    "views": "3,189,685 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lYMD0-yWrQ8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bn88kd2Egx0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=C3kXs2ISxWA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=41rdxjyYmE8",
+                  "title": "Rosenstein, McCabe and Coats testify at Senate Intel hearing",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Streamed live on Jun 7, 2017",
+                    "description": "Read more: http://to.pbs.org/2s4anJR\n\nDirector of National Intelligence Dan Coats, National Security Agency Director Admiral Mike Rogers, acting FBI Director Andrew McCabe and Deputy Attorney General Rod Rosenstein are scheduled to testify before the Senate Intelligence Committee Wednesday ahead of fired FBI director James Comey\u2019s much-anticipated testimony Thursday.",
+                    "dislikes": " Unavailable",
+                    "id": "41rdxjyYmE8",
+                    "likes": "1,166 likes",
+                    "title": "Rosenstein, McCabe and Coats testify at Senate Intel hearing",
+                    "url": "https://www.youtube.com/watch?v=41rdxjyYmE8",
+                    "video_length": 9302.221,
+                    "views": "296,753 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=cbvXIi7hV5I",
+              "title": "Former Deputy Attorney General Rod Rosenstein testifies on Crossfire Hurricane Investigation",
+              "video": {
+                "ad": null,
+                "comments": "2,198",
+                "content creator": "C-SPAN",
+                "date": "Streamed live on Jun 3, 2020",
+                "description": "Former Deputy Attorney General Rod Rosenstein testifies on Crossfire Hurricane Investigation before Senate Judiciary Cmte http://cs.pn/2Xqtk7X",
+                "dislikes": " Unavailable",
+                "id": "cbvXIi7hV5I",
+                "likes": "4,870 likes",
+                "title": "Former Deputy Attorney General Rod Rosenstein testifies on Crossfire Hurricane Investigation",
+                "url": "https://www.youtube.com/watch?v=cbvXIi7hV5I",
+                "video_length": 11684,
+                "views": "438,804 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=LouvsnR64z8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XUeYA4XybZ4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=sPQETCpI-dw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-TnNBRw_514",
+                  "title": "After the Election, Now What? Bob Woodward with Bernie Swain",
+                  "video": {
+                    "ad": null,
+                    "comments": "55",
+                    "content creator": "92nd Street Y",
+                    "date": "Nov 15, 2016",
+                    "description": "After the Election, Now What? America\u2019s Future and Lessons of Leadership, Bob Woodward with Bernie Swain.\n\nSubscribe for more videos like this: ",
+                    "dislikes": " Unavailable",
+                    "id": "-TnNBRw_514",
+                    "likes": "453 likes",
+                    "title": "After the Election, Now What? Bob Woodward with Bernie Swain",
+                    "url": "https://www.youtube.com/watch?v=-TnNBRw_514",
+                    "video_length": 4181.581,
+                    "views": "103,829 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Xc0kbM4tBYE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Qqc0t8ghvis&list=RDCMUC9xkc8dWgBsFfC7DOJfJLFg&start_radio=1&rv=Qqc0t8ghvis",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=pflU-nnY4MA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Qqc0t8ghvis",
+                  "title": "IQ2 Debate: Don't Trust The Promise Of Artificial Intelligence",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,896",
+                    "content creator": "92nd Street Y",
+                    "date": "Mar 10, 2016",
+                    "description": "As technology rapidly progresses, some proponents of artificial intelligence believe that it will help solve complex social challenges and offer immortality via virtual humans.\n\nBut AI\u2019s critics are sounding the alarm, going so far as to call its development an \u201cexistential threat\u201d to mankind. Is this the stuff of science fiction? Could the \u201cTerminator\u201d become reality, or will these fears prevent the next technological revolution?\n\nSubscribe for more videos like this: ",
+                    "dislikes": " Unavailable",
+                    "id": "Qqc0t8ghvis",
+                    "likes": "4,328 likes",
+                    "title": "IQ2 Debate: Don't Trust The Promise Of Artificial Intelligence",
+                    "url": "https://www.youtube.com/watch?v=Qqc0t8ghvis",
+                    "video_length": 5713.741,
+                    "views": "444,225 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=K6LcK_bdsHc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=FSs8L34pZ5c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3OX9UyXrEHg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=h-K9bMWVpoE",
+                  "title": "James Comey, \"A Higher Loyalty\"",
+                  "video": {
+                    "ad": null,
+                    "comments": "13",
+                    "content creator": "Politics and Prose",
+                    "date": "May 3, 2018",
+                    "description": "James Comey discusses his book, \"A Higher Loyalty\", at a Politics and Prose event at GW Lisner Auditorium on 4/30/18.\n\nIn A Higher Loyalty, former FBI director James Comey shares never-before-told experiences from the highest-stakes situations of his career. From prosecuting the Mob to changing U.S. policy on torture, overseeing the Clinton e-mail investigation to exposing ties between the Trump campaign and Russia, Comey has been involved in some of the most consequential cases of recent history. His story provides a unique entry into the corridors of power, and a remarkable lesson in what makes a true leader.\n\nComey is in conversation with Mike Allen, co-founder of Axios. This event is presented in partnership with Axios.",
+                    "dislikes": " Unavailable",
+                    "id": "h-K9bMWVpoE",
+                    "likes": "317 likes",
+                    "title": "James Comey, \"A Higher Loyalty\"",
+                    "url": "https://www.youtube.com/watch?v=h-K9bMWVpoE",
+                    "video_length": 3912.341,
+                    "views": "26,628 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=9xqGu66D6VU",
+              "title": "James Comey in Conversation with Nicolle Wallace",
+              "video": {
+                "ad": null,
+                "comments": "1,170",
+                "content creator": "92nd Street Y",
+                "date": "Dec 10, 2018",
+                "description": "Former FBI Director James Comey stood tall when he found himself at the center of an unparalleled political firestorm.\n\nIn this sure-to-be riveting talk, he shares insights into the strongholds and fault lines existing at the highest levels of justice in America, and the challenges he faced in navigating them. Talking with NBC News political analyst Nicolle Wallace, he will discuss his rise from Yonkers native to prosecutor, deputy attorney general, private lawyer, law professor, and finally, FBI director, leading and driving our justice system. Join them to hear firsthand about Comey\u2019s views on ethical leadership, and about the values he sees as critical to justice and to our national security.\n\nCo-presented with the Impact Public Service Fund.\n\nSubscribe for more videos like this: ",
+                "dislikes": " Unavailable",
+                "id": "9xqGu66D6VU",
+                "likes": "2,465 likes",
+                "title": "James Comey in Conversation with Nicolle Wallace",
+                "url": "https://www.youtube.com/watch?v=9xqGu66D6VU",
+                "video_length": 3779,
+                "views": "285,153 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=wOA1Pn4wyoA",
+          "title": "FBI Chief James Comey Testifies On Hillary Clinton, Wikileaks (Full Testimony) | The New York Times",
+          "video": {
+            "ad": null,
+            "comments": "424",
+            "content creator": "The New York Times",
+            "date": "Streamed live on May 3, 2017",
+            "description": "The agency's director, James B. Comey, spoke at a Senate judiciary committee hearing.\n\nSubscribe on YouTube: http://bit.ly/U8Ys7n\n\n---------------------------------------------------------------\n\nWant more from The New York Times?\n\nWatch more videos at: http://nytimes.com/video\n\nFacebook: ",
+            "dislikes": " Unavailable",
+            "id": "wOA1Pn4wyoA",
+            "likes": "1,570 likes",
+            "title": "FBI Chief James Comey Testifies On Hillary Clinton, Wikileaks (Full Testimony) | The New York Times",
+            "url": "https://www.youtube.com/watch?v=wOA1Pn4wyoA",
+            "video_length": 14129,
+            "views": "516,959 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=1CKTtAlktWY",
+      "title": "WATCH: Sen. Judiciary Cmte. hears testimony about IG report on FBI, DOJ and email probe",
+      "video": {
+        "ad": null,
+        "comments": "Error found",
+        "content creator": "PBS NewsHour",
+        "date": "Streamed live on Jun 18, 2018",
+        "description": "The Senate Judiciary Committee hears testimony about the Inspector General report on the FBI, DOJ and email probe.\n\nFind more from PBS NewsHour at ",
+        "dislikes": " Unavailable",
+        "id": "1CKTtAlktWY",
+        "likes": "3,210 likes",
+        "title": "WATCH: Sen. Judiciary Cmte. hears testimony about IG report on FBI, DOJ and email probe",
+        "url": "https://www.youtube.com/watch?v=1CKTtAlktWY",
+        "video_length": 11608.981,
+        "views": "1,026,134 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Xw2bTpyHGCE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=MPb1VNt2EOo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xwED4v5G3HA&list=RDLVxwED4v5G3HA&start_radio=1&rv=xwED4v5G3HA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=xwED4v5G3HA",
+                  "title": "Ricky Gervais | Full Q&A | Oxford Union",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,567",
+                    "content creator": "OxfordUnion",
+                    "date": "Aug 29, 2017",
+                    "description": "SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion\nOxford Union on Facebook: https://www.facebook.com/theoxfordunion\nOxford Union on Twitter: @OxfordUnion\nWebsite: ",
+                    "dislikes": " Unavailable",
+                    "id": "xwED4v5G3HA",
+                    "likes": "20,513 likes",
+                    "title": "Ricky Gervais | Full Q&A | Oxford Union",
+                    "url": "https://www.youtube.com/watch?v=xwED4v5G3HA",
+                    "video_length": 3196.341,
+                    "views": "2,356,956 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=krfcq5pF8u8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=EuwmWnphqII",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=oMnXu-IXeM0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3FvKzSBSQcc",
+                  "title": "ZEITGEIST: ADDENDUM | Full Free Documentary | Social Pathology, Peter Joseph",
+                  "video": {
+                    "ad": null,
+                    "comments": "383",
+                    "content creator": "FilmIsNow Movie Trailers",
+                    "date": "Premiered Apr 2, 2021",
+                    "description": "Watch FREE FULL MOVIES in exclusive \ud83d\udc49\ud83c\udffc https://bit.ly/3woTiHZ\nWatch the full documentary Zeitgeist: Addendum, from director Peter Joseph, born out of public interest in possible solutions to the cultural issues presented in Zeitgeist: The Movie\n\n\ud83d\udd34 Want to be notified when we post new videos? \nSubscribe to the channel and click the bell icon -",
+                    "dislikes": " Unavailable",
+                    "id": "3FvKzSBSQcc",
+                    "likes": "2,884 likes",
+                    "title": "ZEITGEIST: ADDENDUM | Full Free Documentary | Social Pathology, Peter Joseph",
+                    "url": "https://www.youtube.com/watch?v=3FvKzSBSQcc",
+                    "video_length": 7387.141,
+                    "views": "163,142 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ubM1ozlEBuY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=uyTVyCp7xrw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Tvaosp5v_Yw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=7KSDrzvlwoA",
+                  "title": "This Oakland project honors the women of the Black Panther Party",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Feb 20, 2022",
+                    "description": "The historically Black neighborhood of West Oakland is changing, like much of California\u2019s Bay Area\u2014but longtime local residents are working on a project to immortalize their neighborhood\u2019s legacy: the birthplace of the Black Panther Party. A grassroots museum and mural honors the vital contributions of the oft-overlooked women of the Black Panthers. Ivette Feliciano reports. \n\nStream your PBS favorites with the PBS app: ",
+                    "dislikes": " Unavailable",
+                    "id": "7KSDrzvlwoA",
+                    "likes": "85 likes",
+                    "title": "This Oakland project honors the women of the Black Panther Party",
+                    "url": "https://www.youtube.com/watch?v=7KSDrzvlwoA",
+                    "video_length": 561.621,
+                    "views": "1,244 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=uXyS-74sRTE",
+              "title": "Joe Rogan Experience #835 - Louis Theroux",
+              "video": {
+                "ad": null,
+                "comments": "7,810",
+                "content creator": "PowerfulJRE",
+                "date": "Streamed live on Aug 22, 2016",
+                "description": "Louis Theroux is best known for his documentaries in the television series \"Louis Theroux's Weird Weekends\" and \"When Louis Met...\", as well as his Louis Theroux's BBC Two specials.",
+                "dislikes": " Unavailable",
+                "id": "uXyS-74sRTE",
+                "likes": "59,396 likes",
+                "title": "Joe Rogan Experience #835 - Louis Theroux",
+                "url": "https://www.youtube.com/watch?v=uXyS-74sRTE",
+                "video_length": 8625.841,
+                "views": "10,036,875 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=_q471WB5Tgw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AGcfP4mfQG8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=OGVSApSCWCs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=FXrJNExqIvs",
+                  "title": "Conan Takes A Hit Of Seth Rogen\u2019s Joint - CONAN on TBS",
+                  "video": {
+                    "ad": null,
+                    "comments": "15,142",
+                    "content creator": "Team Coco",
+                    "date": "Jun 22, 2021",
+                    "description": "CONAN Highlight: Seth has one suggestion for how Conan should spend his time off: smoking a lot of weed.\n\nMore CONAN @ ",
+                    "dislikes": " Unavailable",
+                    "id": "FXrJNExqIvs",
+                    "likes": "178,106 likes",
+                    "title": "Conan Takes A Hit Of Seth Rogen\u2019s Joint - CONAN on TBS",
+                    "url": "https://www.youtube.com/watch?v=FXrJNExqIvs",
+                    "video_length": 368,
+                    "views": "6,205,784 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=52te8uUts5Y",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=L88A5PQRsQ4&list=RDCMUC789h3eqw0H1HqGmIsI26OA&start_radio=1&rv=L88A5PQRsQ4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=K7im0KAvZRU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=L88A5PQRsQ4",
+                  "title": "Khamzat Chimaev on Darren Till sparring: \"I'm happy he's here\"",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,315",
+                    "content creator": "TheMacLife",
+                    "date": "Feb 20, 2022",
+                    "description": "Footage courtesy of Block Asset. Full video can be found at https://youtu.be/fL0jIS9RcxY\n\nVISIT: http://www.themaclife.com",
+                    "dislikes": " Unavailable",
+                    "id": "L88A5PQRsQ4",
+                    "likes": "9,644 likes",
+                    "title": "Khamzat Chimaev on Darren Till sparring: \"I'm happy he's here\"",
+                    "url": "https://www.youtube.com/watch?v=L88A5PQRsQ4",
+                    "video_length": 193,
+                    "views": "337,507 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=p1dfV9up_MY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=jZORfyHMBX0&list=RDCMUCDogdKl7t7NHzQ95aEwkdMw&start_radio=1&rv=jZORfyHMBX0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QzB2CP1kv4Q",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=jZORfyHMBX0",
+                  "title": "THE CUBE: SIDEMEN EDITION",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,218",
+                    "content creator": "Sidemen",
+                    "date": "Feb 20, 2022",
+                    "description": "The remaining Sidemen & @Randolph  take on  The Cube!\nThanks @Stephen Tries for hosting!\n\ud83c\udf57: Order food NOW at: https://www.eatsides.com/",
+                    "dislikes": " Unavailable",
+                    "id": "jZORfyHMBX0",
+                    "likes": "173,927 likes",
+                    "title": "THE CUBE: SIDEMEN EDITION",
+                    "url": "https://www.youtube.com/watch?v=jZORfyHMBX0",
+                    "video_length": 2612.061,
+                    "views": "2,445,643 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=fTAPaHcLAhw",
+              "title": "Joe Rogan Experience #1306 - Wiz Khalifa",
+              "video": {
+                "ad": null,
+                "comments": "23,221",
+                "content creator": "PowerfulJRE",
+                "date": "May 30, 2019",
+                "description": "Wiz Khalifa is a rapper, singer, songwriter and actor. His new documentary \"Wiz Khalifa: Behind the Cam\" is available now on Apple Music. https://itunes.apple.com/us/show/wiz-...",
+                "dislikes": " Unavailable",
+                "id": "fTAPaHcLAhw",
+                "likes": "172,074 likes",
+                "title": "Joe Rogan Experience #1306 - Wiz Khalifa",
+                "url": "https://www.youtube.com/watch?v=fTAPaHcLAhw",
+                "video_length": 7414.421,
+                "views": "12,783,947 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=1rQzq5t44Q8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7gcuaqqRXK4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=jLmciZdh5j4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Am2mo7BhQrQ",
+                  "title": "You and AI Presented by Professor Brian Cox | The Royal Society",
+                  "video": {
+                    "ad": null,
+                    "comments": "356",
+                    "content creator": "The Royal Society",
+                    "date": "Streamed live on Dec 11, 2018",
+                    "description": "Throughout 2018, we've brought you the world's leading thinkers on artificial intelligence.  \nNow we're calling on you to pose your questions to our panel of experts, to find out what challenges and opportunities you think AI will present us with in the next decade. Will AI affect our jobs? What risks might AI pose to society? Can we train AIs to make moral and ethical decisions?\n\nThe discussion will be webcast live and the video recording will be available shortly after the event: ",
+                    "dislikes": " Unavailable",
+                    "id": "Am2mo7BhQrQ",
+                    "likes": "2,036 likes",
+                    "title": "You and AI Presented by Professor Brian Cox | The Royal Society",
+                    "url": "https://www.youtube.com/watch?v=Am2mo7BhQrQ",
+                    "video_length": 6013.921,
+                    "views": "204,702 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=LDTe8uFqbws",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=2TsYqLFJ0Ng",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ICJnUDIOMpw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=WxfA1OSev4c",
+                  "title": "Alex Filippenko: Supernovae, Dark Energy, Aliens & the Expanding Universe | Lex Fridman Podcast #137",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,344",
+                    "content creator": "Lex Fridman",
+                    "date": "Nov 7, 2020",
+                    "description": "Alex Filippenko is an astrophysicist and professor of astronomy at Berkeley. Please support this podcast by checking out our sponsors:\n- Neuro: https://www.getneuro.com and use code LEX to get 15% off\n- BetterHelp: ",
+                    "dislikes": " Unavailable",
+                    "id": "WxfA1OSev4c",
+                    "likes": "24,025 likes",
+                    "title": "Alex Filippenko: Supernovae, Dark Energy, Aliens & the Expanding Universe | Lex Fridman Podcast #137",
+                    "url": "https://www.youtube.com/watch?v=WxfA1OSev4c",
+                    "video_length": 9347.461,
+                    "views": "2,153,728 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=XdOxBCpk39c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5hv4HfLQGlw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0Y5qKI5TIdM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=E2zrqzvtWio",
+                  "title": "The Paranoia That Cost Hitler The War | Warlords: Hitler vs Stalin | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "15,193",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Oct 11, 2017",
+                    "description": "The personalities and spectres of Adolf Hitler and Joseph Stalin loom large in the events of the twentieth Century. They were similar in some respects and yet very different in others.\n\nThe first in a series that examines the interaction of the leading protagonists of WW2, this program looks in some depth at the nature of the relationship and interaction of these two \u2018warlords\u2019. The use of primary materials and memoirs as sources gives the psycho-historical analysis some substance.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "E2zrqzvtWio",
+                    "likes": "152,362 likes",
+                    "title": "The Paranoia That Cost Hitler The War | Warlords: Hitler vs Stalin | Timeline",
+                    "url": "https://www.youtube.com/watch?v=E2zrqzvtWio",
+                    "video_length": 2925.761,
+                    "views": "20,246,502 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=wieRZoJSVtw",
+              "title": "Joe Rogan Experience #1233 - Brian Cox",
+              "video": {
+                "ad": null,
+                "comments": "19,695",
+                "content creator": "PowerfulJRE",
+                "date": "Streamed live on Jan 28, 2019",
+                "description": "Professor Brian Cox is an English physicist and Professor of Particle Physics in the School of Physics and Astronomy at the University of Manchester in the UK. \n\nTickets for Brian Cox Universal Adventures In Space & Time available at:\nUS & CANADA: ",
+                "dislikes": " Unavailable",
+                "id": "wieRZoJSVtw",
+                "likes": "133,585 likes",
+                "title": "Joe Rogan Experience #1233 - Brian Cox",
+                "url": "https://www.youtube.com/watch?v=wieRZoJSVtw",
+                "video_length": 9293.860527193861,
+                "views": "10,319,022 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=HM8WDZIhs3M",
+          "title": "Joe Rogan Experience #1136 - Hamilton Morris",
+          "video": {
+            "ad": null,
+            "comments": "18,466",
+            "content creator": "PowerfulJRE",
+            "date": "Streamed live on Jun 26, 2018",
+            "description": "Hamilton Morris is a writer, documentarian, psychonaut and scientific researcher. His show \"Hamilton's Pharmacopeia\" is available on VICELAND and iTunes.",
+            "dislikes": " Unavailable",
+            "id": "HM8WDZIhs3M",
+            "likes": "126,929 likes",
+            "title": "Joe Rogan Experience #1136 - Hamilton Morris",
+            "url": "https://www.youtube.com/watch?v=HM8WDZIhs3M",
+            "video_length": 10416.981,
+            "views": "13,985,815 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=MTYINPc1lvk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=HLP7jEVIh8U&list=RDLVHLP7jEVIh8U&start_radio=1&rv=HLP7jEVIh8U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Zwkk4NyO3GA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=HLP7jEVIh8U",
+                  "title": "Jordan Peterson: 30 Minutes for the NEXT 30 Years of Your LIFE",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,222",
+                    "content creator": "Motivation Madness",
+                    "date": "Oct 22, 2018",
+                    "description": "Subscribe for Motivational Videos Every Weekday, Helping You Get Through The Week! http://bit.ly/MotivationVideos",
+                    "dislikes": " Unavailable",
+                    "id": "HLP7jEVIh8U",
+                    "likes": "57,358 likes",
+                    "title": "Jordan Peterson: 30 Minutes for the NEXT 30 Years of Your LIFE",
+                    "url": "https://www.youtube.com/watch?v=HLP7jEVIh8U",
+                    "video_length": 1800.161,
+                    "views": "3,056,204 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dJyz6iK8VXE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                  "title": "Jordan B. Peterson on 12 Rules for Life",
+                  "video": {
+                    "ad": null,
+                    "comments": "12,662",
+                    "content creator": "How To Academy Mindset",
+                    "date": "Jan 17, 2018",
+                    "description": "Don't forget to Subscribe to our Channel!. \n\nThe clinical psychologist Jordan Peterson sets out twelve profound and practical principles for living a meaningful life. His 12 Rules for Life will offer an antidote to the chaos in our lives: with eternal truths applied to our modern problems.",
+                    "dislikes": " Unavailable",
+                    "id": "-5RCmu-HuTg",
+                    "likes": "213,965 likes",
+                    "title": "Jordan B. Peterson on 12 Rules for Life",
+                    "url": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                    "video_length": 5432.461,
+                    "views": "15,240,335 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Xm_2zmX6Akc&list=RDLVXm_2zmX6Akc&start_radio=1&rv=Xm_2zmX6Akc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=iRHQMOSVJA0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Xm_2zmX6Akc",
+                  "title": "Jordan Peterson: How To Deal With Depression | Powerful Motivational Speech",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,951",
+                    "content creator": "Motivation Madness",
+                    "date": "Feb 25, 2018",
+                    "description": "Jordan Peterson talks about how you can overcome and defeat depression. \n\nSubscribe for Motivational Videos Every Weekday, Helping You Get Through The Week! ",
+                    "dislikes": " Unavailable",
+                    "id": "Xm_2zmX6Akc",
+                    "likes": "97,818 likes",
+                    "title": "Jordan Peterson: How To Deal With Depression | Powerful Motivational Speech",
+                    "url": "https://www.youtube.com/watch?v=Xm_2zmX6Akc",
+                    "video_length": 2985.061,
+                    "views": "4,724,692 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=wqEsTPaUZF0",
+              "title": "Jordan Peterson's Life Advice Will Change Your Future (MUST WATCH)",
+              "video": {
+                "ad": null,
+                "comments": "10,398",
+                "content creator": "Motivation Madness",
+                "date": "Feb 19, 2018",
+                "description": "Pre-Order Jordan Peterson's #1 NEW RELEASE Book Here - https://geni.us/ZUhWp\n\nJordan Peterson's Life Advice Will Change Your Future. A must watch motivational speech!\n\nSubscribe for Motivational Videos Every Weekday, Helping You Get Through The Week! ",
+                "dislikes": " Unavailable",
+                "id": "wqEsTPaUZF0",
+                "likes": "318,764 likes",
+                "title": "Jordan Peterson's Life Advice Will Change Your Future (MUST WATCH)",
+                "url": "https://www.youtube.com/watch?v=wqEsTPaUZF0",
+                "video_length": 1620.581,
+                "views": "11,646,602 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=q4zZ2ker1iI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4O-UZGnv9O0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Iy4vq8RdPGU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=1ruwVc0t2c0",
+                  "title": "Jordan Peterson | Full interview | VPRO Documentary (2019)",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,317",
+                    "content creator": "vpro documentary",
+                    "date": "Sep 15, 2020",
+                    "description": "This interview was not conducted to be a stand-alone interview, it was conducted for a Dutch documentary about male/female-dynamics in Canada. Within this documentary, we explored how an event like the Toronto van attack could happen in Canada and how Canadians are trying to heal from it. More broadly, we looked at misogyny and violence against women within Canada, and what it is about contemporary feminism that makes some men angry or lost. We also paid attention to men suffering from violence that their female partners had inflicted upon them. As prominent Canadian voices, we included both Margaret Atwood and Jordan Peterson.\n\nPsychology professor Jordan Peterson has become a controversial figure ever since speaking out against Bill C-16 (2016), a law which adds gender expression and gender identity to the Canadian Human Rights Act. He has received both praise and criticism after the publication of his self-help book 12 Rules for Life: An Antidote to Chaos (2018). His fans are thankful for the advice he\u2019s given them to take responsibility for their lives, his critics argue that his emphasis on the danger posed by \u2018postmodern neo-marxists\u2019 is dangerous in itself. He has been accused of being anti-feminist and feeding into the alt-right. While he gained support among people who do identify with the alt-right, he himself does not. \n\nPeterson has become an important inspiration for various men\u2019s groups, an influential voice. Therefore, we wanted to get clear where he stands on contemporary feminism and how he interprets the van attack, which took place in the city he lives in. Since the documentary episode only allowed for brief passages from the interview, while Peterson\u2019s answers are extensive, we decided to provide the entire interview.\n\nWe talked to Peterson on the 4th of June 2019, in Toronto, Ontario. Since there were some breaks (for adjusting the camera and for having coffee) during the interview, it consists of multiple takes. Apart from leaving out the breaks themselves and making the transition between breaks more fluent, no further editing has been done. \n\nThe documentary about the Toronto van attack and male-female dynamics in Canada is available here: ",
+                    "dislikes": " Unavailable",
+                    "id": "1ruwVc0t2c0",
+                    "likes": "41,141 likes",
+                    "title": "Jordan Peterson | Full interview | VPRO Documentary (2019)",
+                    "url": "https://www.youtube.com/watch?v=1ruwVc0t2c0",
+                    "video_length": 7913.461,
+                    "views": "1,802,352 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=WUtAxUQjwB4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_njf8jwEGRo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kasiov0ytEc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                  "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                  "video": {
+                    "ad": null,
+                    "comments": "14,718",
+                    "content creator": "OxfordUnion",
+                    "date": "Jun 24, 2018",
+                    "description": "SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion\nOxford Union on Facebook: https://www.facebook.com/theoxfordunion\nOxford Union on Twitter: @OxfordUnion\nWebsite: ",
+                    "dislikes": " Unavailable",
+                    "id": "UZMIbo_DxJk",
+                    "likes": "104,706 likes",
+                    "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                    "url": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                    "video_length": 4549.861,
+                    "views": "9,002,599 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=qgYMuRqXPr0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=j20o1mbixgc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=W8e_dvbXoCQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=v6H2HmKDbZA",
+                  "title": "Jordan Peterson: From the Barricades of the Culture Wars",
+                  "video": {
+                    "ad": null,
+                    "comments": "11,381",
+                    "content creator": "The Aspen Institute",
+                    "date": "Jun 27, 2018",
+                    "description": "From the Aspen Ideas Festival, recorded Tuesday, June 26, 2018. Jordan Peterson, author of the best-selling 12 Rules for Life: An Antidote to Chaos, may be one of the most famous intellectuals in North America today. He also may be among the most misunderstood. His fans say that he\u2019s saved their lives, and detractors say that he\u2019s the gateway drug to the alt-right. Who is this psychologist-philosopher whom so many of us had never heard of two years ago, and what does he really believe?\n\nFeaturing Jordan Peterson in conversation with Bari Weiss. Hosted in the St. Regis Hotel Ballroom, Aspen, Colorado.",
+                    "dislikes": " Unavailable",
+                    "id": "v6H2HmKDbZA",
+                    "likes": "78,179 likes",
+                    "title": "Jordan Peterson: From the Barricades of the Culture Wars",
+                    "url": "https://www.youtube.com/watch?v=v6H2HmKDbZA",
+                    "video_length": 5522.601,
+                    "views": "7,287,093 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=7QRQjrsFnR4",
+              "title": "Jordan Peterson on Gender, Patriarchy and the Slide Towards Tyranny",
+              "video": {
+                "ad": null,
+                "comments": "20,104",
+                "content creator": "Intelligence Squared",
+                "date": "May 24, 2018",
+                "description": "Jordan Peterson, author of 12 Rules for Life: An Antidote to Chaos, was joined by Anne McElvoy, Senior Editor at The Economist and head of Economist Radio, to discuss gender, identity politics, liberalism and #MeToo.\n__________________________________\nBrilliant minds, debate, online events, ask your questions. Try Intelligence Squared +: ",
+                "dislikes": " Unavailable",
+                "id": "7QRQjrsFnR4",
+                "likes": "47,072 likes",
+                "title": "Jordan Peterson on Gender, Patriarchy and the Slide Towards Tyranny",
+                "url": "https://www.youtube.com/watch?v=7QRQjrsFnR4",
+                "video_length": 3564.181,
+                "views": "2,808,335 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=vdHJjbHwR38&list=RDLVvdHJjbHwR38&start_radio=1&rv=vdHJjbHwR38",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Tsuhfsfk6Kk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=o6Xy5EP77to",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=vdHJjbHwR38",
+                  "title": "Jordan Peterson Emotional Interview with Patrick Bet-David",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,195",
+                    "content creator": "Valuetainment",
+                    "date": "Aug 9, 2019",
+                    "description": "Jordan Peterson Interview with Patrick Bet-David. In this second encounter these two thought leaders discuss tough times in the economy, the challenges of media, raising a family, fortune 100 companies hiring Ivy League students, Twitter and more life principles. \n\nAbout Jordan Peterson: Jordan Bernt Peterson is a Canadian clinical psychologist and a professor of psychology at the University of Toronto.\n\nMusic selection used through agreement with Epidemic Sound ",
+                    "dislikes": " Unavailable",
+                    "id": "vdHJjbHwR38",
+                    "likes": "54,804 likes",
+                    "title": "Jordan Peterson Emotional Interview with Patrick Bet-David",
+                    "url": "https://www.youtube.com/watch?v=vdHJjbHwR38",
+                    "video_length": 3923.081,
+                    "views": "1,990,784 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=kYYJlNbV1OM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KxGPe1jD-qY&list=RDLVKxGPe1jD-qY&start_radio=1&rv=KxGPe1jD-qY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=f5rUPatnXSE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=KxGPe1jD-qY",
+                  "title": "Lectures: Exploring the Psychology of Creativity",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "National Gallery of Canada",
+                    "date": "Apr 27, 2017",
+                    "description": "What is creativity? Can we develop it, or is it innate? Watch the conversation between Marc Mayer, Director and CEO of the National Gallery of Canada, and Dr. Jordan Peterson, Professor of Psychology at the University of Toronto, which took place March 9, 2017 at the National Gallery of Canada.",
+                    "dislikes": " Unavailable",
+                    "id": "KxGPe1jD-qY",
+                    "likes": "Unavailable",
+                    "title": "Lectures: Exploring the Psychology of Creativity",
+                    "url": "https://www.youtube.com/watch?v=KxGPe1jD-qY",
+                    "video_length": 3040.961,
+                    "views": "7,616,759 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=fjdlJBSp1lc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=OMpLDUHzSjg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=z3cjksFFKAQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                  "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "abcqanda",
+                    "date": "Streamed live on Feb 25, 2019",
+                    "description": "Monday, 25 February 2019\n\nJordan Peterson join the live Q&A Panel with Alex Hawke, Terri Butler, Cathryn McGregor and Van Badham. \n\nFor more from Q&A, click here: ",
+                    "dislikes": " Unavailable",
+                    "id": "TmNSlF7lcaw",
+                    "likes": "112,973 likes",
+                    "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+                    "url": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                    "video_length": 4763.181,
+                    "views": "9,955,355 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+              "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+              "video": {
+                "ad": null,
+                "comments": "66,268",
+                "content creator": "Skavlan",
+                "date": "Oct 29, 2018",
+                "description": "Watch the complete Skavlan interview with psychologist and professor Jordan B. Peterson.\n\nAlso present in the studio are Swedish politician Annie L\u00f6\u00f6f and Norwegian author Erlend Loe. The show's presenter is Fredrik Skavlan. \n\nMore Skavlan\nTwitter: ",
+                "dislikes": " Unavailable",
+                "id": "_iudkPi4_sY",
+                "likes": "298,039 likes",
+                "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+                "url": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+                "video_length": 2319.741,
+                "views": "23,590,772 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+          "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+          "video": {
+            "ad": null,
+            "comments": "230,438",
+            "content creator": "British GQ",
+            "date": "Oct 30, 2018",
+            "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+            "dislikes": " Unavailable",
+            "id": "yZYQpge1W5s",
+            "likes": "717,662 likes",
+            "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+            "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+            "video_length": 6133.181,
+            "views": "49,057,922 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=yu03MpFaHDg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ccK2GifNn4A",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1Yp91zKBGgY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=VQOOxOl9l80",
+                  "title": "Exposing Jeffrey Epstein's international sex trafficking ring | 60 Minutes Australia",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "60 Minutes Australia",
+                    "date": "Nov 10, 2019",
+                    "description": "Subscribe here: http://9Soci.al/chmP50wA97J Full Episodes: https://9now.app.link/uNP4qBkmN6 \n| Scandal (2019)\n\nThe Jeffrey Epstein scandal \u2013 Tara Brown reports how a New York billionaire masterminded an international sex trafficking ring of young women, and why wealthy and powerful men, including HRH Prince Andrew, are now implicated in the saga. Stream full episodes on 9Now: ",
+                    "dislikes": " Unavailable",
+                    "id": "VQOOxOl9l80",
+                    "likes": "135,510 likes",
+                    "title": "Exposing Jeffrey Epstein's international sex trafficking ring | 60 Minutes Australia",
+                    "url": "https://www.youtube.com/watch?v=VQOOxOl9l80",
+                    "video_length": 2716.621,
+                    "views": "15,275,043 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=W-Q9AOp2FW8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=WXuK6gekU1Y",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QozGSS7QY_U&list=RDCMUCL_A4jkwvKuMyToAPy3FQKQ&start_radio=1&rv=QozGSS7QY_U",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=QozGSS7QY_U",
+                  "title": "Panic: The Untold Story of the 2008 Financial Crisis | Full VICE Special Report | HBO",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Council on Foreign Relations",
+                    "date": "May 1, 2019",
+                    "description": "VICE on HBO looks at factors that led to the 2008 financial crisis and the efforts made by then-Treasury Secretary Henry Paulson, Federal Reserve Bank of New York President Timothy Geithner, and Federal Reserve Chair Ben Bernanke to save the United States from an economic collapse. The feature-length documentary explores the challenges these men faced, as well as the consequences of their decisions.\n ",
+                    "dislikes": " Unavailable",
+                    "id": "QozGSS7QY_U",
+                    "likes": "65,765 likes",
+                    "title": "Panic: The Untold Story of the 2008 Financial Crisis | Full VICE Special Report | HBO",
+                    "url": "https://www.youtube.com/watch?v=QozGSS7QY_U",
+                    "video_length": 5753.821,
+                    "views": "10,994,697 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=iRTFURa3jHQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=otYXs5gRHqg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bOOO8sp0b4g",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=PsnYB6EiSCE",
+                  "title": "Peter Overton's infamous interview with Tom Cruise | 60 Minutes Australia",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "60 Minutes Australia",
+                    "date": "May 1, 2018",
+                    "description": "Subscribe here: http://9Soci.al/chmP50wA97J Full Episodes: https://9now.app.link/uNP4qBkmN6 |  Cruise Missile (2005) \n\nIn 2005, Peter Overton met Tom Cruise and discovered there\u2019s another side to the controversial Scientology spruiking, Hollywood star. When he's angry the 'cool' man of Hollywood can become downright icy.\n\nWATCH more of 60 Minutes Australia: ",
+                    "dislikes": " Unavailable",
+                    "id": "PsnYB6EiSCE",
+                    "likes": "16,788 likes",
+                    "title": "Peter Overton's infamous interview with Tom Cruise | 60 Minutes Australia",
+                    "url": "https://www.youtube.com/watch?v=PsnYB6EiSCE",
+                    "video_length": 858.081,
+                    "views": "2,369,261 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=P7QWifeY2_A",
+              "title": "Where is the missing wife of Scientology's ruthless leader? | 60 Minutes Australia",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "60 Minutes Australia",
+                "date": "Feb 11, 2019",
+                "description": "Shelly Miscavige is the wife of Scientology leader David Miscavige,  the high priestess of Scientology who vanished 13 years ago. 60 Minutes investigate into the missing Queen\u2019s whereabouts and speak to the former Scientologist\u2019s who want answers.\n\nWATCH more of 60 Minutes Australia: ",
+                "dislikes": " Unavailable",
+                "id": "P7QWifeY2_A",
+                "likes": "82,343 likes",
+                "title": "Where is the missing wife of Scientology's ruthless leader? | 60 Minutes Australia",
+                "url": "https://www.youtube.com/watch?v=P7QWifeY2_A",
+                "video_length": 1550.781,
+                "views": "8,544,810 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=rCoFKUJ_8Yo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Unzc731iCUY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=VPe5f5dcrGE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=m6pJd6O_NT0",
+                  "title": "Exclusive: Full Interview With Russian President Vladimir Putin",
+                  "video": {
+                    "ad": null,
+                    "comments": "44,749",
+                    "content creator": "NBC News",
+                    "date": "Jun 14, 2021",
+                    "description": "In an NBC News worldwide exclusive, senior international correspondent Keir Simmons sits down with Russian President Vladimir Putin in Moscow for a one-on-one interview, just days ahead of a critical summit with President Biden.\n\u00bb Subscribe to NBC News: ",
+                    "dislikes": " Unavailable",
+                    "id": "m6pJd6O_NT0",
+                    "likes": "77,376 likes",
+                    "title": "Exclusive: Full Interview With Russian President Vladimir Putin",
+                    "url": "https://www.youtube.com/watch?v=m6pJd6O_NT0",
+                    "video_length": 4972.761,
+                    "views": "8,630,487 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=1aLdwI9s0wc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=HiMVjRwunEI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-dZdTK6V_Ck",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=K2-huwZU-54",
+                  "title": "Russians tanks move closer to Ukraine border",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "PBS NewsHour",
+                    "date": "Feb 20, 2022",
+                    "description": "While Ukraine has called for a ceasefire, Russia has extended military exercises in Belarus as tensions over a possible war remain high. U.S. intelligence and NATO countries say 150,000 Russian troops are stationed along Ukraine\u2019s border. NPR\u2019s Frank Langfitt joins from Kyiv to discuss the mood in Ukraine\u2019s capital.\n\nStream your PBS favorites with the PBS app: ",
+                    "dislikes": " Unavailable",
+                    "id": "K2-huwZU-54",
+                    "likes": "979 likes",
+                    "title": "Russians tanks move closer to Ukraine border",
+                    "url": "https://www.youtube.com/watch?v=K2-huwZU-54",
+                    "video_length": 239.581,
+                    "views": "70,464 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=DZCBRHOg3PQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=nvBEXXnNaNQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-EH81HOv3-s",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=0pmviUS1Zac",
+                  "title": "Joe Rogan Experience #1347 - Neil deGrasse Tyson",
+                  "video": {
+                    "ad": null,
+                    "comments": "40,894",
+                    "content creator": "PowerfulJRE",
+                    "date": "Sep 6, 2019",
+                    "description": "Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator.",
+                    "dislikes": " Unavailable",
+                    "id": "0pmviUS1Zac",
+                    "likes": "125,743 likes",
+                    "title": "Joe Rogan Experience #1347 - Neil deGrasse Tyson",
+                    "url": "https://www.youtube.com/watch?v=0pmviUS1Zac",
+                    "video_length": 8443.021,
+                    "views": "9,459,121 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=vGc4mg5pul4",
+              "title": "Joe Rogan Experience #1159 - Neil deGrasse Tyson",
+              "video": {
+                "ad": null,
+                "comments": "26,639",
+                "content creator": "PowerfulJRE",
+                "date": "Streamed live on Aug 22, 2018",
+                "description": "Neil deGrasse Tyson is an astrophysicist, cosmologist, author, and science communicator.",
+                "dislikes": " Unavailable",
+                "id": "vGc4mg5pul4",
+                "likes": "208,995 likes",
+                "title": "Joe Rogan Experience #1159 - Neil deGrasse Tyson",
+                "url": "https://www.youtube.com/watch?v=vGc4mg5pul4",
+                "video_length": 12068.341,
+                "views": "17,239,906 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=P-2P3MSZrBM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=j_Qe998Kn6A",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=hwYzrSF9unk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Ktj050DxG7Q",
+                  "title": "Andrew Huberman: Neuroscience of Optimal Performance | Lex Fridman Podcast #139",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,405",
+                    "content creator": "Lex Fridman",
+                    "date": "Nov 16, 2020",
+                    "description": "Andrew Huberman is a neuroscientist at Stanford. Please support this podcast by checking out our sponsors:\n- Eight Sleep: https://www.eightsleep.com/lex and use code LEX to get $200 off\n- SEMrush: ",
+                    "dislikes": " Unavailable",
+                    "id": "Ktj050DxG7Q",
+                    "likes": "19,007 likes",
+                    "title": "Andrew Huberman: Neuroscience of Optimal Performance | Lex Fridman Podcast #139",
+                    "url": "https://www.youtube.com/watch?v=Ktj050DxG7Q",
+                    "video_length": 9134.621,
+                    "views": "1,312,739 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CYnhYUP0SYoLiCajwu7AP7oeQqAbknaKVaOvj1JeiD2QQASAAYP3oooHwA4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHPgbXVAakCo821PGlQqj6oAwSqBIgDT9A51Zy6Y0iL3x3G0gM40_BvH_x-FOxzYxytNegSOk61wEOH6O964Psnt2C0E9f0PGMlPoj5giAfaWRyPswt0Zq4tKchku4Dvb_uSQjzhGVVCTIRoobiJbQP7fC8j4CmHB-m11SzQcoX63Mxdq32a2iH7stBxqFcErCXOwVeqmLRMksBD5Zd2aP05QC4dPehBPlck5ZMroCdPZ9q0BK0pMP53EnWzoa85K-gMsy2p34V5nX36Waqfd1M_H0Qv6dfPqDngdexbnlnolmCTN5Sc1J8MGqoRRsf1vpqiK4oaOHjD7m8vml5LmxccmIj2W6DnPugnHUZ0YuRtMEG48yFSo3MldKyBK217__wvquSvShETk11RIuwGCr781tLiYs6gOruQouTx9-ViTUcfdms-49dEhkoitcZJ6_Gjxfg9e1QJ9gx3_FJusI_BMTRhOFyZiSxfA_IMpjwyr5w11uNDTD-mm8MYjbBud2LBg6M6OpPtdafJWc3cRzbA3CDc_4mc03p3UQxe3-SBQwIEjCH0-qjs9C16FOSBQoIE2gCeLqa86oCoAZVgAeZ_sqqAogHAZAHAqgHhAioB6jSG6gHtgeoB-DPG6gH6dQbqAeMzRuoB7HcG6gHpJqxAqgHkZ-xAqgHsJuxAqgHgcYbqAeJorECqAfVzhuoB6vFG6gHnNwbqAfmnbECqAfIn7ECqAe3obECkggLVTlEV2d6UjZxWWOoCAHSCAQIABAC8ggfY2EteXQtaG9zdC1wdWItMjU4NDE4NTMxMjkwOTg0NrEJ81INQ37LoxzICRfICY8BmAsBoQvHWj84bl9ueLoLMwgBEAUYBiAGKAEwBkABSABYC2AAaABwAYgBAJgBAaIBDwoGCAAgAygDWAFwAZACAtgBAdALE7gMAbgT____________AbAUAcAVgYCAQNAVAdgVAYAXAYoXCAgDGAEoATABoBcB&num=1&cid=CAESD-D2oBjEUNaWY2G0gbVu1Q&ad_cpn=%5BCPN%5D&sig=AOD64_2J3c7CyxIT3MknCaSjPqzKc6XvoQ&adurl=https://www.youtube.com/watch%3Fv%3DU9DWgzR6qYc&ctype=21&video_id=U9DWgzR6qYc&client=ca-pub-6219811747049371",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4KRZQQ_eICo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rYzBxo3hbYQ&list=RDCMUC9xkc8dWgBsFfC7DOJfJLFg&start_radio=1&rv=rYzBxo3hbYQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                  "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,690",
+                    "content creator": "92nd Street Y",
+                    "date": "Feb 21, 2013",
+                    "description": "Your support helps us keep our content free for all. Donate now: https://www.92y.org/donate",
+                    "dislikes": " Unavailable",
+                    "id": "rYzBxo3hbYQ",
+                    "likes": "36,047 likes",
+                    "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+                    "url": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                    "video_length": 6016.961,
+                    "views": "8,773,803 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=StzNlYXnCm4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=C148Qu4hyAs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kdDo1A7EsyM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=4dC_nRYIDZU",
+                  "title": "Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning | Lex Fridman Podcast #185",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,474",
+                    "content creator": "Lex Fridman",
+                    "date": "May 20, 2021",
+                    "description": "Sam Harris is an author, podcaster, and philosopher. Please support this podcast by checking out our sponsors:\n- National Instruments (NI): https://www.ni.com/perspectives",
+                    "dislikes": " Unavailable",
+                    "id": "4dC_nRYIDZU",
+                    "likes": "39,672 likes",
+                    "title": "Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning | Lex Fridman Podcast #185",
+                    "url": "https://www.youtube.com/watch?v=4dC_nRYIDZU",
+                    "video_length": 11839.921,
+                    "views": "2,292,405 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=r4wQsmAtZoc",
+              "title": "Joe Rogan Experience #1428 - Brian Greene",
+              "video": {
+                "ad": null,
+                "comments": "14,226",
+                "content creator": "PowerfulJRE",
+                "date": "Feb 19, 2020",
+                "description": "Brian Greene is a theoretical physicist, mathematician, and string theorist. He has been a professor at Columbia University since 1996 and chairman of the World Science Festival since co-founding it in 2008. His new book \"Until the End of Time\" is now available: https://amzn.to/2ug680o",
+                "dislikes": " Unavailable",
+                "id": "r4wQsmAtZoc",
+                "likes": "96,674 likes",
+                "title": "Joe Rogan Experience #1428 - Brian Greene",
+                "url": "https://www.youtube.com/watch?v=r4wQsmAtZoc",
+                "video_length": 8800.501,
+                "views": "7,913,623 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=AJ0-VeWMr-A",
+          "title": "Joe Rogan Experience #908 - Leah Remini",
+          "video": {
+            "ad": null,
+            "comments": "27,202",
+            "content creator": "PowerfulJRE",
+            "date": "Jan 30, 2017",
+            "description": "Leah Remini is an actress, producer, author, and comedian. Her new show \"Leah Remini: Scientology and the Aftermath\" is a documentary series that can be seen on A&E.",
+            "dislikes": " Unavailable",
+            "id": "AJ0-VeWMr-A",
+            "likes": "128,949 likes",
+            "title": "Joe Rogan Experience #908 - Leah Remini",
+            "url": "https://www.youtube.com/watch?v=AJ0-VeWMr-A",
+            "video_length": 8229.981,
+            "views": "12,073,891 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=xIBg5CN2RMU",
+      "title": "Crowder's Impeachment SHAM Livestream! | Louder with Crowder",
+      "video": {
+        "ad": null,
+        "comments": "6,269",
+        "content creator": "StevenCrowder",
+        "date": "Streamed live on Feb 9, 2021",
+        "description": "Steven Crowder will be LIVE and fact checking the Trump impeachment so that you don't have to!\n\n@Conservative Twins Guest!\n\n10% off Spartan Armor go to ",
+        "dislikes": " Unavailable",
+        "id": "xIBg5CN2RMU",
+        "likes": "76,303 likes",
+        "title": "Crowder's Impeachment SHAM Livestream! | Louder with Crowder",
+        "url": "https://www.youtube.com/watch?v=xIBg5CN2RMU",
+        "video_length": 16160.021,
+        "views": "1,429,741 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=v6JW4OfLFbI",
+  "title": "Crowder TAKES OVER Biden's 1st Press Conference! | Louder with Crowder",
+  "video": {
+    "ad": null,
+    "comments": "11,931",
+    "content creator": "StevenCrowder",
+    "date": "Streamed live on Mar 25, 2021",
+    "description": "Steven Crowder will be LIVE and fact-checking Joe Biden's first news conference so that you don't have to! Don't worry, we'll still be playing the infamous Crowder drinking game. You DON'T want to miss this. Though ... Biden might?\n\nPROMO CODE: Dementia \nfor $20 off MugClub annual expiring at midnight on 3/26.\n\n10% off Spartan Armor go to ",
+    "dislikes": " Unavailable",
+    "id": "v6JW4OfLFbI",
+    "likes": "86,472 likes",
+    "title": "Crowder TAKES OVER Biden's 1st Press Conference! | Louder with Crowder",
+    "url": "https://www.youtube.com/watch?v=v6JW4OfLFbI",
+    "video_length": 7100.021,
+    "views": "1,655,451 views"
+  }
+}

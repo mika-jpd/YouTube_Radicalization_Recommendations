@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+                  "sampled_type": "curated",
+                  "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=-C3CjOkF-jY",
+                    "https://www.youtube.com/watch?v=mB7Yu-lei8I&pp=sAQB",
+                    "https://www.youtube.com/watch?v=-L7o6HtX8Vg&list=RDCMUCsEukrAd64fqA7FjwkmZ_Dw&start_radio=1&rv=-L7o6HtX8Vg",
+                    "https://www.youtube.com/watch?v=L5qqrvdBly0",
+                    "https://www.youtube.com/watch?v=yRSFA12d3EA",
+                    "https://www.youtube.com/watch?v=CbUjuwhQPKs",
+                    "https://www.youtube.com/watch?v=iOvZavq8uis&pp=sAQB",
+                    "https://www.youtube.com/watch?v=hVGMg4R9EP4&pp=sAQB",
+                    "https://www.youtube.com/watch?v=rFptPfxqBJs",
+                    "https://www.youtube.com/watch?v=MTogtDE7M7Q"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "31,675",
+                    "content creator": "GQ",
+                    "date": "Jan 17, 2020",
+                    "description": "Retired Navy SEAL Jocko Willink breaks down combat scenes from movies, including 'American Sniper,' 'Zero Dark Thirty,' 'Captain Phillips,' 'Navy SEALS,' 'Act of Valor' and 'Lone Survivor.' \n\nJocko's new audiobook and book, Leadership Strategy and Tactics: Field Manual, is out now: ",
+                    "dislikes": " Unavailable",
+                    "id": "-L7o6HtX8Vg",
+                    "likes": "552,616 likes",
+                    "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+                    "url": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+                    "video_length": 1607.041,
+                    "views": "30,712,145 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=WFsazlcDlpk",
+              "sampled_type": "curated",
+              "title": "Jeff Daniels Breaks Down His Career, from 'Dumb & Dumber' to 'The Newsroom' | Vanity Fair",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=fuRQrF4sPZI",
+                "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+                "https://www.youtube.com/watch?v=RDwrdSBbyaY",
+                "https://www.youtube.com/watch?v=Vxq_K8SoxVs",
+                "https://www.youtube.com/watch?v=b5fNif_WGdc",
+                "https://www.youtube.com/watch?v=dIPu12KHIDo",
+                "https://www.youtube.com/watch?v=nlnhnb9phBY",
+                "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+                "https://www.youtube.com/watch?v=kf7Pn4aAdtg",
+                "https://www.youtube.com/watch?v=8imo7l-fq7I"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "308",
+                "content creator": "Vanity Fair",
+                "date": "Nov 3, 2021",
+                "description": "Jeff Daniels takes us through his legendary career, including his roles in 'Hawaii Five-O,' 'Ragtime,' 'Terms of Endearment,' 'Arachnophobia,' 'Gettysburg,' 'Dumb and Dumber,' 'Speed,' 'The Squid and the Whale,' 'The Newsroom' and 'American Rust.'\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+                "dislikes": " Unavailable",
+                "id": "WFsazlcDlpk",
+                "likes": "3,425 likes",
+                "title": "Jeff Daniels Breaks Down His Career, from 'Dumb & Dumber' to 'The Newsroom' | Vanity Fair",
+                "url": "https://www.youtube.com/watch?v=WFsazlcDlpk",
+                "video_length": 1319.841,
+                "views": "209,996 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=b5fNif_WGdc",
+          "sampled_type": "curated",
+          "title": "Willem Dafoe Breaks Down His Career, from 'The Boondock Saints' to 'Spider-Man' | Vanity Fair",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=BqMeryvDPn0",
+            "https://www.youtube.com/watch?v=-YVeLzLU9PY&pp=sAQB",
+            "https://www.youtube.com/watch?v=XNN1Hbg9oNU",
+            "https://www.youtube.com/watch?v=WFsazlcDlpk",
+            "https://www.youtube.com/watch?v=ODjhSF53LiI",
+            "https://www.youtube.com/watch?v=vt7hu9RB51Q",
+            "https://www.youtube.com/watch?v=0zwNZJbM-Gw",
+            "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+            "https://www.youtube.com/watch?v=6BTJ7feX0aQ",
+            "https://www.youtube.com/watch?v=srksXVEkfAs"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "13,207",
+            "content creator": "Vanity Fair",
+            "date": "Nov 5, 2019",
+            "description": "Willem Dafoe discusses the roles that make up his film career, including \"The Wooster Group,\" \"Heaven's Gate,\" \"The Loveless,\" \"Platoon,\" \"The Last Temptation of Christ,\" \"Wild at Heart,\" \"The Boondock Saints,\" \"Shadow of the Vampire,\" \"Spider-Man,\" \"The Life Aquatic with Steve Zissou,\" \"Antichrist,\" \"The Florida Project,\" \"At Eternity's Gate,\" \"The Lighthouse\" and \"Motherless Brooklyn.\" \n\nYou can see Willem Dafoe in The Lighthouse and Motherless Brooklyn in theaters now! \n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+            "dislikes": " Unavailable",
+            "id": "b5fNif_WGdc",
+            "likes": "235,089 likes",
+            "title": "Willem Dafoe Breaks Down His Career, from 'The Boondock Saints' to 'Spider-Man' | Vanity Fair",
+            "url": "https://www.youtube.com/watch?v=b5fNif_WGdc",
+            "video_length": 1032.141,
+            "views": "6,063,670 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8kntLVW3KRs",
+      "sampled_type": "curated",
+      "title": "The Problem With Tik Tok Nurses",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=EWX5B6cD4_4",
+        "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+        "https://www.youtube.com/watch?v=zFleLL5zlaI",
+        "https://www.youtube.com/watch?v=b5fNif_WGdc",
+        "https://www.youtube.com/watch?v=HePvLYiZVko",
+        "https://www.youtube.com/watch?v=Isc8u8KI7Qk",
+        "https://www.youtube.com/watch?v=7hb6IwJKDTA",
+        "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+        "https://www.youtube.com/watch?v=D_6eNbSwYuw"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "2,984",
+        "content creator": "Lauren Southern",
+        "date": "Dec 27, 2020",
+        "description": "It's 2am at my families house in Australia where I visited for the holidays. So I'm just in my pajamas filming what appears to be a hostage tape while semi whispering. Hope you enjoyed it anyways lmao.  \n\nTwitter: ",
+        "dislikes": " Unavailable",
+        "id": "8kntLVW3KRs",
+        "likes": "15,922 likes",
+        "title": "The Problem With Tik Tok Nurses",
+        "url": "https://www.youtube.com/watch?v=8kntLVW3KRs",
+        "video_length": 415.861,
+        "views": "134,015 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+                  "sampled_type": "curated",
+                  "title": "Hannity: Biden has another disastrous day in court",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=FOKVwJr2pUg",
+                    "https://www.youtube.com/watch?v=ShsIXitpUKY",
+                    "https://www.youtube.com/watch?v=kuseBljHhVA",
+                    "https://www.youtube.com/watch?v=p4Nim7NcT-M",
+                    "https://www.youtube.com/watch?v=CC_L0_9PM_4",
+                    "https://www.youtube.com/watch?v=g3cMfu8pAK0",
+                    "https://www.youtube.com/watch?v=zqRbV_m7HlM",
+                    "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+                    "https://www.youtube.com/watch?v=hM84jT58QdU",
+                    "https://www.youtube.com/watch?v=W94UeUGNI3c"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,342",
+                    "content creator": "Fox News",
+                    "date": "Jan 13, 2022",
+                    "description": "Sean Hannity comments on Biden's latest court loss on mandates, in his Opening Monologue on 'Hannity' #hannity #foxnews",
+                    "dislikes": " Unavailable",
+                    "id": "BLIm2E_JWP4",
+                    "likes": "16,753 likes",
+                    "title": "Hannity: Biden has another disastrous day in court",
+                    "url": "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+                    "video_length": 545.341,
+                    "views": "421,293 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=lF5Bb3Mt0rg",
+              "sampled_type": "curated",
+              "title": "Tucker: This is worse than we thought",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+                "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+                "https://www.youtube.com/watch?v=q-kb6wClzuM",
+                "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+                "https://www.youtube.com/watch?v=W94UeUGNI3c",
+                "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+                "https://www.youtube.com/watch?v=vYAeWSIvR9k",
+                "https://www.youtube.com/watch?v=u8ywWgNEYuQ",
+                "https://www.youtube.com/watch?v=PV1jIaFT0as",
+                "https://www.youtube.com/watch?v=mPfpe1xFR0M"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "15,352",
+                "content creator": "Fox News",
+                "date": "Jan 13, 2022",
+                "description": "\u2018Tucker Carlson Tonight\u2019 host explains the dangers of government \u2018censorship of political opinion.' #FoxNews #Tucker",
+                "dislikes": " Unavailable",
+                "id": "lF5Bb3Mt0rg",
+                "likes": "90,105 likes",
+                "title": "Tucker: This is worse than we thought",
+                "url": "https://www.youtube.com/watch?v=lF5Bb3Mt0rg",
+                "video_length": 804.801,
+                "views": "2,056,493 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=oh2Sj_QpZOA",
+          "sampled_type": "curated",
+          "title": "SPECIAL INVESTIGATION: What Really Happened in Wuhan",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=-1jAOJHvll0",
+            "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+            "https://www.youtube.com/watch?v=Yt3vns42Nd8",
+            "https://www.youtube.com/watch?v=lF5Bb3Mt0rg",
+            "https://www.youtube.com/watch?v=XpMNoeIuEys",
+            "https://www.youtube.com/watch?v=jgAlEROl0PA",
+            "https://www.youtube.com/watch?v=gWJhqOPe6rw",
+            "https://www.youtube.com/watch?v=UMn8QiZcedk",
+            "https://www.youtube.com/watch?v=1G6oRuu9tLg",
+            "https://www.youtube.com/watch?v=A2aEGmcYZQk"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "39,343",
+            "content creator": "Sky News Australia",
+            "date": "Premiered Sep 27, 2021",
+            "description": "Get Sharri Markson\u2019s book \u2018What Really Happened in Wuhan\u2019 here: https://linktr.ee/WhatReallyHappenedI...",
+            "dislikes": " Unavailable",
+            "id": "oh2Sj_QpZOA",
+            "likes": "201,725 likes",
+            "title": "SPECIAL INVESTIGATION: What Really Happened in Wuhan",
+            "url": "https://www.youtube.com/watch?v=oh2Sj_QpZOA",
+            "video_length": 3585.081,
+            "views": "10,345,250 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=gmOTjyUVaNI",
+      "sampled_type": "curated",
+      "title": "m o d e r n i t y 5",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "https://www.youtube.com/watch?v=-1jAOJHvll0",
+        "https://www.youtube.com/watch?v=QMWlRWnAZH8",
+        "https://www.youtube.com/watch?v=i88NYbk--2w",
+        "https://www.youtube.com/watch?v=vTMF6xEiAaY",
+        "https://www.youtube.com/watch?v=Ln1qbgZz_TQ",
+        "https://www.youtube.com/watch?v=cGawSOuubA0",
+        "https://www.youtube.com/watch?v=AIt1r7zpeH4",
+        "https://www.youtube.com/watch?v=g09vQAQmYM8"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "10,208",
+        "content creator": "Paul Joseph Watson",
+        "date": "Mar 26, 2021",
+        "description": "Dante's Inferno edition.\n\nBrand new merch available here! https://www.pjwshop.com/",
+        "dislikes": " Unavailable",
+        "id": "gmOTjyUVaNI",
+        "likes": "81,653 likes",
+        "title": "m o d e r n i t y 5",
+        "url": "https://www.youtube.com/watch?v=gmOTjyUVaNI",
+        "video_length": 928.121,
+        "views": "738,930 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=V0zYoaV9VOs",
+                  "sampled_type": "curated",
+                  "title": "'The Five' knock Biden for reassuring Dems he's running for reelection",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=icO8pI1U8B4",
+                    "https://www.youtube.com/watch?v=9iaMinFaLQo",
+                    "https://www.youtube.com/watch?v=auyDH1aQs8o",
+                    "https://www.youtube.com/watch?v=Fm5WhyckeAM",
+                    "https://www.youtube.com/watch?v=czTH6Xq9DR8",
+                    "https://www.youtube.com/watch?v=ovdbrdCIP7U",
+                    "https://www.youtube.com/watch?v=ayfcdomhg_U",
+                    "https://www.youtube.com/watch?v=NTDsb0Qtl6w",
+                    "https://www.youtube.com/watch?v=yb26D8bBZB8",
+                    "https://www.youtube.com/watch?v=0prW_-H6QGo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,135",
+                    "content creator": "Fox News",
+                    "date": "Nov 22, 2021",
+                    "description": "The panel on 'The Five' offer reaction and analysis #foxnews #thefive\n\nSubscribe to Fox News! https://bit.ly/2vBUvAS",
+                    "dislikes": " Unavailable",
+                    "id": "V0zYoaV9VOs",
+                    "likes": "12,728 likes",
+                    "title": "'The Five' knock Biden for reassuring Dems he's running for reelection",
+                    "url": "https://www.youtube.com/watch?v=V0zYoaV9VOs",
+                    "video_length": 283.981,
+                    "views": "521,146 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Xm7_wSuahXY",
+              "sampled_type": "curated",
+              "title": "Kyle Rittenhouse has a message for Biden",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=V0zYoaV9VOs",
+                "https://www.youtube.com/watch?v=hwUnsmV2q3U",
+                "https://www.youtube.com/watch?v=JpJCpl_vyys",
+                "https://www.youtube.com/watch?v=OSEiajqEA7s",
+                "https://www.youtube.com/watch?v=8ho1m_S23ok",
+                "https://www.youtube.com/watch?v=HPodw7efhfc",
+                "https://www.youtube.com/watch?v=opkyLtwtArw",
+                "https://www.youtube.com/watch?v=irOVxA3gHGc",
+                "https://www.youtube.com/watch?v=v1UxB-8U-18",
+                "https://www.youtube.com/watch?v=5Y0ex1VvJek"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "26,720",
+                "content creator": "Fox News",
+                "date": "Nov 22, 2021",
+                "description": "Kyle Rittenhouse calls on the president to watch his trial and slams the media for spreading \u2018disgraceful\u2019 lies about his case on 'Tucker Carlson Tonight.' #FoxNews #Tucker \n\nSubscribe to Fox News! ",
+                "dislikes": " Unavailable",
+                "id": "Xm7_wSuahXY",
+                "likes": "178,549 likes",
+                "title": "Kyle Rittenhouse has a message for Biden",
+                "url": "https://www.youtube.com/watch?v=Xm7_wSuahXY",
+                "video_length": 618.681,
+                "views": "4,861,557 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=YMdIAK59GYA",
+          "sampled_type": "curated",
+          "title": "Tucker: This drives Democrats insane about Rittenhouse verdict",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=-1jAOJHvll0",
+            "https://www.youtube.com/watch?v=lF5Bb3Mt0rg",
+            "https://www.youtube.com/watch?v=Xm7_wSuahXY",
+            "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+            "https://www.youtube.com/watch?v=_TqoRbfNEQw",
+            "https://www.youtube.com/watch?v=cixgIv0ZUWw",
+            "https://www.youtube.com/watch?v=ymoVM-4cTfE",
+            "https://www.youtube.com/watch?v=Bvcl0FqI518",
+            "https://www.youtube.com/watch?v=4y32GhnEHY4",
+            "https://www.youtube.com/watch?v=BLIm2E_JWP4"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "24,262",
+            "content creator": "Fox News",
+            "date": "Nov 19, 2021",
+            "description": "'Tucker Carlson Tonight' host excoriates Democrats for refusing to accept the Rittenhouse verdict. #FoxNews #Tucker #Rittenhouse",
+            "dislikes": " Unavailable",
+            "id": "YMdIAK59GYA",
+            "likes": "144,465 likes",
+            "title": "Tucker: This drives Democrats insane about Rittenhouse verdict",
+            "url": "https://www.youtube.com/watch?v=YMdIAK59GYA",
+            "video_length": 921.541,
+            "views": "3,215,848 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=OobZ0yArl2o",
+      "sampled_type": "curated",
+      "title": "Kyle Rittenhouse Found NOT GUILTY On ALL Counts, Leftists OUTRAGED, Push Lies As Fear Of Riots Erupt",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=YMdIAK59GYA",
+        "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+        "https://www.youtube.com/watch?v=3JNPDf9DZDo",
+        "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+        "https://www.youtube.com/watch?v=ZLylCS2AcVA",
+        "https://www.youtube.com/watch?v=nEL-AnkSCgE",
+        "https://www.youtube.com/watch?v=7s81S_5LQRY",
+        "https://www.youtube.com/watch?v=wIg90sVSwSE",
+        "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "https://www.youtube.com/watch?v=UHPmhisf5yY"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "10,157",
+        "content creator": "Tim Pool",
+        "date": "Nov 19, 2021",
+        "description": "Kyle Rittenhouse Found NOT GUILTY On ALL Counts, Leftists OUTRAGED, Push Lies As Fear Of Riots Erupt. The same lies from Democrats are persisting and fears that riots will erupt this weekend have many in fear\n\nBut others say this will set the Kyle Rittenhouse precedent, that people can defend their communities and not be convicted if attacked by blm rioters and antifa",
+        "dislikes": " Unavailable",
+        "id": "OobZ0yArl2o",
+        "likes": "54,805 likes",
+        "title": "Kyle Rittenhouse Found NOT GUILTY On ALL Counts, Leftists OUTRAGED, Push Lies As Fear Of Riots Erupt",
+        "url": "https://www.youtube.com/watch?v=OobZ0yArl2o",
+        "video_length": 1991.181,
+        "views": "482,740 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=k59VG4Vmfuk",
+                  "sampled_type": "curated",
+                  "title": "How Companies Are Overhauling Supply Chains to Ease Bottlenecks | WSJ",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=mpRowiIggMM",
+                    "https://www.youtube.com/watch?v=ALnnsC4l2yM",
+                    "https://www.youtube.com/watch?v=UqeH7ozVOpQ",
+                    "https://www.youtube.com/watch?v=lZPO5RclZEo",
+                    "https://www.youtube.com/watch?v=7wrAdUrh344",
+                    "https://www.youtube.com/watch?v=EPjrFjAxwlw",
+                    "https://www.youtube.com/watch?v=BBmmMj_maII",
+                    "https://www.youtube.com/watch?v=Ocj0sVB9ykY",
+                    "https://www.youtube.com/watch?v=0UOxXzlHeJA",
+                    "https://www.youtube.com/watch?v=vil1U6zJ4Os"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "258",
+                    "content creator": "Wall Street Journal",
+                    "date": "Jan 13, 2022",
+                    "description": "The Covid pandemic has strained global supply chains, causing freight backlogs that have driven up costs. Now, some companies are looking for longer-term solutions to prepare for future supply-chain crises, even if those strategies come at a high cost. Photo Illustration: Jacob Reynolds\n\nMore from the Wall Street Journal:\nVisit WSJ.com: ",
+                    "dislikes": " Unavailable",
+                    "id": "k59VG4Vmfuk",
+                    "likes": "3,014 likes",
+                    "title": "How Companies Are Overhauling Supply Chains to Ease Bottlenecks | WSJ",
+                    "url": "https://www.youtube.com/watch?v=k59VG4Vmfuk",
+                    "video_length": 314.741,
+                    "views": "116,783 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=1-OJX1rwnl8",
+              "sampled_type": "curated",
+              "title": "How Starbucks Operates Like a Bank While Serving Coffee | WSJ",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=k59VG4Vmfuk",
+                "https://www.youtube.com/watch?v=tkfq__rdoD0",
+                "https://www.youtube.com/watch?v=Y9b5HBSpbqs",
+                "https://www.youtube.com/watch?v=XUBeH7VQaFY",
+                "https://www.youtube.com/watch?v=aREIfZczZrk",
+                "https://www.youtube.com/watch?v=xJEMDs4j7vg",
+                "https://www.youtube.com/watch?v=iMyUgoL1mI8",
+                "https://www.youtube.com/watch?v=DcD19Ip9MSE",
+                "https://www.youtube.com/watch?v=tr5YMdlyW-M",
+                "https://www.youtube.com/watch?v=SCpgKvZB_VQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "448",
+                "content creator": "Wall Street Journal",
+                "date": "Jan 12, 2022",
+                "description": "Starbucks, a $124.4 billion company, trails only McDonald\u2019s as the largest restaurant chain by market capitalization. In this video, WSJ\u2019s Heather Haddon explains how Starbucks used technology to garner its loyal customer base and why mobile orders are shifting the chain\u2019s business priorities. Photo: Stanislav Kogiku/Zuma Press\n\nMore from the Wall Street Journal:\nVisit WSJ.com: ",
+                "dislikes": " Unavailable",
+                "id": "1-OJX1rwnl8",
+                "likes": "5,942 likes",
+                "title": "How Starbucks Operates Like a Bank While Serving Coffee | WSJ",
+                "url": "https://www.youtube.com/watch?v=1-OJX1rwnl8",
+                "video_length": 441.841,
+                "views": "219,066 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lSD_vpfikbE",
+          "sampled_type": "curated",
+          "title": "'Tesla as the World\u2019s Biggest Robot Company:' Elon Musk on AI and U.S. Innovation | WSJ",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=rCoFKUJ_8Yo",
+            "https://www.youtube.com/watch?v=5axNR8R7XI8",
+            "https://www.youtube.com/watch?v=ihdscOZZ5EU",
+            "https://www.youtube.com/watch?v=HtY1gcgy5N4",
+            "https://www.youtube.com/watch?v=kzlUyrccbos",
+            "https://www.youtube.com/watch?v=vDwzmJpI4io",
+            "https://www.youtube.com/watch?v=ErlS9x_EsbQ",
+            "https://www.youtube.com/watch?v=zIwLWfaAg-8",
+            "https://www.youtube.com/watch?v=3MoiMCWhGuw",
+            "https://www.youtube.com/watch?v=bmDsGzRksk0"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "9,916",
+            "content creator": "Wall Street Journal",
+            "date": "Streamed live on Dec 6, 2021",
+            "description": "Watch Tesla CEO Elon Musk in an interview with WSJ\u2019s Joanna Stern at the CEO Council Summit.",
+            "dislikes": " Unavailable",
+            "id": "lSD_vpfikbE",
+            "likes": "59,089 likes",
+            "title": "'Tesla as the World\u2019s Biggest Robot Company:' Elon Musk on AI and U.S. Innovation | WSJ",
+            "url": "https://www.youtube.com/watch?v=lSD_vpfikbE",
+            "video_length": 2206.841,
+            "views": "2,746,632 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=nORLTrzzNm8",
+      "sampled_type": "curated",
+      "title": "Leftists MELT DOWN After Elon Musk Condemns Vaccine Mandates",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=lSD_vpfikbE",
+        "https://www.youtube.com/watch?v=-1jAOJHvll0",
+        "https://www.youtube.com/watch?v=Wehsz38P74g",
+        "https://www.youtube.com/watch?v=Zd_UcjMusUA",
+        "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+        "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "https://www.youtube.com/watch?v=EWX5B6cD4_4",
+        "https://www.youtube.com/watch?v=mA666ccpWC4",
+        "https://www.youtube.com/watch?v=IucHVTk92XY"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "2,889",
+        "content creator": "Ben Shapiro",
+        "date": "Dec 14, 2021",
+        "description": "Thanks to Kamikoto for sponsoring today's video. Go to https://kamikoto.com/benshapiro to save $50.\n\nLIKE & SUBSCRIBE for new videos everyday. ",
+        "dislikes": " Unavailable",
+        "id": "nORLTrzzNm8",
+        "likes": "34,303 likes",
+        "title": "Leftists MELT DOWN After Elon Musk Condemns Vaccine Mandates",
+        "url": "https://www.youtube.com/watch?v=nORLTrzzNm8",
+        "video_length": 498.801,
+        "views": "482,472 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=lBWci5YQPWc",
+                  "sampled_type": "curated",
+                  "title": "Trump signs executive order on hiring American workers",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=-1jAOJHvll0",
+                    "https://www.youtube.com/watch?v=1zVfLHOSUKQ",
+                    "https://www.youtube.com/watch?v=m8KJfcd-GsE",
+                    "https://www.youtube.com/watch?v=LCvTxYwPSYU",
+                    "https://www.youtube.com/watch?v=jh8bTkoQlqk",
+                    "https://www.youtube.com/watch?v=CC_L0_9PM_4",
+                    "https://www.youtube.com/watch?v=a30D5OiIQhg",
+                    "https://www.youtube.com/watch?v=Hlg1T4ZtV7k",
+                    "https://www.youtube.com/watch?v=mFaRdiCDOFQ",
+                    "https://www.youtube.com/watch?v=q7F7woXRutk"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,124",
+                    "content creator": "Fox News",
+                    "date": "Streamed live on Aug 3, 2020",
+                    "description": "President Trump meets with U.S. tech workers and signs an executive order on hiring American.\n\nSubscribe to Fox News! https://bit.ly/2vBUvAS",
+                    "dislikes": " Unavailable",
+                    "id": "lBWci5YQPWc",
+                    "likes": "27,847 likes",
+                    "title": "Trump signs executive order on hiring American workers",
+                    "url": "https://www.youtube.com/watch?v=lBWci5YQPWc",
+                    "video_length": 3445.001,
+                    "views": "2,020,081 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=BtiefI-06UA",
+              "sampled_type": "curated",
+              "title": "Tucker: Stupid people took control of our country",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=lBWci5YQPWc",
+                "https://www.youtube.com/watch?v=uW4X1mYEBCM",
+                "https://www.youtube.com/watch?v=I99RRaY0GuE",
+                "https://www.youtube.com/watch?v=LNOj-ppXIoc",
+                "https://www.youtube.com/watch?v=7xgM0QUFLTE",
+                "https://www.youtube.com/watch?v=qft1BV96noI",
+                "https://www.youtube.com/watch?v=czTH6Xq9DR8",
+                "https://www.youtube.com/watch?v=Q4IyV3m0OQI",
+                "https://www.youtube.com/watch?v=2e3O9Lb-UL0",
+                "https://www.youtube.com/watch?v=bExOYgVLa7w"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "20,377",
+                "content creator": "Fox News",
+                "date": "May 27, 2021",
+                "description": "'Tucker Carlson Tonight' host says liberal politicians' excuses are 'just not true.' #FoxNews #Tucker\n\nSubscribe to Fox News! https://bit.ly/2vaBUvAS",
+                "dislikes": " Unavailable",
+                "id": "BtiefI-06UA",
+                "likes": "108,262 likes",
+                "title": "Tucker: Stupid people took control of our country",
+                "url": "https://www.youtube.com/watch?v=BtiefI-06UA",
+                "video_length": 675.961,
+                "views": "3,903,471 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=BKG43cB2p-c",
+          "sampled_type": "curated",
+          "title": "Americans Clueless About Why We Celebrate 4th of July \ud83c\uddfa\ud83c\uddf8",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+            "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+            "https://www.youtube.com/watch?v=EWX5B6cD4_4",
+            "https://www.youtube.com/watch?v=huPF3Gid7DE",
+            "https://www.youtube.com/watch?v=Ch_hoYPPeGc",
+            "https://www.youtube.com/watch?v=QMWlRWnAZH8",
+            "https://www.youtube.com/watch?v=BtiefI-06UA",
+            "https://www.youtube.com/watch?v=8p8tFcIQ8K4",
+            "https://www.youtube.com/watch?v=p9e8qNNe3L0",
+            "https://www.youtube.com/watch?v=olvX8F_IdWw"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "16,926",
+            "content creator": "Mark Dice",
+            "date": "Jul 2, 2021",
+            "description": "Meet the Americans who are celebrating Independence Day, but aren't sure why. \n\n\ud83c\uddfa\ud83c\uddf8  Order your shirts here: teespring.com/stores/MarkDice",
+            "dislikes": " Unavailable",
+            "id": "BKG43cB2p-c",
+            "likes": "44,640 likes",
+            "title": "Americans Clueless About Why We Celebrate 4th of July \ud83c\uddfa\ud83c\uddf8",
+            "url": "https://www.youtube.com/watch?v=BKG43cB2p-c",
+            "video_length": 492.121,
+            "views": "402,833 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=_GO2jneQJOo",
+      "sampled_type": "curated",
+      "title": "Talking with Biden Voters \ud83d\ude02",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+        "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "https://www.youtube.com/watch?v=zqRbV_m7HlM",
+        "https://www.youtube.com/watch?v=72e3fjKgV9Q",
+        "https://www.youtube.com/watch?v=CU0L4--Yh28",
+        "https://www.youtube.com/watch?v=9UNuqYFP-pM",
+        "https://www.youtube.com/watch?v=sD0i_YxPATc",
+        "https://www.youtube.com/watch?v=Ik2-csAeacc",
+        "https://www.youtube.com/watch?v=BKG43cB2p-c",
+        "https://www.youtube.com/watch?v=jWJVMoe7OY0"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "10,965",
+        "content creator": "Mark Dice",
+        "date": "Jul 7, 2021",
+        "description": "People who voted for Joe Biden reveal how clueless they are when asked basic questions.  \n\n\u26a0\ufe0f  Order my books from Amazon here:  https://www.Amazon.com/Shop/MarkDice \n\n\u27a1\ufe0f  Order your shirts here: ",
+        "dislikes": " Unavailable",
+        "id": "_GO2jneQJOo",
+        "likes": "58,880 likes",
+        "title": "Talking with Biden Voters \ud83d\ude02",
+        "url": "https://www.youtube.com/watch?v=_GO2jneQJOo",
+        "video_length": 315.401,
+        "views": "948,185 views"
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=mPxUV1NoR-o",
+                  "sampled_type": "opposing",
+                  "title": "Moving company scams: What you need to know. (CBC Marketplace)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=kU3VptazV5c",
+                    "https://www.youtube.com/watch?v=jBpMe36GoW0",
+                    "https://www.youtube.com/watch?v=3y0pYUdfGiw",
+                    "https://www.youtube.com/watch?v=dZlAfGPX2j8",
+                    "https://www.youtube.com/watch?v=IUNsndIL1bg",
+                    "https://www.youtube.com/watch?v=NZVpbwz6kPk",
+                    "https://www.youtube.com/watch?v=Pla6k9xmZEU",
+                    "https://www.youtube.com/watch?v=tB24lj71VPA",
+                    "https://www.youtube.com/watch?v=X9j_FxhjRbw",
+                    "https://www.youtube.com/watch?v=ZxCT_D6HBd8"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "8,299",
+                    "content creator": "CBC News",
+                    "date": "Feb 10, 2015",
+                    "description": "Movin' Day Showdown | Originally broadcast October 11, 2013.\n\n\u00bb\u00bb\u00bb Subscribe to CBC News to watch more videos:   https://www.youtube.com/user/cbcnews?...",
+                    "dislikes": " Unavailable",
+                    "id": "mPxUV1NoR-o",
+                    "likes": "52,305 likes",
+                    "title": "Moving company scams: What you need to know. (CBC Marketplace)",
+                    "url": "https://www.youtube.com/watch?v=mPxUV1NoR-o",
+                    "video_length": 1347.501,
+                    "views": "8,089,166 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=BAY8FeoI1Dw",
+              "sampled_type": "opposing",
+              "title": "This woman had no time for his aggressive sales pitch (Marketplace) #shorts",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=6Izjz2aEzgs",
+                "https://www.youtube.com/watch?v=mPxUV1NoR-o",
+                "https://www.youtube.com/watch?v=n8vNi6IeRNU",
+                "https://www.youtube.com/watch?v=EHxEVUUmANA",
+                "https://www.youtube.com/watch?v=ZPHX9vgwmTw",
+                "https://www.youtube.com/watch?v=UIwqrgWLerA",
+                "https://www.youtube.com/watch?v=grU3esNMntU",
+                "https://www.youtube.com/watch?v=I75qa0kTeY4",
+                "https://www.youtube.com/watch?v=B9NBxuZXoco",
+                "https://www.youtube.com/watch?v=IXyJUG4vghs"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "107",
+                "content creator": "CBC News",
+                "date": "Jan 13, 2022",
+                "description": "Canadians across the country have written to Marketplace and Go Public with warnings about companies selling HVAC (heating, ventilation and air conditioning) contracts.\n\nAfter letting a salesperson into her home, an Ontario woman became frustrated when he pushed her to sign a rental contract for a heat pump she didn't want or need.\n\nHer daughter recorded this video after hearing her mother repeatedly ask the salesperson to leave.\n\nWatch our investigation, Caught on camera: HVAC scam in action, Friday, Jan. 14 at 8 p.m. / 8:30 p.m. NT on CBC TV and CBC Gem. ",
+                "dislikes": " Unavailable",
+                "id": "BAY8FeoI1Dw",
+                "likes": "384 likes",
+                "title": "This woman had no time for his aggressive sales pitch (Marketplace) #shorts",
+                "url": "https://www.youtube.com/watch?v=BAY8FeoI1Dw",
+                "video_length": 42.201,
+                "views": "27,662 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=4NPPRoqd7No",
+          "sampled_type": "opposing",
+          "title": "Hidden cameras catch HVAC scam in action (Marketplace)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=6Izjz2aEzgs",
+            "https://www.youtube.com/watch?v=BAY8FeoI1Dw",
+            "https://www.youtube.com/watch?v=XxXMT0c39vA",
+            "https://www.youtube.com/watch?v=HHwBJ277pjY",
+            "https://www.youtube.com/watch?v=tmeHRNA5WSM",
+            "https://www.youtube.com/watch?v=wXQv6a-_S5c",
+            "https://www.youtube.com/watch?v=2GyMd0uz-4o",
+            "https://www.youtube.com/watch?v=l6WSoijb8cY",
+            "https://www.youtube.com/watch?v=RsxZ3OIjwN0",
+            "https://www.youtube.com/watch?v=QiRDMgsoOmk"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "204",
+            "content creator": "CBC News",
+            "date": "Jan 14, 2022",
+            "description": "We\u2019re teaming up with Go Public to expose deceptive sales tactics being used to suck people into unfair HVAC contracts, years after some provincial governments banned door-to-door sales.\n\nTo read more: ",
+            "dislikes": " Unavailable",
+            "id": "4NPPRoqd7No",
+            "likes": "1,061 likes",
+            "title": "Hidden cameras catch HVAC scam in action (Marketplace)",
+            "url": "https://www.youtube.com/watch?v=4NPPRoqd7No",
+            "video_length": 1326.721,
+            "views": "72,609 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=7mQsLCxGodQ",
+      "sampled_type": "opposing",
+      "title": "Federal modelling suggests Omicron surge within weeks",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=B5Oh-BPckh8",
+        "https://www.youtube.com/watch?v=zwyyLi9zauE",
+        "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+        "https://www.youtube.com/watch?v=POVzyEv3EOU",
+        "https://www.youtube.com/watch?v=wgNOi6KnHk0",
+        "https://www.youtube.com/watch?v=4NPPRoqd7No",
+        "https://www.youtube.com/watch?v=JdSJ5kPVNQs",
+        "https://www.youtube.com/watch?v=ZnDMHyX-iBA",
+        "https://www.youtube.com/watch?v=tG__NY1-SEY",
+        "https://www.youtube.com/watch?v=gB77fwZ-sI4"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "Error found",
+        "content creator": "CBC News",
+        "date": "Streamed live on Jan 14, 2022",
+        "description": "New modelling released today by the Public Health Agency of Canada (PHAC) suggests the highly transmissible Omicron variant will push hospital admissions to \"extremely high levels\" in the coming weeks as case counts reach levels never before seen in this country.\n\nTo read more: ",
+        "dislikes": " Unavailable",
+        "id": "7mQsLCxGodQ",
+        "likes": "195 likes",
+        "title": "Federal modelling suggests Omicron surge within weeks",
+        "url": "https://www.youtube.com/watch?v=7mQsLCxGodQ",
+        "video_length": 4754.981,
+        "views": "56,329 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

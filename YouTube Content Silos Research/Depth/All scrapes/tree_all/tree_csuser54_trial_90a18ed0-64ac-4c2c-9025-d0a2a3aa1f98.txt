@@ -1,0 +1,982 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=d9m7d07k22A",
+                          "title": "Warehouses: Last Week Tonight with John Oliver (HBO)",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=hnoMsftQPY8",
+                            "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                            "https://www.youtube.com/watch?v=_h1ooyyFkF0",
+                            "https://www.youtube.com/watch?v=v_kak7kAdNw",
+                            "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+                            "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                            "https://www.youtube.com/watch?v=Mq785nJ0FXQ",
+                            "https://www.youtube.com/watch?v=qMGn9T37eR8",
+                            "https://www.youtube.com/watch?v=d9m7d07k22A&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=d9m7d07k22A",
+                            "https://www.youtube.com/watch?v=IhO1FcjDMV4"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "20,524",
+                            "content creator": "LastWeekTonight",
+                            "date": "Jul 1, 2019",
+                            "description": "It\u2019s easy to buy things online, and even easier not to think about how they get to you. John Oliver discusses what happens when you click \u201cbuy now.\u201d\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                            "dislikes": " Unavailable",
+                            "id": "d9m7d07k22A",
+                            "likes": "173,227 likes",
+                            "title": "Warehouses: Last Week Tonight with John Oliver (HBO)",
+                            "url": "https://www.youtube.com/watch?v=d9m7d07k22A",
+                            "video_length": 1277.921,
+                            "views": "12,022,905 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                      "title": "Impeachment: Last Week Tonight with John Oliver (HBO)",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=d9m7d07k22A",
+                        "https://www.youtube.com/watch?v=qMGn9T37eR8",
+                        "https://www.youtube.com/watch?v=2u_pZ-SgACk",
+                        "https://www.youtube.com/watch?v=hnoMsftQPY8",
+                        "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                        "https://www.youtube.com/watch?v=xecEV4dSAXE",
+                        "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                        "https://www.youtube.com/watch?v=vU8dCYocuyI",
+                        "https://www.youtube.com/watch?v=7g0Jh4h5E1E",
+                        "https://www.youtube.com/watch?v=0V5ckcTSYu8"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "14,735",
+                        "content creator": "LastWeekTonight",
+                        "date": "Jun 17, 2019",
+                        "description": "With a national conversation underway about the possibility of impeachment, John Oliver discusses whether the benefits outweigh the potential risks.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                        "dislikes": " Unavailable",
+                        "id": "zxT8CM8XntA",
+                        "likes": "138,126 likes",
+                        "title": "Impeachment: Last Week Tonight with John Oliver (HBO)",
+                        "url": "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                        "video_length": 1220.601,
+                        "views": "9,123,910 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=YMBj_tU7HRU",
+                  "title": "Mueller Report: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                    "https://www.youtube.com/watch?v=mOVPStnVgvU",
+                    "https://www.youtube.com/watch?v=HaBQfSAVt0s",
+                    "https://www.youtube.com/watch?v=QCjk_NPsIqU",
+                    "https://www.youtube.com/watch?v=OjPYmEZxACM",
+                    "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+                    "https://www.youtube.com/watch?v=mXQuto1fMp4",
+                    "https://www.youtube.com/watch?v=bCBYJZ6QbUI",
+                    "https://www.youtube.com/watch?v=2u_pZ-SgACk",
+                    "https://www.youtube.com/watch?v=IuVo4fnpLC8"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "9,718",
+                    "content creator": "LastWeekTonight",
+                    "date": "Apr 22, 2019",
+                    "description": "Following the release of the Mueller Report, John Oliver discusses what we\u2019ve learned.\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "YMBj_tU7HRU",
+                    "likes": "123,909 likes",
+                    "title": "Mueller Report: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=YMBj_tU7HRU",
+                    "video_length": 909.861,
+                    "views": "8,324,773 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=mOVPStnVgvU",
+              "title": "Stupid Watergate II: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=YMBj_tU7HRU",
+                "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+                "https://www.youtube.com/watch?v=NpPyLcQ2vdI",
+                "https://www.youtube.com/watch?v=OubM8bD9kck",
+                "https://www.youtube.com/watch?v=3y1QA6OeAcQ",
+                "https://www.youtube.com/watch?v=zNdkrtfZP8I",
+                "https://www.youtube.com/watch?v=VdLf4fihP78",
+                "https://www.youtube.com/watch?v=HaBQfSAVt0s",
+                "https://www.youtube.com/watch?v=xecEV4dSAXE",
+                "https://www.youtube.com/watch?v=0lTczPEG8iI"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "8,014",
+                "content creator": "LastWeekTonight",
+                "date": "Jun 11, 2018",
+                "description": "John Oliver explains how the president and his allies are going full O. J. in order to undermine the investigation of Russian interference in the 2016 election.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "mOVPStnVgvU",
+                "likes": "105,130 likes",
+                "title": "Stupid Watergate II: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=mOVPStnVgvU",
+                "video_length": 1069.421,
+                "views": "8,036,422 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+          "title": "Stupid Watergate: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=mOVPStnVgvU",
+            "https://www.youtube.com/watch?v=xecEV4dSAXE",
+            "https://www.youtube.com/watch?v=oDPCmmZifE8",
+            "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+            "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+            "https://www.youtube.com/watch?v=hWQiXv0sn9Y",
+            "https://www.youtube.com/watch?v=yw_nqzVfxFQ",
+            "https://www.youtube.com/watch?v=ZwY2E0hjGuU",
+            "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+            "https://www.youtube.com/watch?v=zaD84DTGULo"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "10,990",
+            "content creator": "LastWeekTonight",
+            "date": "May 22, 2017",
+            "description": "John Oliver discusses the shocking magnitude and potential impact of the latest revelations surrounding the Russia investigation.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "FVFdsl29s_Q",
+            "likes": "171,283 likes",
+            "title": "Stupid Watergate: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+            "video_length": 1445.521,
+            "views": "16,674,040 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+      "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+        "https://www.youtube.com/watch?v=WA0wKeokWUU",
+        "https://www.youtube.com/watch?v=LEcbagW4O-s",
+        "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+        "https://www.youtube.com/watch?v=RKjk0ECXjiQ",
+        "https://www.youtube.com/watch?v=wD8AwgO0AQI",
+        "https://www.youtube.com/watch?v=xecEV4dSAXE",
+        "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+        "https://www.youtube.com/watch?v=7y1xJAVZxXg",
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "58,368",
+        "content creator": "LastWeekTonight",
+        "date": "Oct 9, 2017",
+        "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+        "dislikes": " Unavailable",
+        "id": "J5b_-TZwQ0I",
+        "likes": "342,520 likes",
+        "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+        "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "video_length": 1298.221,
+        "views": "26,932,416 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=NU12_OWH7bA",
+                          "title": "How NBA JAM Became A Billion-Dollar Slam Dunk | War Stories | Ars Technica",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=kE_aPLo2nCg",
+                            "https://www.youtube.com/watch?v=NU12_OWH7bA&list=RDCMUCCDU1fsmgvWljcW2aodfJsA&start_radio=1&rv=NU12_OWH7bA",
+                            "https://www.youtube.com/watch?v=KFNxJVTJleE",
+                            "https://www.youtube.com/watch?v=RL9l2Z7sh2g",
+                            "https://www.youtube.com/watch?v=N0WjV6MmCyM",
+                            "https://www.youtube.com/watch?v=qzD9ldLoc3c",
+                            "https://www.youtube.com/watch?v=kXh1JJ_Jtew",
+                            "https://www.youtube.com/watch?v=0jrkmjfiaIg",
+                            "https://www.youtube.com/watch?v=BQ3iqq49Ew8",
+                            "https://www.youtube.com/watch?v=3a2rh9ahpcA"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "690",
+                            "content creator": "Ars Technica",
+                            "date": "Jun 16, 2020",
+                            "description": "Boomshakalaka! Today on War Stories, Ars Technica is joined by NBA JAM lead designer and programmer Mark Turmell to talk about the chaotic birth of an epically successful sports franchise. From the early days of earning the NBA's blessing, to the uncharted territory of digitizing superstars' likenesses into the game, Mark and team delivered an experience that captured imaginations around the globe, altered the landscape of sports simulations, and gave rise to some truly enduring catchphrases. When you collect a billion dollars worth of quarters after just a year in arcades, it's safe to say your creation is \"On Fire!\"\n\nDirected and Produced by Justin Wolfson\nEdited by Aulistar Mark and Jeremy Smolik\n\nConnect with Ars Technica:\nVisit ArsTechnica.com: ",
+                            "dislikes": " Unavailable",
+                            "id": "NU12_OWH7bA",
+                            "likes": "7,181 likes",
+                            "title": "How NBA JAM Became A Billion-Dollar Slam Dunk | War Stories | Ars Technica",
+                            "url": "https://www.youtube.com/watch?v=NU12_OWH7bA",
+                            "video_length": 1305.101,
+                            "views": "342,690 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=U-Q0Wwop9Oc",
+                      "title": "How \"Robert The Bruce\" Continued The Story of \"Braveheart\" Under Brutal Conditions",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=NU12_OWH7bA",
+                        "https://www.youtube.com/watch?v=obZAzGflJxY&pp=sAQB",
+                        "https://www.youtube.com/watch?v=U-Q0Wwop9Oc&list=RDCMUCCDU1fsmgvWljcW2aodfJsA&start_radio=1&rv=U-Q0Wwop9Oc",
+                        "https://www.youtube.com/watch?v=KFNxJVTJleE&list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n",
+                        "https://www.youtube.com/watch?v=aMJXYgTOyhE",
+                        "https://www.youtube.com/watch?v=huPF3Gid7DE",
+                        "https://www.youtube.com/watch?v=N0WjV6MmCyM",
+                        "https://www.youtube.com/watch?v=KFNxJVTJleE",
+                        "https://www.youtube.com/watch?v=qzD9ldLoc3c",
+                        "https://www.youtube.com/watch?v=_zD33Hrbo4Y"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "59",
+                        "content creator": "Ars Technica",
+                        "date": "May 19, 2020",
+                        "description": "On today\u2019s episode of War Stories, Ars Technica is joined by the creators of the film \u201cRobert The Bruce\u201d to breakdown the bone-chilling conditions under which they worked while bringing the story to life. Writer and star Angus Macfadyen first portrayed the outlaw Scottish king 25 years ago in Mel Gibson\u2019s Academy Award-winning epic \u201cBraveheart,\u201d a film Director and Producer Richard Gray was determined to do justice to. Despite having a budget more suited to an independent film than a Hollywood period piece and shooting in sub-zero temperatures with chest-high snow, the cast and crew of \u201cRobert The Bruce\u201d overcame each challenge and delivered a film that feels intimate from moment to moment, but epic in scope. Learn how they pulled it off on this episode of War Stories.\n\nRobert The Bruce is available on Digital Platforms and VOD.\n\nConnect with Ars Technica:\nVisit ArsTechnica.com: ",
+                        "dislikes": " Unavailable",
+                        "id": "U-Q0Wwop9Oc",
+                        "likes": "407 likes",
+                        "title": "How \"Robert The Bruce\" Continued The Story of \"Braveheart\" Under Brutal Conditions",
+                        "url": "https://www.youtube.com/watch?v=U-Q0Wwop9Oc",
+                        "video_length": 846.781,
+                        "views": "42,689 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AoHkGDu0_Hw",
+                  "title": "How Alan Wake Was Rebuilt 3 Years Into Development | War Stories | Ars Technica",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=U-Q0Wwop9Oc",
+                    "https://www.youtube.com/watch?v=AoHkGDu0_Hw&list=RDCMUCCDU1fsmgvWljcW2aodfJsA&start_radio=1&rv=AoHkGDu0_Hw",
+                    "https://www.youtube.com/watch?v=NU12_OWH7bA",
+                    "https://www.youtube.com/watch?v=huPF3Gid7DE",
+                    "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+                    "https://www.youtube.com/watch?v=KFNxJVTJleE",
+                    "https://www.youtube.com/watch?v=KFNxJVTJleE&list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n",
+                    "https://www.youtube.com/watch?v=qzD9ldLoc3c",
+                    "https://www.youtube.com/watch?v=kXh1JJ_Jtew",
+                    "https://www.youtube.com/watch?v=YERrs7FYkxo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,115",
+                    "content creator": "Ars Technica",
+                    "date": "May 14, 2020",
+                    "description": "In conjunction with the 10th anniversary of its release, today Ars Technica is joined by Sam Lake, Creative Director of Remedy Games, to share insights on the development of 2010's influential action thriller Alan Wake. When it came time to follow up on the success of Max Payne and its sequel, Remedy had an abundance of ideas and a stable of creators eager to implement them. Years into its development cycle however, Sam and his colleagues felt the project had yet to successfully blend its influences and game mechanics into a cohesive experience. Knowing the bones of a remarkable game was present within the work of the previous three years, Remedy set out to rebuild Alan Wake. Here's how they pulled it off, how Alan's story continues in Remedy's critically-acclaimed Control, and where it's set to go with its upcoming DLC.\n\nDirected by Justin Wolfson\nEdited by Shandor Garrison\n\nConnect with Ars Technica:\nVisit ArsTechnica.com: ",
+                    "dislikes": " Unavailable",
+                    "id": "AoHkGDu0_Hw",
+                    "likes": "10,594 likes",
+                    "title": "How Alan Wake Was Rebuilt 3 Years Into Development | War Stories | Ars Technica",
+                    "url": "https://www.youtube.com/watch?v=AoHkGDu0_Hw",
+                    "video_length": 1276.901,
+                    "views": "268,295 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=TIghNcUSDBw",
+              "title": "How Netflix's \"Extraction\" Engineered a 12-Minute, One-Shot Action Scene | War Stories",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=AoHkGDu0_Hw",
+                "https://www.youtube.com/watch?v=TIghNcUSDBw&list=RDCMUCCDU1fsmgvWljcW2aodfJsA&start_radio=1&rv=TIghNcUSDBw",
+                "https://www.youtube.com/watch?v=KFNxJVTJleE&list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n",
+                "https://www.youtube.com/watch?v=Q38556KTTR0",
+                "https://www.youtube.com/watch?v=NU12_OWH7bA",
+                "https://www.youtube.com/watch?v=aMJXYgTOyhE",
+                "https://www.youtube.com/watch?v=huPF3Gid7DE",
+                "https://www.youtube.com/watch?v=oLELoroqhbI",
+                "https://www.youtube.com/watch?v=KFNxJVTJleE",
+                "https://www.youtube.com/watch?v=qzD9ldLoc3c"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "447",
+                "content creator": "Ars Technica",
+                "date": "Apr 28, 2020",
+                "description": "For today\u2019s episode of War Stories, Ars Technica is joined by Sam Hargrave, director of the Netflix action film \u201cExtraction.\u201d Hargrave breaks down the technical challenges he and his crew overcame in conceiving, choreographing and executing a breathtaking, 12-minute action scene with star Chris Hemsworth. Taking lessons learned from his time as the stunt coordinator of blockbusters like \"Captain America: Civil War\" and \"Avengers: End Game\" Hargrave engineered a kinetic and ambitious urban battle sequence - but needed to figure out how to capture it. Hear directly from the man behind the camera as he details every factor that needs consideration when stitching a series of chaotic set pieces into a single, uninterrupted shot.\n\nDirected and Produced by Justin Wolfson. \n\nEXTRACTION is available exclusively on Netflix, watch here: ",
+                "dislikes": " Unavailable",
+                "id": "TIghNcUSDBw",
+                "likes": "6,701 likes",
+                "title": "How Netflix's \"Extraction\" Engineered a 12-Minute, One-Shot Action Scene | War Stories",
+                "url": "https://www.youtube.com/watch?v=TIghNcUSDBw",
+                "video_length": 1752.101,
+                "views": "305,183 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Q38556KTTR0",
+          "title": "How Homeworld Almost Got Lost in 3D Space | War Stories | Ars Technica",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=TIghNcUSDBw",
+            "https://www.youtube.com/watch?v=Q38556KTTR0&list=RDCMUCCDU1fsmgvWljcW2aodfJsA&start_radio=1&rv=Q38556KTTR0",
+            "https://www.youtube.com/watch?v=sw0VfmXKq54",
+            "https://www.youtube.com/watch?v=NU12_OWH7bA",
+            "https://www.youtube.com/watch?v=05YRMHWtv1Y",
+            "https://www.youtube.com/watch?v=jJfgHa49GX0",
+            "https://www.youtube.com/watch?v=W8KVlgcmR4Y",
+            "https://www.youtube.com/watch?v=huPF3Gid7DE",
+            "https://www.youtube.com/watch?v=XB9lf7iJbRw",
+            "https://www.youtube.com/watch?v=f-UwPj6Ni_U"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "1,079",
+            "content creator": "Ars Technica",
+            "date": "Apr 7, 2020",
+            "description": "On this episode of War Stories, Ars Technica sits down with Rob Cunningham to revisit the groundbreaking 1999 3D real-time strategy game, Homeworld. When Rob and a group of friends founded Relic Entertainment, they set out to marry the gameplay of Command & Conquer with the feel of Battlestar Galactica - all in a full 3D environment. On top of the everpresent memory limitations of the day, the team needed to get creative in figuring out how to orient players when, in space, no direction is up.\n\nDirected and Produced by Justin Wolfson\n\nConnect with Ars Technica:\nVisit ArsTechnica.com: ",
+            "dislikes": " Unavailable",
+            "id": "Q38556KTTR0",
+            "likes": "12,188 likes",
+            "title": "How Homeworld Almost Got Lost in 3D Space | War Stories | Ars Technica",
+            "url": "https://www.youtube.com/watch?v=Q38556KTTR0",
+            "video_length": 996.621,
+            "views": "363,460 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=sw0VfmXKq54",
+      "title": "How Prince of Persia Defeated Apple II's Memory Limitations | War Stories | Ars Technica",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=Q38556KTTR0",
+        "https://www.youtube.com/watch?v=izxXGuVL21o",
+        "https://www.youtube.com/watch?v=AoHkGDu0_Hw",
+        "https://www.youtube.com/watch?v=NU12_OWH7bA",
+        "https://www.youtube.com/watch?v=huPF3Gid7DE",
+        "https://www.youtube.com/watch?v=sw0VfmXKq54&list=RDCMUCCDU1fsmgvWljcW2aodfJsA&start_radio=1&rv=sw0VfmXKq54",
+        "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+        "https://www.youtube.com/watch?v=KFNxJVTJleE",
+        "https://www.youtube.com/watch?v=_fQtxKmgJC8",
+        "https://www.youtube.com/watch?v=2G56_mQwyBM"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "2,300",
+        "content creator": "Ars Technica",
+        "date": "Mar 17, 2020",
+        "description": "For today\u2019s episode of War Stories, Ars Technica sat down with Prince of Persia creator Jordan Mechner to learn about the challenges he faced while bringing his ambitious vision for the game to life. As the 1980's wound down, Mechner found himself fighting against not only the limitations of the Apple II hardware but the impending death of the platform itself. Decades later, Prince of Persia remains a classic example of how the constraints of early gaming led to solutions that advanced the artform.\n\nDirected and Produced by Justin Wolfson\nEdited/GFX by Parker Dixon\n\nFootage used in this video:\nAchievementX360Nerds:",
+        "dislikes": " Unavailable",
+        "id": "sw0VfmXKq54",
+        "likes": "41,119 likes",
+        "title": "How Prince of Persia Defeated Apple II's Memory Limitations | War Stories | Ars Technica",
+        "url": "https://www.youtube.com/watch?v=sw0VfmXKq54",
+        "video_length": 1248.481,
+        "views": "1,026,265 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=AJe6aHfnCmQ",
+                          "title": "GEP gun",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=z7a0NnoLg4M",
+                            "https://www.youtube.com/watch?v=gRPACMUpzKY",
+                            "https://www.youtube.com/watch?v=LWdCqXzaHoU",
+                            "https://www.youtube.com/watch?v=t3ozAGSfiZw",
+                            "https://www.youtube.com/watch?v=tiZHgwICPlU",
+                            "https://www.youtube.com/watch?v=xmOCsiZgAbg",
+                            "https://www.youtube.com/watch?v=geNcZ4K9Yng",
+                            "https://www.youtube.com/watch?v=xRXHxVjVg5I",
+                            "https://www.youtube.com/watch?v=ImVGXg4_gP4",
+                            "https://www.youtube.com/watch?v=UWEjxkkB8Xs"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "68",
+                            "content creator": "zZickneZz",
+                            "date": "Nov 18, 2014",
+                            "description": "",
+                            "dislikes": " Unavailable",
+                            "id": "AJe6aHfnCmQ",
+                            "likes": "1,315 likes",
+                            "title": "GEP gun",
+                            "url": "https://www.youtube.com/watch?v=AJe6aHfnCmQ",
+                            "video_length": 125.561,
+                            "views": "51,264 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=gRPACMUpzKY",
+                      "title": "A GEP gun to the head is the most silent takedown.",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=AJe6aHfnCmQ",
+                        "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+                        "https://www.youtube.com/watch?v=sw0VfmXKq54",
+                        "https://www.youtube.com/watch?v=owI7DOeO_yg",
+                        "https://www.youtube.com/watch?v=Q38556KTTR0",
+                        "https://www.youtube.com/watch?v=HQFGDNwv1zg",
+                        "https://www.youtube.com/watch?v=izxXGuVL21o",
+                        "https://www.youtube.com/watch?v=FpBdd7CHwi0",
+                        "https://www.youtube.com/watch?v=EKVjMAG4ues",
+                        "https://www.youtube.com/watch?v=MlnIOG_zXSc"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "48",
+                        "content creator": "Vic Kyorlo",
+                        "date": "Sep 15, 2011",
+                        "description": "jc denton finds out that a rocket blast that makes three men shout shot from a point where everybody can see him is quieter than a quiet sword slash to the back of an unsuspecting guard in a safe location\n\nin other words, i'm a fucking retard because i recorded this in some fuck-all resolution\nalso this is a megui test",
+                        "dislikes": " Unavailable",
+                        "id": "gRPACMUpzKY",
+                        "likes": "471 likes",
+                        "title": "A GEP gun to the head is the most silent takedown.",
+                        "url": "https://www.youtube.com/watch?v=gRPACMUpzKY",
+                        "video_length": 59.021,
+                        "views": "29,393 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+                  "title": "How Deus Ex Blended Genres To Change Shooters Forever | War Stories | Ars Technica",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=gRPACMUpzKY",
+                    "https://www.youtube.com/watch?v=Bb98qIZfwgc&list=RDCMUCCDU1fsmgvWljcW2aodfJsA&start_radio=1&rv=Bb98qIZfwgc",
+                    "https://www.youtube.com/watch?v=NU12_OWH7bA",
+                    "https://www.youtube.com/watch?v=KFNxJVTJleE&list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n",
+                    "https://www.youtube.com/watch?v=H7nRA7M3Uoc",
+                    "https://www.youtube.com/watch?v=sw0VfmXKq54",
+                    "https://www.youtube.com/watch?v=S-VAL7Epn3o",
+                    "https://www.youtube.com/watch?v=huPF3Gid7DE",
+                    "https://www.youtube.com/watch?v=Sn5v09L_uDg",
+                    "https://www.youtube.com/watch?v=Jr1GZlRCwFo"
+                  ],
+                  "video": {
+                    "ad": true,
+                    "comments": "670",
+                    "content creator": "Ars Technica",
+                    "date": "Dec 16, 2021",
+                    "description": "Today Ars Technica is joined by Warren Spector, designer and director of the highly influential Deus Ex. Released in 2000, Spector set out to create the game of his dreams, one that would blend aspects of stealth, role playing, and first person shooters in innovative ways - and the legacy of his success can be seen across all modern shooting games.\n\nConnect with Ars Technica:\nVisit ArsTechnica.com: ",
+                    "dislikes": " Unavailable",
+                    "id": "Bb98qIZfwgc",
+                    "likes": "6,939 likes",
+                    "title": "How Deus Ex Blended Genres To Change Shooters Forever | War Stories | Ars Technica",
+                    "url": "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+                    "video_length": 854.041,
+                    "views": "134,622 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=XB9lf7iJbRw",
+              "title": "How Forza's Racing AI Uses Neural Networks To Evolve | War Stories | Ars Technica",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "video": {
+                "ad": null,
+                "comments": "348",
+                "content creator": "Ars Technica",
+                "date": "Sep 13, 2020",
+                "description": "Today on War Stories, Ars Technica is joined by Dan Greenawalt, Creative Director of the Forza franchise, who takes us through the colossal potential (and many challenges) of utilizing deep neural networks to build sophisticated racing AI. Beginning with the original Drivatar AI in Forza Motorsport for XBOX in 2005, Greenawalt and his colleagues experimented with computer learning, refining their methods from iteration to iteration. It was once the AI system was unshackled from local hard drives and placed online in Forza Motorsport 5, however, that the floodgates truly opened. As the AI rapidly evolved, producing unexpected new behaviors, the Forza team quickly learned how challenging it would be to wield this two-edged sword in creating realistic opponents.",
+                "dislikes": " Unavailable",
+                "id": "XB9lf7iJbRw",
+                "likes": "4,489 likes",
+                "title": "How Forza's Racing AI Uses Neural Networks To Evolve | War Stories | Ars Technica",
+                "url": "https://www.youtube.com/watch?v=XB9lf7iJbRw",
+                "video_length": 1705.961,
+                "views": "133,515 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=huPF3Gid7DE",
+          "title": "How One Gameplay Decision Changed Diablo Forever | War Stories | Ars Technica",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=XB9lf7iJbRw",
+            "https://www.youtube.com/watch?v=huPF3Gid7DE&list=RDCMUCCDU1fsmgvWljcW2aodfJsA&start_radio=1&rv=huPF3Gid7DE",
+            "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+            "https://www.youtube.com/watch?v=aMJXYgTOyhE",
+            "https://www.youtube.com/watch?v=KFNxJVTJleE",
+            "https://www.youtube.com/watch?v=KFNxJVTJleE&list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n",
+            "https://www.youtube.com/watch?v=qzD9ldLoc3c",
+            "https://www.youtube.com/watch?v=kXh1JJ_Jtew",
+            "https://www.youtube.com/watch?v=YERrs7FYkxo",
+            "https://www.youtube.com/watch?v=BQ3iqq49Ew8"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "2,298",
+            "content creator": "Ars Technica",
+            "date": "Aug 18, 2020",
+            "description": "Today on War Stories, Ars Technica is joined by Diablo lead programmer David Brevik to break down the genesis and development of a PC hack & slash masterpiece. Unbeknownst to some, the original concept for Diablo called for a traditional, turn-based RPG - a genre Brevik came of age with and was heavily influenced by. However, following a fateful vote by show of hands at the Blizzard North offices, Diablo became something new entirely and an initially reluctant David Brevik was on the cusp of creating the first entry in a legendary action role-playing series.\n\nFootage used in this video:\nApple 2 programming tutorial",
+            "dislikes": " Unavailable",
+            "id": "huPF3Gid7DE",
+            "likes": "28,180 likes",
+            "title": "How One Gameplay Decision Changed Diablo Forever | War Stories | Ars Technica",
+            "url": "https://www.youtube.com/watch?v=huPF3Gid7DE",
+            "video_length": 1397.481,
+            "views": "768,072 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=izxXGuVL21o",
+      "title": "How Crash Bandicoot Hacked The Original Playstation | War Stories | Ars Technica",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=sw0VfmXKq54",
+        "https://www.youtube.com/watch?v=Q38556KTTR0",
+        "https://www.youtube.com/watch?v=AoHkGDu0_Hw",
+        "https://www.youtube.com/watch?v=NU12_OWH7bA",
+        "https://www.youtube.com/watch?v=huPF3Gid7DE",
+        "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+        "https://www.youtube.com/watch?v=KFNxJVTJleE",
+        "https://www.youtube.com/watch?v=aMJXYgTOyhE",
+        "https://www.youtube.com/watch?v=qzD9ldLoc3c",
+        "https://www.youtube.com/watch?v=ZgN4Mta86OE"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "6,143",
+        "content creator": "Ars Technica",
+        "date": "Feb 27, 2020",
+        "description": "For today\u2019s episode of War Stories, Ars Technica sat down with Naughty Dog Co-founder Andy Gavin to talk about the hurdles in bringing the original Crash Bandicoot to gamers around the world. When Andy and his partner Jason Rubin made the decision to bring the action platforming genre into three dimensions, it required living up to their company ethos of \u201cleaving no stone unturned\u201d in the search for memory - even if it meant hacking Sony\u2019s library code. \n\nDirected and Produced by Sean Dacanay\nEdited and Graphics Animated by Jeremy Smolik \n\nFootage used in the video:\nLGR - SGI Indigo2 Computer System Review.mp4 ",
+        "dislikes": " Unavailable",
+        "id": "izxXGuVL21o",
+        "likes": "113,953 likes",
+        "title": "How Crash Bandicoot Hacked The Original Playstation | War Stories | Ars Technica",
+        "url": "https://www.youtube.com/watch?v=izxXGuVL21o",
+        "video_length": 1896.901,
+        "views": "3,819,712 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                          "title": "North Korea: Last Week Tonight with John Oliver (HBO)",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=KEbFtMgGhPY",
+                            "https://www.youtube.com/watch?v=TrS0uNBuG9c&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=TrS0uNBuG9c",
+                            "https://www.youtube.com/watch?v=OubM8bD9kck",
+                            "https://www.youtube.com/watch?v=XEVlyP4_11M",
+                            "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+                            "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                            "https://www.youtube.com/watch?v=Q38556KTTR0",
+                            "https://www.youtube.com/watch?v=0utzB6oDan0",
+                            "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                            "https://www.youtube.com/watch?v=Bchx0mS7XOY"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "15,136",
+                            "content creator": "LastWeekTonight",
+                            "date": "Aug 14, 2017",
+                            "description": "As nuclear tensions continue to escalate between the United States and North Korea, John Oliver enlists \"Weird Al\" Yankovic to perform some accordion-based diplomacy.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                            "dislikes": " Unavailable",
+                            "id": "TrS0uNBuG9c",
+                            "likes": "215,797 likes",
+                            "title": "North Korea: Last Week Tonight with John Oliver (HBO)",
+                            "url": "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                            "video_length": 1619.681,
+                            "views": "19,708,127 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=0utzB6oDan0",
+                      "title": "Putin: Last Week Tonight with John Oliver (HBO)",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                        "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+                        "https://www.youtube.com/watch?v=xecEV4dSAXE",
+                        "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+                        "https://www.youtube.com/watch?v=OubM8bD9kck",
+                        "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                        "https://www.youtube.com/watch?v=wD8AwgO0AQI",
+                        "https://www.youtube.com/watch?v=0utzB6oDan0&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=0utzB6oDan0",
+                        "https://www.youtube.com/watch?v=hkZir1L7fSY",
+                        "https://www.youtube.com/watch?v=qVIXUhZ2AWs"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "20,060",
+                        "content creator": "LastWeekTonight",
+                        "date": "Feb 20, 2017",
+                        "description": "Vladimir Putin is known as a ruthless leader and master manipulator. John Oliver enlists a group of singing dancers to explain that to Donald Trump.\n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                        "dislikes": " Unavailable",
+                        "id": "0utzB6oDan0",
+                        "likes": "209,759 likes",
+                        "title": "Putin: Last Week Tonight with John Oliver (HBO)",
+                        "url": "https://www.youtube.com/watch?v=0utzB6oDan0",
+                        "video_length": 1205.681,
+                        "views": "18,232,346 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=OubM8bD9kck",
+                  "title": "Xi Jinping: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=0utzB6oDan0",
+                    "https://www.youtube.com/watch?v=qVIXUhZ2AWs",
+                    "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                    "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                    "https://www.youtube.com/watch?v=17oCQakzIl8",
+                    "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                    "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+                    "https://www.youtube.com/watch?v=0b_eHBZLM6U",
+                    "https://www.youtube.com/watch?v=5pdPrQFjo2o",
+                    "https://www.youtube.com/watch?v=huPF3Gid7DE"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "18,790",
+                    "content creator": "LastWeekTonight",
+                    "date": "Jun 18, 2018",
+                    "description": "Chinese president Xi Jinping is amassing an alarming amount of political power. If only his propaganda videos made the idea of unrestricted authority seem as troubling as the concept of singing children.\n\nConnect with Last Week Tonight online...\n \nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "OubM8bD9kck",
+                    "likes": "167,271 likes",
+                    "title": "Xi Jinping: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=OubM8bD9kck",
+                    "video_length": 1225.581,
+                    "views": "13,371,807 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=9Y18-07g39g",
+              "title": "Taiwan: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+                "https://www.youtube.com/watch?v=Q38556KTTR0",
+                "https://www.youtube.com/watch?v=NU12_OWH7bA",
+                "https://www.youtube.com/watch?v=OubM8bD9kck",
+                "https://www.youtube.com/watch?v=7VJ5VY610O0",
+                "https://www.youtube.com/watch?v=6jMzNn4CC3U",
+                "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                "https://www.youtube.com/watch?v=sw0VfmXKq54",
+                "https://www.youtube.com/watch?v=xecEV4dSAXE",
+                "https://www.youtube.com/watch?v=v_kak7kAdNw"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "20,635",
+                "content creator": "LastWeekTonight",
+                "date": "Oct 25, 2021",
+                "description": "John Oliver discusses Taiwan\u2019s history of being governed by other countries, its fraught present-day relationship with China, and what its citizens would like their future to look like.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "9Y18-07g39g",
+                "likes": "196,738 likes",
+                "title": "Taiwan: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=9Y18-07g39g",
+                "video_length": 1338.181,
+                "views": "6,703,081 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=liptMbjF3EE",
+          "title": "Homelessness: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+            "https://www.youtube.com/watch?v=9Y18-07g39g",
+            "https://www.youtube.com/watch?v=27FpoRiStgk",
+            "https://www.youtube.com/watch?v=gPHgRp70H8o",
+            "https://www.youtube.com/watch?v=8Kfx2fANELo",
+            "https://www.youtube.com/watch?v=UN8bJb8biZU",
+            "https://www.youtube.com/watch?v=9W74aeuqsiU",
+            "https://www.youtube.com/watch?v=izxXGuVL21o",
+            "https://www.youtube.com/watch?v=_-0J49_9lwc",
+            "https://www.youtube.com/watch?v=Cy-O4myeUzg"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "17,748",
+            "content creator": "LastWeekTonight",
+            "date": "Nov 1, 2021",
+            "description": "With homelessness increasing nationwide, John Oliver takes a look at the way we discuss the unhoused, what policy failures are making the problem worse, and how we can help.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "liptMbjF3EE",
+            "likes": "133,379 likes",
+            "title": "Homelessness: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=liptMbjF3EE",
+            "video_length": 1495.581,
+            "views": "4,840,175 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+      "title": "Union Busting: Last Week Tonight with John Oliver (HBO)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=liptMbjF3EE",
+        "https://www.youtube.com/watch?v=8Kfx2fANELo",
+        "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+        "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+        "https://www.youtube.com/watch?v=Gk8dUXRpoy8&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=Gk8dUXRpoy8",
+        "https://www.youtube.com/watch?v=9Y18-07g39g",
+        "https://www.youtube.com/watch?v=LEcbagW4O-s",
+        "https://www.youtube.com/watch?v=g6iDZspbRMg",
+        "https://www.youtube.com/watch?v=Q38556KTTR0",
+        "https://www.youtube.com/watch?v=xX5IV9n223M"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "13,207",
+        "content creator": "LastWeekTonight",
+        "date": "Nov 15, 2021",
+        "description": "John Oliver discusses the mechanics of union busting, why the companies who do it face so few consequences, and what it really means when your manager wants to talk to you about \u201cyour attendance.\u201d\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+        "dislikes": " Unavailable",
+        "id": "Gk8dUXRpoy8",
+        "likes": "130,432 likes",
+        "title": "Union Busting: Last Week Tonight with John Oliver (HBO)",
+        "url": "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+        "video_length": 1416.781,
+        "views": "4,808,837 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=xdruE5GYDhM",
+                          "title": "Chris Hayes: Oath Keepers Were Doing What They Thought Trump Wanted",
+                          "top_10_recommended": [
+                            "https://www.youtube.com/watch?v=DxgUAk0NM9k",
+                            "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+                            "https://www.youtube.com/watch?v=ZosxfQK0I5Y",
+                            "https://www.youtube.com/watch?v=1PMMQNTz9OA",
+                            "https://www.youtube.com/watch?v=FXrTPWLWqSU",
+                            "https://www.youtube.com/watch?v=0Pwho7C5-OY",
+                            "https://www.youtube.com/watch?v=6LEqI_OBU88",
+                            "https://www.youtube.com/watch?v=XLjIFKRXCvU",
+                            "https://www.youtube.com/watch?v=iIjREddNZjU",
+                            "https://www.youtube.com/watch?v=xWnNm07NOJs"
+                          ],
+                          "video": {
+                            "ad": null,
+                            "comments": "2,763",
+                            "content creator": "MSNBC",
+                            "date": "Jan 14, 2022",
+                            "description": "MSNBC's Chris Hayes looks at the charges against the founder of the Oath Keepers and ten others, the events leading up to the Capitol insurrection, and the link between these right-wing extremists and Trump World.\n\n\u00bb Subscribe to MSNBC: ",
+                            "dislikes": " Unavailable",
+                            "id": "xdruE5GYDhM",
+                            "likes": "7,983 likes",
+                            "title": "Chris Hayes: Oath Keepers Were Doing What They Thought Trump Wanted",
+                            "url": "https://www.youtube.com/watch?v=xdruE5GYDhM",
+                            "video_length": 590.381,
+                            "views": "359,197 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=JFtTTQU-xbw",
+                      "title": "'This Was A Very Public Plan': Capitol Attackers Planned In Plain Sight",
+                      "top_10_recommended": [
+                        "https://www.youtube.com/watch?v=xdruE5GYDhM",
+                        "https://www.youtube.com/watch?v=sw0VfmXKq54",
+                        "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+                        "https://www.youtube.com/watch?v=ZosxfQK0I5Y",
+                        "https://www.youtube.com/watch?v=FFgt3toKKOI",
+                        "https://www.youtube.com/watch?v=M-bRlCVDBN4",
+                        "https://www.youtube.com/watch?v=z1wTGUQWSiA",
+                        "https://www.youtube.com/watch?v=ivRyMqHHO58",
+                        "https://www.youtube.com/watch?v=ARt8ffPROY0",
+                        "https://www.youtube.com/watch?v=5_uv9e-BXuM"
+                      ],
+                      "video": {
+                        "ad": null,
+                        "comments": "636",
+                        "content creator": "MSNBC",
+                        "date": "Jan 14, 2022",
+                        "description": "NBC News Senior Reporter Ben Collins and POLITICO National Correspondent Betsy Woodruff Swan join MSNBC's Chris Hayes to discuss the very public planning that was done by the Oath Keepers and other extremists before the January 6th Capitol insurrection.\n\n\u00bb Subscribe to MSNBC: ",
+                        "dislikes": " Unavailable",
+                        "id": "JFtTTQU-xbw",
+                        "likes": "1,704 likes",
+                        "title": "'This Was A Very Public Plan': Capitol Attackers Planned In Plain Sight",
+                        "url": "https://www.youtube.com/watch?v=JFtTTQU-xbw",
+                        "video_length": 251.241,
+                        "views": "66,767 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=5_uv9e-BXuM",
+                  "title": "Rosenberg: 'Rare' Seditious Conspiracy Charges Means The DOJ 'Got The Goods'",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=JFtTTQU-xbw",
+                    "https://www.youtube.com/watch?v=sw0VfmXKq54",
+                    "https://www.youtube.com/watch?v=Hb7S0uhtYAk",
+                    "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+                    "https://www.youtube.com/watch?v=ZosxfQK0I5Y",
+                    "https://www.youtube.com/watch?v=dsWrlrehCu8",
+                    "https://www.youtube.com/watch?v=LMbnF4TDX5w",
+                    "https://www.youtube.com/watch?v=iw0e1GyCOAE",
+                    "https://www.youtube.com/watch?v=zhpUctsqaFA",
+                    "https://www.youtube.com/watch?v=Zj4g02fgxw8"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "752",
+                    "content creator": "MSNBC",
+                    "date": "Jan 14, 2022",
+                    "description": "Former U.S. Attorney Chuck Rosenberg discusses the Department of Justice's decision to bring \"seditious conspiracy\" charges against Oath Keepers leader and members. \n\u00bb Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc",
+                    "dislikes": " Unavailable",
+                    "id": "5_uv9e-BXuM",
+                    "likes": "2,321 likes",
+                    "title": "Rosenberg: 'Rare' Seditious Conspiracy Charges Means The DOJ 'Got The Goods'",
+                    "url": "https://www.youtube.com/watch?v=5_uv9e-BXuM",
+                    "video_length": 96.281,
+                    "views": "105,014 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ZosxfQK0I5Y",
+              "title": "'Part Of A Much Larger Conspiracy': Investigation Into 16 Michigan Republicans",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=5_uv9e-BXuM",
+                "https://www.youtube.com/watch?v=huPF3Gid7DE",
+                "https://www.youtube.com/watch?v=sw0VfmXKq54",
+                "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+                "https://www.youtube.com/watch?v=y87D3XiBeU4",
+                "https://www.youtube.com/watch?v=XmjKODQYYfg",
+                "https://www.youtube.com/watch?v=ARt8ffPROY0",
+                "https://www.youtube.com/watch?v=MKubYEbPL-Y",
+                "https://www.youtube.com/watch?v=K4FaijSVlTA",
+                "https://www.youtube.com/watch?v=BoiQzmxJ51s"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,137",
+                "content creator": "MSNBC",
+                "date": "Jan 17, 2022",
+                "description": "Michigan Attorney General Dana Nessel discusses the investigation of 16 Republican lawmakers for submitting a document falsely claiming that former President Trump won the election.\n\n\u00bb Subscribe to MSNBC: ",
+                "dislikes": " Unavailable",
+                "id": "ZosxfQK0I5Y",
+                "likes": "5,836 likes",
+                "title": "'Part Of A Much Larger Conspiracy': Investigation Into 16 Michigan Republicans",
+                "url": "https://www.youtube.com/watch?v=ZosxfQK0I5Y",
+                "video_length": 396.062,
+                "views": "45,998 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+          "title": "Fake Elector Struggles To Explain Role In Scheme To Submit False Election Papers",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=ZosxfQK0I5Y",
+            "https://www.youtube.com/watch?v=sw0VfmXKq54",
+            "https://www.youtube.com/watch?v=izxXGuVL21o",
+            "https://www.youtube.com/watch?v=XInINzic-h4",
+            "https://www.youtube.com/watch?v=huPF3Gid7DE",
+            "https://www.youtube.com/watch?v=STOlDRoYf_0",
+            "https://www.youtube.com/watch?v=wq1HGGLWdEA",
+            "https://www.youtube.com/watch?v=r_evJtEDuHA",
+            "https://www.youtube.com/watch?v=0Pwho7C5-OY",
+            "https://www.youtube.com/watch?v=Wyb9b7mOSNs"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "6,152",
+            "content creator": "MSNBC",
+            "date": "Jan 13, 2022",
+            "description": "Rachel Maddow shares video shot by a KPNX photojournalist of Arizona Republic reporter Richard Ruelas asking Arizona State Representative Jake Hoffman how he came to represent himself as an elector on paperwork that falsely claimed Donald Trump had won Arizona in 2020.\n\u00bb Subscribe to MSNBC: ",
+            "dislikes": " Unavailable",
+            "id": "lJx-m6v4bTU",
+            "likes": "21,855 likes",
+            "title": "Fake Elector Struggles To Explain Role In Scheme To Submit False Election Papers",
+            "url": "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+            "video_length": 232.361,
+            "views": "921,165 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=nCSZ--0cSE0",
+      "title": "The Martin Luther King Jr. Memory and Legacy in 2021 w/ Gerald Horne - MR Live | 1/17/22",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+        "https://www.youtube.com/watch?v=NU12_OWH7bA",
+        "https://www.youtube.com/watch?v=oCqO2oFjWrg",
+        "https://www.youtube.com/watch?v=Bb98qIZfwgc",
+        "https://www.youtube.com/watch?v=sw0VfmXKq54",
+        "https://www.youtube.com/watch?v=b5fNif_WGdc",
+        "https://www.youtube.com/watch?v=azZz3jhN28E",
+        "https://www.youtube.com/watch?v=huPF3Gid7DE",
+        "https://www.youtube.com/watch?v=fAtsAwGreyE",
+        "https://www.youtube.com/watch?v=sKCeqiWA-gQ"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "Error found",
+        "content creator": "The Majority Report w/ Sam Seder",
+        "date": "Premiere in progress. Started 37 minutes ago",
+        "description": "Happy MLK Day! Sam chats with Gerald Horne, professor of history and African American studies at the University of Houston to discuss his recent book The Bittersweet Science: Racism, Racketeering and the Political Economy of Boxing.\n\nThen, our compilation of MLK-related audio returns with a new addition this year with excerpts from this newly-released speech via The Root:\n\n-\u201cExclusive: Martin Luther King Jr. Talks Reparations, White Economic Anxiety and Guaranteed Income in Previously Unheard Speech\u201d\n\n-As well as Dr. King\u2019s first TV \u201cinterview\u201d from the show \u201cThe Open Mind \u2013 The New Negro\u201d in 1957, hosted by Professor Richard D. Hefner.\n\n-\"Beyond Vietnam\", the speech delivered on April 4, 1967 at Riverside Church in New York City.\n\n-MLK\u2019s last speech \u201cRemaining Awake Through a Great Revolution\u201c delivered at the National Cathedral, Washington, D.C., on 31 March 1968.\n\n-Walter Cronkite reporting King\u2019s assassination in 1968.\n\n-And finally, Nina Simone performing the song \u201cWhy?\u201d live, 3 days following MLK\u2019s assassination at the Westbury Music Fair on Long Island in April 1968.\n\nPurchase tickets for the live show in Boston on May 15th HERE:\n\nhttps://thewilbur.com/artist/majority...\n\nBecome a member at JoinTheMajorityReport.com: https://fans.fm/majority/join\n\nSubscribe to the AMQuickie newsletter here:  https://madmimi.com/signups/170390/join\n\nJoin the Majority Report Discord! http://majoritydiscord.com/\n\nGet all your MR merch at our store: https://shop.majorityreportradio.com/\n\nSupport the St. Vincent Nurses today! https://action.massnurses.org/we-stan...\n\nCheck out Matt\u2019s show, Left Reckoning, on Youtube, and subscribe on Patreon! https://www.patreon.com/leftreckoning\n\nSubscribe to Matt\u2019s other show Literary Hangover on Patreon! https://www.patreon.com/literaryhangover\n\nCheck out The Nomiki Show on YouTube. https://www.patreon.com/thenomikishow\n\nCheck out Matt Binder\u2019s YouTube channel: https://www.youtube.com/mattbinder\n\nSubscribe to Brandon\u2019s show The Discourse on Patreon! https://www.patreon.com/ExpandTheDisc...\n\nCheck out The Letterhack\u2019s upcoming Kickstarter project for his new graphic novel! https://www.kickstarter.com/projects/...\n\nCheck out Jamie\u2019s podcast, The Antifada. https://www.patreon.com/theantifada, on iTunes, or at https://www.twitch.tv/theantifada (st... every Monday, Wednesday, Thursday and Friday at 7pm ET!)\n\nSubscribe to Discourse Blog, a newsletter and website for progressive essays and related fun partly run by AM Quickie writer Jack Crosbie. https://discourseblog.com/\n\nSubscribe to AM Quickie writer Corey Pein\u2019s podcast News from Nowhere. https://www.patreon.com/newsfromnowhere \n\nFollow the Majority Report crew on Twitter:\n\n@SamSeder\n\n@EmmaVigeland\n\n@MattBinder\n\n@MattLech\n\n@BF1nn\n\n@BradKAlsop\n\nThe Majority Report with Sam Seder - https://majorityreportradio.com/",
+        "dislikes": " Unavailable",
+        "id": "nCSZ--0cSE0",
+        "likes": "Unavailable",
+        "title": "The Martin Luther King Jr. Memory and Legacy in 2021 w/ Gerald Horne - MR Live | 1/17/22",
+        "url": "https://www.youtube.com/watch?v=nCSZ--0cSE0",
+        "video_length": 5825.082494331065,
+        "views": "1,393 watching now"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=kknfvfmdiYI",
+  "title": "Tim Pool Narrowly Avoids Mortal Kombat With RA Rugged Man During Explosive Debate",
+  "top_10_recommended": [
+    "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+    "https://www.youtube.com/watch?v=sw0VfmXKq54",
+    "https://www.youtube.com/watch?v=izxXGuVL21o",
+    "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+    "https://www.youtube.com/watch?v=nCSZ--0cSE0",
+    "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+    "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+    "https://www.youtube.com/watch?v=9Y18-07g39g",
+    "https://www.youtube.com/watch?v=f0a0YN8th1c",
+    "https://www.youtube.com/watch?v=ki4Fbctwnjs"
+  ],
+  "video": {
+    "ad": true,
+    "comments": "1,985",
+    "content creator": "The Majority Report w/ Sam Seder",
+    "date": "Dec 17, 2021",
+    "description": "Tim Pool and rapper RA Rugged Man's debate on anti-racism and abolishing the police gets out of hand. RA Rugged man lashes out and Pool is evidently scared. The Majority Report crew discuss the incident as well as when Sam Seder's debate with Tim Pool and how he might have been embarrassed leading him not to post it on his more relevant channel. \n\nWe stream our live show every day at 12 PM ET.\n\nWe need your help to keep providing free videos! Support the Majority Report's video content by going to ",
+    "dislikes": " Unavailable",
+    "id": "kknfvfmdiYI",
+    "likes": "4,002 likes",
+    "title": "Tim Pool Narrowly Avoids Mortal Kombat With RA Rugged Man During Explosive Debate",
+    "url": "https://www.youtube.com/watch?v=kknfvfmdiYI",
+    "video_length": 921.601,
+    "views": "109,817 views"
+  }
+}

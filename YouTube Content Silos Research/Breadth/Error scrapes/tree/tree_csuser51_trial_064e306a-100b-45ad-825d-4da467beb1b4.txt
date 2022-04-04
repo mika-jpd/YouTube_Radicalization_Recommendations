@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=j_ZUos4dqfY",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=Gqac-ezjnhY",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=Qlpni2Dw7iI",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=1epOMiF_nfc",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=xg6x4f5-yUs",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=tQl04Cn0nJQ",
+                          "title": "Celebrating 60 Years: African Studies at Howard University",
+                          "video": {
+                            "ad": null,
+                            "comments": "Error found",
+                            "content creator": "Library of Congress",
+                            "date": "Mar 18, 2014",
+                            "description": "Scholars meet to discuss and celebrate 60 years of African Studies at Howard University. Speakers included Angel Batiste, Gregory E. Carr, Wilfred L. David, Howard Dodson Jr., Robert R. Edgar and Sulayman S. Nyang. \n\nFor transcript, captions, and more information, visit ",
+                            "dislikes": " Unavailable",
+                            "id": "tQl04Cn0nJQ",
+                            "likes": "1,317 likes",
+                            "title": "Celebrating 60 Years: African Studies at Howard University",
+                            "url": "https://www.youtube.com/watch?v=tQl04Cn0nJQ",
+                            "video_length": 8979.721,
+                            "views": "268,544 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=0qCWNT0BvhQ&list=RDCMUCbObxjfi3W9YKnDS0PgadNA&start_radio=1&rv=0qCWNT0BvhQ",
+                          "title": "Oral History: Tenzin Choegyal | Tibetan Music from Australia - Part One of Two",
+                          "video": {
+                            "ad": null,
+                            "comments": "Error found",
+                            "content creator": "Library of Congress",
+                            "date": "Jan 14, 2022",
+                            "description": "Tenzin Choegyal is a Tibetan/Australian artist, composer, activist, musical director and cultural ambassador, widely considered one of the world's finest musicians with Tibetan heritage. While proudly continuing the unbroken nomadic lineage central to his music, Tenzin also embraces opportunities to take his music into more contemporary, uncharted territory, both in the studio and on stage. Tenzin has nine independent albums, three of them with his fusion band Tibet2Timbuk2, and regularly performs with Camerata Brisbane\u2019s acclaimed Chamber Orchestra. His collaborative albums include The Last Dalunderai Lama? with Philip Glass and the 2021 Grammy-nominated Songs from the Bardo with Laurie Anderson and Jesse Paris Smith, which is a moving interpretation of the Tibetan Book of the Dead. An outstanding composer/ performer with a great depth of musical knowledge, intuition and inventiveness, Tenzin continues to bring together the two worlds of Eastern and Western music in unique compositions, collaborations and special cultural events.\n\nFor transcript and more information, visit ",
+                            "dislikes": " Unavailable",
+                            "id": "0qCWNT0BvhQ&list",
+                            "likes": "6 likes",
+                            "title": "Oral History: Tenzin Choegyal | Tibetan Music from Australia - Part One of Two",
+                            "url": "https://www.youtube.com/watch?v=0qCWNT0BvhQ&list=RDCMUCbObxjfi3W9YKnDS0PgadNA&start_radio=1&rv=0qCWNT0BvhQ",
+                            "video_length": 2372.501,
+                            "views": "81 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=qfMHxU49Su0",
+                          "title": "A Thousand Years of the Persian Book",
+                          "video": {
+                            "ad": null,
+                            "comments": "Error found",
+                            "content creator": "Library of Congress",
+                            "date": "Sep 9, 2014",
+                            "description": "This lecture launched the \"A Thousand Years of the Persian Book\" exhibition at the Library of Congress. The rich literary tradition of the Persian language over the last millennium was discussed. From illuminated manuscripts to contemporary publications, the exhibition will bring attention to the literary achievements of Iran and the greater Persian-speaking regions of Afghanistan, Tajikistan, Central and South Asia and the Caucasus. \n\nFor transcript, captions, and more information, visit ",
+                            "dislikes": " Unavailable",
+                            "id": "qfMHxU49Su0",
+                            "likes": "1,407 likes",
+                            "title": "A Thousand Years of the Persian Book",
+                            "url": "https://www.youtube.com/watch?v=qfMHxU49Su0",
+                            "video_length": 10130.201,
+                            "views": "432,040 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=ipE7R-OXt3k",
+                          "title": "Islam in America, 18th-21st Century",
+                          "video": {
+                            "ad": null,
+                            "comments": "Error found",
+                            "content creator": "Library of Congress",
+                            "date": "Mar 20, 2017",
+                            "description": "A symposium on the impact of Islamic religion and culture in America. \n\nFor transcript and more information, visit http://www.loc.gov/today/cyberlc/feat...",
+                            "dislikes": " Unavailable",
+                            "id": "ipE7R-OXt3k",
+                            "likes": "2,529 likes",
+                            "title": "Islam in America, 18th-21st Century",
+                            "url": "https://www.youtube.com/watch?v=ipE7R-OXt3k",
+                            "video_length": 10175.161,
+                            "views": "863,779 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=gtH6LU_THE0",
+                          "title": "Emily Dickinson Marathon Reading (Part 1)",
+                          "video": {
+                            "ad": null,
+                            "comments": "Error found",
+                            "content creator": "Library of Congress",
+                            "date": "Mar 23, 2015",
+                            "description": "Part one of an all-day reading of Emily Dickinson's works in honor of the poet's 184th birthday. \n\nFor transcript, captions, and more information, visit http://www.loc.gov/today/cyberlc/feat...",
+                            "dislikes": " Unavailable",
+                            "id": "gtH6LU_THE0",
+                            "likes": "705 likes",
+                            "title": "Emily Dickinson Marathon Reading (Part 1)",
+                            "url": "https://www.youtube.com/watch?v=gtH6LU_THE0",
+                            "video_length": 11502.081,
+                            "views": "188,549 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=LoN0sTesaDY",
+                      "title": "Islam Through Western Eyes",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "Library of Congress",
+                        "date": "Apr 10, 2012",
+                        "description": "According to author Jonathan Lyons, the Western view of Islam has prevented the West from responding effectively to its most significant 21st-century challenges: the rise of Islamic power, the emergence of religious violence, and the growing tension between established social values and multicultural rights among Muslim immigrant populations. Lyons addresses the issues of Islam and modernity, Islam and violence, and Islam and women and proposes new ways of thinking about the Western relationship to the Islamic world.\n\nSpeaker Biography: Jonathan Lyons spent twenty years as a foreign correspondent and editor for Reuters, much of it in the Islamic world. His research focuses on the shifting boundaries between East and West, and his publications include \"The House of Wisdom: How the Arabs Transformed Western Civilization\" and (with Geneive Abdo) \"Answering Only to God: Faith and Freedom in Twenty-first-Century Iran.\" He has a doctorate in sociology and lives in Washington, D.C.\n\nFor captions, transcript, and more information visit ",
+                        "dislikes": " Unavailable",
+                        "id": "LoN0sTesaDY",
+                        "likes": "294 likes",
+                        "title": "Islam Through Western Eyes",
+                        "url": "https://www.youtube.com/watch?v=LoN0sTesaDY",
+                        "video_length": 3741.101,
+                        "views": "34,892 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Oy-x7BLlBYg",
+                      "title": "Carl Gustav Jung & The Red Book (part 1)",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "Library of Congress",
+                        "date": "Aug 7, 2013",
+                        "description": "\"Carl Gustav Jung and the Red Book,\" an all day symposium, featured presentations by prominent Jungian scholars.\n\nSpeaker Biography: Jung scholar Sonu Shamdasani is a London-based author, editor, and professor at the Wellcome Trust Centre for the History of Medicine at University College London WIHM/UCL. Shamdasani works discuss the history of psychiatry and psychology from the mid-nineteenth century to current times. Shamdasani holds a BA from Bristol University, followed by MSc, History of Science and Medicine, University College London/Imperial College and gained his Ph.D. in History of Medicine from WIHM/UCL.\n\nSpeaker Biography: James Hillman is a psychologist, scholar, international lecturer, pioneer psychologist, and the author of more than twenty books. Hillman has held teaching positions at Yale University, the University of Chicago, Syracuse University, the University of Chicago, and the University of Dallas, where he cofounded the Dallas Institute of Humanities and Culture.\n\nSpeaker Biography: Ann Ulanov is a professor of psychiatry and religion at the Union Theological Seminary in New York City. She is the author of several books, including Religion and the Spiritual in Carl Jung and The Healing Imagination: The Meeting of Psyche and Soul.\n\nFor captions, transcript, and more information visit ",
+                        "dislikes": " Unavailable",
+                        "id": "Oy-x7BLlBYg",
+                        "likes": "8,144 likes",
+                        "title": "Carl Gustav Jung & The Red Book (part 1)",
+                        "url": "https://www.youtube.com/watch?v=Oy-x7BLlBYg",
+                        "video_length": 8974.181,
+                        "views": "1,644,926 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=etBNo0638Pw",
+                      "title": "DNA & the Origins of Peoples: The Armenians",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "Library of Congress",
+                        "date": "Jul 28, 2014",
+                        "description": "Hovann Simonian and Peter Hrechdakian delivered the 18th Annual Vardanants Day Armenian lecture on their work using social media to expand the nonprofit Armenian DNA Project, a Facebook group of more than 1,000 members around the world involved in researching Armenian family history through genetic testing. \n\nFor transcript, captions, and more information, visit ",
+                        "dislikes": " Unavailable",
+                        "id": "etBNo0638Pw",
+                        "likes": "2,669 likes",
+                        "title": "DNA & the Origins of Peoples: The Armenians",
+                        "url": "https://www.youtube.com/watch?v=etBNo0638Pw",
+                        "video_length": 5564.101,
+                        "views": "268,313 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=2Jh6S_xv7zI",
+                      "title": "[Rolling Stones at Altamont--home movie].",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "Library of Congress",
+                        "date": "Jan 14, 2022",
+                        "description": "Silent, edited footage of the free concert at Altamont Speedway on the afternoon and evening of Saturday, December 6, 1969. The film begins and ends with a shot of burning wood. The footage taken in the daytime features Santana, Jefferson Airplane, The Flying Burrito Brothers, and Crosby, Stills, Nash & Young. Keith Richards and Mick Jagger appear as spectators during The Flying Burrito Brothers' set. The nighttime footage features the Rolling Stones. The footage is quite dark, with Mick Jagger most visible. Most of the footage is of the performers onstage. There are also long shots of the crowd and of individuals dancing and singing. In both the daytime and nighttime footage, there are shots of Hells Angels on stage with the performers, and some shots of them getting rough and pushing people off the stage.",
+                        "dislikes": " Unavailable",
+                        "id": "2Jh6S_xv7zI",
+                        "likes": "1 like",
+                        "title": "[Rolling Stones at Altamont--home movie].",
+                        "url": "https://www.youtube.com/watch?v=2Jh6S_xv7zI",
+                        "video_length": 1564.061,
+                        "views": "47 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0qCWNT0BvhQ",
+                      "title": "Oral History: Tenzin Choegyal | Tibetan Music from Australia - Part One of Two",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "Library of Congress",
+                        "date": "Jan 14, 2022",
+                        "description": "Tenzin Choegyal is a Tibetan/Australian artist, composer, activist, musical director and cultural ambassador, widely considered one of the world's finest musicians with Tibetan heritage. While proudly continuing the unbroken nomadic lineage central to his music, Tenzin also embraces opportunities to take his music into more contemporary, uncharted territory, both in the studio and on stage. Tenzin has nine independent albums, three of them with his fusion band Tibet2Timbuk2, and regularly performs with Camerata Brisbane\u2019s acclaimed Chamber Orchestra. His collaborative albums include The Last Dalunderai Lama? with Philip Glass and the 2021 Grammy-nominated Songs from the Bardo with Laurie Anderson and Jesse Paris Smith, which is a moving interpretation of the Tibetan Book of the Dead. An outstanding composer/ performer with a great depth of musical knowledge, intuition and inventiveness, Tenzin continues to bring together the two worlds of Eastern and Western music in unique compositions, collaborations and special cultural events.\n\nFor transcript and more information, visit ",
+                        "dislikes": " Unavailable",
+                        "id": "0qCWNT0BvhQ",
+                        "likes": "6 likes",
+                        "title": "Oral History: Tenzin Choegyal | Tibetan Music from Australia - Part One of Two",
+                        "url": "https://www.youtube.com/watch?v=0qCWNT0BvhQ",
+                        "video_length": 2372.501,
+                        "views": "80 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lUBav-MR7aM",
+                  "title": "A Conversation with the Honorable Clarence Thomas",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Library of Congress",
+                    "date": "Streamed live on Feb 15, 2018",
+                    "description": "The Law Library of Congress and the Supreme Court Fellows Program present a Conversation with U.S. Supreme Court Justice Clarence Thomas on Thursday, February 15, at 3:30 p.m. ET in the Library of Congress Coolidge Auditorium.\n\nProfessor Gregory E. Maggs of George Washington University Law School will moderate the conversation. Jeffrey P. Minear, Executive Director of the Supreme Court Fellows Program and Counselor to the Chief Justice of the United States, and Jane S\u00e1nchez, Law Librarian of Congress, will introduce the program.\n\nThe conversation will be held in conjunction with the Supreme Court Fellows Program Annual Events and is co-sponsored by the Law Library of Congress.\n\nRead more about it, ",
+                    "dislikes": " Unavailable",
+                    "id": "lUBav-MR7aM",
+                    "likes": "Unavailable",
+                    "title": "A Conversation with the Honorable Clarence Thomas",
+                    "url": "https://www.youtube.com/watch?v=lUBav-MR7aM",
+                    "video_length": 3766.061,
+                    "views": "22,628 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=45Y7bN7ZwaY",
+                  "title": "Magna Carta's Legal Legacy: Conversation with Chief Justice Roberts & Lord Judge",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Library of Congress",
+                    "date": "Nov 14, 2014",
+                    "description": "Chief Justice John G. Roberts Jr. and Lord Igor Judge discuss the significance of Magna Carta through the centuries. \n\nSpeaker Biography: John G. Roberts Jr. is Chief Justice of the Supreme Court of the United States of America. \n\nSpeaker Biography: The Hon. Lord Igor Judge is the former lord chief justice of England and Wales. \n\nFor transcript, captions, and more information, visit ",
+                    "dislikes": " Unavailable",
+                    "id": "45Y7bN7ZwaY",
+                    "likes": "1,556 likes",
+                    "title": "Magna Carta's Legal Legacy: Conversation with Chief Justice Roberts & Lord Judge",
+                    "url": "https://www.youtube.com/watch?v=45Y7bN7ZwaY",
+                    "video_length": 2544.101,
+                    "views": "187,317 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=5dRF4OWnYyk",
+                  "title": "In Conversation with U.S. Supreme Court Justice Sonia Sotomayor",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Library of Congress",
+                    "date": "Mar 6, 2019",
+                    "description": "U.S. Supreme Court Justice Sonia Sotomayor spoke at the Library in a conversation moderated by Robert Katzmann and Eloise Pasachoff as a part of the Supreme Court Fellows Program. Founded in 1973, the program offers mid-career professionals, recent law school graduates and doctoral degree holders from the law and political science fields an opportunity to broaden their understanding of the judicial system through exposure to federal court administration. \n\nSpeaker Biography: Sonia Sotomayor is an associate justice of the U.S. Supreme Court. \n\nSpeaker Biography: Robert A. Katzmann is chief judge of the U.S. Court of Appeals for the Second Circuit and chair of the Supreme Court Fellows Commission. \n\nSpeaker Biography: Eloise Pasachoff is professor of law at the Georgetown University Law Center and member of the academic advisory board of the Supreme Court Fellows Program. \n\nSpeaker Biography: Jeffrey P. Minear is executive director of the Supreme Court Fellows Program and counselor to the Chief Justice of the United States. \n\nSpeaker Biography: Jane S\u00e1nchez is Law Librarian of Congress. \n\nFor transcript and more information, visit ",
+                    "dislikes": " Unavailable",
+                    "id": "5dRF4OWnYyk",
+                    "likes": "305 likes",
+                    "title": "In Conversation with U.S. Supreme Court Justice Sonia Sotomayor",
+                    "url": "https://www.youtube.com/watch?v=5dRF4OWnYyk",
+                    "video_length": 3485.601,
+                    "views": "40,771 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=7LRZ3AaBlt0",
+                  "title": "David McCullough on John Adams",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Library of Congress",
+                    "date": "Apr 3, 2014",
+                    "description": "Librarian of Congress James H. Billington engages noted author and historian David MCullough in a discussion on John Adams. \n\nSpeaker Biography: James H. Billington is the 13th Librarian of the United States Congress. \n\nSpeaker Biography: David McCullough is an American author, narrator, historian, and lecturer. He is a two-time winner of the Pulitzer Prize and the National Book Award and a recipient of the Presidential Medal of Freedom, the United States' highest civilian award. \n\nFor transcript, captions, and more information, visit ",
+                    "dislikes": " Unavailable",
+                    "id": "7LRZ3AaBlt0",
+                    "likes": "2,638 likes",
+                    "title": "David McCullough on John Adams",
+                    "url": "https://www.youtube.com/watch?v=7LRZ3AaBlt0",
+                    "video_length": 3759.241,
+                    "views": "330,092 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=_LIlH4jBKyQ",
+                  "title": "Islam: Facts & Fictions",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Library of Congress",
+                    "date": "May 26, 2017",
+                    "description": "Chase Robinson discussed his work on the history of Islamic civilization. \n\nSpeaker Biography: Chase Robinson is president and distinguished professor of history at the Graduate Center of the City University of New York. \n\nFor transcript and more information, visit ",
+                    "dislikes": " Unavailable",
+                    "id": "_LIlH4jBKyQ",
+                    "likes": "1,688 likes",
+                    "title": "Islam: Facts & Fictions",
+                    "url": "https://www.youtube.com/watch?v=_LIlH4jBKyQ",
+                    "video_length": 3519.681,
+                    "views": "198,970 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=LFVJYFI93Bk",
+              "title": "LC Performance. Interview. Conversation With Rod Serling",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Library of Congress",
+                "date": "Sep 27, 2018",
+                "description": "https://www.loc.gov/item/mbrs00829947/",
+                "dislikes": " Unavailable",
+                "id": "LFVJYFI93Bk",
+                "likes": "5,114 likes",
+                "title": "LC Performance. Interview. Conversation With Rod Serling",
+                "url": "https://www.youtube.com/watch?v=LFVJYFI93Bk",
+                "video_length": 1782.061,
+                "views": "342,069 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=DW4F_ZMrS3A&list=RDCMUCbObxjfi3W9YKnDS0PgadNA&start_radio=1&rv=DW4F_ZMrS3A",
+              "title": "The Memphis Belle: A Story of a Flying Fortress",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Library of Congress",
+                "date": "Dec 11, 2017",
+                "description": "For more information and to download this film, please visit https://www.loc.gov/item/mbrs00009301/ \n\nMany big Hollywood directors saw active duty in World War II and often became adept at capturing combat footage. In directing this film about the crew of a B-17 \"flying fortress\" bomber as it approached its 25th mission, William Wyler insisted on using only genuine footage and soldiers, showing civilian audiences a more startlingly realistic view of the war than they'd seen before. Wyler's direct style of telling a story, masterfully written by Lester Koenig, required no embellishment. \"The situation was dramatic in itself. You didn't have to dramatize.\" Wyler was assisted by several Hollywood-trained cinematographers, often under enemy fire, and later back in Hollywood by editor John Sturges, who would go on to direct a number of popular films after the war. Upon viewing the film, President Franklin D. Roosevelt urged, \"This has to be shown right away, everywhere.\" Named to the National Film Registry in 2001.",
+                "dislikes": " Unavailable",
+                "id": "DW4F_ZMrS3A&list",
+                "likes": "5,362 likes",
+                "title": "The Memphis Belle: A Story of a Flying Fortress",
+                "url": "https://www.youtube.com/watch?v=DW4F_ZMrS3A&list=RDCMUCbObxjfi3W9YKnDS0PgadNA&start_radio=1&rv=DW4F_ZMrS3A",
+                "video_length": 2410.521,
+                "views": "994,637 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=VcKZ636kvxg",
+              "title": "The Hitch-Hiker",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Library of Congress",
+                "date": "Dec 11, 2017",
+                "description": "For more information and to download this film, please visit https://www.loc.gov/item/mbrs00047382/",
+                "dislikes": " Unavailable",
+                "id": "VcKZ636kvxg",
+                "likes": "1,080 likes",
+                "title": "The Hitch-Hiker",
+                "url": "https://www.youtube.com/watch?v=VcKZ636kvxg",
+                "video_length": 4258.101,
+                "views": "202,838 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=rcO9gOoJveg",
+              "title": "Oral History: Samite | Music and Song from Uganda",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Library of Congress",
+                "date": "Jan 14, 2022",
+                "description": "Samite was born and raised in Uganda, but left as a political refugee in 1982. He spent the following few years in Kenya where he studied African traditional musical instruments and rhythms. He mastered the kalimba (thumb piano), marimba (wooden xylophone), litungu (seven-stringed Kenyan lyre) and various flutes, both traditional and western, and learned both traditional melodies and original compositions. He played with the popular African Heritage Band and the Bacchus Club Jazz Band, and played frequently at the Mount Kenya Safari Club and other leading Kenyan venues. Samite emigrated to the United States in 1987, and continued to play traditional and original music, as well to compose for film scores. He has released albums on the Shanachie, Triloka, Xenophile, and Windham Hill labels, as has been featured on compilations from Putumayo, Ellipsis Arts, and Narada. Samite spent the summer of 1999 traveling through parts of Africa, filming a PBS documentary titled Song of the Refugee, inspired by his desire to present African refugees\u2019 hopes for the future in spite of the loss and suffering they have endured. Samite founded the humanitarian non-profit organization Musicians for World Harmony in 2002. His recent work, Resilience, features \"On the Same Journey,\" which was nominated for a Hollywood Music in Media Award in 2019. In his concerts, Samite reflects on these experiences by performing songs and music from his and other African cultures.\n\nFor transcript and more information, visit ",
+                "dislikes": " Unavailable",
+                "id": "rcO9gOoJveg",
+                "likes": "6 likes",
+                "title": "Oral History: Samite | Music and Song from Uganda",
+                "url": "https://www.youtube.com/watch?v=rcO9gOoJveg",
+                "video_length": 3453.381,
+                "views": "161 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=5CPs7f7kYHA",
+              "title": "A Conversation with the Justice Clarence Thomas",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Library of Congress",
+                "date": "Apr 13, 2018",
+                "description": "Gregory Maggs conducted a conversation with Hon. Clarence Thomas, associate justice of the U.S. Supreme Court. The conversation was held in conjunction with the Supreme Court Fellows Program Annual Events. \n\nSpeaker Biography: A native of Georgia, Clarence Thomas was nominated by President George H.W. Bush to become an associate justice of the U.S. Supreme Court and was seated on the Court on October 23, 1991. \n\nSpeaker Biography: Gregory E. Maggs is a professor at George Washington University Law School. \n\nFor transcript and more information, visit ",
+                "dislikes": " Unavailable",
+                "id": "5CPs7f7kYHA",
+                "likes": "5,158 likes",
+                "title": "A Conversation with the Justice Clarence Thomas",
+                "url": "https://www.youtube.com/watch?v=5CPs7f7kYHA",
+                "video_length": 3276.261,
+                "views": "457,395 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=fpw3ISEoVvA",
+          "title": "Handcuffed Hero: Good Samaritan arrested after saving woman's life",
+          "video": {
+            "ad": null,
+            "comments": "15,080",
+            "content creator": "11Alive",
+            "date": "Feb 5, 2018",
+            "description": "11Alive's Chief Investigator Brendan Keefe has the story. He spent decades saving others, but the last life this retired fire chief saved, cost him his freedom.  https://on.11alive.com/2Jw08Eg\n11Alive is Where Atlanta Speaks. We believe that news shouldn\u2019t be a one-way conversation, but a dialogue with you. Join in, share your thoughts and connect with new perspectives. \n\nFollow 11Alive on Social: \nFacebook: ",
+            "dislikes": " Unavailable",
+            "id": "fpw3ISEoVvA",
+            "likes": "46,988 likes",
+            "title": "Handcuffed Hero: Good Samaritan arrested after saving woman's life",
+            "url": "https://www.youtube.com/watch?v=fpw3ISEoVvA",
+            "video_length": 331.961,
+            "views": "2,822,441 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XCciAJJMt9Q",
+          "title": "Gravitas Plus: How Big Pharma pushes dangerous drugs and reaps profits",
+          "video": {
+            "ad": null,
+            "comments": "6,984",
+            "content creator": "WION",
+            "date": "Premiered Jan 9, 2022",
+            "description": "The pandemic has revealed the power of big pharma.\nMajor drug manufacturers and suppliers have the power to set prices, influence regulators and lobby lawmakers.\nThis power has allowed big pharma to push potentially dangerous drugs.\nHow? Palki Sharma tells you. ",
+            "dislikes": " Unavailable",
+            "id": "XCciAJJMt9Q",
+            "likes": "54,555 likes",
+            "title": "Gravitas Plus: How Big Pharma pushes dangerous drugs and reaps profits",
+            "url": "https://www.youtube.com/watch?v=XCciAJJMt9Q",
+            "video_length": 526.721,
+            "views": "1,742,594 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Cq3AXPQYCkY",
+          "title": "Gordon Ramsay's Most INTENSE Argument On Kitchen Nightmares | FULL EPISODE",
+          "video": {
+            "ad": null,
+            "comments": "3,141",
+            "content creator": "Kitchen Nightmares",
+            "date": "Aug 27, 2021",
+            "description": "AYE MUFASA, YOU KNOW WHAT DAY IT IS RIGHT?\n\nGordon Ramsay visits Down City in Rhode Island, where he tries an 'award-winning' meatloaf and gets into one of the most intense arguments we've seen.",
+            "dislikes": " Unavailable",
+            "id": "Cq3AXPQYCkY",
+            "likes": "43,527 likes",
+            "title": "Gordon Ramsay's Most INTENSE Argument On Kitchen Nightmares | FULL EPISODE",
+            "url": "https://www.youtube.com/watch?v=Cq3AXPQYCkY",
+            "video_length": 2437,
+            "views": "2,384,349 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NPMAJbLZtt8",
+          "title": "Native American Flute Music and Rain for Sleep, Meditation and Relaxation",
+          "video": {
+            "ad": null,
+            "comments": "326",
+            "content creator": "24Relax",
+            "date": "Premiered Feb 24, 2020",
+            "description": "8 hours of Native American Flute and Rain - Music for Sleep, Meditation, Relaxation, Healing, Study\n\nNative American flute music and rain, you can use as relaxing music, meditation music, sleep music, calm music, healing music, instrumental music, study music, background music for any mind and creative work, to think, read or simply to enjoy. \n\nStream or purchase our music: ",
+            "dislikes": " Unavailable",
+            "id": "NPMAJbLZtt8",
+            "likes": "11,420 likes",
+            "title": "Native American Flute Music and Rain for Sleep, Meditation and Relaxation",
+            "url": "https://www.youtube.com/watch?v=NPMAJbLZtt8",
+            "video_length": 28885,
+            "views": "715,309 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DW4F_ZMrS3A",
+          "title": "The Memphis Belle: A Story of a Flying Fortress",
+          "video": {
+            "ad": null,
+            "comments": "Error found",
+            "content creator": "Library of Congress",
+            "date": "Dec 11, 2017",
+            "description": "For more information and to download this film, please visit https://www.loc.gov/item/mbrs00009301/ \n\nMany big Hollywood directors saw active duty in World War II and often became adept at capturing combat footage. In directing this film about the crew of a B-17 \"flying fortress\" bomber as it approached its 25th mission, William Wyler insisted on using only genuine footage and soldiers, showing civilian audiences a more startlingly realistic view of the war than they'd seen before. Wyler's direct style of telling a story, masterfully written by Lester Koenig, required no embellishment. \"The situation was dramatic in itself. You didn't have to dramatize.\" Wyler was assisted by several Hollywood-trained cinematographers, often under enemy fire, and later back in Hollywood by editor John Sturges, who would go on to direct a number of popular films after the war. Upon viewing the film, President Franklin D. Roosevelt urged, \"This has to be shown right away, everywhere.\" Named to the National Film Registry in 2001.",
+            "dislikes": " Unavailable",
+            "id": "DW4F_ZMrS3A",
+            "likes": "5,362 likes",
+            "title": "The Memphis Belle: A Story of a Flying Fortress",
+            "url": "https://www.youtube.com/watch?v=DW4F_ZMrS3A",
+            "video_length": 2410.521,
+            "views": "994,636 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ay5h5dq14mM",
+      "title": "Inside Seattle's 'Autonomous Zone'. No police allowed.",
+      "video": {
+        "ad": null,
+        "comments": "6,335",
+        "content creator": "KING 5",
+        "date": "Jun 14, 2020",
+        "description": "Amidst nationwide protests in the U.S. over the death of George Floyd and biased policing, a pocket of Seattle has emerged as a police-free zone. \n\nProtesters have occupied an entire city block of the Capitol Hill Neighborhood, including a police station. They started out calling it the 'Capitol Hill Autonomous Zone' or CHAZ.",
+        "dislikes": " Unavailable",
+        "id": "ay5h5dq14mM",
+        "likes": "7,795 likes",
+        "title": "Inside Seattle's 'Autonomous Zone'. No police allowed.",
+        "url": "https://www.youtube.com/watch?v=ay5h5dq14mM",
+        "video_length": 332.021,
+        "views": "825,440 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=gDmL8H-E_ZI",
+      "title": "\"You F*cking Donut, Of Course You Don't Put A Salad In A Microwave\" | Kitchen Nightmares FULL EP",
+      "video": {
+        "ad": null,
+        "comments": "2,138",
+        "content creator": "Kitchen Nightmares",
+        "date": "Nov 19, 2021",
+        "description": "I C O N I C \n\n#GordonRamsay #KitchenNightmares",
+        "dislikes": " Unavailable",
+        "id": "gDmL8H-E_ZI",
+        "likes": "33,705 likes",
+        "title": "\"You F*cking Donut, Of Course You Don't Put A Salad In A Microwave\" | Kitchen Nightmares FULL EP",
+        "url": "https://www.youtube.com/watch?v=gDmL8H-E_ZI",
+        "video_length": 2481.901,
+        "views": "2,345,791 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=DGMGCgA5fvM",
+      "title": "Combat-Helicopter Pilot Rates 8 Helicopter Scenes In Movies And TV | How Real Is It?",
+      "video": {
+        "ad": null,
+        "comments": "4,377",
+        "content creator": "Insider",
+        "date": "Aug 24, 2021",
+        "description": "Former combat-helicopter pilot Vernice \"FlyGirl\" Armour rates eight helicopter scenes in movies and television shows, such as \"Black Hawk Down,\" for realism. Armour was America's first Black female combat helicopter pilot and served two tours of Iraq.\nArmour discusses the accuracy of helicopter scenes in \"Mission: Impossible \u2014 Fallout\" (2018), starring Tom Cruise; \"Spectre\" (2015), starring Daniel Craig; and \"The Falcon and the Winter Soldier\" S1E1 (2021). She also comments on \"Jumanji: Welcome to the Jungle\" (2017), starring Dwayne Johnson; \"Hobbs & Shaw\" (2019); and \"Black Hawk Down\" (2001). Armour analyzes the reality of air-to-air combat in \"Rambo: First Blood Part II\" (1985) and \"The A-Team\" (2010).\n\nYou can learn more about Vernice \"FlyGirl\" Armour here:",
+        "dislikes": " Unavailable",
+        "id": "DGMGCgA5fvM",
+        "likes": "55,787 likes",
+        "title": "Combat-Helicopter Pilot Rates 8 Helicopter Scenes In Movies And TV | How Real Is It?",
+        "url": "https://www.youtube.com/watch?v=DGMGCgA5fvM",
+        "video_length": 937,
+        "views": "1,976,704 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=VIbuu3DMFm0",
+      "title": "Pawn Stars: TOP BLADES OF ALL TIME (34 Rare Swords, Spears, and Daggers) | History",
+      "video": {
+        "ad": null,
+        "comments": "3,806",
+        "content creator": "Pawn Stars",
+        "date": "Apr 24, 2020",
+        "description": "Watch all new episodes of Pawn Stars returning soon, and stay up to date on all of your favorite History Channel shows at history.com/schedule.\n\nCheck out the biggest, baddest and rarest swords ever featured on Pawn Stars in this mega-compilation. ",
+        "dislikes": " Unavailable",
+        "id": "VIbuu3DMFm0",
+        "likes": "60,798 likes",
+        "title": "Pawn Stars: TOP BLADES OF ALL TIME (34 Rare Swords, Spears, and Daggers) | History",
+        "url": "https://www.youtube.com/watch?v=VIbuu3DMFm0",
+        "video_length": 4785,
+        "views": "7,829,988 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Z0AIWvhauIo",
+      "title": "Blurred Justice: Army veteran arrested after disarming gunman, saving friends",
+      "video": {
+        "ad": null,
+        "comments": "40,549",
+        "content creator": "11Alive",
+        "date": "May 4, 2018",
+        "description": "The full investigation: http://11Alive.com/blurredjustice\nhttps://www.11alive.com/article/news/...",
+        "dislikes": " Unavailable",
+        "id": "Z0AIWvhauIo",
+        "likes": "88,618 likes",
+        "title": "Blurred Justice: Army veteran arrested after disarming gunman, saving friends",
+        "url": "https://www.youtube.com/watch?v=Z0AIWvhauIo",
+        "video_length": 698.861,
+        "views": "6,038,480 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=XcV1AVNz8P8",
+  "title": "The CHAZ Funniest Home Videos",
+  "video": {
+    "ad": null,
+    "comments": "5,664",
+    "content creator": "Michael Knowles",
+    "date": "Jun 27, 2020",
+    "description": "LIKE & SUBSCRIBE for new videos everyday. http://bit.ly/2QA8RbN \n\nMichael takes a look back on the best moments from The Captial Hill Autonomous Zone. Post your favorite moment from CHAZ in the comment section! \n\nSpecial thanks and clips referenced: \nJohn Ward: Welcome to Chaz! ",
+    "dislikes": " Unavailable",
+    "id": "XcV1AVNz8P8",
+    "likes": "78,157 likes",
+    "title": "The CHAZ Funniest Home Videos",
+    "url": "https://www.youtube.com/watch?v=XcV1AVNz8P8",
+    "video_length": 330,
+    "views": "1,635,044 views"
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=AuA2EAgAegE",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=d2NWPG2gB_A",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=V4V2bpZlqx8&list=RDCMUCoxcjq-8xIDTYp3uz647V5A&start_radio=1&rv=V4V2bpZlqx8",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=lZ3bPUKo5zc",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=BRRolKTlF6Q",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=86xWVb4XIyE",
+                          "title": "Bjarne Stroustrup - The Essence of C++",
+                          "video": {
+                            "ad": null,
+                            "comments": "758",
+                            "content creator": "The University of Edinburgh",
+                            "date": "May 6, 2014",
+                            "description": "Bjarne Stroustrup, creator and developer of C++, delivers his talk entitled, The Essence of C++. Stroustrup has held distinguished posts at Texas A&M University and spent significant time in the Computer Science Departments of Cambridge, Columbia and Princeton. \n\nC++ is the one of the world's most widely used technology languages and it has influenced newer languages such as C# and Java as well as older languages.\n\nFind more information on Bjarne Stroustrup and this lecture: ",
+                            "dislikes": " Unavailable",
+                            "id": "86xWVb4XIyE",
+                            "likes": "11,699 likes",
+                            "title": "Bjarne Stroustrup - The Essence of C++",
+                            "url": "https://www.youtube.com/watch?v=86xWVb4XIyE",
+                            "video_length": 5950.421,
+                            "views": "1,056,470 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=B1J2RMorJXM",
+                          "title": "Light Years Ahead | The 1969 Apollo Guidance Computer",
+                          "video": {
+                            "ad": null,
+                            "comments": "4,794",
+                            "content creator": "tnmoc",
+                            "date": "Feb 4, 2020",
+                            "description": "Half a century ago, on 20 July 1969, Neil Armstrong was in the final stages of the lunar descent, just a few thousand feet above the surface, when suddenly his on-board computer indicated a critical alarm. For three nail-biting seconds it looked as if the mission would have to be aborted. However, Armstrong was given a \"go\" to continue, and after several more alarms the Eagle touched down safely on the Moon.\n\nRobert Wills introduces the amazing hardware and software that made up the Apollo Guidance Computer, walks you through the landing procedure step-by-step, and talks about the pioneering design principles that were used to make the landing software robust against any failure. He also explains the problems that occurred during the Apollo 11 landing, and shows you how the Apollo Guidance Computer played its part in saving the mission.\n\nChapters:",
+                            "dislikes": " Unavailable",
+                            "id": "B1J2RMorJXM",
+                            "likes": "30,348 likes",
+                            "title": "Light Years Ahead | The 1969 Apollo Guidance Computer",
+                            "url": "https://www.youtube.com/watch?v=B1J2RMorJXM",
+                            "video_length": 4882,
+                            "views": "1,561,693 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=g2tMcMQqSbA&list=RDCMUCnw4p95EOWghQNP4vOv8VHw&start_radio=1&rv=g2tMcMQqSbA",
+                          "title": "Colossus - The Greatest Secret in the History of Computing",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,189",
+                            "content creator": "The Centre for Computing History",
+                            "date": "May 4, 2020",
+                            "description": "Chris Shore talks about Colossus, how it came to be, how it worked and how it changed the course of World War II.  Essential viewing!\n\nHelp us create more videos.\nSupport us through Patreon : ",
+                            "dislikes": " Unavailable",
+                            "id": "g2tMcMQqSbA&list",
+                            "likes": "11,522 likes",
+                            "title": "Colossus - The Greatest Secret in the History of Computing",
+                            "url": "https://www.youtube.com/watch?v=g2tMcMQqSbA&list=RDCMUCnw4p95EOWghQNP4vOv8VHw&start_radio=1&rv=g2tMcMQqSbA",
+                            "video_length": 3626.061,
+                            "views": "475,537 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=qn_BBQEjCxI",
+                          "title": "The real story of how Enigma was broken - Sir Dermot Turing",
+                          "video": {
+                            "ad": null,
+                            "comments": "753",
+                            "content creator": "tnmoc",
+                            "date": "Jun 1, 2021",
+                            "description": "A virtual talk by Sir Dermot Turing.\n\nSurely Enigma was broken by the British at Bletchley Park? The real story begins much earlier, in December, 1932.  In the bathroom of a Belgian hotel, a French spymaster photographs secret documents \u2013 operating instructions of a new cipher machine, Enigma. A few weeks later a mathematician in Warsaw begins to decipher the coded communications of the Third Reich and lay the foundations for the famous operation at Bletchley Park. In this illustrated talk Dermot Turing explains the international alliance which set the Bletchley Park codebreakers on the path to the British Bombe, as seen at The National Museum of Computing.\n\nDermot Turing is the acclaimed author of Prof: Alan Turing Decoded, a biography of his famous uncle, The Story of Computing, and most recently the award-winning X, Y and Z \u2013 the real story of how Enigma was broken. His new book, a reappraisal of Alan Turing\u2019s legacy, Reflections of Alan Turing, is published on 22 April He began writing in 2014 after a career in law. Dermot worked for the Government Legal Service and then the international law firm Clifford Chance, where he was a partner until 2014. He is a Visiting Fellow at Kellogg College, Oxford.\n\nThis Illustrated talk last approximately 40 minutes, followed by a 20 minute Q&A session.\n\nRecorded 7th April 2021.",
+                            "dislikes": " Unavailable",
+                            "id": "qn_BBQEjCxI",
+                            "likes": "5,066 likes",
+                            "title": "The real story of how Enigma was broken - Sir Dermot Turing",
+                            "url": "https://www.youtube.com/watch?v=qn_BBQEjCxI",
+                            "video_length": 4069.541,
+                            "views": "351,135 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=V4V2bpZlqx8",
+                          "title": "Flaw in the Enigma Code - Numberphile",
+                          "video": {
+                            "ad": null,
+                            "comments": "3,689",
+                            "content creator": "Numberphile",
+                            "date": "Jan 14, 2013",
+                            "description": "The flaw which allowed the Allies to break the Nazi Enigma code.\nMore links & stuff in full description below \u2193\u2193\u2193\n\nFirst video explaining Enigma: ",
+                            "dislikes": " Unavailable",
+                            "id": "V4V2bpZlqx8",
+                            "likes": "75,829 likes",
+                            "title": "Flaw in the Enigma Code - Numberphile",
+                            "url": "https://www.youtube.com/watch?v=V4V2bpZlqx8",
+                            "video_length": 658.021,
+                            "views": "4,323,974 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=gjtTcyWL0NA",
+                      "title": "What is the area of a Squircle?",
+                      "video": {
+                        "ad": null,
+                        "comments": "2,119",
+                        "content creator": "Stand-up Maths",
+                        "date": "Sep 1, 2021",
+                        "description": "Check out https://www.kiwico.com/standupmaths and get 50% off your first month of any crate! Maybe enjoy making a pencil sharpener! Not that I'd know what that's like...\n\nThis is the GeoGebra file Sam Hartburn made for me:",
+                        "dislikes": " Unavailable",
+                        "id": "gjtTcyWL0NA",
+                        "likes": "22,320 likes",
+                        "title": "What is the area of a Squircle?",
+                        "url": "https://www.youtube.com/watch?v=gjtTcyWL0NA",
+                        "video_length": 2031,
+                        "views": "433,296 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=JBZsLbAF8bc",
+                      "title": "HOW TO WIN MONOPOLY EVERY TIME",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,886",
+                        "content creator": "MoneyMakers",
+                        "date": "Aug 22, 2020",
+                        "description": "How to win the board game of Monopoly every time. Win against friends and family regardless of luck - MoneyMakers Strategies for winning any game of Monopoly regardless of luck or situation. Following the tactics in this video will ensure you win any game of Monopoly, destroy friendships and leave your friends and family to be the ones to flip the board in frustration.\n\nThis video is not a tutorial on monopoly, however assumes you understand the basic rules and are interested in winning more often. Winning a game of Monopoly will involve some luck, however regardless of luck you can manipulate a game to work in your favor. Knowing probabilities and setting up the board to favor you will always tilt the board in your favor. Key Monopoly strategies involve understanding dice and the importance of spots 7 spots ahead or near 7 spots ahead, knowing the balance of the board and where players are likely to land, building 3 houses on your monopoly quickly, defending against other players getting quick monopolies or houses, and then making a trade that involves you reaching 3 houses quickly when your opponent can't.\n\nImplementing these Monopoly strategies can often be subtle, and the people you play against will often believe you just got lucky or that they are unlucky. However, you will know that you manipulated the game to work in your favor and tilt the odds towards you. Use these Monopoly tips and tactics to win the lion's share of the games you play.\n\nMonopoly Advanced Strategies: ",
+                        "dislikes": " Unavailable",
+                        "id": "JBZsLbAF8bc",
+                        "likes": "47,133 likes",
+                        "title": "HOW TO WIN MONOPOLY EVERY TIME",
+                        "url": "https://www.youtube.com/watch?v=JBZsLbAF8bc",
+                        "video_length": 591.221,
+                        "views": "2,346,961 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ubQXz5RBBtU&list=RDCMUCSju5G2aFaWMqn-_0YBtq5A&start_radio=1&rv=ubQXz5RBBtU",
+                      "title": "The Mathematics of Winning Monopoly",
+                      "video": {
+                        "ad": null,
+                        "comments": "4,814",
+                        "content creator": "Stand-up Maths",
+                        "date": "Dec 8, 2016",
+                        "description": "I talk to Hannah Fry and compare our mathematical investigations into playing Monopoly. I\u2019ve put all my probabilities below.\n\nYou can buy a signed copy of Hannah's book on Maths Gear:",
+                        "dislikes": " Unavailable",
+                        "id": "ubQXz5RBBtU&list",
+                        "likes": "55,798 likes",
+                        "title": "The Mathematics of Winning Monopoly",
+                        "url": "https://www.youtube.com/watch?v=ubQXz5RBBtU&list=RDCMUCSju5G2aFaWMqn-_0YBtq5A&start_radio=1&rv=ubQXz5RBBtU",
+                        "video_length": 1119.901,
+                        "views": "2,760,672 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rudzYPHuewc",
+                      "title": "Winning at Rock Paper Scissors - Numberphile",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,261",
+                        "content creator": "Numberphile",
+                        "date": "Jan 26, 2015",
+                        "description": "Squarespace: http://www.squarespace.com/numberphile\nThis video features Hannah Fry - https://twitter.com/fryrsquared\nMore links & stuff in full description below \u2193\u2193\u2193\n\nMore on this topic (and lizards): ",
+                        "dislikes": " Unavailable",
+                        "id": "rudzYPHuewc",
+                        "likes": "57,739 likes",
+                        "title": "Winning at Rock Paper Scissors - Numberphile",
+                        "url": "https://www.youtube.com/watch?v=rudzYPHuewc",
+                        "video_length": 347.421,
+                        "views": "3,358,187 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=g2tMcMQqSbA",
+                      "title": "Colossus - The Greatest Secret in the History of Computing",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,189",
+                        "content creator": "The Centre for Computing History",
+                        "date": "May 4, 2020",
+                        "description": "Chris Shore talks about Colossus, how it came to be, how it worked and how it changed the course of World War II.  Essential viewing!\n\nHelp us create more videos.\nSupport us through Patreon : ",
+                        "dislikes": " Unavailable",
+                        "id": "g2tMcMQqSbA",
+                        "likes": "11,522 likes",
+                        "title": "Colossus - The Greatest Secret in the History of Computing",
+                        "url": "https://www.youtube.com/watch?v=g2tMcMQqSbA",
+                        "video_length": 3626.061,
+                        "views": "475,528 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=GVhFBujPlVo",
+                  "title": "Why it\u2019s mathematically impossible to share fair",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,330",
+                    "content creator": "Stand-up Maths",
+                    "date": "Nov 25, 2021",
+                    "description": "Thanks to Brilliant! Go to https://brilliant.org/standupmaths and the first 200 of you will get 20% off an annual subscriptions; including gift subscriptions! They are amazing sponsors and I love them.\n\nThis site was super helpful at explaining the history and math of apportionment. As always though, verify the specifics of the data yourself (but all the general points are definitely correct). ",
+                    "dislikes": " Unavailable",
+                    "id": "GVhFBujPlVo",
+                    "likes": "28,575 likes",
+                    "title": "Why it\u2019s mathematically impossible to share fair",
+                    "url": "https://www.youtube.com/watch?v=GVhFBujPlVo",
+                    "video_length": 2528,
+                    "views": "757,016 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=G3Yzk-3SZfs",
+                  "title": "Dream's Cheating Confession: Uncovering The Truth",
+                  "video": {
+                    "ad": null,
+                    "comments": "20,623",
+                    "content creator": "Karl Jobst",
+                    "date": "Jun 30, 2021",
+                    "description": "The first 1,000 legends to use this link will get a 1 month free trial of Skillshare: https://skl.sh/karljobst06211",
+                    "dislikes": " Unavailable",
+                    "id": "G3Yzk-3SZfs",
+                    "likes": "128,092 likes",
+                    "title": "Dream's Cheating Confession: Uncovering The Truth",
+                    "url": "https://www.youtube.com/watch?v=G3Yzk-3SZfs",
+                    "video_length": 4544.121,
+                    "views": "1,688,210 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU&list=RDCMUCSju5G2aFaWMqn-_0YBtq5A&start_radio=1&rv=8Ko3TdPy0TU",
+                  "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                  "video": {
+                    "ad": null,
+                    "comments": "26,383",
+                    "content creator": "Stand-up Maths",
+                    "date": "Feb 4, 2021",
+                    "description": "Buy my book Humble Pi now!\nhttps://www.penguinrandomhouse.com/bo...\nUPDATE: Harvard Book Store have totally sold out.\n\nMy talk on 4 February 2021 at Harvard Book Store:",
+                    "dislikes": " Unavailable",
+                    "id": "8Ko3TdPy0TU&list",
+                    "likes": "263,010 likes",
+                    "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                    "url": "https://www.youtube.com/watch?v=8Ko3TdPy0TU&list=RDCMUCSju5G2aFaWMqn-_0YBtq5A&start_radio=1&rv=8Ko3TdPy0TU",
+                    "video_length": 2386.941,
+                    "views": "4,549,484 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=v7eHTNm1YtU",
+                  "title": "I run untested, viewer-submitted code on my 500-LED christmas tree.",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,657",
+                    "content creator": "Matt_Parker_2",
+                    "date": "Jan 12, 2021",
+                    "description": "Original video: https://www.youtube.com/watch?v=TvlpI...\n\nI think that went well! Head over to github to see some of the code involved.",
+                    "dislikes": " Unavailable",
+                    "id": "v7eHTNm1YtU",
+                    "likes": "203,640 likes",
+                    "title": "I run untested, viewer-submitted code on my 500-LED christmas tree.",
+                    "url": "https://www.youtube.com/watch?v=v7eHTNm1YtU",
+                    "video_length": 2716.441,
+                    "views": "6,296,667 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=ubQXz5RBBtU",
+                  "title": "The Mathematics of Winning Monopoly",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,814",
+                    "content creator": "Stand-up Maths",
+                    "date": "Dec 8, 2016",
+                    "description": "I talk to Hannah Fry and compare our mathematical investigations into playing Monopoly. I\u2019ve put all my probabilities below.\n\nYou can buy a signed copy of Hannah's book on Maths Gear:",
+                    "dislikes": " Unavailable",
+                    "id": "ubQXz5RBBtU",
+                    "likes": "55,798 likes",
+                    "title": "The Mathematics of Winning Monopoly",
+                    "url": "https://www.youtube.com/watch?v=ubQXz5RBBtU",
+                    "video_length": 1119.901,
+                    "views": "2,760,671 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=leX541Dr2rU",
+              "title": "There is No Algorithm for Truth - with Tom Scott",
+              "video": {
+                "ad": null,
+                "comments": "4,460",
+                "content creator": "The Royal Institution",
+                "date": "Oct 24, 2019",
+                "description": "How does science get communicated in an age of social media?\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe\nWatch all of Tom's videos on his channel - https://youtube.com/TomScottGo",
+                "dislikes": " Unavailable",
+                "id": "leX541Dr2rU",
+                "likes": "64,994 likes",
+                "title": "There is No Algorithm for Truth - with Tom Scott",
+                "url": "https://www.youtube.com/watch?v=leX541Dr2rU",
+                "video_length": 3574.041,
+                "views": "2,056,611 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+              "title": "Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker",
+              "video": {
+                "ad": null,
+                "comments": "2,666",
+                "content creator": "The Royal Institution",
+                "date": "Feb 25, 2015",
+                "description": "Matt Parker, comedian and mathematician, shows how four-dimensional shapes appear in a 3D world in this hands-on talk, featuring what is possibly the world's nerdiest knitted hat!\nSubscribe for weekly science videos: http://bit.ly/RiSubscRibe",
+                "dislikes": " Unavailable",
+                "id": "1wAaI_6b9JE",
+                "likes": "46,538 likes",
+                "title": "Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker",
+                "url": "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+                "video_length": 3700,
+                "views": "2,708,566 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=edvdzh9Pggg",
+              "title": "Beyond the Higgs: What's Next for the LHC? - with Harry Cliff",
+              "video": {
+                "ad": null,
+                "comments": "2,943",
+                "content creator": "The Royal Institution",
+                "date": "Jan 17, 2018",
+                "description": "In 2012, the announcement of the Higgs boson made headlines around the world. But what has been going on at the Large Hadron Collider since?  Physicist Harry Cliff will be your guide.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                "dislikes": " Unavailable",
+                "id": "edvdzh9Pggg",
+                "likes": "28,642 likes",
+                "title": "Beyond the Higgs: What's Next for the LHC? - with Harry Cliff",
+                "url": "https://www.youtube.com/watch?v=edvdzh9Pggg",
+                "video_length": 3584.421,
+                "views": "2,851,260 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=IF4UhElRUFg",
+              "title": "The End of the Universe - with Geraint Lewis",
+              "video": {
+                "ad": null,
+                "comments": "1,238",
+                "content creator": "The Royal Institution",
+                "date": "Oct 3, 2018",
+                "description": "Come with us on a very final journey as we wander forwards in time at breakneck speeds to see what happens at the very end of the universe.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                "dislikes": " Unavailable",
+                "id": "IF4UhElRUFg",
+                "likes": "10,138 likes",
+                "title": "The End of the Universe - with Geraint Lewis",
+                "url": "https://www.youtube.com/watch?v=IF4UhElRUFg",
+                "video_length": 3468.181,
+                "views": "1,723,701 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+              "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+              "video": {
+                "ad": null,
+                "comments": "26,383",
+                "content creator": "Stand-up Maths",
+                "date": "Feb 4, 2021",
+                "description": "Buy my book Humble Pi now!\nhttps://www.penguinrandomhouse.com/bo...\nUPDATE: Harvard Book Store have totally sold out.\n\nMy talk on 4 February 2021 at Harvard Book Store:",
+                "dislikes": " Unavailable",
+                "id": "8Ko3TdPy0TU",
+                "likes": "263,009 likes",
+                "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                "url": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+                "video_length": 2386.941,
+                "views": "4,549,484 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=uFQdcKJUijQ",
+          "title": "Explosive Science - with Chris Bishop",
+          "video": {
+            "ad": null,
+            "comments": "911",
+            "content creator": "The Royal Institution",
+            "date": "Nov 1, 2012",
+            "description": "Distinguished Scientist, Ri Vice President and explosives expert Chris Bishop presents another action-packed demonstration lecture.\n\nFollowing on from his explorations of Chemistry and the world of Fireworks, Professor Bishop turns his attention to the use, origins and properties of explosives.\n\nThe Ri is on Twitter: ",
+            "dislikes": " Unavailable",
+            "id": "uFQdcKJUijQ",
+            "likes": "17,223 likes",
+            "title": "Explosive Science - with Chris Bishop",
+            "url": "https://www.youtube.com/watch?v=uFQdcKJUijQ",
+            "video_length": 3608,
+            "views": "1,260,970 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+          "title": "The Earth is Definitely Not Flat",
+          "video": {
+            "ad": null,
+            "comments": "23,280",
+            "content creator": "Professor Dave Explains",
+            "date": "Mar 27, 2019",
+            "description": "Anti-science mentality is rampant in this day and age, and one of the more peculiar aspects of this trend is the current fad that is the Flat Earth model. There exists a group of people who believe that against everything we have come to learn throughout the scientific revolution, the world is actually flat, and the center of the universe. That's not all, there's a big cover up, with NASA, and all the governments, like some real sci-fi stuff. Let's go through some of the talking points of this model and see if we can deconstruct it, shall we?\n\nWatch the whole Astronomy/Astrophysics playlist: ",
+            "dislikes": " Unavailable",
+            "id": "tC5RalYWZ5Y",
+            "likes": "42,852 likes",
+            "title": "The Earth is Definitely Not Flat",
+            "url": "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+            "video_length": 787,
+            "views": "1,248,292 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=658xlubwnDc",
+          "title": "How Science is Taking the Luck out of Gambling - with Adam Kucharski",
+          "video": {
+            "ad": null,
+            "comments": "1,861",
+            "content creator": "The Royal Institution",
+            "date": "Aug 3, 2016",
+            "description": "From the statisticians forecasting sports scores to the intelligent bots beating human poker players, Adam Kucharski traces the scientific origins of the world's best gambling strategies.\nWatch the Q&A here: https://www.youtube.com/watch?v=o0Xxb...",
+            "dislikes": " Unavailable",
+            "id": "658xlubwnDc",
+            "likes": "28,642 likes",
+            "title": "How Science is Taking the Luck out of Gambling - with Adam Kucharski",
+            "url": "https://www.youtube.com/watch?v=658xlubwnDc",
+            "video_length": 3452.061,
+            "views": "2,902,706 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KyD8VIK032o",
+          "title": "The 10 Things That All Flat Earthers Say",
+          "video": {
+            "ad": null,
+            "comments": "73,678",
+            "content creator": "Professor Dave Explains",
+            "date": "Jul 2, 2019",
+            "description": "So it's been a minute since I made my response to the Globebusters, and for two months now I've had to listen to flat earthers spew the same nonsense in the comment section of that video, day after day. Now that I'm intimately familiar with their most popular and most ridiculous talking points, I thought I would put them all together in one clip for a vigorous debunking.\n\nMy original flat earth video:",
+            "dislikes": " Unavailable",
+            "id": "KyD8VIK032o",
+            "likes": "146,489 likes",
+            "title": "The 10 Things That All Flat Earthers Say",
+            "url": "https://www.youtube.com/watch?v=KyD8VIK032o",
+            "video_length": 1110.401,
+            "views": "4,051,589 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6JwEYamjXpA",
+          "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+          "video": {
+            "ad": null,
+            "comments": "3,154",
+            "content creator": "The Royal Institution",
+            "date": "Mar 7, 2019",
+            "description": "Most of the time, the maths in our everyday lives works quietly behind the scenes, until someone forgets to carry a '1' and a bridge collapses or a plane drops out of the sky.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+            "dislikes": " Unavailable",
+            "id": "6JwEYamjXpA",
+            "likes": "44,765 likes",
+            "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+            "url": "https://www.youtube.com/watch?v=6JwEYamjXpA",
+            "video_length": 4053.501,
+            "views": "2,542,795 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=J7dqGhOPVcY",
+      "title": "Best Of Hasan On Deep Cuts | Patriot Act with Hasan Minhaj | Netflix",
+      "video": {
+        "ad": null,
+        "comments": "506",
+        "content creator": "Netflix Is A Joke",
+        "date": "Feb 10, 2020",
+        "description": "Relive some of our favorite Deep Cut's moments with this 'best of' compilation video. Watch as Hasan talks aliens, Indian Uncles, name pronunciation, and the event that made him want to create Patriot Act. \n\nWatch Patriot Act with Hasan Minhaj on Netflix: ",
+        "dislikes": " Unavailable",
+        "id": "J7dqGhOPVcY",
+        "likes": "18,117 likes",
+        "title": "Best Of Hasan On Deep Cuts | Patriot Act with Hasan Minhaj | Netflix",
+        "url": "https://www.youtube.com/watch?v=J7dqGhOPVcY",
+        "video_length": 1763.821,
+        "views": "764,199 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+      "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+      "video": {
+        "ad": null,
+        "comments": "4,400",
+        "content creator": "Vanity Fair",
+        "date": "Sep 30, 2021",
+        "description": "Casino game protection expert Sal Piacente reviews notorious card counting and casino game cheating scenes from films including 'Rain Man,' 'Rounders,' 'The Sting,' 'Austin Powers,' 'Casino,' 'Ocean's Thirteen,' 'The Cooler,' 'Runner Runner,' 'Now You See Me 2,' 'Shade' and '21.'\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "ki4Fbctwnjs",
+        "likes": "181,082 likes",
+        "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "video_length": 1404.421,
+        "views": "7,728,688 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=W4ktLen9cVM",
+      "title": "Mortician Answers Dead Body Questions From Twitter | Tech Support | WIRED",
+      "video": {
+        "ad": null,
+        "comments": "55,932",
+        "content creator": "WIRED",
+        "date": "May 7, 2021",
+        "description": "Victor M. Sweeney, a licensed funeral director and mortician, answers the internet's burning questions about dead bodies and the funeral director profession. When someone dies, what happens to their poo? If a person dies with contacts in...does a mortician take them out? Will your cat actually eat you when you die? Victor answers all these questions and much more.\n\nStill haven\u2019t subscribed to WIRED on YouTube? \u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "W4ktLen9cVM",
+        "likes": "814,313 likes",
+        "title": "Mortician Answers Dead Body Questions From Twitter | Tech Support | WIRED",
+        "url": "https://www.youtube.com/watch?v=W4ktLen9cVM",
+        "video_length": 849,
+        "views": "16,998,179 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=3c584TGG7jQ",
+      "title": "EXPLODING Glitter Bomb 4.0 vs. Package Thieves",
+      "video": {
+        "ad": null,
+        "comments": "49,299",
+        "content creator": "Mark Rober",
+        "date": "Dec 13, 2021",
+        "description": "Merry Christmas ya filthy animals. If you want to learn the design fundamentals it takes to make something like the Glitter Bomb, enroll in my Creative Engineering course at https://Monthly.com/MarkRober and I'll see you in class!\n\nGet the new Glitterbomb 4.0 tshirt here- ",
+        "dislikes": " Unavailable",
+        "id": "3c584TGG7jQ",
+        "likes": "1,138,874 likes",
+        "title": "EXPLODING Glitter Bomb 4.0 vs. Package Thieves",
+        "url": "https://www.youtube.com/watch?v=3c584TGG7jQ",
+        "video_length": 1107.961,
+        "views": "20,155,583 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "video": {
+        "ad": null,
+        "comments": "114,125",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "230,753 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713.401,
+        "views": "8,433,022 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=f9q0Xlnyl-A",
+  "title": "BEIJING BIDEN AND TRUMP'S LAST STAND AGAINST SOCIALISM",
+  "video": {
+    "ad": null,
+    "comments": "9,284",
+    "content creator": "Candace Owens",
+    "date": "Streamed live on Nov 10, 2020",
+    "description": "VISIT WWW.FACTCHECKZUCK.COM TO JOIN MY EFFORTS TO SUE THE \"FACT-CHECKERS\"",
+    "dislikes": " Unavailable",
+    "id": "f9q0Xlnyl-A",
+    "likes": "44,130 likes",
+    "title": "BEIJING BIDEN AND TRUMP'S LAST STAND AGAINST SOCIALISM",
+    "url": "https://www.youtube.com/watch?v=f9q0Xlnyl-A",
+    "video_length": 2017.161,
+    "views": "419,280 views"
+  }
+}

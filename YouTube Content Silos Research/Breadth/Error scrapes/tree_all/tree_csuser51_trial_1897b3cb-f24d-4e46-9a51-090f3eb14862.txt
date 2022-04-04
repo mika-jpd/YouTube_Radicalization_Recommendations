@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=fg0CC99hVK8",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=Lx1P1YA2rlA&list=RDCMUCA_9qCytURKYtWsnq-U_mTQ&start_radio=1&rv=Lx1P1YA2rlA",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=N0WjV6MmCyM",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=ML3qYHWRIZk",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=1RA2Zy_IZfQ",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=5hVmeOCJjOU",
+                          "title": "A Brief History of Quantum Mechanics - with Sean Carroll",
+                          "video": {
+                            "ad": null,
+                            "comments": "2,570",
+                            "content creator": "The Royal Institution",
+                            "date": "Feb 6, 2020",
+                            "description": "The mysterious world of quantum mechanics has mystified scientists for decades. But this mind-bending theory is the best explanation of reality that we have.\n\nSean\u2019s book \"Something Deeply Hidden\" is available now - ",
+                            "dislikes": " Unavailable",
+                            "id": "5hVmeOCJjOU",
+                            "likes": "33,156 likes",
+                            "title": "A Brief History of Quantum Mechanics - with Sean Carroll",
+                            "url": "https://www.youtube.com/watch?v=5hVmeOCJjOU",
+                            "video_length": 3371,
+                            "views": "2,894,726 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=pfheSAcCsrE",
+                          "title": "Misquoting Jesus in the Bible - Professor Bart D. Ehrman",
+                          "video": {
+                            "ad": null,
+                            "comments": "4,928",
+                            "content creator": "Bart D. Ehrman",
+                            "date": "Nov 3, 2013",
+                            "description": "Heyns Lecture Series at Cubberley Auditorium, Stanford University Campus, Wednesday, April 25, 2007.  Lecture on \"Misquoting Jesus\" a textual criticism of Biblical manuscript tampering. From the book \"Misquoting Jesus: Scribes Who Altered Scripture and Readers Who May Never Know.\"\n\nBook listed on Bart Ehrman's Foundation Blog: ",
+                            "dislikes": " Unavailable",
+                            "id": "pfheSAcCsrE",
+                            "likes": "16,573 likes",
+                            "title": "Misquoting Jesus in the Bible - Professor Bart D. Ehrman",
+                            "url": "https://www.youtube.com/watch?v=pfheSAcCsrE",
+                            "video_length": 5719.861,
+                            "views": "1,605,754 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=StmNWzHbQJU",
+                          "title": "Using My Python Skills To Punish Credit Card Scammers",
+                          "video": {
+                            "ad": null,
+                            "comments": "5,464",
+                            "content creator": "Engineer Man",
+                            "date": "Mar 28, 2021",
+                            "description": "Here we go again, another day, another scammer. This time a scammer decided to use a live payment processor to test validity of cards to scam. Not very smart and he'll pay because of it.\n\nHope you enjoyed the video!\n\nJoin my Discord server and come say hi:",
+                            "dislikes": " Unavailable",
+                            "id": "StmNWzHbQJU",
+                            "likes": "123,854 likes",
+                            "title": "Using My Python Skills To Punish Credit Card Scammers",
+                            "url": "https://www.youtube.com/watch?v=StmNWzHbQJU",
+                            "video_length": 432.661,
+                            "views": "2,612,959 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=QyjyWUrHsFc",
+                          "title": "A Brief History of Graphics",
+                          "video": {
+                            "ad": null,
+                            "comments": "7,847",
+                            "content creator": "Ahoy",
+                            "date": "Jan 18, 2015",
+                            "description": "A complete edit of a 5-part series: http://goo.gl/ilCrn5\n\nPatreon: https://www.patreon.com/ahoy",
+                            "dislikes": " Unavailable",
+                            "id": "QyjyWUrHsFc",
+                            "likes": "133,343 likes",
+                            "title": "A Brief History of Graphics",
+                            "url": "https://www.youtube.com/watch?v=QyjyWUrHsFc",
+                            "video_length": 2666.381,
+                            "views": "4,989,656 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=Lx1P1YA2rlA",
+                          "title": "Penn & Teller Fool Us: Kostya Kimlat's IMPOSSIBLE Card Trick // Season 5",
+                          "video": {
+                            "ad": null,
+                            "comments": "4,172",
+                            "content creator": "Kostya Kimlat",
+                            "date": "Jul 16, 2018",
+                            "description": "Host a Virtual Magic Show with Kostya for Your Company: https://kostyakimlat.com/virtual-magi...\nSee Kostya's Virtual Magic Show on 4/29: https://kostyakimlat.com/hunger",
+                            "dislikes": " Unavailable",
+                            "id": "Lx1P1YA2rlA",
+                            "likes": "89,132 likes",
+                            "title": "Penn & Teller Fool Us: Kostya Kimlat's IMPOSSIBLE Card Trick // Season 5",
+                            "url": "https://www.youtube.com/watch?v=Lx1P1YA2rlA",
+                            "video_length": 556.221,
+                            "views": "9,553,708 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=leX541Dr2rU",
+                      "title": "There is No Algorithm for Truth - with Tom Scott",
+                      "video": {
+                        "ad": null,
+                        "comments": "4,459",
+                        "content creator": "The Royal Institution",
+                        "date": "Oct 24, 2019",
+                        "description": "How does science get communicated in an age of social media?\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe\nWatch all of Tom's videos on his channel - https://youtube.com/TomScottGo",
+                        "dislikes": " Unavailable",
+                        "id": "leX541Dr2rU",
+                        "likes": "65,024 likes",
+                        "title": "There is No Algorithm for Truth - with Tom Scott",
+                        "url": "https://www.youtube.com/watch?v=leX541Dr2rU",
+                        "video_length": 3574,
+                        "views": "2,057,823 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+                      "title": "Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker",
+                      "video": {
+                        "ad": null,
+                        "comments": "2,666",
+                        "content creator": "The Royal Institution",
+                        "date": "Feb 25, 2015",
+                        "description": "Matt Parker, comedian and mathematician, shows how four-dimensional shapes appear in a 3D world in this hands-on talk, featuring what is possibly the world's nerdiest knitted hat!\nSubscribe for weekly science videos: http://bit.ly/RiSubscRibe",
+                        "dislikes": " Unavailable",
+                        "id": "1wAaI_6b9JE",
+                        "likes": "46,559 likes",
+                        "title": "Four Dimensional Maths: Things to See and Hear in the Fourth Dimension - with Matt Parker",
+                        "url": "https://www.youtube.com/watch?v=1wAaI_6b9JE",
+                        "video_length": 3700,
+                        "views": "2,709,814 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+                      "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                      "video": {
+                        "ad": null,
+                        "comments": "26,402",
+                        "content creator": "Stand-up Maths",
+                        "date": "Feb 4, 2021",
+                        "description": "Buy my book Humble Pi now!\nhttps://www.penguinrandomhouse.com/bo...\nUPDATE: Harvard Book Store have totally sold out.\n\nMy talk on 4 February 2021 at Harvard Book Store:",
+                        "dislikes": " Unavailable",
+                        "id": "8Ko3TdPy0TU",
+                        "likes": "263,368 likes",
+                        "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                        "url": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+                        "video_length": 2386.941,
+                        "views": "4,562,018 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=B1J2RMorJXM",
+                      "title": "Light Years Ahead | The 1969 Apollo Guidance Computer",
+                      "video": {
+                        "ad": null,
+                        "comments": "4,800",
+                        "content creator": "tnmoc",
+                        "date": "Feb 4, 2020",
+                        "description": "Half a century ago, on 20 July 1969, Neil Armstrong was in the final stages of the lunar descent, just a few thousand feet above the surface, when suddenly his on-board computer indicated a critical alarm. For three nail-biting seconds it looked as if the mission would have to be aborted. However, Armstrong was given a \"go\" to continue, and after several more alarms the Eagle touched down safely on the Moon.\n\nRobert Wills introduces the amazing hardware and software that made up the Apollo Guidance Computer, walks you through the landing procedure step-by-step, and talks about the pioneering design principles that were used to make the landing software robust against any failure. He also explains the problems that occurred during the Apollo 11 landing, and shows you how the Apollo Guidance Computer played its part in saving the mission.\n\nChapters:",
+                        "dislikes": " Unavailable",
+                        "id": "B1J2RMorJXM",
+                        "likes": "30,423 likes",
+                        "title": "Light Years Ahead | The 1969 Apollo Guidance Computer",
+                        "url": "https://www.youtube.com/watch?v=B1J2RMorJXM",
+                        "video_length": 4881.541,
+                        "views": "1,565,045 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6JwEYamjXpA&list=RDLV6JwEYamjXpA&start_radio=1&rv=6JwEYamjXpA",
+                      "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,155",
+                        "content creator": "The Royal Institution",
+                        "date": "Mar 7, 2019",
+                        "description": "Most of the time, the maths in our everyday lives works quietly behind the scenes, until someone forgets to carry a '1' and a bridge collapses or a plane drops out of the sky.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                        "dislikes": " Unavailable",
+                        "id": "6JwEYamjXpA&list",
+                        "likes": "44,806 likes",
+                        "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+                        "url": "https://www.youtube.com/watch?v=6JwEYamjXpA&list=RDLV6JwEYamjXpA&start_radio=1&rv=6JwEYamjXpA",
+                        "video_length": 4053.501,
+                        "views": "2,546,174 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=kqe9tEcZkno",
+                  "title": "Investigating the Periodic Table with Experiments - with Peter Wothers",
+                  "video": {
+                    "ad": null,
+                    "comments": "465",
+                    "content creator": "The Royal Institution",
+                    "date": "Jun 27, 2019",
+                    "description": "We celebrate 150 years of the Periodic Table and Mendeleev's genius by braving the elements from Argon to Zinc in this demonstration filled show.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                    "dislikes": " Unavailable",
+                    "id": "kqe9tEcZkno",
+                    "likes": "9,603 likes",
+                    "title": "Investigating the Periodic Table with Experiments - with Peter Wothers",
+                    "url": "https://www.youtube.com/watch?v=kqe9tEcZkno",
+                    "video_length": 5133,
+                    "views": "759,858 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=d-7o9xYp7eE",
+                  "title": "Don't Talk to the Police",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Regent University School of Law",
+                    "date": "Mar 20, 2012",
+                    "description": "Regent Law Professor James Duane gives viewers startling reasons why they should always exercise their 5th Amendment rights when questioned by government officials.  Download his article on the topic at http://papers.ssrn.com/sol3/papers.cf....\n\nHis best-selling book on the same subject, You Have the Right to Remain Innocent, can be found at ",
+                    "dislikes": " Unavailable",
+                    "id": "d-7o9xYp7eE",
+                    "likes": "Unavailable",
+                    "title": "Don't Talk to the Police",
+                    "url": "https://www.youtube.com/watch?v=d-7o9xYp7eE",
+                    "video_length": 2798.261,
+                    "views": "17,273,989 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=wO1G7GkIrWE",
+                  "title": "Is This Sudoku Impossible?",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,847",
+                    "content creator": "Cracking The Cryptic",
+                    "date": "Jan 6, 2021",
+                    "description": "Today's puzzle is seems to be mocking Simon...  this is a heck of a sudoku and we're interested to hear whether you could solve it!  Thanks to spxtr for creating a BEAUTIFUL (and brutal) challenge.  You can play it here:",
+                    "dislikes": " Unavailable",
+                    "id": "wO1G7GkIrWE",
+                    "likes": "60,367 likes",
+                    "title": "Is This Sudoku Impossible?",
+                    "url": "https://www.youtube.com/watch?v=wO1G7GkIrWE",
+                    "video_length": 3192.421,
+                    "views": "1,749,244 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=658xlubwnDc&list=RDCMUCYeF244yNGuFefuFKqxIAXw&start_radio=1&rv=658xlubwnDc",
+                  "title": "How Science is Taking the Luck out of Gambling - with Adam Kucharski",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,865",
+                    "content creator": "The Royal Institution",
+                    "date": "Aug 3, 2016",
+                    "description": "From the statisticians forecasting sports scores to the intelligent bots beating human poker players, Adam Kucharski traces the scientific origins of the world's best gambling strategies.\nWatch the Q&A here: https://www.youtube.com/watch?v=o0Xxb...",
+                    "dislikes": " Unavailable",
+                    "id": "658xlubwnDc&list",
+                    "likes": "28,693 likes",
+                    "title": "How Science is Taking the Luck out of Gambling - with Adam Kucharski",
+                    "url": "https://www.youtube.com/watch?v=658xlubwnDc&list=RDCMUCYeF244yNGuFefuFKqxIAXw&start_radio=1&rv=658xlubwnDc",
+                    "video_length": 3452.061,
+                    "views": "2,907,581 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=6JwEYamjXpA",
+                  "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,155",
+                    "content creator": "The Royal Institution",
+                    "date": "Mar 7, 2019",
+                    "description": "Most of the time, the maths in our everyday lives works quietly behind the scenes, until someone forgets to carry a '1' and a bridge collapses or a plane drops out of the sky.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                    "dislikes": " Unavailable",
+                    "id": "6JwEYamjXpA",
+                    "likes": "44,806 likes",
+                    "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
+                    "url": "https://www.youtube.com/watch?v=6JwEYamjXpA",
+                    "video_length": 4053.501,
+                    "views": "2,546,162 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=zFleLL5zlaI",
+              "title": "Traditional Archery Expert Rates 10 Archery Scenes In Movies And TV | How Real Is It?",
+              "video": {
+                "ad": null,
+                "comments": "2,568",
+                "content creator": "Insider",
+                "date": "Dec 21, 2021",
+                "description": "Archery expert Grizzly Jim looks at 10 bow-and-arrow scenes from popular TV shows and movies and rates them based on realism. \n\nHe looks at \"Hawkeye\" S1E1 (2021), \"The Hunger Games\" (2012), \"Brave\" (2012), \"The Lord of the Rings: The Two Towers\" (2002), \"Wonder Woman\" (2017), \"Robin Hood\" (2018), \"War of the Arrows\" (2011), \"The Avengers\" (2012), \"Game of Thrones\" S6E9 (2016), and \"Rambo III\" (1988). He comments on the technique of Hawkeye, Kate Bishop, Katniss Everdeen, Antiope, and more. \n\nJim is a British archer who provides workshops, seminars, and one-on-one instruction in traditional archery. He previously worked on the archery YouTube channel Merlin Archery and now works on the channel Archery Adventures. \n\nFor more information, visit ",
+                "dislikes": " Unavailable",
+                "id": "zFleLL5zlaI",
+                "likes": "73,293 likes",
+                "title": "Traditional Archery Expert Rates 10 Archery Scenes In Movies And TV | How Real Is It?",
+                "url": "https://www.youtube.com/watch?v=zFleLL5zlaI",
+                "video_length": 1225,
+                "views": "4,166,971 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=MQAVbwUTaYU",
+              "title": "UFC Fighter Stephen Thompson Breaks Down Martial Arts Scenes from Movies | GQ Sports",
+              "video": {
+                "ad": null,
+                "comments": "5,755",
+                "content creator": "GQ Sports",
+                "date": "Apr 7, 2020",
+                "description": "UFC fighter and karate expert Stephen Thompson breaks down martial arts scenes from movies, including 'The Karate Kid,' 'Cobra Kai,' 'It's Always Sunny in Philadelphia,' 'The Matrix,' 'The Way of the Dragon,' 'The Art of Self-Defense,' 'Step Brothers,' 'Fighter in the Wind,' 'Beverly Hills Ninja' and 'Gorgeous.' \nFollow Stephen\u2019s personal IG at ",
+                "dislikes": " Unavailable",
+                "id": "MQAVbwUTaYU",
+                "likes": "86,404 likes",
+                "title": "UFC Fighter Stephen Thompson Breaks Down Martial Arts Scenes from Movies | GQ Sports",
+                "url": "https://www.youtube.com/watch?v=MQAVbwUTaYU",
+                "video_length": 1682,
+                "views": "3,362,382 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xPGdOXstSyk",
+              "title": "Ancient Warfare Expert Rates 10 Battle Tactics In Movies And TV | How Real Is It?",
+              "video": {
+                "ad": null,
+                "comments": "11,478",
+                "content creator": "Insider",
+                "date": "Feb 2, 2021",
+                "description": "Roel Konijnendijk, who has a doctorate in ancient history and is a lecturer at the University of Oxford's New College, rates 10 ancient-warfare scenes in movies and shows for realism. \n\nKonijnendijk rates the realism of tactics portrayed in films such as \u201c300\" (2006), \"Alexander\" (2004), and \"Braveheart\" (1995). He breaks down the martial arts prowess of stars such as Brad Pitt in \"Troy\" (2004), Orlando Bloom in \"Kingdom of Heaven\" (2005), and Russell Crowe in \"Gladiator\" (2000).\n\nHe also looks at some fantastical scenes such as the battle of Helm's Deep from \"The Lord of the Rings: The Two Towers\" (2002) and the battle of Winterfell from \"Game of Thrones.\" Konijnendijk analyzes the historical accuracy of scenes from \"The Last Kingdom\" (2015) and \"Red Cliff\" (2008), and he rates the realism of the military formations, tactics, movements, and weaponry of each scene.\n\nFind out more about Konijnendijk here: ",
+                "dislikes": " Unavailable",
+                "id": "xPGdOXstSyk",
+                "likes": "116,053 likes",
+                "title": "Ancient Warfare Expert Rates 10 Battle Tactics In Movies And TV | How Real Is It?",
+                "url": "https://www.youtube.com/watch?v=xPGdOXstSyk",
+                "video_length": 1233.761,
+                "views": "4,501,802 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=akqcYEIXoEo",
+              "title": "Alex Honnold Breaks Down Climbing Scenes From Movies & TV | GQ Sports",
+              "video": {
+                "ad": null,
+                "comments": "2,025",
+                "content creator": "GQ Sports",
+                "date": "Apr 29, 2021",
+                "description": "Professional rock climber and free-solo ascent master Alex Honnold is back to break down more rock climbing scenes from movies and TV, including 'Mission: Impossible - Ghost Protocol,' 'Wonder Woman,' 'The Big Bang Theory,' 'The Eiger Sanction,' 'Captain Fantastic,' 'Cliffhanger' and 'K2.' \n\nAlex's new podcast, Climbing Gold, is available to listen now on Spotify and Apple Podcasts.\n\nWith GQ Sports, the real action is off the field. Get an all-access pass to the world's coolest, most stylish athletes like Baker Mayfield, Jimmy Butler, Kyrie Irving, Odell Beckham, Jr., and Lewis Hamilton with original series like My Essentials, Actually Me, Tattoo Tour, On the Rocks, and Collected. Watch a GQ editor try his hand at pro sports in Above Average Joe. And get an all-access look into how athletes shop, train, travel, and showcase their love of style, menswear, and sneakers.\n\nAlex Honnold Breaks Down Climbing Scenes From Movies & TV | GQ Sports",
+                "dislikes": " Unavailable",
+                "id": "akqcYEIXoEo",
+                "likes": "50,451 likes",
+                "title": "Alex Honnold Breaks Down Climbing Scenes From Movies & TV | GQ Sports",
+                "url": "https://www.youtube.com/watch?v=akqcYEIXoEo",
+                "video_length": 1944.881,
+                "views": "2,473,234 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=658xlubwnDc",
+              "title": "How Science is Taking the Luck out of Gambling - with Adam Kucharski",
+              "video": {
+                "ad": null,
+                "comments": "1,865",
+                "content creator": "The Royal Institution",
+                "date": "Aug 3, 2016",
+                "description": "From the statisticians forecasting sports scores to the intelligent bots beating human poker players, Adam Kucharski traces the scientific origins of the world's best gambling strategies.\nWatch the Q&A here: https://www.youtube.com/watch?v=o0Xxb...",
+                "dislikes": " Unavailable",
+                "id": "658xlubwnDc",
+                "likes": "28,692 likes",
+                "title": "How Science is Taking the Luck out of Gambling - with Adam Kucharski",
+                "url": "https://www.youtube.com/watch?v=658xlubwnDc",
+                "video_length": 3452.061,
+                "views": "2,907,561 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=cGawSOuubA0",
+          "title": "Navy SEAL Rates 9 Underwater Missions In Movies And TV | How Real Is It?",
+          "video": {
+            "ad": null,
+            "comments": "1,765",
+            "content creator": "Insider",
+            "date": "Nov 30, 2021",
+            "description": "Former Navy SEAL Andy Stumpf rates nine underwater missions in movies and television for realism.\nStumpf discusses the accuracy of underwater scuba-diving scenes in \"Mission: Impossible \u2013 Rogue Nation\" (2015), starring Tom Cruise; \"Tomorrow Never Dies\" (1997), featuring Pierce Brosnan as James Bond; and \"National Treasure\" (2004), with Nicolas Cage. He also discusses discharging guns and other weapons underwater in \"Thunderball\" (1965), with Sean Connery; \"Alien: Resurrection\" (1997); and \"Act of Valor\" (2012). Stumpf analyzes proper diving technique in \"Archer\" (2009), \"Sanctum\" (2011), and \"For Your Eyes Only\" (1981).\nStumpf served over 16 years in the Navy SEALs \u2014 12 years as an enlisted SEAL and five years as an officer before he medically retired.\nYou can follow Andy Stumpf here:\nInstagram: ",
+            "dislikes": " Unavailable",
+            "id": "cGawSOuubA0",
+            "likes": "39,245 likes",
+            "title": "Navy SEAL Rates 9 Underwater Missions In Movies And TV | How Real Is It?",
+            "url": "https://www.youtube.com/watch?v=cGawSOuubA0",
+            "video_length": 1202,
+            "views": "3,082,927 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Xv9aaTJVIxA",
+          "title": "US Submarine Commander Rates 14 Submarine Scenes In Movies | How Real Is It?",
+          "video": {
+            "ad": null,
+            "comments": "4,114",
+            "content creator": "Insider",
+            "date": "Oct 20, 2020",
+            "description": "Former US submarine commander L. David Marquet rated the realism of submarine scenes in popular movies, judging their technological accuracy as well as the depiction of life on board.\n\nMarquet addresses the realism of nuclear crisis movies, such as \"The World Is Not Enough\" and \"K-19: The Widowmaker,\". He also rated the accuracy of standoff scenes in \"The Hunt for Red October,\" \"The Enemy Below\", \"Hunter Killer,\" and \"Crimson Tide.\" He also breaks down the realism of costumes, tactics, and terminology from \"U-571.\"\n\nIs life on board a submarine, including confined conditions and drills, as depicted in \"Das Boot\"? Would Navy SEALs enter a submarine from a HALO drop similar to \"Act of Valor\", and is it possible for a submarine to hear music from the water's surface, like in  \"The Wolf's Call\"? Can holes on a submarine be plugged with pins and other metal objects, as we see in \"The Simpsons\"? Would nuclear missiles be triggered by dislodging in a ship interior, such as in \"Aquaman\"?\n\nMarquet graduated top of his class from the US Naval Academy and served for 28 years on submarines, including as an engineer officer aboard the USS Will Rogers, then as captain on the USS Olympia and the USS Santa Fe. Having retired in 2009, he is now a Wall Street Journal best-selling author of \"Turn the Ship Around! A True Story of Turning Followers Into Leaders.\"\n\nMORE HOW REAL IS IT? VIDEOS:\nPhysicist Breaks Down The Science Of 11 DC Superhero Scenes | How Real Is It?",
+            "dislikes": " Unavailable",
+            "id": "Xv9aaTJVIxA",
+            "likes": "54,631 likes",
+            "title": "US Submarine Commander Rates 14 Submarine Scenes In Movies | How Real Is It?",
+            "url": "https://www.youtube.com/watch?v=Xv9aaTJVIxA",
+            "video_length": 1083,
+            "views": "2,797,393 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aKW_THDHjXA",
+          "title": "US Army Jungle Warfare Expert Rates 10 Jungle Warfare Scenes in Movies | How Real Is It?",
+          "video": {
+            "ad": null,
+            "comments": "2,672",
+            "content creator": "Insider",
+            "date": "Nov 24, 2020",
+            "description": "Sgt. 1st Class Steven Mason is a jungle-warfare instructor for the 25th Infantry \"Tropic Lightning\" Division in Hawaii. Here, he reacts to 10 memorable scenes from jungle-warfare movies and rates them based on their accuracy. \n\nMason reviews classic Hollywood movies such as \"The Thin Red Line\" (1998), \"Platoon\" (1986), \"Tears of the Sun\" (2003), \"Forrest Gump\" (1994), and \"We Were Soldiers\" (2002). He also rates the realism of the HBO miniseries \"The Pacific\" (2010).How reasonable are the jungle tactics in \"Predator\" (1987)? Does Christian Bale use the correct method for jungle helicopter rescue in \"Rescue Dawn\" (2006)? How realistic are the stealth and sniping tactics in \"Sniper\" (1993)? And would the camouflage Sylvester Stallone uses in \"Rambo: First Blood Part II\" (1985) be successful? The Jungle Operations Training Course in Hawaii is a 12-day program for US Army regiments that covers mobility training, waterborne operations, combat tracking, jungle tactics, and survival training. Students learn tactics, techniques, and procedures required to fight, win, and survive. There are 10 courses a year for regular active-duty soldiers, Marines, sailors, and airmen, and menu-based training for Special Operations. Mason has been involved in the course since 2014 and became the senior instructor in 2018. \n\nMORE HOW REAL IS IT? VIDEOS:\nSpecial Forces Bomb Disposal Expert Rates 10 Bomb Disposal Scenes In Movies | How Real Is It?",
+            "dislikes": " Unavailable",
+            "id": "aKW_THDHjXA",
+            "likes": "45,758 likes",
+            "title": "US Army Jungle Warfare Expert Rates 10 Jungle Warfare Scenes in Movies | How Real Is It?",
+            "url": "https://www.youtube.com/watch?v=aKW_THDHjXA",
+            "video_length": 1086.901,
+            "views": "2,792,332 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DuFyGHgGIKg",
+          "title": "Physicist Breaks Down The Science Of 10 Iconic Marvel Scenes | How Real Is It?",
+          "video": {
+            "ad": null,
+            "comments": "9,927",
+            "content creator": "Insider",
+            "date": "May 3, 2019",
+            "description": "To celebrate the release of \u201cAvengers: Endgame,\u201d we had physicist (and lifelong comic book fan) Jim Kakalios take a closer look at the physics of the Marvel universe. Here he reacts to 10 memorable scenes from Marvel movies and rates them based on their accuracy. Find out what exactly quantum mechanics, time dilation, Einstein\u2019s theory of special relativity, and spider silk tell us about the superheroes of the Marvel franchise.\n\nWhich weapon would you rather have in a fight: Thor\u2019s Mjolnir hammer or Captain America\u2019s shield? Hint: The answer has to do with the conservation of energy \u2014 and the sonoluminescence of vibranium. Dr. Kakalios breaks down the physics behind this and many other Marvel phenomena, including Shuri\u2019s holographic car in \u201cBlack Panther;\u201d  Peter Parker\u2019s spider-webbing train save in \u201cSpider-Man 2;\u201d the multiverse theory of \u201cDoctor Strange;\u201d the role of Pym particles and the Higgs boson in \u201cAnt-Man;\u201d artificial gravity in \u201cGuardians of the Galaxy;\u201d and Tony Stark\u2019s cybernetic helmet and gold-titanium exoskeleton in \u201cIron Man.\u201d He sheds light on why Carol Danvers doesn\u2019t age from \u201cCaptain Marvel\u201d to \u201cAvengers: Endgame;\u201d why the Space Stone is so powerful when yielded by Thanos in \u201cAvengers: Infinity War;\u201d and what\u2019s with all the talk of quantum entanglement, quantum tunneling, and \u201cquantum mumbo-jumbo\u201d in \u201cAnt-Man and the Wasp.\u201d\n\nKakalios is the author of three books \u2014 \u201cThe Physics of Superheroes,\u201d \u201cThe Physics of Everyday Things,\u201d and \u201cThe Amazing Story of Quantum Mechanics.\u201d He was a science consultant for Sony\u2019s 2012 film \u201cThe Amazing Spider-Man.\u201d Before that, he won an Emmy for his work as a science consultant for the Warner Bros. superhero film \u201cWatchmen.\u201d A physics professor at the University of Minnesota, Kakalios teaches a popular class that uses comic books to illustrate the principles of physics.\n\nFor more, visit:",
+            "dislikes": " Unavailable",
+            "id": "DuFyGHgGIKg",
+            "likes": "237,668 likes",
+            "title": "Physicist Breaks Down The Science Of 10 Iconic Marvel Scenes | How Real Is It?",
+            "url": "https://www.youtube.com/watch?v=DuFyGHgGIKg",
+            "video_length": 1050.321,
+            "views": "6,735,261 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fpR9PfPQ3JM",
+          "title": "Champion Gunslinger Rates 10 Quick-Draw Scenes In Movies And TV Shows | How Real Is It?",
+          "video": {
+            "ad": null,
+            "comments": "6,390",
+            "content creator": "Insider",
+            "date": "Apr 24, 2021",
+            "description": "Quick-draw world champion Nicole \"Fastdraw\" Franks rates 11 gunslinging scenes from movies and TV shows for realism.\n\nFranks has over 50 quick-draw world records and 12 world championships. In the sport of fast draw, competitors attempt to be the quickest to shoot a target. They use wax bullets or black powder blanks to hit targets at various distances and of various sizes.\n\nFranks rates the realism of quick-draw scenes in films such as \"Django Unchained\" (2012), \"The Good the Bad and the Ugly\" (1966), and \"Westworld\" (2016). She breaks down some of the differences between modern quick draws with semiautomatic guns, like in \"Collateral\" (2004) and  \"John Wick\" (2014).\n\nShe analyzes classic Western movies like \"A Fistful of Dollars\" (1964), \"Tombstone\" (1993), \"Trinity Is Still My Name\" (1971), and \"The Magnificent Seven\" (1960), discussing the different styles of guns, gun holsters, and stances. She even takes a look at some futurist quick draws, like those shown in \"The Mandalorian\" (2020) and \"Star Wars: Episode V \u2014 The Empire Strikes Back\" (1980).\n\nMORE  HOW REAL IS IT?\nMiss USA 2019 Rates 8 Pageant Scenes In Movies and TV | How Real Is It?",
+            "dislikes": " Unavailable",
+            "id": "fpR9PfPQ3JM",
+            "likes": "57,912 likes",
+            "title": "Champion Gunslinger Rates 10 Quick-Draw Scenes In Movies And TV Shows | How Real Is It?",
+            "url": "https://www.youtube.com/watch?v=fpR9PfPQ3JM",
+            "video_length": 876.401,
+            "views": "2,881,964 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+      "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+      "video": {
+        "ad": null,
+        "comments": "27,727",
+        "content creator": "Fiddy",
+        "date": "Nov 10, 2017",
+        "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+        "dislikes": " Unavailable",
+        "id": "8GvwYOfHXMM",
+        "likes": "165,557 likes",
+        "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+        "url": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+        "video_length": 1037.501,
+        "views": "10,622,131 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+      "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+      "video": {
+        "ad": null,
+        "comments": "4,409",
+        "content creator": "Vanity Fair",
+        "date": "Sep 30, 2021",
+        "description": "Casino game protection expert Sal Piacente reviews notorious card counting and casino game cheating scenes from films including 'Rain Man,' 'Rounders,' 'The Sting,' 'Austin Powers,' 'Casino,' 'Ocean's Thirteen,' 'The Cooler,' 'Runner Runner,' 'Now You See Me 2,' 'Shade' and '21.'\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "ki4Fbctwnjs",
+        "likes": "181,467 likes",
+        "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "video_length": 1404,
+        "views": "7,749,035 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=rtlFR5SYzYo",
+      "title": "Impractical Jokers: The Best of Focus Groups (Mashup) | truTV",
+      "video": {
+        "ad": null,
+        "comments": "8,566",
+        "content creator": "truTV",
+        "date": "May 1, 2020",
+        "description": "Focus groups are meant to be serious, but when the Impractical Jokers get involved things can get out of hand. Here are the best of their focus groups as they try to convince people they\u2019re selling real products. #truTV #ImpracticalJokers",
+        "dislikes": " Unavailable",
+        "id": "rtlFR5SYzYo",
+        "likes": "197,819 likes",
+        "title": "Impractical Jokers: The Best of Focus Groups (Mashup) | truTV",
+        "url": "https://www.youtube.com/watch?v=rtlFR5SYzYo",
+        "video_length": 4061.041,
+        "views": "22,941,711 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "video": {
+        "ad": null,
+        "comments": "114,369",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "231,222 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713.401,
+        "views": "8,453,610 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=HB0CZ_5sPPw",
+      "title": "Special Ops Sniper Rates 11 Sniper Scenes In Movies | How Real Is It?",
+      "video": {
+        "ad": null,
+        "comments": "32,404",
+        "content creator": "Insider",
+        "date": "Aug 11, 2020",
+        "description": "Nicholas Irving, author, and former soldier rates 11 sniper scenes for realism in movies. Known as \"The Reaper,\" Irving says he killed 33 enemies as a sniper for the US 3rd Ranger Battalion. He is the co-author of \"Reaper: Drone Strike: A Sniper Novel.\"\n\nIrving rates the realism of classic war movies such as \"Clear and Present Danger\" (1994), \"Enemy at the Gates\" (2001), and \"Saving Private Ryan\" (1998). He breaks down long-range-sniping scenes featuring Will Smith in \"Gemini Man\" (2019) and Mark Wahlberg in \"Shooter\" (2007). \nHe also looks at modern-day war movies set in Iraq and Afghanistan, such as \"American Sniper\" (2014), \"Jarhead\" (2005), \"Lone Survivor\" (2013), and \"The Hurt Locker\" (2009). Irving rates the realism of the weapons used, along with body position, stealth, and environment. \n\nMORE HOW REAL IS IT VIDEOS:\nForensic Pathologist Rates 11 Autopsy Scenes In Movies | How Real Is It?",
+        "dislikes": " Unavailable",
+        "id": "HB0CZ_5sPPw",
+        "likes": "590,425 likes",
+        "title": "Special Ops Sniper Rates 11 Sniper Scenes In Movies | How Real Is It?",
+        "url": "https://www.youtube.com/watch?v=HB0CZ_5sPPw",
+        "video_length": 1334.861,
+        "views": "31,888,601 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+  "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+  "video": {
+    "ad": null,
+    "comments": "41,924",
+    "content creator": "Fiddy",
+    "date": "Oct 15, 2017",
+    "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+    "dislikes": " Unavailable",
+    "id": "5cIvH-iZZfA",
+    "likes": "291,487 likes",
+    "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+    "url": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+    "video_length": 1018.301,
+    "views": "15,008,728 views"
+  }
+}

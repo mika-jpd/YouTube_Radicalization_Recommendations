@@ -1,0 +1,3601 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=SwhOffh0kEE",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=P-medYaqVak&list=RDLVP-medYaqVak&start_radio=1&rv=P-medYaqVak",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=OBPpRqxY8Uw",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=P-medYaqVak",
+                      "title": "Cosmology Lecture 1",
+                      "video": {
+                        "ad": null,
+                        "comments": "692",
+                        "content creator": "Stanford",
+                        "date": "Jan 28, 2013",
+                        "description": "Help us caption and translate this video on Amara.org: http://www.amara.org/en/v/BWxP/\n\n(January 14, 2013) Leonard Susskind introduces the study of Cosmology and derives the classical physics formulas that describe our expanding universe.\n\nOriginally presented in the Stanford Continuing Studies Program.\n\nStanford University:",
+                        "dislikes": " Unavailable",
+                        "id": "P-medYaqVak",
+                        "likes": "7,131 likes",
+                        "title": "Cosmology Lecture 1",
+                        "url": "https://www.youtube.com/watch?v=P-medYaqVak",
+                        "video_length": 5746.081,
+                        "views": "627,372 views"
+                      }
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=OlW917n6mpA",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=Y0Oa4Lp5fLE&list=RDLVY0Oa4Lp5fLE&start_radio=1&rv=Y0Oa4Lp5fLE",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=oKNAzl-XN4I",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=Y0Oa4Lp5fLE",
+                      "title": "2. Behavioral Evolution",
+                      "video": {
+                        "ad": null,
+                        "comments": "4,247",
+                        "content creator": "Stanford",
+                        "date": "Feb 1, 2011",
+                        "description": "(March 31, 2010) Stanford professor Robert Sapolsky lectures on the biology of behavioral evolution and thoroughly discusses examples such as The Prisoner's Dilemma.\n\nStanford University",
+                        "dislikes": " Unavailable",
+                        "id": "Y0Oa4Lp5fLE",
+                        "likes": "64,039 likes",
+                        "title": "2. Behavioral Evolution",
+                        "url": "https://www.youtube.com/watch?v=Y0Oa4Lp5fLE",
+                        "video_length": 5817.021,
+                        "views": "5,326,883 views"
+                      }
+                    },
+                    {
+                      "children": [
+                        {
+                          "id": "https://www.youtube.com/watch?v=lyu7v7nWzfo",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=p0_-7FmrDq8&list=RDLVp0_-7FmrDq8&start_radio=1&rv=p0_-7FmrDq8",
+                          "title": null,
+                          "video": null
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=toDE_vsEIUU",
+                          "title": null,
+                          "video": null
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=p0_-7FmrDq8",
+                      "title": "The Believing Brain: Evolution, Neuroscience, and the Spiritual Instinct",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,110",
+                        "content creator": "World Science Festival",
+                        "date": "Premiered May 31, 2019",
+                        "description": "God, they say, is in the details. But could God also be in our frontal lobes? Every culture from the dawn of humankind has imagined planes of existence beyond the reach of our senses, spiritual domains that shape our Earthly experiences. Why do beliefs of the fantastic hold such powerful sway over our species? Is there something in our evolutionary history that points to an answer? Does neuroscience hold the key? Straddling the gap between science and religion, Brian Greene is joined by renowned neuroscientists, anthropologists, and evolutionary biologists, to explore one of the most profound mysteries of our existence.\n\nPARTICIPANTS: Lisa Barrett, Barbara J. King, Zoran Josipovic, Steven Pinker \n\nMODERATOR: Brian Greene\n\nMORE INFO ABOUT THE PROGRAM AND PARTICIPANTS: ",
+                        "dislikes": " Unavailable",
+                        "id": "p0_-7FmrDq8",
+                        "likes": "19,968 likes",
+                        "title": "The Believing Brain: Evolution, Neuroscience, and the Spiritual Instinct",
+                        "url": "https://www.youtube.com/watch?v=p0_-7FmrDq8",
+                        "video_length": 4666.821,
+                        "views": "1,811,753 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=euNr9PozCmg",
+                  "title": "What Really Is Everything?",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,281",
+                    "content creator": "History of the Universe",
+                    "date": "Sep 17, 2021",
+                    "description": "Claim your SPECIAL OFFER for MagellanTV here: https://try.magellantv.com/historyoft.... Start your free trial TODAY so you can watch Secrets of Quantum Physics 4k with Jim Al-Khalili, and the rest of MagellanTV\u2019s science collection: https://www.magellantv.com/series/sec...",
+                    "dislikes": " Unavailable",
+                    "id": "euNr9PozCmg",
+                    "likes": "29,867 likes",
+                    "title": "What Really Is Everything?",
+                    "url": "https://www.youtube.com/watch?v=euNr9PozCmg",
+                    "video_length": 2578.881,
+                    "views": "1,431,363 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Y3PwG4UoJ0Y",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=l2MGXPouNCI&pp=sAQB",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KHRjY1jvODE&pp=sAQB",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=EuwmWnphqII",
+                  "title": "Manufacturing Consent: Noam Chomsky and the Media - Feature Film",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,369",
+                    "content creator": "Encore +",
+                    "date": "Nov 6, 2017",
+                    "description": "Manufacturing Consent explores the political life and ideas of world-renowned linguist, intellectual and political activist Noam Chomsky. Through a collage of biography, archival material and various graphics and illustrations, Mark Achbar and Peter Wintonick's 22-award-winning documentary highlights Chomsky's probing analysis of mass media and his critique of the forces at work behind the daily news.\n\nManufacturing Consent examine la vie politique et les id\u00e9es du r\u00e9put\u00e9 linguiste, intellectuel et militant Noam Chomsky. Ce documentaire vingt-deux fois prim\u00e9 de Mark Achbar et Peter Wintonick allie \u00e9l\u00e9ments biographiques, documents d\u2019archives et illustrations diverses pour mettre en lumi\u00e8re l\u2019analyse approfondie que Chomsky a faite des m\u00e9dias de masse et sa critique des forces qui influent sur les nouvelles quotidiennes.\n\nSubscribe to the Encore+ channel: ",
+                    "dislikes": " Unavailable",
+                    "id": "EuwmWnphqII",
+                    "likes": "40,269 likes",
+                    "title": "Manufacturing Consent: Noam Chomsky and the Media - Feature Film",
+                    "url": "https://www.youtube.com/watch?v=EuwmWnphqII",
+                    "video_length": 10028,
+                    "views": "6,489,828 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=PdYLRTGmQ3c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=a2C90l7YlT8&list=RDLVa2C90l7YlT8&start_radio=1&rv=a2C90l7YlT8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=hMKqPgWJYr8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=a2C90l7YlT8",
+                  "title": "Nietzsche and the Nazis by Stephen R. C. Hicks (Full Audiobook)",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,057",
+                    "content creator": "CEE Video Channel",
+                    "date": "Jul 23, 2013",
+                    "description": "*****See timestamps below for easy browsing*****   \nThis audiobook edition of Nietzsche and the Nazis is read by the author, Dr. Stephen Hicks.\n\nTo listen to more of the audiobook on YouTube, visit: ",
+                    "dislikes": " Unavailable",
+                    "id": "a2C90l7YlT8",
+                    "likes": "27,956 likes",
+                    "title": "Nietzsche and the Nazis by Stephen R. C. Hicks (Full Audiobook)",
+                    "url": "https://www.youtube.com/watch?v=a2C90l7YlT8",
+                    "video_length": 10803,
+                    "views": "3,349,981 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=zpQYsk-8dWg",
+              "title": "The Corporation - Documentary",
+              "video": {
+                "ad": null,
+                "comments": "7,035",
+                "content creator": "Encore +",
+                "date": "Nov 6, 2017",
+                "description": "Based on Joel Bakan\u2019s bestseller The Corporation: The Pathological Pursuit of Profit and Power, this 26-award-winning documentary explores a corporation\u2019s inner workings, curious history, controversial impacts and possible futures. One hundred and fifty years ago, a corporation was a relatively insignificant entity. Today, it is a vivid, dramatic, and pervasive presence in all our lives. Like the Church, the Monarchy and the Communist Party in other times and places, a corporation is today\u2019s dominant institution. Charting the rise of such an institution aimed at achieving specific economic goals, the documentary also recounts victories against this apparently invincible force.\n\n'The New Corporation' was released in 2020.\nSee the film and the trailer that Twitter censored!  ",
+                "dislikes": " Unavailable",
+                "id": "zpQYsk-8dWg",
+                "likes": "48,916 likes",
+                "title": "The Corporation - Documentary",
+                "url": "https://www.youtube.com/watch?v=zpQYsk-8dWg",
+                "video_length": 8660.921,
+                "views": "7,333,440 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=0f1U9fWkEDs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Aupnv5n19K4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=GFyKVJ_ZN-8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ruUe7fv8jG0",
+                  "title": "How Stalin Turned The Tide Of WWII | Man Of Steel | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,939",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Mar 17, 2017",
+                    "description": "Presented by Professor David Reynolds. Historian Professor David Reynolds reassesses Stalin\u2019s role in the life and death struggle between Germany and Russia in World War Two, which he argues was ultimately more critical for British survival than \u2018Our Finest Hour\u2019 in the Battle of Britain itself.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "ruUe7fv8jG0",
+                    "likes": "22,781 likes",
+                    "title": "How Stalin Turned The Tide Of WWII | Man Of Steel | Timeline",
+                    "url": "https://www.youtube.com/watch?v=ruUe7fv8jG0",
+                    "video_length": 2707.941,
+                    "views": "2,784,571 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=E3aNbNxKS6s",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=y7ssLE3FddY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=eUuHRbtz6dE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=0Y5qKI5TIdM",
+                  "title": "The Downfall Of Nazi Germany | Germany's Fatal Attraction | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,093",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Jan 30, 2021",
+                    "description": "The end of the war meant the end of Hitler himself. Explores how Hitler's popularity began to wane after the tide of WW2 began to turn, and explores how his legacy still persists in the far right to this day.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service and get 50% off using the code 'TIMELINE' ",
+                    "dislikes": " Unavailable",
+                    "id": "0Y5qKI5TIdM",
+                    "likes": "23,547 likes",
+                    "title": "The Downfall Of Nazi Germany | Germany's Fatal Attraction | Timeline",
+                    "url": "https://www.youtube.com/watch?v=0Y5qKI5TIdM",
+                    "video_length": 2672.741,
+                    "views": "2,771,485 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=hH7cPKypbDE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_VHgw6epe14",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tU8p2fBN8xY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=XdOxBCpk39c",
+                  "title": "The Cultural Riches of Islam | Islam Religious Documentary | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,767",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Sep 20, 2017",
+                    "description": "This feature-length documentary examines Islam's rich and significant contribution to western art and culture\n\nPresenter and art critic, Waldemar Januszczak, sets out on an epic journey of discovery across the Muslim world from Central Asia to the heart of the Middle East and beyond.\n\nHe reveals a world of awe-inspiring architecture, spectacular Islamic treasures and a host of artists and craftsmen, bringing the largely unknown and fascinating story of Islamic art and architecture to the attention of the public. Documentary first broadcast in 2005.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "XdOxBCpk39c",
+                    "likes": "48,626 likes",
+                    "title": "The Cultural Riches of Islam | Islam Religious Documentary | Timeline",
+                    "url": "https://www.youtube.com/watch?v=XdOxBCpk39c",
+                    "video_length": 6125.261,
+                    "views": "12,259,041 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=E2zrqzvtWio",
+              "title": "The Paranoia That Cost Hitler The War | Warlords: Hitler vs Stalin | Timeline",
+              "video": {
+                "ad": null,
+                "comments": "15,178",
+                "content creator": "Timeline - World History Documentaries",
+                "date": "Oct 11, 2017",
+                "description": "The personalities and spectres of Adolf Hitler and Joseph Stalin loom large in the events of the twentieth Century. They were similar in some respects and yet very different in others.\n\nThe first in a series that examines the interaction of the leading protagonists of WW2, this program looks in some depth at the nature of the relationship and interaction of these two \u2018warlords\u2019. The use of primary materials and memoirs as sources gives the psycho-historical analysis some substance.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                "dislikes": " Unavailable",
+                "id": "E2zrqzvtWio",
+                "likes": "152,213 likes",
+                "title": "The Paranoia That Cost Hitler The War | Warlords: Hitler vs Stalin | Timeline",
+                "url": "https://www.youtube.com/watch?v=E2zrqzvtWio",
+                "video_length": 2925.761,
+                "views": "20,220,926 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=IdLPzv66OYQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=qD5O3vXj9eU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4YgsvITe7IU&list=RDLV4YgsvITe7IU&start_radio=1&rv=4YgsvITe7IU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=4YgsvITe7IU",
+                  "title": "Archimedes: The Greatest Mind in Ancient History",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,341",
+                    "content creator": "Biographics",
+                    "date": "Sep 2, 2019",
+                    "description": "Check out Brilliant: https://brilliant.org/Biographics/\n\n\u2192 Subscribe for new videos four times per week.",
+                    "dislikes": " Unavailable",
+                    "id": "4YgsvITe7IU",
+                    "likes": "25,348 likes",
+                    "title": "Archimedes: The Greatest Mind in Ancient History",
+                    "url": "https://www.youtube.com/watch?v=4YgsvITe7IU",
+                    "video_length": 1135.881,
+                    "views": "898,996 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=MATKIhrDZSc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=WfRJEm96Lgo&list=RDCMUC88lvyJe7aHZmcvzvubDFRg&start_radio=1&rv=WfRJEm96Lgo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Ck8-_DNV4bs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=WfRJEm96Lgo",
+                  "title": "The Plague: How Did One Village Survive? | Riddle Of The Plague Survivors | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,932",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Oct 17, 2020",
+                    "description": "Geneticist Steven O'Brien investigates whether a genetic mutation that helped the inhabitants of a village called Eyam in Derbyshire survive the Black Death pandemic in the 14th century help scientists find a cure for AIDS.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "WfRJEm96Lgo",
+                    "likes": "30,815 likes",
+                    "title": "The Plague: How Did One Village Survive? | Riddle Of The Plague Survivors | Timeline",
+                    "url": "https://www.youtube.com/watch?v=WfRJEm96Lgo",
+                    "video_length": 2950.341,
+                    "views": "1,434,965 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=x_bf3Yszpcw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=91OmO2YMiDM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bzatw32j-i4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=K7lb6KWBanI",
+                  "title": "Alexander the Great (All Parts)",
+                  "video": {
+                    "ad": null,
+                    "comments": "20,162",
+                    "content creator": "Epic History TV",
+                    "date": "Nov 10, 2017",
+                    "description": "Thank you to Invicta for their help making this series, and suppling all Total War game footage.\nGame Engine: Total War: Rome II https://www.totalwar.com/\nBuy the game here: http://geni.us/kiR7Nho",
+                    "dislikes": " Unavailable",
+                    "id": "K7lb6KWBanI",
+                    "likes": "138,295 likes",
+                    "title": "Alexander the Great (All Parts)",
+                    "url": "https://www.youtube.com/watch?v=K7lb6KWBanI",
+                    "video_length": 3192.981,
+                    "views": "11,776,433 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=HYNB4sAxemk",
+              "title": "History of the Black Death - Full Documentary",
+              "video": {
+                "ad": null,
+                "comments": "3,656",
+                "content creator": "Flash Point History",
+                "date": "Jun 9, 2020",
+                "description": "The story of the Black Death is the story of a perfect storm. A massive pandemic and plague that devastated humanity. It is the tale of a lethal bacterium that had a powerful vector of transmission and found just the right conditions to kill off an estimated 200 million people world wide. This is the full documentary, chronicling it's incredible spread through Europe.  \n\n\n=== AN AMAZING THANK YOU ===\nTo all my Patreon supporters!! \n\nHELP OUT THE SHOW\nCONTRIBUTE ON PATREON:",
+                "dislikes": " Unavailable",
+                "id": "HYNB4sAxemk",
+                "likes": "26,049 likes",
+                "title": "History of the Black Death - Full Documentary",
+                "url": "https://www.youtube.com/watch?v=HYNB4sAxemk",
+                "video_length": 3801.521,
+                "views": "2,102,436 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=XDrykOhrb5s",
+          "title": "The Entire History of the Cold War Explained | Best Cold War Documentary",
+          "video": {
+            "ad": null,
+            "comments": "1,036",
+            "content creator": "The Life Guide",
+            "date": "Apr 1, 2021",
+            "description": "The Cold War was an ideological battle between Communism and Capitalism, the East vs the West and the resulting struggle for ideological influence and power. At the end of WW2, the World would lay divided between two great superpowers, the United States and the Soviet Union. Both sides would stockpile nuclear weapons, with questions over how to use, control and eliminate them becoming central to the conflict. From Stalin to Regan, from the CIA to the KGB, from the Berlin Wall to Hiroshima and Chernobyl, this is the story of The Cold War.\n\nTimestamps \ud83d\udcfd\nIntro: ",
+            "dislikes": " Unavailable",
+            "id": "XDrykOhrb5s",
+            "likes": "15,424 likes",
+            "title": "The Entire History of the Cold War Explained | Best Cold War Documentary",
+            "url": "https://www.youtube.com/watch?v=XDrykOhrb5s",
+            "video_length": 5349.381,
+            "views": "1,198,240 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=5zQgw_rKWT8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Ljd-k6b91c4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KPVUOFN4Vqc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=DLsPoJWO-e8&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=DLsPoJWO-e8",
+                  "title": "A Critique of Subnautica",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,114",
+                    "content creator": "Joseph Anderson",
+                    "date": "Mar 17, 2018",
+                    "description": "https://www.patreon.com/JosephAnderson\n\nhttps://www.twitch.tv/andersonjph",
+                    "dislikes": " Unavailable",
+                    "id": "DLsPoJWO-e8&list",
+                    "likes": "44,100 likes",
+                    "title": "A Critique of Subnautica",
+                    "url": "https://www.youtube.com/watch?v=DLsPoJWO-e8&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=DLsPoJWO-e8",
+                    "video_length": 3600.021,
+                    "views": "2,029,948 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=n_RBaEUstPI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6bMn4CoyUkM&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=6bMn4CoyUkM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=eNMmSkE8ua4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=6bMn4CoyUkM",
+                  "title": "The Villain of Edith Finch",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,308",
+                    "content creator": "Joseph Anderson",
+                    "date": "Jul 9, 2017",
+                    "description": "Script - https://jphanderson.wordpress.com/201...\n\nTwitter - https://twitter.com/jph_anderson",
+                    "dislikes": " Unavailable",
+                    "id": "6bMn4CoyUkM",
+                    "likes": "113,955 likes",
+                    "title": "The Villain of Edith Finch",
+                    "url": "https://www.youtube.com/watch?v=6bMn4CoyUkM",
+                    "video_length": 3174.281,
+                    "views": "3,906,625 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=LZM18ZK9mOY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ROaj3bCpZEM&list=RDkjyeCdd-dl8&start_radio=1&rv=kjyeCdd-dl8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kcZvz7L-bl4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=kjyeCdd-dl8",
+                  "title": "The Fall of 76",
+                  "video": {
+                    "ad": null,
+                    "comments": "49,819",
+                    "content creator": "Internet Historian",
+                    "date": "May 4, 2019",
+                    "description": "Bunker down and pray for updates.\n\nGet Curiosity Stream if you know what's good for you.",
+                    "dislikes": " Unavailable",
+                    "id": "kjyeCdd-dl8",
+                    "likes": "724,554 likes",
+                    "title": "The Fall of 76",
+                    "url": "https://www.youtube.com/watch?v=kjyeCdd-dl8",
+                    "video_length": 1581.661,
+                    "views": "29,913,683 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=DLsPoJWO-e8",
+              "title": "A Critique of Subnautica",
+              "video": {
+                "ad": null,
+                "comments": "6,114",
+                "content creator": "Joseph Anderson",
+                "date": "Mar 17, 2018",
+                "description": "https://www.patreon.com/JosephAnderson\n\nhttps://www.twitch.tv/andersonjph",
+                "dislikes": " Unavailable",
+                "id": "DLsPoJWO-e8",
+                "likes": "44,099 likes",
+                "title": "A Critique of Subnautica",
+                "url": "https://www.youtube.com/watch?v=DLsPoJWO-e8",
+                "video_length": 3600.021,
+                "views": "2,029,947 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=x790AjID0FA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wKLPBjh4AuU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Mku8if-5gnQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=J4tbbcWqDyY&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=J4tbbcWqDyY",
+                  "title": "A Critique of SOMA",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,553",
+                    "content creator": "Joseph Anderson",
+                    "date": "Nov 12, 2016",
+                    "description": "The script for this video has been posted if you'd like to read along, or want to review what I say afterwards:",
+                    "dislikes": " Unavailable",
+                    "id": "J4tbbcWqDyY&list",
+                    "likes": "39,634 likes",
+                    "title": "A Critique of SOMA",
+                    "url": "https://www.youtube.com/watch?v=J4tbbcWqDyY&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=J4tbbcWqDyY",
+                    "video_length": 2567.781,
+                    "views": "1,549,805 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=_j_pdKwTuWc&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=_j_pdKwTuWc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=jz-FAv3hpBg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fiwXDPufstQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=_j_pdKwTuWc",
+                  "title": "A Critique of A Plague Tale: Innocence",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,736",
+                    "content creator": "Joseph Anderson",
+                    "date": "Jun 6, 2019",
+                    "description": "https://www.patreon.com/JosephAnderson\n\nhttps://www.paypal.com/paypalme2/JphA...",
+                    "dislikes": " Unavailable",
+                    "id": "_j_pdKwTuWc",
+                    "likes": "21,073 likes",
+                    "title": "A Critique of A Plague Tale: Innocence",
+                    "url": "https://www.youtube.com/watch?v=_j_pdKwTuWc",
+                    "video_length": 2564.181,
+                    "views": "727,041 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Jjfm4ths2J0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5U_rfYXXdOY&list=RDCMUC5CYeHPLer3lbEhgonvbbAA&start_radio=1&rv=5U_rfYXXdOY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7rrrJFEZcoA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=5U_rfYXXdOY",
+                  "title": "SOMA vs. Tacoma [Total Spoilers]",
+                  "video": {
+                    "ad": null,
+                    "comments": "368",
+                    "content creator": "Noah Caldwell-Gervais",
+                    "date": "Nov 2, 2017",
+                    "description": "This is a comparative critique of Frictional Games' SOMA and Fullbright Games' Tacoma. It focuses mostly on their storytelling and how, although quite different in tone and presentation, they ultimately agree in the points they're trying to make and the science fiction they're trying to accomplish. Spoilers throughout.\n\nSOMA-- ",
+                    "dislikes": " Unavailable",
+                    "id": "5U_rfYXXdOY",
+                    "likes": "4,371 likes",
+                    "title": "SOMA vs. Tacoma [Total Spoilers]",
+                    "url": "https://www.youtube.com/watch?v=5U_rfYXXdOY",
+                    "video_length": 3225.461,
+                    "views": "120,083 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=J4tbbcWqDyY",
+              "title": "A Critique of SOMA",
+              "video": {
+                "ad": null,
+                "comments": "4,553",
+                "content creator": "Joseph Anderson",
+                "date": "Nov 12, 2016",
+                "description": "The script for this video has been posted if you'd like to read along, or want to review what I say afterwards:",
+                "dislikes": " Unavailable",
+                "id": "J4tbbcWqDyY",
+                "likes": "39,634 likes",
+                "title": "A Critique of SOMA",
+                "url": "https://www.youtube.com/watch?v=J4tbbcWqDyY",
+                "video_length": 2567.781,
+                "views": "1,549,803 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=R2S63yBb0OA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=jVyjRhSX92E&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=jVyjRhSX92E",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KsRBWUn0X5U",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=jVyjRhSX92E",
+                  "title": "Fallout 4 - One Year Later",
+                  "video": {
+                    "ad": null,
+                    "comments": "12,033",
+                    "content creator": "Joseph Anderson",
+                    "date": "Jan 20, 2017",
+                    "description": "Introduction - 0:00\n\nPart One: Those Three Damn Phases - 1:51",
+                    "dislikes": " Unavailable",
+                    "id": "jVyjRhSX92E",
+                    "likes": "88,998 likes",
+                    "title": "Fallout 4 - One Year Later",
+                    "url": "https://www.youtube.com/watch?v=jVyjRhSX92E",
+                    "video_length": 9153.661,
+                    "views": "10,460,026 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=FPC3DhZGQcU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=GfH2H2QB6Tk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KbuvVNR4gtM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=A34poZ6paGs&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=A34poZ6paGs",
+                  "title": "Fallout 4 Analysis",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,172",
+                    "content creator": "Joseph Anderson",
+                    "date": "Nov 28, 2015",
+                    "description": "Time Links:\n\n5:34 - The Opening of Fallout 4",
+                    "dislikes": " Unavailable",
+                    "id": "A34poZ6paGs&list",
+                    "likes": "41,969 likes",
+                    "title": "Fallout 4 Analysis",
+                    "url": "https://www.youtube.com/watch?v=A34poZ6paGs&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=A34poZ6paGs",
+                    "video_length": 5020.361,
+                    "views": "2,715,718 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=h1EmqGSeisg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=P1FUMdHU29c&list=RDQh9KBwqGxTI&start_radio=1&rv=Qh9KBwqGxTI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5_5Dp_nZ9JY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Qh9KBwqGxTI",
+                  "title": "The Cost of Concordia",
+                  "video": {
+                    "ad": null,
+                    "comments": "48,242",
+                    "content creator": "Internet Historian",
+                    "date": "Feb 16, 2021",
+                    "description": "Go to https://NordVPN.com/internethistorian and use code INTERNETHISTORIAN to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\n\n--------\nShip-a go sink.\n--------\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "Qh9KBwqGxTI",
+                    "likes": "581,472 likes",
+                    "title": "The Cost of Concordia",
+                    "url": "https://www.youtube.com/watch?v=Qh9KBwqGxTI",
+                    "video_length": 2808.081,
+                    "views": "13,000,199 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=A34poZ6paGs",
+              "title": "Fallout 4 Analysis",
+              "video": {
+                "ad": null,
+                "comments": "6,172",
+                "content creator": "Joseph Anderson",
+                "date": "Nov 28, 2015",
+                "description": "Time Links:\n\n5:34 - The Opening of Fallout 4",
+                "dislikes": " Unavailable",
+                "id": "A34poZ6paGs",
+                "likes": "41,969 likes",
+                "title": "Fallout 4 Analysis",
+                "url": "https://www.youtube.com/watch?v=A34poZ6paGs",
+                "video_length": 5020,
+                "views": "2,715,712 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=KS0NtNxlX-s",
+          "title": "Prey - A Critique of the Mind Game",
+          "video": {
+            "ad": null,
+            "comments": "4,639",
+            "content creator": "Joseph Anderson",
+            "date": "Aug 11, 2017",
+            "description": "Script: https://jphanderson.wordpress.com/201...\n\nTwitter: https://twitter.com/jph_anderson",
+            "dislikes": " Unavailable",
+            "id": "KS0NtNxlX-s",
+            "likes": "56,200 likes",
+            "title": "Prey - A Critique of the Mind Game",
+            "url": "https://www.youtube.com/watch?v=KS0NtNxlX-s",
+            "video_length": 5137.081,
+            "views": "3,801,804 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=M4o1dc41r28",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0JBdedLx-GI&list=RDCMUC88lvyJe7aHZmcvzvubDFRg&start_radio=1&rv=0JBdedLx-GI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=90PJa8rlWHY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=0JBdedLx-GI",
+                  "title": "536 A.D: The Worst Year In History | Catastrophe | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "7,569",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Jun 24, 2017",
+                    "description": "A devastating volcanic eruption in A.D. 535 leads to the emergence of new nations and religions.\n\nWritten records from China, Italy, Palestine and many other countries suggest a huge catastrophe blighted the world in 536AD. But the cause of it has been uncertain.\n\nWas it a comet? An asteroid? A volcano? Archaeologist David Keys reveals the latter is to blame for the Dark Ages of famine and plague that shaped the world order of today.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "0JBdedLx-GI",
+                    "likes": "54,372 likes",
+                    "title": "536 A.D: The Worst Year In History | Catastrophe | Timeline",
+                    "url": "https://www.youtube.com/watch?v=0JBdedLx-GI",
+                    "video_length": 2977.821,
+                    "views": "4,982,842 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=TIw1OPH6QvM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=jtIyeREGCYI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QGLWh5Cd-xo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=JOWFPTzK7D4",
+                  "title": "Is This The Real City Of Mecca? | Sacred City | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "15,927",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "Jan 26, 2019",
+                    "description": "The Sacred City presents compelling evidence that suggests the holy city of Mecca is in the wrong location and that the worlds 1.6 billion Muslims are praying in the direction of the wrong city. Compiling evidence from both historic sources and new technologies point to the correct location in this seismic, revelatory new film.\n\nIn this startling and original documentary, writer and historian, Dan Gibson, shows that descriptions of Mohamed\u2019s original holy city \u2013 as detailed in the Qur\u2019an and Islamic histories, do not match that of the Mecca we know today.  If true this could shake Islam to it\u2019s roots, because every Muslim is required to pray towards  the \u2018forbidden gathering place\u2019. If Dan Gibson is right, Muslims are praying in the wrong direction.\n\nIn the film \u2018The Sacred City\u2019 we set out his evidence from within Islamic and ancient histories \u2013 while also using modern technologies -  to track down the biggest secret of the last fifteen hundred years. Gibson not only finds the location of the original Mecca but also provides a convincing argument as to how such a great misunderstanding in Islamic history came about.\n\nWhile clearly controversial, The Sacred City is respectful of Islam\u2019s prophet, and does not dispute the events of the Qur\u2019an; but shows how a deliberate attempt was made to hide from Islam, secrets that impact every Muslim today. The evidence is compelling and fascinating.\n\nIn a time when the world agenda is being set by Islam, it is more important than ever for the origins and history of this world religion to be examined afresh. This is an important documentary with world-wide appeal for both religious and secular audiences.\n\nBeautifully filmed in the ruins and deserts of the middle east, the film is a detective story that investigates the dawn of Islam and will become the most talked about film for years to come.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "JOWFPTzK7D4",
+                    "likes": "39,261 likes",
+                    "title": "Is This The Real City Of Mecca? | Sacred City | Timeline",
+                    "url": "https://www.youtube.com/watch?v=JOWFPTzK7D4",
+                    "video_length": 5108.981,
+                    "views": "7,339,303 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=0wLoU5Wp6b0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3f21eVcY3pw&list=RDCMUC88lvyJe7aHZmcvzvubDFRg&start_radio=1&rv=3f21eVcY3pw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-p8OZz5KJoo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3f21eVcY3pw",
+                  "title": "Why The Dark Ages Were Actually A Time Of Great Achievement | King Arthur's Britain | Timeline",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,516",
+                    "content creator": "Timeline - World History Documentaries",
+                    "date": "May 15, 2017",
+                    "description": "Francis Pryor examines the relics of the Dark Ages to build a fuller picture of this much-maligned era. Popular belief has always held that the departure of the Romans led to barbarism in Britain, but archaeological finds have shed light on a cultured, literate society that embraced the growing Romanised Christian religion and embarked on a profitable trading relationship with the Byzantine Empire.\n\nSheep-farming archaeologist, Francis Pryor, presents a brand new historical series which explores Britain A.D, the British national character and the ultimate British icon King Arthur.\n\nFinding new and previously unexplained evidence, Francis Pryor overturns the idea that Britain reverted to a state of anarchy and disorder after the Romans left in 410 AD. Instead of doom and gloom Francis discovers a continuous culture that assimilated influences from as far a field as the Middle East and Constantinople. Through scrutinising the myth of King Arthur to find out what was really going on when the Romans left, Francis is confronted by evidence that confounds traditional views of the 'Dark Ages'. There was also no invasion of bloodthirsty Anglo Saxons, rampaging across the countryside. With new archaeological evidence Francis discovers a far more interesting story.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                    "dislikes": " Unavailable",
+                    "id": "3f21eVcY3pw",
+                    "likes": "16,086 likes",
+                    "title": "Why The Dark Ages Were Actually A Time Of Great Achievement | King Arthur's Britain | Timeline",
+                    "url": "https://www.youtube.com/watch?v=3f21eVcY3pw",
+                    "video_length": 2924.621,
+                    "views": "1,902,091 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=cKUz5Vjq9-s",
+              "title": "How Krakatoa Caused The Worst Year In History | Catastrophe | Timeline",
+              "video": {
+                "ad": null,
+                "comments": "2,905",
+                "content creator": "Timeline - World History Documentaries",
+                "date": "Jun 23, 2017",
+                "description": "Researching a climatic catastrophe that rocked the Earth in A.D. 535, causing two years of darkness, famine, drought and disease.\n\nWritten records from China, Italy, Palestine and many other countries suggest a huge catastrophe blighted the world in 535AD. But the cause of it has been uncertain.\n\nWas it a comet? An asteroid? A volcano? Archaeologist David Keys reveals the latter is to blame for the Dark Ages of famine and plague that shaped the world order of today.\n\n\ud83d\udcfa  It's like Netflix for history... Sign up to History Hit, the world's best history documentary service, at a huge discount using the code 'TIMELINE' ---\u1433 ",
+                "dislikes": " Unavailable",
+                "id": "cKUz5Vjq9-s",
+                "likes": "24,511 likes",
+                "title": "How Krakatoa Caused The Worst Year In History | Catastrophe | Timeline",
+                "url": "https://www.youtube.com/watch?v=cKUz5Vjq9-s",
+                "video_length": 2961.441,
+                "views": "2,421,759 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=UDAuMq-0mEo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=CjZjVUWMEz0&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=CjZjVUWMEz0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rliUPxDDkDk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=CjZjVUWMEz0",
+                  "title": "27. Nuclear Materials \u2014 Radiation Damage and Effects in Matter",
+                  "video": {
+                    "ad": null,
+                    "comments": "71",
+                    "content creator": "MIT OpenCourseWare",
+                    "date": "Sep 20, 2019",
+                    "description": "MIT 22.01 Introduction to Nuclear Engineering and Ionizing Radiation, Fall 2016\nInstructor: Michael Short\nView the complete course: https://ocw.mit.edu/22-01F16",
+                    "dislikes": " Unavailable",
+                    "id": "CjZjVUWMEz0",
+                    "likes": "987 likes",
+                    "title": "27. Nuclear Materials \u2014 Radiation Damage and Effects in Matter",
+                    "url": "https://www.youtube.com/watch?v=CjZjVUWMEz0",
+                    "video_length": 3353.121,
+                    "views": "63,855 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=U6fI3brP8V4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=lZ3bPUKo5zc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3S4cNfl0YF0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lZ3bPUKo5zc",
+                  "title": "Lecture 1: Introduction to Superposition",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,367",
+                    "content creator": "MIT OpenCourseWare",
+                    "date": "Jun 18, 2014",
+                    "description": "MIT 8.04 Quantum Physics I, Spring 2013\nView the complete course: http://ocw.mit.edu/8-04S13\nInstructor: Allan Adams\n\nIn this lecture, Prof. Adams discusses a series of thought experiments involving \"box apparatus\" to illustrate the concepts of uncertainty and superposition, which are central to quantum mechanics. The first ten minutes are devoted to course information.\n\nLicense: Creative Commons BY-NC-SA\nMore information at ",
+                    "dislikes": " Unavailable",
+                    "id": "lZ3bPUKo5zc",
+                    "likes": "42,973 likes",
+                    "title": "Lecture 1: Introduction to Superposition",
+                    "url": "https://www.youtube.com/watch?v=lZ3bPUKo5zc",
+                    "video_length": 4566.061,
+                    "views": "3,505,684 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=OehvY94N-WA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AxZWxxZ2JGE&list=RDCMUCFkid-1EIBbauJLbMFDp2Cg&start_radio=1&rv=AxZWxxZ2JGE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=VCQYwxIcxiI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AxZWxxZ2JGE",
+                  "title": "Why our generals were more successful in World War II than in Korea, Vietnam or Iraq/Afghanistan",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,804",
+                    "content creator": "UC Berkeley Events",
+                    "date": "Mar 23, 2011",
+                    "description": "The Fleet Admiral Chester W. Nimitz Memorial Lecture\n\nThomas E. Ricks is a Senior Fellow at the Center for a New American Security (CNAS). Concurrently with his duties at CNAS, Ricks writes an online blog for ForeignPolicy.com called, \"The Best Defense,\" serves as contributing editor for Foreign Policy.",
+                    "dislikes": " Unavailable",
+                    "id": "AxZWxxZ2JGE",
+                    "likes": "26,428 likes",
+                    "title": "Why our generals were more successful in World War II than in Korea, Vietnam or Iraq/Afghanistan",
+                    "url": "https://www.youtube.com/watch?v=AxZWxxZ2JGE",
+                    "video_length": 3528.901,
+                    "views": "1,809,962 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Ijst4g5KFN0",
+              "title": "26. Chernobyl \u2014 How It Happened",
+              "video": {
+                "ad": null,
+                "comments": "2,444",
+                "content creator": "MIT OpenCourseWare",
+                "date": "Sep 20, 2019",
+                "description": "MIT 22.01 Introduction to Nuclear Engineering and Ionizing Radiation, Fall 2016\nInstructor: Michael Short\nView the complete course: https://ocw.mit.edu/22-01F16",
+                "dislikes": " Unavailable",
+                "id": "Ijst4g5KFN0",
+                "likes": "28,977 likes",
+                "title": "26. Chernobyl \u2014 How It Happened",
+                "url": "https://www.youtube.com/watch?v=Ijst4g5KFN0",
+                "video_length": 3263.141,
+                "views": "1,592,213 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=7YiT_NwtO4g",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8pSooePp01c&list=RDCMUC3w2yq7QTIAoeBWQ672gnNw&start_radio=1&rv=8pSooePp01c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0VM8HMUBetY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=8pSooePp01c",
+                  "title": "2009 NBA All-Star Game",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,044",
+                    "content creator": "Torontos",
+                    "date": "Nov 9, 2018",
+                    "description": "Check my Patreon where you find more amazing content\nhttps://www.patreon.com/TorontosNBAGames",
+                    "dislikes": " Unavailable",
+                    "id": "8pSooePp01c",
+                    "likes": "21,009 likes",
+                    "title": "2009 NBA All-Star Game",
+                    "url": "https://www.youtube.com/watch?v=8pSooePp01c",
+                    "video_length": 7454.081,
+                    "views": "8,970,098 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=2ANivB4o83U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ZYcXzHf0CQM&pp=sAQB",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XiuilGnvb-s",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=hohlENK_xQ4&list=RDCMUCU7iRrk3xfpUk0R6VdyC1Ow&start_radio=1&rv=hohlENK_xQ4",
+                  "title": "NBA 75 Ultimate Draft | NBA on TNT",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,336",
+                    "content creator": "NBA on TNT",
+                    "date": "Feb 19, 2022",
+                    "description": "Who drafted the best squad? \ud83d\udc40\n\n8 \"GMs\" & our #NBAonTNT crews select their all-time teams from a pool of the #NBA75 players.\n\n\ud83d\udc8e Jerry West\n\ud83d\udc8e Sue Bird\n\ud83d\udc8e Quavo\n\ud83d\udc8e  D.L. Hughley\n\ud83d\udc8e  NBA on TNT Tuesday\n\ud83d\udc8e  Inside the NBA\n\ud83d\udc8e  Shams Charania & Chris Haynes\n\ud83d\udc8e  Dominique Wilkins\n\nWatch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: ",
+                    "dislikes": " Unavailable",
+                    "id": "hohlENK_xQ4&list",
+                    "likes": "13,482 likes",
+                    "title": "NBA 75 Ultimate Draft | NBA on TNT",
+                    "url": "https://www.youtube.com/watch?v=hohlENK_xQ4&list=RDCMUCU7iRrk3xfpUk0R6VdyC1Ow&start_radio=1&rv=hohlENK_xQ4",
+                    "video_length": 4178.241,
+                    "views": "464,834 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=F_kEhHAMupU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=b0q5PR1xpA0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=TmoRowBRZvY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=I2O7blSSzpI",
+                  "title": "Cicada 3301: An Internet Mystery",
+                  "video": {
+                    "ad": null,
+                    "comments": "63,722",
+                    "content creator": "LEMMiNO",
+                    "date": "May 19, 2018",
+                    "description": "[Credits, References, and More]\nhttps://www.lemmi.no/p/cicada-3301",
+                    "dislikes": " Unavailable",
+                    "id": "I2O7blSSzpI",
+                    "likes": "774,911 likes",
+                    "title": "Cicada 3301: An Internet Mystery",
+                    "url": "https://www.youtube.com/watch?v=I2O7blSSzpI",
+                    "video_length": 1073.201,
+                    "views": "27,609,155 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=hohlENK_xQ4",
+              "title": "NBA 75 Ultimate Draft | NBA on TNT",
+              "video": {
+                "ad": null,
+                "comments": "2,317",
+                "content creator": "NBA on TNT",
+                "date": "Feb 19, 2022",
+                "description": "Who drafted the best squad? \ud83d\udc40\n\n8 \"GMs\" & our #NBAonTNT crews select their all-time teams from a pool of the #NBA75 players.\n\n\ud83d\udc8e Jerry West\n\ud83d\udc8e Sue Bird\n\ud83d\udc8e Quavo\n\ud83d\udc8e  D.L. Hughley\n\ud83d\udc8e  NBA on TNT Tuesday\n\ud83d\udc8e  Inside the NBA\n\ud83d\udc8e  Shams Charania & Chris Haynes\n\ud83d\udc8e  Dominique Wilkins\n\nWatch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: ",
+                "dislikes": " Unavailable",
+                "id": "hohlENK_xQ4",
+                "likes": "13,377 likes",
+                "title": "NBA 75 Ultimate Draft | NBA on TNT",
+                "url": "https://www.youtube.com/watch?v=hohlENK_xQ4",
+                "video_length": 4178.241,
+                "views": "461,716 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=xwpgmEvlRpM",
+          "title": "The Moment in Time: The Manhattan Project",
+          "video": {
+            "ad": null,
+            "comments": "2,686",
+            "content creator": "University of California Television (UCTV)",
+            "date": "Jan 16, 2008",
+            "description": "The Moment in Time documents the uncertain days of the beginning of World War II when it was feared the Nazis were developing the atomic bomb. The history of the bomb's development is traced through recollections of those who worked on what was known as \"the gadget.\" [6/2000] [Show ID: 5090]\n\nExplore More Humanities on UCTV\n(",
+            "dislikes": " Unavailable",
+            "id": "xwpgmEvlRpM",
+            "likes": "18,983 likes",
+            "title": "The Moment in Time: The Manhattan Project",
+            "url": "https://www.youtube.com/watch?v=xwpgmEvlRpM",
+            "video_length": 3373.001,
+            "views": "4,698,938 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+      "title": "Dropping the Bomb: Hiroshima & Nagasaki",
+      "video": {
+        "ad": null,
+        "comments": "9,593",
+        "content creator": "Shaun",
+        "date": "Dec 11, 2020",
+        "description": "Cw: racist speech and imagery, violence\n\nApologies for the surely terrible pronunciation throughout.\n\nSpecial thanks to JusticeKazzy, Shuklia & Kav P for providing very useful feedback! :D\n\nJusticeKazzy: ",
+        "dislikes": " Unavailable",
+        "id": "RCRTgtpC-Go",
+        "likes": "55,128 likes",
+        "title": "Dropping the Bomb: Hiroshima & Nagasaki",
+        "url": "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+        "video_length": 8418.541,
+        "views": "1,417,272 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=2GcwAD_7tJY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ezyoyhEOnaw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=2p9mruULQeI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AAGIi62-sAU&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=AAGIi62-sAU",
+                  "title": "Prohibition - OverSimplified",
+                  "video": {
+                    "ad": null,
+                    "comments": "54,313",
+                    "content creator": "OverSimplified",
+                    "date": "Premiered Dec 15, 2020",
+                    "description": "Get Honey for FREE today \u25b8 http://joinhoney.com/oversimplified\nHoney finds coupons with the click of a button. Thanks to Honey for sponsoring!\n\nMERCH (New limited edition Al Capone pin OUT NOW!) - ",
+                    "dislikes": " Unavailable",
+                    "id": "AAGIi62-sAU&list",
+                    "likes": "590,113 likes",
+                    "title": "Prohibition - OverSimplified",
+                    "url": "https://www.youtube.com/watch?v=AAGIi62-sAU&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=AAGIi62-sAU",
+                    "video_length": 2022.821,
+                    "views": "26,534,364 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=u1hgHTuNvdY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6V4SHL7eDck",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=DqWzCE8GhHI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=u98Iz-po37k",
+                  "title": "Oversimplified but it's just Al Capone.",
+                  "video": {
+                    "ad": null,
+                    "comments": "19",
+                    "content creator": "Falcon",
+                    "date": "Nov 15, 2021",
+                    "description": "the title says it all:)",
+                    "dislikes": " Unavailable",
+                    "id": "u98Iz-po37k",
+                    "likes": "315 likes",
+                    "title": "Oversimplified but it's just Al Capone.",
+                    "url": "https://www.youtube.com/watch?v=u98Iz-po37k",
+                    "video_length": 72.801,
+                    "views": "11,313 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=rStL7niR7gs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=qEV9qoup2mQ&list=RDCMUC2C_jShtL725hvbm1arSV9w&start_radio=1&rv=qEV9qoup2mQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ua4QMFQATco",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=qEV9qoup2mQ",
+                  "title": "Someone Dead Ruined My Life\u2026 Again.",
+                  "video": {
+                    "ad": null,
+                    "comments": "16,838",
+                    "content creator": "CGP Grey",
+                    "date": "Premiered Sep 9, 2021",
+                    "description": "Videos like this are only possible with your help, consider becoming a bonnie bee today! https://www.patreon.com/cgpgrey",
+                    "dislikes": " Unavailable",
+                    "id": "qEV9qoup2mQ",
+                    "likes": "315,912 likes",
+                    "title": "Someone Dead Ruined My Life\u2026 Again.",
+                    "url": "https://www.youtube.com/watch?v=qEV9qoup2mQ",
+                    "video_length": 1292,
+                    "views": "3,975,331 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=AAGIi62-sAU",
+              "title": "Prohibition - OverSimplified",
+              "video": {
+                "ad": null,
+                "comments": "54,313",
+                "content creator": "OverSimplified",
+                "date": "Premiered Dec 15, 2020",
+                "description": "Get Honey for FREE today \u25b8 http://joinhoney.com/oversimplified\nHoney finds coupons with the click of a button. Thanks to Honey for sponsoring!\n\nMERCH (New limited edition Al Capone pin OUT NOW!) - ",
+                "dislikes": " Unavailable",
+                "id": "AAGIi62-sAU",
+                "likes": "590,112 likes",
+                "title": "Prohibition - OverSimplified",
+                "url": "https://www.youtube.com/watch?v=AAGIi62-sAU",
+                "video_length": 2022.821,
+                "views": "26,534,195 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=iJ6dIGHpZOw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=2QBA6ZPmj3Q&list=RDCMUCMmaBzfCCwZ2KqaBJjkj0fw&start_radio=1&rv=2QBA6ZPmj3Q",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=YK68w-5Jn40",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=2QBA6ZPmj3Q",
+                  "title": "Pyrrhus and Pyrrhic War - Kings and Generals DOCUMENTARY",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,641",
+                    "content creator": "Kings and Generals",
+                    "date": "Jul 25, 2019",
+                    "description": "Full historical animated documentary video on the life of Pyrrhus - one of the most important players in the second round of the Diadochi of Alexander the Great. Pyrrhus life was remarkable as he fought almost everyone in Central Mediterranean - from Romans to Carthaginians to Greeks. This documentary covers all the major battles of the Pyrrhic Wars, among them Heraclea, Asculum, Sparta, Argos,\n\nSupport us on Patreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "2QBA6ZPmj3Q",
+                    "likes": "29,183 likes",
+                    "title": "Pyrrhus and Pyrrhic War - Kings and Generals DOCUMENTARY",
+                    "url": "https://www.youtube.com/watch?v=2QBA6ZPmj3Q",
+                    "video_length": 3113,
+                    "views": "2,724,092 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=5Ct4OSmdZ3M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=esuvYHZe22c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1RoDZuk7hEk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=baHT2nR5Wr4&list=RDCMUCMmaBzfCCwZ2KqaBJjkj0fw&start_radio=1&rv=baHT2nR5Wr4",
+                  "title": "Early Muslim Expansion - Arab Conquest of Iran and Egypt",
+                  "video": {
+                    "ad": null,
+                    "comments": "7,128",
+                    "content creator": "Kings and Generals",
+                    "date": "Jul 11, 2021",
+                    "description": "\ud83d\udcbb Go to https://NordVPN.com/kingsandgenerals and use code kingsandgenerals to get a 2-year plan with a huge discount plus 4 additional months for free. Protect yourself online today!\n\nIn the new Kings and Generals full animated historical documentary, we will describe the second phase of the Muslim expansion into the Eastern Roman and Sassanid Empires. In the aftermath of the battles of Yarmouk and al-Qadisiyyah (",
+                    "dislikes": " Unavailable",
+                    "id": "baHT2nR5Wr4&list",
+                    "likes": "42,578 likes",
+                    "title": "Early Muslim Expansion - Arab Conquest of Iran and Egypt",
+                    "url": "https://www.youtube.com/watch?v=baHT2nR5Wr4&list=RDCMUCMmaBzfCCwZ2KqaBJjkj0fw&start_radio=1&rv=baHT2nR5Wr4",
+                    "video_length": 8991.661,
+                    "views": "2,717,479 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=c7m-la0ZKh4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=LdqFW8RWfQk&list=RDLVLdqFW8RWfQk&start_radio=1&rv=LdqFW8RWfQk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=aYkn2KfYvFw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=LdqFW8RWfQk",
+                  "title": "War of the Worlds - EP 1 - Intro / Early Islamic Conquest",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,254",
+                    "content creator": "Flash Point History",
+                    "date": "Jul 3, 2017",
+                    "description": "With the birth of The Prophet Muhammad and the Rise of Islam, the early Islamic Conquest begins. In a matter of 100 years the nascent Muslim state grows from the city state of Medina to encompass  Mecca and a majority of the Middle East. Soon the young nation takes on the superpowers of its day - the Byzantine and the Persians. The stage is set for one of the greatest conquests in history. \n\nDownload at: ",
+                    "dislikes": " Unavailable",
+                    "id": "LdqFW8RWfQk",
+                    "likes": "5,895 likes",
+                    "title": "War of the Worlds - EP 1 - Intro / Early Islamic Conquest",
+                    "url": "https://www.youtube.com/watch?v=LdqFW8RWfQk",
+                    "video_length": 3761.501,
+                    "views": "304,197 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=baHT2nR5Wr4",
+              "title": "Early Muslim Expansion - Arab Conquest of Iran and Egypt",
+              "video": {
+                "ad": null,
+                "comments": "7,128",
+                "content creator": "Kings and Generals",
+                "date": "Jul 11, 2021",
+                "description": "\ud83d\udcbb Go to https://NordVPN.com/kingsandgenerals and use code kingsandgenerals to get a 2-year plan with a huge discount plus 4 additional months for free. Protect yourself online today!\n\nIn the new Kings and Generals full animated historical documentary, we will describe the second phase of the Muslim expansion into the Eastern Roman and Sassanid Empires. In the aftermath of the battles of Yarmouk and al-Qadisiyyah (",
+                "dislikes": " Unavailable",
+                "id": "baHT2nR5Wr4",
+                "likes": "42,578 likes",
+                "title": "Early Muslim Expansion - Arab Conquest of Iran and Egypt",
+                "url": "https://www.youtube.com/watch?v=baHT2nR5Wr4",
+                "video_length": 8991.661,
+                "views": "2,717,464 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=98inDANKtEs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=r2cEIDZwG5M&list=RDCMUCMmaBzfCCwZ2KqaBJjkj0fw&start_radio=1&rv=r2cEIDZwG5M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=TvuWn6KsGik",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=r2cEIDZwG5M",
+                  "title": "Early Muslim Expansion - Khalid, Yarmouk, al-Qadisiyyah DOCUMENTARY",
+                  "video": {
+                    "ad": null,
+                    "comments": "19,633",
+                    "content creator": "Kings and Generals",
+                    "date": "May 3, 2020",
+                    "description": "In the new Kings and Generals full animated historical documentary, we will describe the rise of the Rashidun Caliphate, its first wars against the Eastern Roman and Sassanid Empires. This first video largely focuses on Khalid ibn al-Walid and his campaigns in Syria and Iraq, and the battles of the Chain, River, Wallaja, Ullais, Muzayyah, Firaz, Ajnadayn, Damascus, Maraj-al-Debaj, Pella, Emesa, Yarmouk, of the Bridges and al-Qadisiyyah\n\nSupport us on Patreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "r2cEIDZwG5M",
+                    "likes": "68,254 likes",
+                    "title": "Early Muslim Expansion - Khalid, Yarmouk, al-Qadisiyyah DOCUMENTARY",
+                    "url": "https://www.youtube.com/watch?v=r2cEIDZwG5M",
+                    "video_length": 6791.581,
+                    "views": "5,966,383 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ttGgcmK_8-c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=JWux0udX7X0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1I71aK7Bf48",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=iZT6JEOC3D8",
+                  "title": "The History of Blindfolded Punch-Out",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,665",
+                    "content creator": "Summoning Salt",
+                    "date": "Feb 18, 2019",
+                    "description": "https://www.twitch.tv/summoningsalt\nhttps://twitter.com/summoningsalt\nMusic list: https://docs.google.com/document/d/1p...",
+                    "dislikes": " Unavailable",
+                    "id": "iZT6JEOC3D8",
+                    "likes": "85,016 likes",
+                    "title": "The History of Blindfolded Punch-Out",
+                    "url": "https://www.youtube.com/watch?v=iZT6JEOC3D8",
+                    "video_length": 2443.461,
+                    "views": "3,137,008 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=gds7tj0yYmg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU&list=RDCMUCSju5G2aFaWMqn-_0YBtq5A&start_radio=1&rv=8Ko3TdPy0TU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=GVhFBujPlVo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+                  "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                  "video": {
+                    "ad": null,
+                    "comments": "26,977",
+                    "content creator": "Stand-up Maths",
+                    "date": "Feb 4, 2021",
+                    "description": "Buy my book Humble Pi now!\nhttps://www.penguinrandomhouse.com/bo...\nUPDATE: Harvard Book Store have totally sold out.\n\nMy talk on 4 February 2021 at Harvard Book Store:",
+                    "dislikes": " Unavailable",
+                    "id": "8Ko3TdPy0TU",
+                    "likes": "272,768 likes",
+                    "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                    "url": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+                    "video_length": 2386.941,
+                    "views": "4,866,382 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=QLq6GEiHqR8&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=QLq6GEiHqR8",
+              "title": "The Pig War - OverSimplified",
+              "video": {
+                "ad": null,
+                "comments": "45,941",
+                "content creator": "OverSimplified",
+                "date": "Premiered Dec 6, 2021",
+                "description": "Go to https://nordvpn.com/oversimplified to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee!\n\nMERCH (Plushie and new character pins OUT NOW!) - ",
+                "dislikes": " Unavailable",
+                "id": "QLq6GEiHqR8&list",
+                "likes": "535,890 likes",
+                "title": "The Pig War - OverSimplified",
+                "url": "https://www.youtube.com/watch?v=QLq6GEiHqR8&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=QLq6GEiHqR8",
+                "video_length": 2322.521,
+                "views": "11,567,105 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+          "title": "The Pig War - OverSimplified",
+          "video": {
+            "ad": null,
+            "comments": "45,941",
+            "content creator": "OverSimplified",
+            "date": "Premiered Dec 6, 2021",
+            "description": "Go to https://nordvpn.com/oversimplified to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee!\n\nMERCH (Plushie and new character pins OUT NOW!) - ",
+            "dislikes": " Unavailable",
+            "id": "QLq6GEiHqR8",
+            "likes": "535,890 likes",
+            "title": "The Pig War - OverSimplified",
+            "url": "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+            "video_length": 2322.521,
+            "views": "11,567,105 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "id": "https://www.youtube.com/show/SC1Dd2OxhAzUXWuhFBFecIAA?season=8&sbp=CgE4",
+                  "title": "",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Error found",
+                    "date": "Error found",
+                    "description": "One of the funniest, most refreshing personalities to hit the TV scene in years, John Oliver comes to HBO in this series that takes a topical look at the week in news, politics and current events.",
+                    "dislikes": " Unavailable",
+                    "id": "8&sbp",
+                    "likes": "Unavailable",
+                    "title": "",
+                    "url": "https://www.youtube.com/show/SC1Dd2OxhAzUXWuhFBFecIAA?season=8&sbp=CgE4",
+                    "video_length": 0,
+                    "views": "Error found"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Fmh4RdIwswE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=etkd57lPfPU&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=etkd57lPfPU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=hkZir1L7fSY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=etkd57lPfPU",
+                  "title": "Trade: Last Week Tonight with John Oliver (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "12,159",
+                    "content creator": "LastWeekTonight",
+                    "date": "Aug 20, 2018",
+                    "description": "Donald Trump is waging a trade war that hurts a lot of American workers. Maybe he would understand that if our heavy-handed documentaries about the global trading system were more informative.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "etkd57lPfPU",
+                    "likes": "151,641 likes",
+                    "title": "Trade: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=etkd57lPfPU",
+                    "video_length": 1273.161,
+                    "views": "13,794,715 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=pX8BXH3SJn0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=I8hlWY4P7fI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=EOq3zJTOwIw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I",
+                  "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "58,832",
+                    "content creator": "LastWeekTonight",
+                    "date": "Oct 9, 2017",
+                    "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "J5b_-TZwQ0I&list",
+                    "likes": "344,879 likes",
+                    "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I",
+                    "video_length": 1298.221,
+                    "views": "27,243,698 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+              "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+              "video": {
+                "ad": null,
+                "comments": "58,832",
+                "content creator": "LastWeekTonight",
+                "date": "Oct 9, 2017",
+                "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "J5b_-TZwQ0I",
+                "likes": "344,877 likes",
+                "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+                "video_length": 1298.221,
+                "views": "27,243,661 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lz5gpU5egOM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=OoqCDI-ZBCE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ew_cNONhhKI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=dHp_DwVm2EA",
+                  "title": "Emma Kinema, Game Workers Unite - XOXO Festival (2019)",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "XOXO Festival",
+                    "date": "Oct 8, 2019",
+                    "description": "Inspired by her own experiences in the game industry, game developer turned labor organizer Emma Kinema is co-founder of Game Workers Unite, an international grassroots organization dedicated to unifying game workers in an industry known for endless crunch and mass layoffs.\n\nFollow Emma on Twitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "dHp_DwVm2EA",
+                    "likes": "Unavailable",
+                    "title": "Emma Kinema, Game Workers Unite - XOXO Festival (2019)",
+                    "url": "https://www.youtube.com/watch?v=dHp_DwVm2EA",
+                    "video_length": 1681.461,
+                    "views": "5,236 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=hW4U_lfgPac",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=zhWWcWtAUoY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=K3v5wFMQRqs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=7Alen-p6_ak&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=7Alen-p6_ak",
+                  "title": "Lindsay Ellis, Video Essayist - XOXO Festival (2019)",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "XOXO Festival",
+                    "date": "Oct 18, 2019",
+                    "description": "With an MFA in film/TV production and the support of her dedicated Patreon base, Lindsay Ellis creates thoughtful and in-depth video essays about film criticism, pop culture, and a whole lot of Transformers. The day before XOXO 2019, Lindsay announced her debut novel, Axiom's End, will be published by St. Martin's Press next summer.\n\nWatch Lindsay on YouTube: ",
+                    "dislikes": " Unavailable",
+                    "id": "7Alen-p6_ak&list",
+                    "likes": "Unavailable",
+                    "title": "Lindsay Ellis, Video Essayist - XOXO Festival (2019)",
+                    "url": "https://www.youtube.com/watch?v=7Alen-p6_ak&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=7Alen-p6_ak",
+                    "video_length": 2123.601,
+                    "views": "519,080 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=AFrQ1_2bbsI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=MXUCZwXrR8w",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3mg0yYsRmUY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=UuzUKT2Shn8",
+                  "title": "The History of Rainbow Road World Records",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,795",
+                    "content creator": "Summoning Salt",
+                    "date": "Jul 4, 2019",
+                    "description": "https://www.twitch.tv/summoningsalt\nhttps://www.twitch.tv/tkotournament\nhttps://twitter.com/summoningsalt",
+                    "dislikes": " Unavailable",
+                    "id": "UuzUKT2Shn8",
+                    "likes": "162,768 likes",
+                    "title": "The History of Rainbow Road World Records",
+                    "url": "https://www.youtube.com/watch?v=UuzUKT2Shn8",
+                    "video_length": 2824.141,
+                    "views": "6,787,797 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=7Alen-p6_ak",
+              "title": "Lindsay Ellis, Video Essayist - XOXO Festival (2019)",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "XOXO Festival",
+                "date": "Oct 18, 2019",
+                "description": "With an MFA in film/TV production and the support of her dedicated Patreon base, Lindsay Ellis creates thoughtful and in-depth video essays about film criticism, pop culture, and a whole lot of Transformers. The day before XOXO 2019, Lindsay announced her debut novel, Axiom's End, will be published by St. Martin's Press next summer.\n\nWatch Lindsay on YouTube: ",
+                "dislikes": " Unavailable",
+                "id": "7Alen-p6_ak",
+                "likes": "Unavailable",
+                "title": "Lindsay Ellis, Video Essayist - XOXO Festival (2019)",
+                "url": "https://www.youtube.com/watch?v=7Alen-p6_ak",
+                "video_length": 2123.601,
+                "views": "519,080 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=rwGyl6tgHp0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=sLOP9rJqjxI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_h1KSdSiREg&list=RDLV_h1KSdSiREg&start_radio=1&rv=_h1KSdSiREg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=_h1KSdSiREg",
+                  "title": "Christmas Mailbag with Hbomberguy!",
+                  "video": {
+                    "ad": null,
+                    "comments": "277",
+                    "content creator": "Philosophy Tube",
+                    "date": "Streamed live on Dec 18, 2018",
+                    "description": "Patreon: http://www.patreon.com/PhilosophyTube\nHbomberguy: https://www.youtube.com/user/hbomberguy\nKavP: @RealKav_P\n\nSubscribe! ",
+                    "dislikes": " Unavailable",
+                    "id": "_h1KSdSiREg",
+                    "likes": "2,437 likes",
+                    "title": "Christmas Mailbag with Hbomberguy!",
+                    "url": "https://www.youtube.com/watch?v=_h1KSdSiREg",
+                    "video_length": 5871.221,
+                    "views": "122,729 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=tynmXQ7hs9w",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rCqEplq6oBg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=yYTP-5Yds6k",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=aeqDvgs6FUA",
+                  "title": "[YTP] Neil Cicicicierega Makes Nu Metal",
+                  "video": {
+                    "ad": null,
+                    "comments": "11",
+                    "content creator": "TetrisKid48",
+                    "date": "Mar 29, 2021",
+                    "description": "captions are available!\ni hope neil sees this\n\noriginal video: ",
+                    "dislikes": " Unavailable",
+                    "id": "aeqDvgs6FUA",
+                    "likes": "38 likes",
+                    "title": "[YTP] Neil Cicicicierega Makes Nu Metal",
+                    "url": "https://www.youtube.com/watch?v=aeqDvgs6FUA",
+                    "video_length": 365.741,
+                    "views": "281 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lARHu6nNAZ0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xqqC5IJa2go",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=un3_1t9LrRM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=wGKB3jXGqu0",
+                  "title": "Hbomberguy Oh Boy",
+                  "video": {
+                    "ad": null,
+                    "comments": "34",
+                    "content creator": "TekuzoOdium",
+                    "date": "Dec 4, 2019",
+                    "description": "Just hbomberguy doing something that is funny.",
+                    "dislikes": " Unavailable",
+                    "id": "wGKB3jXGqu0",
+                    "likes": "1,348 likes",
+                    "title": "Hbomberguy Oh Boy",
+                    "url": "https://www.youtube.com/watch?v=wGKB3jXGqu0",
+                    "video_length": 10.041,
+                    "views": "39,983 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=lS1k88LzjkQ&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=lS1k88LzjkQ",
+              "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "XOXO Festival",
+                "date": "Oct 9, 2019",
+                "description": "Since 2014, Harry Brewis aka \u201cHbomberguy\u201d built a base of over 450k YouTube subscribers with his wry video essays skewering the alt-right, Gamergate, and conspiracy theorists. In January, his Donkey Kong 64 charity stream went viral with cameos by AOC, Chelsea Manning and others, raising over $350,000 for Mermaids, a UK charity supporting gender-diverse and transgender children and young people.\n\nHbomberguy on YouTube: ",
+                "dislikes": " Unavailable",
+                "id": "lS1k88LzjkQ&list",
+                "likes": "Unavailable",
+                "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+                "url": "https://www.youtube.com/watch?v=lS1k88LzjkQ&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=lS1k88LzjkQ",
+                "video_length": 2053.241,
+                "views": "780,338 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+          "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+          "video": {
+            "ad": null,
+            "comments": "Error found",
+            "content creator": "XOXO Festival",
+            "date": "Oct 9, 2019",
+            "description": "Since 2014, Harry Brewis aka \u201cHbomberguy\u201d built a base of over 450k YouTube subscribers with his wry video essays skewering the alt-right, Gamergate, and conspiracy theorists. In January, his Donkey Kong 64 charity stream went viral with cameos by AOC, Chelsea Manning and others, raising over $350,000 for Mermaids, a UK charity supporting gender-diverse and transgender children and young people.\n\nHbomberguy on YouTube: ",
+            "dislikes": " Unavailable",
+            "id": "lS1k88LzjkQ",
+            "likes": "Unavailable",
+            "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+            "url": "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+            "video_length": 2053.241,
+            "views": "780,337 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=PG9DUts7-24",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=E4OFUSN7O2Q&list=RDCMUCPcABVoFfCK5gDfX0PY1KGg&start_radio=1&rv=E4OFUSN7O2Q",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5dTzxB4B-MM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=E4OFUSN7O2Q",
+                  "title": "History Guy Reacts to \"The Napoleonic Wars\" (OverSimplified Reaction)",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,520",
+                    "content creator": "Drew Durnil",
+                    "date": "Jun 4, 2021",
+                    "description": "Simping for Oversimp\nThe Napoleonic Wars by Oversimplified https://www.youtube.com/watch?v=zqllx...\nSubscribe \u25ba https://bit.ly/2TaqRvp",
+                    "dislikes": " Unavailable",
+                    "id": "E4OFUSN7O2Q",
+                    "likes": "33,767 likes",
+                    "title": "History Guy Reacts to \"The Napoleonic Wars\" (OverSimplified Reaction)",
+                    "url": "https://www.youtube.com/watch?v=E4OFUSN7O2Q",
+                    "video_length": 1425.761,
+                    "views": "778,776 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=wOK3G0Lr-nc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=D6Fsbb_4zzA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=C5neje5bmHM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=mY3SEMTROas&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=mY3SEMTROas",
+                  "title": "The Napoleonic Wars - OverSimplified (Part 2)",
+                  "video": {
+                    "ad": null,
+                    "comments": "37,796",
+                    "content creator": "OverSimplified",
+                    "date": "Premiered May 28, 2021",
+                    "description": "Get Honey for FREE \u25b8 http://joinhoney.com/oversimplified\nHoney finds coupons with one click. Thanks to Honey for sponsoring!\n \nMERCH (Napoleon pin OUT NOW!) - ",
+                    "dislikes": " Unavailable",
+                    "id": "mY3SEMTROas&list",
+                    "likes": "471,158 likes",
+                    "title": "The Napoleonic Wars - OverSimplified (Part 2)",
+                    "url": "https://www.youtube.com/watch?v=mY3SEMTROas&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=mY3SEMTROas",
+                    "video_length": 1872.041,
+                    "views": "17,060,549 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=UMJje2TLCQw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=WDhj9v9QBCQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4_VCunlJ8Pw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=NEX0laF2yeY",
+                  "title": "OverSimplified oh no compilation",
+                  "video": {
+                    "ad": null,
+                    "comments": "219",
+                    "content creator": "Falcon",
+                    "date": "Jun 18, 2021",
+                    "description": "This took me less than 5 minutes to make.\n\nPlease subscribe if you want happiness.",
+                    "dislikes": " Unavailable",
+                    "id": "NEX0laF2yeY",
+                    "likes": "4,873 likes",
+                    "title": "OverSimplified oh no compilation",
+                    "url": "https://www.youtube.com/watch?v=NEX0laF2yeY",
+                    "video_length": 7.301,
+                    "views": "158,009 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=mY3SEMTROas",
+              "title": "The Napoleonic Wars - OverSimplified (Part 2)",
+              "video": {
+                "ad": null,
+                "comments": "37,796",
+                "content creator": "OverSimplified",
+                "date": "Premiered May 28, 2021",
+                "description": "Get Honey for FREE \u25b8 http://joinhoney.com/oversimplified\nHoney finds coupons with one click. Thanks to Honey for sponsoring!\n \nMERCH (Napoleon pin OUT NOW!) - ",
+                "dislikes": " Unavailable",
+                "id": "mY3SEMTROas",
+                "likes": "471,155 likes",
+                "title": "The Napoleonic Wars - OverSimplified (Part 2)",
+                "url": "https://www.youtube.com/watch?v=mY3SEMTROas",
+                "video_length": 1872.041,
+                "views": "17,060,371 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lBHnOOcYYBU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bwXBr4TfWuU&list=RDCMUCiZ2z8F8ilr6SC7lOaxAQ4g&start_radio=1&rv=bwXBr4TfWuU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=riMiT_MEN8c",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=bwXBr4TfWuU",
+                  "title": "Camman18 Face Reveal...",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,252",
+                    "content creator": "camman18",
+                    "date": "Premiered 16 hours ago",
+                    "description": "LIVE TONIGHT: https://www.twitch.tv/camman18\nfollow my twitter: https://twitter.com/camman18_",
+                    "dislikes": " Unavailable",
+                    "id": "bwXBr4TfWuU",
+                    "likes": "58,248 likes",
+                    "title": "Camman18 Face Reveal...",
+                    "url": "https://www.youtube.com/watch?v=bwXBr4TfWuU",
+                    "video_length": 40.901,
+                    "views": "483,033 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-6Wu0Q7x5D0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xuCn8ux2gbs&list=RDCMUCq6aw03lNILzV96UvEAASfQ&start_radio=1&rv=xuCn8ux2gbs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vXdv9dD2_mM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+                  "title": "history of the entire world, i guess",
+                  "video": {
+                    "ad": null,
+                    "comments": "392,207",
+                    "content creator": "bill wurtz",
+                    "date": "May 10, 2017",
+                    "description": "http://billwurtz.com",
+                    "dislikes": " Unavailable",
+                    "id": "xuCn8ux2gbs",
+                    "likes": "5,259,271 likes",
+                    "title": "history of the entire world, i guess",
+                    "url": "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+                    "video_length": 1165.841,
+                    "views": "138,923,818 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=YOGkH_8K_xg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=26EivpCPHnQ&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=26EivpCPHnQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lWSKAt-TBPI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=26EivpCPHnQ",
+                  "title": "Three Kingdoms - OverSimplified",
+                  "video": {
+                    "ad": null,
+                    "comments": "42,476",
+                    "content creator": "OverSimplified",
+                    "date": "Apr 11, 2019",
+                    "description": "Get Total War: Three Kingdoms today! Buying the game through our link will help support our channel: https://store.steampowered.com/app/77...",
+                    "dislikes": " Unavailable",
+                    "id": "26EivpCPHnQ",
+                    "likes": "464,865 likes",
+                    "title": "Three Kingdoms - OverSimplified",
+                    "url": "https://www.youtube.com/watch?v=26EivpCPHnQ",
+                    "video_length": 1042.741,
+                    "views": "25,132,227 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=zqllxbPWKNI&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=zqllxbPWKNI",
+              "title": "The Napoleonic Wars - OverSimplified (Part 1)",
+              "video": {
+                "ad": null,
+                "comments": "39,140",
+                "content creator": "OverSimplified",
+                "date": "Premiered May 28, 2021",
+                "description": "Go to https://NordVPN.com/OverSimplified to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\n\nMERCH (Napoleon pin OUT NOW!) - ",
+                "dislikes": " Unavailable",
+                "id": "zqllxbPWKNI&list",
+                "likes": "566,778 likes",
+                "title": "The Napoleonic Wars - OverSimplified (Part 1)",
+                "url": "https://www.youtube.com/watch?v=zqllxbPWKNI&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=zqllxbPWKNI",
+                "video_length": 1781.141,
+                "views": "25,339,710 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-Xqxd5oiqWQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fo2Rb9h788s&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=fo2Rb9h788s",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=GBS5APAiTz4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=fo2Rb9h788s",
+                  "title": "WW2 - OverSimplified (Part 2)",
+                  "video": {
+                    "ad": null,
+                    "comments": "49,031",
+                    "content creator": "OverSimplified",
+                    "date": "Mar 15, 2018",
+                    "description": "2 months of Skillshare for 99 cents: http://skl.sh/oversimplified2\nMERCH: oversimplified.tv/merch",
+                    "dislikes": " Unavailable",
+                    "id": "fo2Rb9h788s",
+                    "likes": "591,121 likes",
+                    "title": "WW2 - OverSimplified (Part 2)",
+                    "url": "https://www.youtube.com/watch?v=fo2Rb9h788s",
+                    "video_length": 934.121,
+                    "views": "43,528,788 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=YAqUcuy9SGM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rX_F9xuq-8M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=mU9Mq6R4XHs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=_uk_6vfqwTA&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=_uk_6vfqwTA",
+                  "title": "WW2 - OverSimplified (Part 1)",
+                  "video": {
+                    "ad": null,
+                    "comments": "52,813",
+                    "content creator": "OverSimplified",
+                    "date": "Mar 15, 2018",
+                    "description": "2 months of Skillshare for 99 cents: http://skl.sh/oversimplified\nMERCH: oversimplified.tv/merch\nPART 2 HERE: https://www.youtube.com/watch?v=fo2Rb...",
+                    "dislikes": " Unavailable",
+                    "id": "_uk_6vfqwTA&list",
+                    "likes": "769,429 likes",
+                    "title": "WW2 - OverSimplified (Part 1)",
+                    "url": "https://www.youtube.com/watch?v=_uk_6vfqwTA&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=_uk_6vfqwTA",
+                    "video_length": 825.221,
+                    "views": "66,999,034 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=DzFrh6GInjc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4OCHLy5rP58&list=RDCMUCIDQSqdVuNwtfRMKqfX-o7g&start_radio=1&rv=4OCHLy5rP58",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lyLA0t5Vbrc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=4OCHLy5rP58",
+                  "title": "the entire history of minecraft, i guess",
+                  "video": {
+                    "ad": null,
+                    "comments": "30,633",
+                    "content creator": "Sipover",
+                    "date": "Premiered Jan 29, 2021",
+                    "description": "the entire history of minecraft, i guess. \n\nHELP ME HIT 175K SUBSCRIBERS BEFORE JANUARY ENDS!\n\nVideo inspired by bill wurtz :)\n\nTwitch: ",
+                    "dislikes": " Unavailable",
+                    "id": "4OCHLy5rP58",
+                    "likes": "658,115 likes",
+                    "title": "the entire history of minecraft, i guess",
+                    "url": "https://www.youtube.com/watch?v=4OCHLy5rP58",
+                    "video_length": 782.441,
+                    "views": "29,118,493 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=_uk_6vfqwTA",
+              "title": "WW2 - OverSimplified (Part 1)",
+              "video": {
+                "ad": null,
+                "comments": "52,811",
+                "content creator": "OverSimplified",
+                "date": "Mar 15, 2018",
+                "description": "2 months of Skillshare for 99 cents: http://skl.sh/oversimplified\nMERCH: oversimplified.tv/merch\nPART 2 HERE: https://www.youtube.com/watch?v=fo2Rb...",
+                "dislikes": " Unavailable",
+                "id": "_uk_6vfqwTA",
+                "likes": "769,425 likes",
+                "title": "WW2 - OverSimplified (Part 1)",
+                "url": "https://www.youtube.com/watch?v=_uk_6vfqwTA",
+                "video_length": 825.221,
+                "views": "66,998,818 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=zqllxbPWKNI",
+          "title": "The Napoleonic Wars - OverSimplified (Part 1)",
+          "video": {
+            "ad": null,
+            "comments": "39,140",
+            "content creator": "OverSimplified",
+            "date": "Premiered May 28, 2021",
+            "description": "Go to https://NordVPN.com/OverSimplified to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\n\nMERCH (Napoleon pin OUT NOW!) - ",
+            "dislikes": " Unavailable",
+            "id": "zqllxbPWKNI",
+            "likes": "566,778 likes",
+            "title": "The Napoleonic Wars - OverSimplified (Part 1)",
+            "url": "https://www.youtube.com/watch?v=zqllxbPWKNI",
+            "video_length": 1781.141,
+            "views": "25,339,710 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+      "title": "Vaccines: A Measured Response",
+      "video": {
+        "ad": null,
+        "comments": "35,039",
+        "content creator": "hbomberguy",
+        "date": "May 26, 2021",
+        "description": "What is the science behind the anti-vaccine movement, and is it any good? Let\u2019s find out!\n\nMy Twitter: https://twitter.com/hbomberguy",
+        "dislikes": " Unavailable",
+        "id": "8BIcAZxFfrc",
+        "likes": "198,603 likes",
+        "title": "Vaccines: A Measured Response",
+        "url": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+        "video_length": 6249,
+        "views": "4,023,607 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "id": "https://www.youtube.com/show/SCfBRJGyo8J1dcB-5hWczH0Q?season=1&sbp=CgEx",
+              "title": "",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Error found",
+                "date": "Error found",
+                "description": "The Doctor. The last of the Time Lords. Travelling all of time and space to defend the innocent with no weapons and no superpowers - just a sonic screwdriver and an extra heart. The Doctor has regenerated many times over the centuries and seen things you wouldn't believe. Extraordinary worlds, terrifying monsters, impossible things. If you travel with the Doctor nothing will ever be the same again. Get ready for the most exciting adventures in all of time and space.",
+                "dislikes": " Unavailable",
+                "id": "1&sbp",
+                "likes": "Unavailable",
+                "title": "",
+                "url": "https://www.youtube.com/show/SCfBRJGyo8J1dcB-5hWczH0Q?season=1&sbp=CgEx",
+                "video_length": 0,
+                "views": "Error found"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=aP2huI3CGb0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=BXpu6tbFCsI&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=BXpu6tbFCsI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=js2rsZ1L6-M",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=BXpu6tbFCsI",
+                  "title": "Emu War - OverSimplified (Mini-Wars #4)",
+                  "video": {
+                    "ad": null,
+                    "comments": "29,001",
+                    "content creator": "OverSimplified",
+                    "date": "Nov 15, 2018",
+                    "description": "Support My Channel! Download Free \u2694\ufe0f Vikings War Of Clans here:\n\u27a4 IOS: https://bit.ly/2K4BiuT\n\u27a4 Android: https://bit.ly/2Fov0Yy",
+                    "dislikes": " Unavailable",
+                    "id": "BXpu6tbFCsI",
+                    "likes": "410,883 likes",
+                    "title": "Emu War - OverSimplified (Mini-Wars #4)",
+                    "url": "https://www.youtube.com/watch?v=BXpu6tbFCsI",
+                    "video_length": 607.261,
+                    "views": "18,897,789 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=qCu4hXOmPYM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=n4WldSD92Hc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3uBcq1x7P34",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=rtYC2jx1LM0",
+                  "title": "The American Revolution - OverSimplified (Part 2)",
+                  "video": {
+                    "ad": null,
+                    "comments": "26,195",
+                    "content creator": "OverSimplified",
+                    "date": "Aug 30, 2018",
+                    "description": "First 200 people get 20% off Brilliant! - https://brilliant.org/OverSimplified/\nMERCH: oversimplified.tv/merch\nPatreon: https://www.patreon.com/OverSimple",
+                    "dislikes": " Unavailable",
+                    "id": "rtYC2jx1LM0",
+                    "likes": "361,548 likes",
+                    "title": "The American Revolution - OverSimplified (Part 2)",
+                    "url": "https://www.youtube.com/watch?v=rtYC2jx1LM0",
+                    "video_length": 880,
+                    "views": "25,810,375 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Sc8w_VKlUCo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Cln0J87vulU&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=Cln0J87vulU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0f64_pvQPIU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Cln0J87vulU",
+                  "title": "The War of the Bucket - OverSimplified",
+                  "video": {
+                    "ad": null,
+                    "comments": "23,415",
+                    "content creator": "OverSimplified",
+                    "date": "Premiered Sep 21, 2019",
+                    "description": "Get Honey for FREE and start saving money today \u25b8 https://joinhoney.com/oversimplified\nHoney has found its 10 million members over a billion dollars in savings on stores like Amazon, eBay, and Domino's. Thanks Honey for sponsoring today\u2019s video!\n\nMany thanks for M. Laser History for helping with the research in this video. Check his channel out here - ",
+                    "dislikes": " Unavailable",
+                    "id": "Cln0J87vulU",
+                    "likes": "401,710 likes",
+                    "title": "The War of the Bucket - OverSimplified",
+                    "url": "https://www.youtube.com/watch?v=Cln0J87vulU",
+                    "video_length": 1120,
+                    "views": "17,823,477 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+              "title": "The War that Changed the English Language - Mini-Wars #3",
+              "video": {
+                "ad": null,
+                "comments": "16,591",
+                "content creator": "OverSimplified",
+                "date": "May 24, 2018",
+                "description": "2 FREE MONTHS OF SKILLSHARE: http://skl.sh/oversimplified3\nMERCH: oversimplified.tv/merch",
+                "dislikes": " Unavailable",
+                "id": "Jl3K63Rbygw",
+                "likes": "361,148 likes",
+                "title": "The War that Changed the English Language - Mini-Wars #3",
+                "url": "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+                "video_length": 763.021,
+                "views": "24,852,237 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=TBR9ypSOTGQ&list=RDCMUCtUbO6rBht0daVIOGML3c8w&start_radio=1&rv=TBR9ypSOTGQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=CBoS9hSM6oM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=zomoqphnwlE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=TBR9ypSOTGQ",
+                  "title": "The Quest to Beat Matt Turk",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,516",
+                    "content creator": "Summoning Salt",
+                    "date": "Mar 21, 2020",
+                    "description": "https://www.twitch.tv/summoningsalt\nhttps://twitter.com/summoningsalt\nMusic list: https://docs.google.com/document/d/1p...",
+                    "dislikes": " Unavailable",
+                    "id": "TBR9ypSOTGQ",
+                    "likes": "109,385 likes",
+                    "title": "The Quest to Beat Matt Turk",
+                    "url": "https://www.youtube.com/watch?v=TBR9ypSOTGQ",
+                    "video_length": 3572.821,
+                    "views": "4,229,081 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=6GmlAIc4S-o",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AC3OuLU5XCw&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=AC3OuLU5XCw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=HSOuLJtDRFA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+                  "title": "Bloodborne Is Genius, And Here's Why",
+                  "video": {
+                    "ad": null,
+                    "comments": "15,728",
+                    "content creator": "hbomberguy",
+                    "date": "Nov 8, 2016",
+                    "description": "This video is a light retrospective on the development of the Souls series, focused largely on what in particular makes Bloodborne special.\n\nMy Twitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "AC3OuLU5XCw",
+                    "likes": "96,785 likes",
+                    "title": "Bloodborne Is Genius, And Here's Why",
+                    "url": "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+                    "video_length": 5199.561,
+                    "views": "4,901,156 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=BYFSRqfHYd8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=t-5_zoEsY6c&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=t-5_zoEsY6c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tsiTl7-2CU4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=t-5_zoEsY6c",
+                  "title": "Lisa: The Analysis",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,563",
+                    "content creator": "hbomberguy",
+                    "date": "Jul 28, 2017",
+                    "description": "The Lisa series is really cool and sad and I want to talk about why.\n\nMy Twitter: https://twitter.com/hbomberguy",
+                    "dislikes": " Unavailable",
+                    "id": "t-5_zoEsY6c",
+                    "likes": "43,536 likes",
+                    "title": "Lisa: The Analysis",
+                    "url": "https://www.youtube.com/watch?v=t-5_zoEsY6c",
+                    "video_length": 2450.161,
+                    "views": "1,415,164 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=LkoGBOs5ecM&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=LkoGBOs5ecM",
+              "title": "Sherlock Is Garbage, And Here's Why",
+              "video": {
+                "ad": null,
+                "comments": "29,937",
+                "content creator": "hbomberguy",
+                "date": "May 31, 2017",
+                "description": "Why is Sherlock so bad? Harris Bomberguy is on the case!\nThis version of the video has been slightly edited to get around the BBC's automatic video-blocking stuff.\n\nMy Twitter: ",
+                "dislikes": " Unavailable",
+                "id": "LkoGBOs5ecM&list",
+                "likes": "180,525 likes",
+                "title": "Sherlock Is Garbage, And Here's Why",
+                "url": "https://www.youtube.com/watch?v=LkoGBOs5ecM&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=LkoGBOs5ecM",
+                "video_length": 6592.241,
+                "views": "8,096,934 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+          "title": "Sherlock Is Garbage, And Here's Why",
+          "video": {
+            "ad": null,
+            "comments": "29,937",
+            "content creator": "hbomberguy",
+            "date": "May 31, 2017",
+            "description": "Why is Sherlock so bad? Harris Bomberguy is on the case!\nThis version of the video has been slightly edited to get around the BBC's automatic video-blocking stuff.\n\nMy Twitter: ",
+            "dislikes": " Unavailable",
+            "id": "LkoGBOs5ecM",
+            "likes": "180,525 likes",
+            "title": "Sherlock Is Garbage, And Here's Why",
+            "url": "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+            "video_length": 6592.241,
+            "views": "8,096,914 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=HnxgnLy3kOk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7t1mxoMIDfY&list=RDCMUCyhnYIvIKK_--PiJXCMKxQQ&start_radio=1&rv=7t1mxoMIDfY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=79gbdKMzujc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=7t1mxoMIDfY",
+                  "title": "Hollow Knight Critique",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,217",
+                    "content creator": "Joseph Anderson",
+                    "date": "Sep 24, 2017",
+                    "description": "An in-depth look at Hollow Knight's levels, bosses, and combat.\n\nScript: https://jphanderson.wordpress.com/201...",
+                    "dislikes": " Unavailable",
+                    "id": "7t1mxoMIDfY",
+                    "likes": "35,383 likes",
+                    "title": "Hollow Knight Critique",
+                    "url": "https://www.youtube.com/watch?v=7t1mxoMIDfY",
+                    "video_length": 3944.561,
+                    "views": "1,628,564 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=jhEDARvLf90",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=jv434Xyybqc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=RsT-5VSqk8I",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=YdSdvIRkkDY",
+                  "title": "The Witness Documentary",
+                  "video": {
+                    "ad": null,
+                    "comments": "766",
+                    "content creator": "Noclip - Video Game Documentaries",
+                    "date": "Apr 2, 2017",
+                    "description": "What lies at the heart of Jonathan Blow's island of mystery? We talk to the famed indie designer about how one of his earliest design ideas blossomed into The Witness.\n\nNoclip operates entirely through the funding of its members. To help us tell more stories about video games and the people who make them, please consider becoming a patron: ",
+                    "dislikes": " Unavailable",
+                    "id": "YdSdvIRkkDY",
+                    "likes": "15,674 likes",
+                    "title": "The Witness Documentary",
+                    "url": "https://www.youtube.com/watch?v=YdSdvIRkkDY",
+                    "video_length": 2878.261,
+                    "views": "561,058 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=j2OT3QdrHLU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=POW0F_-YmUk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ZBnLJNzs1wc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=NOJC62t4JfA",
+                  "title": "The Unbearable Now: An Interpretation of The Witness",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,092",
+                    "content creator": "Electron Dance",
+                    "date": "Jul 12, 2016",
+                    "description": "*SPOILERS FOR THE WITNESS*\nTwitter: https://twitter.com/ElectronDance",
+                    "dislikes": " Unavailable",
+                    "id": "NOJC62t4JfA",
+                    "likes": "5,906 likes",
+                    "title": "The Unbearable Now: An Interpretation of The Witness",
+                    "url": "https://www.youtube.com/watch?v=NOJC62t4JfA",
+                    "video_length": 1707.701,
+                    "views": "126,518 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=KZokQov_aH0",
+              "title": "The Witness - A Great Game That You Shouldn't Play",
+              "video": {
+                "ad": null,
+                "comments": "7,936",
+                "content creator": "Joseph Anderson",
+                "date": "Mar 31, 2016",
+                "description": "Patreon: https://www.patreon.com/JosephAnderson\n\nTwitter: https://twitter.com/jph_anderson",
+                "dislikes": " Unavailable",
+                "id": "KZokQov_aH0",
+                "likes": "106,616 likes",
+                "title": "The Witness - A Great Game That You Shouldn't Play",
+                "url": "https://www.youtube.com/watch?v=KZokQov_aH0",
+                "video_length": 2461.861,
+                "views": "4,641,062 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=MHXO86wKeDY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QvuQH4_05LI&list=RDCMUCYO_jab_esuFRV4b17AJtAw&start_radio=1&rv=QvuQH4_05LI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=yBw67Fb31Cs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=QvuQH4_05LI",
+                  "title": "Tips to be a better problem solver [Last live lecture] | Ep. 10 Lockdown live math",
+                  "video": {
+                    "ad": null,
+                    "comments": "936",
+                    "content creator": "3Blue1Brown",
+                    "date": "Streamed live on May 22, 2020",
+                    "description": "Tips on problem-solving, with examples from geometry, trig, and probability.\nPast episodes with integrated quizzes: https://itempool.com/c/3b1b\nFull playlist: https://www.youtube.com/playlist?list...",
+                    "dislikes": " Unavailable",
+                    "id": "QvuQH4_05LI",
+                    "likes": "20,002 likes",
+                    "title": "Tips to be a better problem solver [Last live lecture] | Ep. 10 Lockdown live math",
+                    "url": "https://www.youtube.com/watch?v=QvuQH4_05LI",
+                    "video_length": 4099.261,
+                    "views": "790,524 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=3s7h2MHQtxc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=R9Plq-D1gEk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=F3Qixy-r_rQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=HeQX2HjkcNo&list=RDCMUCHnyfMqiRRG1u-2MsSQLbXA&start_radio=1&rv=HeQX2HjkcNo",
+                  "title": "Math Has a Fatal Flaw",
+                  "video": {
+                    "ad": null,
+                    "comments": "43,648",
+                    "content creator": "Veritasium",
+                    "date": "May 22, 2021",
+                    "description": "Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer. This video is sponsored by Brilliant. The first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. \n\nSpecial thanks to Prof. Asaf Karagila for consultation on set theory and specific rewrites, to Prof. Alex Kontorovich for reviews of earlier drafts, Prof. Toby \u2018Qubit\u2019 Cubitt for the help with the spectral gap, to Henry Reich for the helpful feedback and comments on the video. \n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580 \nReferences:\n\nDunham, W. (2013, July). A Note on the Origin of the Twin Prime Conjecture. In Notices of the International Congress of Chinese Mathematicians (Vol. 1, No. 1, pp. 63-65). International Press of Boston.  \u2014 ",
+                    "dislikes": " Unavailable",
+                    "id": "HeQX2HjkcNo&list",
+                    "likes": "574,760 likes",
+                    "title": "Math Has a Fatal Flaw",
+                    "url": "https://www.youtube.com/watch?v=HeQX2HjkcNo&list=RDCMUCHnyfMqiRRG1u-2MsSQLbXA&start_radio=1&rv=HeQX2HjkcNo",
+                    "video_length": 2039.201,
+                    "views": "16,797,058 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-1jAOJHvll0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=j5v8D-alAKE&list=RDCMUCHnyfMqiRRG1u-2MsSQLbXA&start_radio=1&rv=j5v8D-alAKE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ZQ--scjcAZ4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=j5v8D-alAKE",
+                  "title": "This is why we can't have nice things",
+                  "video": {
+                    "ad": null,
+                    "comments": "47,358",
+                    "content creator": "Veritasium",
+                    "date": "Mar 26, 2021",
+                    "description": "This video is about stuff: light bulbs, printers, phones and why they aren't better. Go to https://NordVPN.com/veritasium and use code VERITASIUM to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\n\nReferences:\nThe Man in the White Suit \u2014 ",
+                    "dislikes": " Unavailable",
+                    "id": "j5v8D-alAKE",
+                    "likes": "647,004 likes",
+                    "title": "This is why we can't have nice things",
+                    "url": "https://www.youtube.com/watch?v=j5v8D-alAKE",
+                    "video_length": 1049.801,
+                    "views": "15,283,511 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+              "title": "Math Has a Fatal Flaw",
+              "video": {
+                "ad": null,
+                "comments": "43,648",
+                "content creator": "Veritasium",
+                "date": "May 22, 2021",
+                "description": "Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer. This video is sponsored by Brilliant. The first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. \n\nSpecial thanks to Prof. Asaf Karagila for consultation on set theory and specific rewrites, to Prof. Alex Kontorovich for reviews of earlier drafts, Prof. Toby \u2018Qubit\u2019 Cubitt for the help with the spectral gap, to Henry Reich for the helpful feedback and comments on the video. \n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580 \nReferences:\n\nDunham, W. (2013, July). A Note on the Origin of the Twin Prime Conjecture. In Notices of the International Congress of Chinese Mathematicians (Vol. 1, No. 1, pp. 63-65). International Press of Boston.  \u2014 ",
+                "dislikes": " Unavailable",
+                "id": "HeQX2HjkcNo",
+                "likes": "574,759 likes",
+                "title": "Math Has a Fatal Flaw",
+                "url": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+                "video_length": 2039.201,
+                "views": "16,796,928 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=4Sxf8i5LmDI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=TcChjsi7fjU&list=RDCMUCFLwN7vRu8M057qJF8TsBaA&start_radio=1&rv=TcChjsi7fjU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=RGuToQ02j4o",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=TcChjsi7fjU",
+                  "title": "Fallout 76 Is An Absolute Nightmare - This Is Why",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,424",
+                    "content creator": "UpIsNotJump",
+                    "date": "Nov 29, 2018",
+                    "description": "Fallout 76 has arrived. It is an absolute NIGHTMARE and this is why. Fallout 76 has been the talk of the town for months, and with Bethesda getting some stern attention, this game was always going to be a prime target for a nightmare video.\n\nMy MERCH ",
+                    "dislikes": " Unavailable",
+                    "id": "TcChjsi7fjU",
+                    "likes": "102,972 likes",
+                    "title": "Fallout 76 Is An Absolute Nightmare - This Is Why",
+                    "url": "https://www.youtube.com/watch?v=TcChjsi7fjU",
+                    "video_length": 1094.941,
+                    "views": "4,180,272 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=72FAuoUU_2k",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IbRgmcdo0ro",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=aWayXQq1rtY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=NnwsL6BO8ls",
+                  "title": "Half-Life: Alyx Is NOT An Absolute Nightmare \u2013 This Is Why",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,585",
+                    "content creator": "UpIsNotJump",
+                    "date": "Apr 10, 2020",
+                    "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/upisnotjump \n\nI return to review VR games again, and what better virtual reality game to review than Valve\u2019s Half Life: Alyx. No major story spoilers but I talk about Half Life: Alyx\u2019s gameplay at length.\n\nVirtual Reality finally has a game I think most can agree is a great game that has been made excellent in VR. I may not be a Half Life fan as such, but I have played Half Life 1 and 2, and Half Life: Alyx has made me fall in love with the series.\n\nHalf Life Alyx is without a doubt the best virtual reality game I have ever played, I compare it a lot to Boneworks and The Walking Dead: Saint and Sinners because I think it highlights where those games missed the mark a little, and what future games need to try and do to make VR really take off as a platform. \n\nI played Half Life: Alyx on the Index, but it seems to play just as well on the Vive. I would recommend the Index version as the Index has the best virtual Reality controllers I have used so far. \nAnyway, that\u2019s enough of me talking about VR, go get Half Life: Alyx if you can!",
+                    "dislikes": " Unavailable",
+                    "id": "NnwsL6BO8ls",
+                    "likes": "104,654 likes",
+                    "title": "Half-Life: Alyx Is NOT An Absolute Nightmare \u2013 This Is Why",
+                    "url": "https://www.youtube.com/watch?v=NnwsL6BO8ls",
+                    "video_length": 1319.521,
+                    "views": "2,837,652 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=WjJ-kpgps1c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=094y1Z2wpJg&list=RDCMUCHnyfMqiRRG1u-2MsSQLbXA&start_radio=1&rv=094y1Z2wpJg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=d-o3eB9sfls",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=094y1Z2wpJg",
+                  "title": "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
+                  "video": {
+                    "ad": null,
+                    "comments": "60,848",
+                    "content creator": "Veritasium",
+                    "date": "Jul 30, 2021",
+                    "description": "The Collatz Conjecture is the simplest math problem no one can solve \u2014 it is easy enough for almost anyone to understand but notoriously difficult to solve. This video is sponsored by Brilliant. The first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription.\n\nSpecial thanks to Prof. Alex Kontorovich for introducing us to this topic, filming the interview, and consulting on the script and earlier drafts of this video.\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580 \nReferences:\nLagarias, J. C. (2006). The 3x+ 1 problem: An annotated bibliography, II (2000-2009). arXiv preprint math/0608208. \u2014 ",
+                    "dislikes": " Unavailable",
+                    "id": "094y1Z2wpJg",
+                    "likes": "672,136 likes",
+                    "title": "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
+                    "url": "https://www.youtube.com/watch?v=094y1Z2wpJg",
+                    "video_length": 1328.521,
+                    "views": "23,497,844 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=uqwvf6R1_QY",
+              "title": "Climate Change Is An Absolute Nightmare - This Is Why",
+              "video": {
+                "ad": null,
+                "comments": "23,588",
+                "content creator": "UpIsNotJump",
+                "date": "Jul 9, 2020",
+                "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/upisnotjump2",
+                "dislikes": " Unavailable",
+                "id": "uqwvf6R1_QY",
+                "likes": "137,493 likes",
+                "title": "Climate Change Is An Absolute Nightmare - This Is Why",
+                "url": "https://www.youtube.com/watch?v=uqwvf6R1_QY",
+                "video_length": 1806.301,
+                "views": "2,144,420 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+          "title": "Climate Denial: A Measured Response",
+          "video": {
+            "ad": null,
+            "comments": "24,533",
+            "content creator": "hbomberguy",
+            "date": "May 31, 2019",
+            "description": "Sponsored in part by CuriosityStream: https://www.curiositystream.com/hbomb...\n\nFacts. What are they good for?\n\nTwitter: ",
+            "dislikes": " Unavailable",
+            "id": "RLqXkYrdmjY",
+            "likes": "170,872 likes",
+            "title": "Climate Denial: A Measured Response",
+            "url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+            "video_length": 2479.601,
+            "views": "4,428,872 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=D93y8i1IKeo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=s0ZFtb9RH-Q&list=RDCMUC0VVYtw21rg2cokUystu2Dw&start_radio=1&rv=s0ZFtb9RH-Q",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=mldPeBE-Z5w",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=s0ZFtb9RH-Q",
+                  "title": "I was the FIRST to beat Super Mario Odyssey Blindfolded!",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,792",
+                    "content creator": "SmallAnt",
+                    "date": "Jan 5, 2019",
+                    "description": "After weeks of practice and a failed attempt, here are the highlights to the world's first ever blindfolded Super Mario Odyssey run! The entire run took just over 12 hours, but I did my best to cut it down into something more watchable!\n\nThis was streamed live on twitch: ",
+                    "dislikes": " Unavailable",
+                    "id": "s0ZFtb9RH-Q",
+                    "likes": "77,952 likes",
+                    "title": "I was the FIRST to beat Super Mario Odyssey Blindfolded!",
+                    "url": "https://www.youtube.com/watch?v=s0ZFtb9RH-Q",
+                    "video_length": 3373.961,
+                    "views": "4,281,476 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lcVmXMwDCa8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=EQb59TjRRrg&list=RDCMUCfagwFCjnHBYRYIyBnmNAdA&start_radio=1&rv=EQb59TjRRrg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9GYcxVkzLwQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=EQb59TjRRrg",
+                  "title": "Speedrunner Reacts to FAKE Blindfolded Speedrun",
+                  "video": {
+                    "ad": null,
+                    "comments": "599",
+                    "content creator": "Armada",
+                    "date": "Premiered Jan 22, 2021",
+                    "description": "Don't forget to subscribe \u25ba https://goo.gl/XsL2Rt\nMake sure to catch Armada live \u25ba https://www.twitch.tv/armadaugs",
+                    "dislikes": " Unavailable",
+                    "id": "EQb59TjRRrg",
+                    "likes": "11,264 likes",
+                    "title": "Speedrunner Reacts to FAKE Blindfolded Speedrun",
+                    "url": "https://www.youtube.com/watch?v=EQb59TjRRrg",
+                    "video_length": 2259.401,
+                    "views": "410,933 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lt8LGhD1kyU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xhof94OPAiU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QCgkhtgeBSI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Hv8WKLTzXnU",
+                  "title": "Friday Night Funkin' but I'm BLINDFOLDED",
+                  "video": {
+                    "ad": null,
+                    "comments": "34",
+                    "content creator": "Starkidd",
+                    "date": "Feb 28, 2021",
+                    "description": "this was ridiculous\nfollow me on twitch for more blindfolded fnf: https://www.twitch.tv/starkiddtv\njoin my discord:",
+                    "dislikes": " Unavailable",
+                    "id": "Hv8WKLTzXnU",
+                    "likes": "119 likes",
+                    "title": "Friday Night Funkin' but I'm BLINDFOLDED",
+                    "url": "https://www.youtube.com/watch?v=Hv8WKLTzXnU",
+                    "video_length": 572.881,
+                    "views": "3,086 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Hdzo0IXtrtI",
+              "title": "Obvious Cheater Fakes Blindfolded Super Mario 64 Speedrun",
+              "video": {
+                "ad": null,
+                "comments": "19,795",
+                "content creator": "charliebrown64",
+                "date": "Dec 11, 2020",
+                "description": "Follow me on Twitch: http://twitch.tv/charliebrown64\nFollow me on Twitter: http://twitter.com/CTheseBs",
+                "dislikes": " Unavailable",
+                "id": "Hdzo0IXtrtI",
+                "likes": "243,997 likes",
+                "title": "Obvious Cheater Fakes Blindfolded Super Mario 64 Speedrun",
+                "url": "https://www.youtube.com/watch?v=Hdzo0IXtrtI",
+                "video_length": 1429.541,
+                "views": "10,049,989 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=myKffdZcVu0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=uSUJh7G6EtI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=VSt5IheyDdQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=iOVyNobXTxw",
+                  "title": "The History of Super Paper Mario Speedrunning [Any% World Record Progression]",
+                  "video": {
+                    "ad": null,
+                    "comments": "993",
+                    "content creator": "SPM Community",
+                    "date": "Jul 24, 2021",
+                    "description": "Today, we'll take you on a journey through the History of Super Paper Mario Speedrunning, and show you how a band of passionate runners came together to dismantle this game in unimaginable ways. This is the World Record Progression of the Super Paper Mario Any% category, presented by NmFlash8 and JCR.\n\nInterested in joining the Super Paper Mario Speedrunning Community? Feel free to join our discord below! We have a lot of great members who would love to help introduce you to this game's speedrun. We also have tons of great resources and guides in the discord, as well as on our speedrun.com page! Be sure to follow the SPM Community twitch, twitter, and youtube to stay updated with SPM Speedrunning.\n\nSpeedrunning Leaderboard Link: ",
+                    "dislikes": " Unavailable",
+                    "id": "iOVyNobXTxw",
+                    "likes": "10,855 likes",
+                    "title": "The History of Super Paper Mario Speedrunning [Any% World Record Progression]",
+                    "url": "https://www.youtube.com/watch?v=iOVyNobXTxw",
+                    "video_length": 7284.461,
+                    "views": "507,113 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=qnXTs8UfDOQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=efx0ppDIpN4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bnkoSn9lmVw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=2OlO3_CEN5U",
+                  "title": "How it feels to watch Summoning Salt",
+                  "video": {
+                    "ad": null,
+                    "comments": "493",
+                    "content creator": "Gabriel Reed",
+                    "date": "Mar 29, 2021",
+                    "description": "Song is \"We're Finally Landing\" by Home - https://www.youtube.com/watch?v=zR6fE...\n\nInspired by https://www.youtube.com/watch?v=PmLH_... and American Dad. I do not own rights to anything.",
+                    "dislikes": " Unavailable",
+                    "id": "2OlO3_CEN5U",
+                    "likes": "19,325 likes",
+                    "title": "How it feels to watch Summoning Salt",
+                    "url": "https://www.youtube.com/watch?v=2OlO3_CEN5U",
+                    "video_length": 75.681,
+                    "views": "203,983 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=1Fn2WlqlNE4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=h75zCdgWBoU&list=RDh75zCdgWBoU&start_radio=1&rv=h75zCdgWBoU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KhfBtW9RLc4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=h75zCdgWBoU",
+                  "title": "Prism Age - Plural (Remake)",
+                  "video": {
+                    "ad": null,
+                    "comments": "0",
+                    "content creator": "Vokon",
+                    "date": "Mar 21, 2021",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "h75zCdgWBoU",
+                    "likes": "15 likes",
+                    "title": "Prism Age - Plural (Remake)",
+                    "url": "https://www.youtube.com/watch?v=h75zCdgWBoU",
+                    "video_length": 172.701,
+                    "views": "602 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=R_wscUcbynk&list=RDCMUCtUbO6rBht0daVIOGML3c8w&start_radio=1&rv=R_wscUcbynk",
+              "title": "The History of Super Mario 64 16 Star World Records",
+              "video": {
+                "ad": null,
+                "comments": "9,397",
+                "content creator": "Summoning Salt",
+                "date": "Aug 20, 2021",
+                "description": "https://twitter.com/summoningsalt\nMusic list: https://docs.google.com/document/d/1p...\nhttps://www.patreon.com/summoningsalt",
+                "dislikes": " Unavailable",
+                "id": "R_wscUcbynk&list",
+                "likes": "135,560 likes",
+                "title": "The History of Super Mario 64 16 Star World Records",
+                "url": "https://www.youtube.com/watch?v=R_wscUcbynk&list=RDCMUCtUbO6rBht0daVIOGML3c8w&start_radio=1&rv=R_wscUcbynk",
+                "video_length": 3057.501,
+                "views": "3,265,239 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=pmS9e7kzgS4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3QtK0MB_PDE&list=RDCMUCtUbO6rBht0daVIOGML3c8w&start_radio=1&rv=3QtK0MB_PDE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bt1DFNSNbRk&list=PLMxPYcr2zEkWInMyvvxmN22gjrRR0x__u",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3QtK0MB_PDE",
+                  "title": "World Record Progression: Donkey Kong 64",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,880",
+                    "content creator": "Summoning Salt",
+                    "date": "Nov 1, 2017",
+                    "description": "https://www.twitch.tv/summoningsalt\nhttps://twitter.com/summoningsalt\nMusic List- https://docs.google.com/document/d/1p...",
+                    "dislikes": " Unavailable",
+                    "id": "3QtK0MB_PDE",
+                    "likes": "49,630 likes",
+                    "title": "World Record Progression: Donkey Kong 64",
+                    "url": "https://www.youtube.com/watch?v=3QtK0MB_PDE",
+                    "video_length": 1487.541,
+                    "views": "2,843,152 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=GCKhxkmetlY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=G-kMm6tPYsY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kDluReuJDOk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=mAh4IJysiLU&list=RDCMUCtUbO6rBht0daVIOGML3c8w&start_radio=1&rv=mAh4IJysiLU",
+                  "title": "Mario Kart Wii: The Ultra Shortcut Revolution",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,470",
+                    "content creator": "Summoning Salt",
+                    "date": "Feb 21, 2021",
+                    "description": "https://twitter.com/summoningsalt\nMusic list: https://docs.google.com/document/d/1p...\nhttps://www.patreon.com/summoningsalt",
+                    "dislikes": " Unavailable",
+                    "id": "mAh4IJysiLU&list",
+                    "likes": "141,444 likes",
+                    "title": "Mario Kart Wii: The Ultra Shortcut Revolution",
+                    "url": "https://www.youtube.com/watch?v=mAh4IJysiLU&list=RDCMUCtUbO6rBht0daVIOGML3c8w&start_radio=1&rv=mAh4IJysiLU",
+                    "video_length": 3141.721,
+                    "views": "3,193,374 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=L59XlQvNnKc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_ATbmMuW6wE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=gH3fZvV0Wp8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Y99Wj-NStok",
+                  "title": "[Epilepsy Warning] Choco Mountain: The History of Mario Kart 64's Most Infamous Track",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,253",
+                    "content creator": "Summoning Salt",
+                    "date": "Jun 3, 2018",
+                    "description": "Disclaimer - This video features flickering lights at times. View at your own discretion.\n\nhttps://www.twitch.tv/summoningsalt",
+                    "dislikes": " Unavailable",
+                    "id": "Y99Wj-NStok",
+                    "likes": "127,920 likes",
+                    "title": "[Epilepsy Warning] Choco Mountain: The History of Mario Kart 64's Most Infamous Track",
+                    "url": "https://www.youtube.com/watch?v=Y99Wj-NStok",
+                    "video_length": 1793.921,
+                    "views": "4,492,459 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=mAh4IJysiLU",
+              "title": "Mario Kart Wii: The Ultra Shortcut Revolution",
+              "video": {
+                "ad": null,
+                "comments": "10,470",
+                "content creator": "Summoning Salt",
+                "date": "Feb 21, 2021",
+                "description": "https://twitter.com/summoningsalt\nMusic list: https://docs.google.com/document/d/1p...\nhttps://www.patreon.com/summoningsalt",
+                "dislikes": " Unavailable",
+                "id": "mAh4IJysiLU",
+                "likes": "141,444 likes",
+                "title": "Mario Kart Wii: The Ultra Shortcut Revolution",
+                "url": "https://www.youtube.com/watch?v=mAh4IJysiLU",
+                "video_length": 3141.721,
+                "views": "3,193,294 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=R_wscUcbynk",
+          "title": "The History of Super Mario 64 16 Star World Records",
+          "video": {
+            "ad": null,
+            "comments": "9,397",
+            "content creator": "Summoning Salt",
+            "date": "Aug 20, 2021",
+            "description": "https://twitter.com/summoningsalt\nMusic list: https://docs.google.com/document/d/1p...\nhttps://www.patreon.com/summoningsalt",
+            "dislikes": " Unavailable",
+            "id": "R_wscUcbynk",
+            "likes": "135,560 likes",
+            "title": "The History of Super Mario 64 16 Star World Records",
+            "url": "https://www.youtube.com/watch?v=R_wscUcbynk",
+            "video_length": 3057.501,
+            "views": "3,265,136 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+      "title": "Flat Earth: A Measured Response",
+      "video": {
+        "ad": null,
+        "comments": "17,004",
+        "content creator": "hbomberguy",
+        "date": "Premiered Dec 31, 2018",
+        "description": "It's like Frisbee, only real\n\nCredits theme (and thumbnail!) by Patricia Taxxon, it's Kissing Ancaps from her album \"Little Spoon\"",
+        "dislikes": " Unavailable",
+        "id": "2gFsOoKAHZg",
+        "likes": "119,088 likes",
+        "title": "Flat Earth: A Measured Response",
+        "url": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+        "video_length": 2717.281,
+        "views": "4,169,510 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+  "title": "The War on Christmas: A Measured Response",
+  "video": {
+    "ad": null,
+    "comments": "17,711",
+    "content creator": "hbomberguy",
+    "date": "Premiered Dec 23, 2020",
+    "description": "Christmas is a moo point.\n\nMy Twitter: https://twitter.com/hbomberguy",
+    "dislikes": " Unavailable",
+    "id": "jbZo4x0NbbI",
+    "likes": "120,114 likes",
+    "title": "The War on Christmas: A Measured Response",
+    "url": "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+    "video_length": 3237.081,
+    "views": "2,655,756 views"
+  }
+}

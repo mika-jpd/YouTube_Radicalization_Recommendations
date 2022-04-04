@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=EgwOxM_2CW8",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=ma4DJbvO84I",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=XE5ysVGIIz0",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=YTwAHVbzsQA",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=rq4AxprjIm4",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=kWGBN8WqAAo",
+                          "title": "End Of An Arc - Professor Flowers Video On Vaush & I",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,413",
+                            "content creator": "Heem",
+                            "date": "Oct 7, 2021",
+                            "description": "#vaush #professorflowers #debatebros\n\nprofessor flowers made a response video after her discussions with Vaush and myself.\n\nI reacted to it. That's it\n\nTwitter - ",
+                            "dislikes": " Unavailable",
+                            "id": "kWGBN8WqAAo",
+                            "likes": "2,004 likes",
+                            "title": "End Of An Arc - Professor Flowers Video On Vaush & I",
+                            "url": "https://www.youtube.com/watch?v=kWGBN8WqAAo",
+                            "video_length": 5566.921,
+                            "views": "39,900 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=fNLddXkLCzQ",
+                          "title": "Debate Review: Charlie Kirk Faces Off Against Sam Seder at Politicon",
+                          "video": {
+                            "ad": null,
+                            "comments": "985",
+                            "content creator": "The Vaush Pit",
+                            "date": "Jul 28, 2021",
+                            "description": "The Charlie Kirk debate is right around the corner... I'm going back to review some of his older debates! First up, Sam Seder at Politicon in 2018.\n\nStreamed on Jul 20, 2021\n\n\ud83d\udd34 Website  - ",
+                            "dislikes": " Unavailable",
+                            "id": "fNLddXkLCzQ",
+                            "likes": "4,960 likes",
+                            "title": "Debate Review: Charlie Kirk Faces Off Against Sam Seder at Politicon",
+                            "url": "https://www.youtube.com/watch?v=fNLddXkLCzQ",
+                            "video_length": 5618.541,
+                            "views": "155,648 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=7iVQOSS5ZCk",
+                          "title": "REACTING TO HUNTER AVALLONE VS MIKE FROM PA (BIG MEMES)",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,624",
+                            "content creator": "Vaush",
+                            "date": "Jul 9, 2021",
+                            "description": "Is Hunter Avallone actually a GRIFTER? My thoughts on this debate & more. Can someone explain what a TIF is? \n\n\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - ",
+                            "dislikes": " Unavailable",
+                            "id": "7iVQOSS5ZCk",
+                            "likes": "7,683 likes",
+                            "title": "REACTING TO HUNTER AVALLONE VS MIKE FROM PA (BIG MEMES)",
+                            "url": "https://www.youtube.com/watch?v=7iVQOSS5ZCk",
+                            "video_length": 6305.461,
+                            "views": "235,548 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=5l90-mO6KC8&list=RDCMUCdUD6racxisHiSX9iWFcuug&start_radio=1&rv=5l90-mO6KC8",
+                          "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,781",
+                            "content creator": "The Vaush Pit",
+                            "date": "Oct 4, 2021",
+                            "description": "Original video: https://www.youtube.com/watch?v=nSrLp...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+                            "dislikes": " Unavailable",
+                            "id": "5l90-mO6KC8&list",
+                            "likes": "3,655 likes",
+                            "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+                            "url": "https://www.youtube.com/watch?v=5l90-mO6KC8&list=RDCMUCdUD6racxisHiSX9iWFcuug&start_radio=1&rv=5l90-mO6KC8",
+                            "video_length": 4674.681,
+                            "views": "114,065 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=X_tYf-nYPZg",
+                          "title": "Dylan Burns vs Jabson Ankles Debate Goes FERAL | Vaush Reacts",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,894",
+                            "content creator": "Vaush",
+                            "date": "Oct 1, 2021",
+                            "description": "Like playing chess with a pigeon.\n\nOriginal Video: https://www.youtube.com/watch?v=h8-rt...",
+                            "dislikes": " Unavailable",
+                            "id": "X_tYf-nYPZg",
+                            "likes": "5,648 likes",
+                            "title": "Dylan Burns vs Jabson Ankles Debate Goes FERAL | Vaush Reacts",
+                            "url": "https://www.youtube.com/watch?v=X_tYf-nYPZg",
+                            "video_length": 11325.861,
+                            "views": "280,249 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=J3yfIyLo5XA",
+                      "title": "What Does Vaush Think About The IMF Bank?",
+                      "video": {
+                        "ad": null,
+                        "comments": "101",
+                        "content creator": "The Vaush Pit",
+                        "date": "Jan 11, 2022",
+                        "description": "Vaush talks to Archmage Index (pronouns she/they) about the IMF bank, NATO, and far right memeing. \n\nHer Channel: ",
+                        "dislikes": " Unavailable",
+                        "id": "J3yfIyLo5XA",
+                        "likes": "821 likes",
+                        "title": "What Does Vaush Think About The IMF Bank?",
+                        "url": "https://www.youtube.com/watch?v=J3yfIyLo5XA",
+                        "video_length": 1721.321,
+                        "views": "15,491 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=p1J2MMPqgIA",
+                      "title": "It Just Got Worse, They're Buying An Island - Welcome To Cryptoland",
+                      "video": {
+                        "ad": null,
+                        "comments": "749",
+                        "content creator": "Shark3ozero",
+                        "date": "Jan 8, 2022",
+                        "description": "Thanks for watching visit us again for more commentary, reaction videos, deep dives, political  analysis, breadtube adjacent dunks and internet culture memes.\n\nBecome a \ud83d\udd25 member \ud83d\udd25 to gain emotes, access to some videos early and MORE:",
+                        "dislikes": " Unavailable",
+                        "id": "p1J2MMPqgIA",
+                        "likes": "2,231 likes",
+                        "title": "It Just Got Worse, They're Buying An Island - Welcome To Cryptoland",
+                        "url": "https://www.youtube.com/watch?v=p1J2MMPqgIA",
+                        "video_length": 2429.201,
+                        "views": "34,310 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=feXtzQivbxw",
+                      "title": "RANKING ALL OF THE FIVE NIGHTS AT FREDDY'S JUMP SCARES! LESSSS GOOO!",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,291",
+                        "content creator": "The Vaush Pit",
+                        "date": "Dec 28, 2021",
+                        "description": "Vaush rates and ranks all the jump scares from Five Nights at Freddy's! \n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+                        "dislikes": " Unavailable",
+                        "id": "feXtzQivbxw",
+                        "likes": "8,615 likes",
+                        "title": "RANKING ALL OF THE FIVE NIGHTS AT FREDDY'S JUMP SCARES! LESSSS GOOO!",
+                        "url": "https://www.youtube.com/watch?v=feXtzQivbxw",
+                        "video_length": 7819.761,
+                        "views": "175,789 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=UzXwjUxvcUQ",
+                      "title": "CHAT GROWS ANXIOUS AS I LEARN ABOUT THE DENSEST CITY EVER BUILT",
+                      "video": {
+                        "ad": null,
+                        "comments": "601",
+                        "content creator": "The Vaush Pit",
+                        "date": "Nov 29, 2021",
+                        "description": "\ud83d\udd34 Website  - https://www.vaush.gg/\n\ud83d\udcb5 Patreon  - https://www.patreon.com/vaush",
+                        "dislikes": " Unavailable",
+                        "id": "UzXwjUxvcUQ",
+                        "likes": "3,469 likes",
+                        "title": "CHAT GROWS ANXIOUS AS I LEARN ABOUT THE DENSEST CITY EVER BUILT",
+                        "url": "https://www.youtube.com/watch?v=UzXwjUxvcUQ",
+                        "video_length": 4299.821,
+                        "views": "93,105 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5l90-mO6KC8",
+                      "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,781",
+                        "content creator": "The Vaush Pit",
+                        "date": "Oct 4, 2021",
+                        "description": "Original video: https://www.youtube.com/watch?v=nSrLp...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+                        "dislikes": " Unavailable",
+                        "id": "5l90-mO6KC8",
+                        "likes": "3,655 likes",
+                        "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+                        "url": "https://www.youtube.com/watch?v=5l90-mO6KC8",
+                        "video_length": 4674.681,
+                        "views": "114,059 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ktrhF1zBuCs",
+                  "title": "HEATED DemonMama Debate Leads To Screaming Match And Ragequit",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,652",
+                    "content creator": "Destiny",
+                    "date": "Sep 24, 2021",
+                    "description": "\"Consider this a serious mark on our friendship\"\n\nDate: 24 Sep, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+                    "dislikes": " Unavailable",
+                    "id": "ktrhF1zBuCs",
+                    "likes": "6,035 likes",
+                    "title": "HEATED DemonMama Debate Leads To Screaming Match And Ragequit",
+                    "url": "https://www.youtube.com/watch?v=ktrhF1zBuCs",
+                    "video_length": 4652.481,
+                    "views": "272,796 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=tDHANohGp0o&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=tDHANohGp0o",
+                  "title": "If That's True Then I Shouldn't Have Won - Post Debate Drama",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,805",
+                    "content creator": "Destiny",
+                    "date": "Jul 18, 2021",
+                    "description": "Miscommunication, confusion and drama following the Hippy Dippy championship. Did Destiny steal the win and the belt?\n\nDate: 17 Jul, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+                    "dislikes": " Unavailable",
+                    "id": "tDHANohGp0o&list",
+                    "likes": "3,725 likes",
+                    "title": "If That's True Then I Shouldn't Have Won - Post Debate Drama",
+                    "url": "https://www.youtube.com/watch?v=tDHANohGp0o&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=tDHANohGp0o",
+                    "video_length": 5063.721,
+                    "views": "166,048 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=5Fb4nJl_eJE",
+                  "title": "DESTINY GOT HASAN & VAUSH BANNED - Addressing INSANE Claims From Big YouTubers",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,660",
+                    "content creator": "Destiny",
+                    "date": "Dec 19, 2021",
+                    "description": "Big lefty YouTubers come after Destiny with interesting claims and blame him for getting Hasan and Vaush banned...\n\nDate: 18 Dec, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+                    "dislikes": " Unavailable",
+                    "id": "5Fb4nJl_eJE",
+                    "likes": "5,097 likes",
+                    "title": "DESTINY GOT HASAN & VAUSH BANNED - Addressing INSANE Claims From Big YouTubers",
+                    "url": "https://www.youtube.com/watch?v=5Fb4nJl_eJE",
+                    "video_length": 2899.461,
+                    "views": "203,133 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=qH15SC3RkW8",
+                  "title": "Destiny Enters Dating Show, The Girl's BF Shows Up At The Door On Live Stream",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,129",
+                    "content creator": "Destiny",
+                    "date": "Oct 25, 2021",
+                    "description": "Destiny goes on a speed dating show hosted by kyootbot and ends up giving advice to the first contestant on her relationship with her boyfriend...\n\nEDITED BY SENK (",
+                    "dislikes": " Unavailable",
+                    "id": "qH15SC3RkW8",
+                    "likes": "3,770 likes",
+                    "title": "Destiny Enters Dating Show, The Girl's BF Shows Up At The Door On Live Stream",
+                    "url": "https://www.youtube.com/watch?v=qH15SC3RkW8",
+                    "video_length": 4834.761,
+                    "views": "146,169 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Gbxq-qdMerc",
+                  "title": "ROASTING Elon Musk & Learning About Nuclear Energy (2 FOR 1 STUNLOCK SPECIAL)",
+                  "video": {
+                    "ad": null,
+                    "comments": "587",
+                    "content creator": "The Vaush Pit",
+                    "date": "Jan 8, 2022",
+                    "description": "\ud83d\udd34 Website  - https://www.vaush.gg/\n\ud83d\udcb5 Patreon  - https://www.patreon.com/vaush",
+                    "dislikes": " Unavailable",
+                    "id": "Gbxq-qdMerc",
+                    "likes": "3,258 likes",
+                    "title": "ROASTING Elon Musk & Learning About Nuclear Energy (2 FOR 1 STUNLOCK SPECIAL)",
+                    "url": "https://www.youtube.com/watch?v=Gbxq-qdMerc",
+                    "video_length": 2752.621,
+                    "views": "67,953 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=wBcOF9w_jy0",
+              "title": "HE WAS HELPLESS AND YOU TASED HIM - FBI Confronts Rioter w/ Video Evidence",
+              "video": {
+                "ad": null,
+                "comments": "880",
+                "content creator": "Destiny",
+                "date": "Dec 8, 2021",
+                "description": "Destiny reacts to conservative activist Daniel Rodriguez crying and apologizing for using a Taser on a police officer during Jan. 6 riots at the Capitol in the first interrogation video of a riot defendant released publicly...\n\nDate: 3 Dec, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+                "dislikes": " Unavailable",
+                "id": "wBcOF9w_jy0",
+                "likes": "2,273 likes",
+                "title": "HE WAS HELPLESS AND YOU TASED HIM - FBI Confronts Rioter w/ Video Evidence",
+                "url": "https://www.youtube.com/watch?v=wBcOF9w_jy0",
+                "video_length": 4695,
+                "views": "124,007 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Ypk37SHCKYE",
+              "title": "Viewers Bring Up Destiny's Past To Conservative Host | Relationships Q&A",
+              "video": {
+                "ad": null,
+                "comments": "32",
+                "content creator": "Destiny",
+                "date": "Jan 12, 2022",
+                "description": "Destiny joins Tree Of Logic and address complaints from viewers that don't approve of Destiny going on her show given his past...\n\n83% off VPN w/ promo code Destiny \u25baSurfshark.deals/destiny\n\nFollow Destiny\n\u25baSTREAM - ",
+                "dislikes": " Unavailable",
+                "id": "Ypk37SHCKYE",
+                "likes": "145 likes",
+                "title": "Viewers Bring Up Destiny's Past To Conservative Host | Relationships Q&A",
+                "url": "https://www.youtube.com/watch?v=Ypk37SHCKYE",
+                "video_length": 4410.021,
+                "views": "3,148 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=xKqV320JSck",
+              "title": "(2021-09-23-Part01) Destiny confronts Ana during Zherka's Royale on her claims of him abusing her",
+              "video": {
+                "ad": null,
+                "comments": "3,613",
+                "content creator": "The Destiny Vault",
+                "date": "Sep 23, 2021",
+                "description": "Taken from STRDST's (https://twitch.tv/STRDST_) livestream of the panel.\nTimestamps:\n00:00:00 Beginning of the explosion on the Zherka Royale.",
+                "dislikes": " Unavailable",
+                "id": "xKqV320JSck",
+                "likes": "3,104 likes",
+                "title": "(2021-09-23-Part01) Destiny confronts Ana during Zherka's Royale on her claims of him abusing her",
+                "url": "https://www.youtube.com/watch?v=xKqV320JSck",
+                "video_length": 14141.661,
+                "views": "253,083 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=-nLJSxIsuKQ",
+              "title": "Furious Right-Wing PHD Shocks Destiny And Moderators, Forces Abrupt End To Debate",
+              "video": {
+                "ad": null,
+                "comments": "5,489",
+                "content creator": "Destiny",
+                "date": "Oct 8, 2021",
+                "description": "DEBATE: Destiny takes on one of the craziest debaters in a long time who claims to be a PHD. They argue on the topic of the great reset but things fly off the rails, forcing Destiny to abruptly quit the debate in fear of a Terms of Service violation.\n\nDate: 7 Oct, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+                "dislikes": " Unavailable",
+                "id": "-nLJSxIsuKQ",
+                "likes": "8,808 likes",
+                "title": "Furious Right-Wing PHD Shocks Destiny And Moderators, Forces Abrupt End To Debate",
+                "url": "https://www.youtube.com/watch?v=-nLJSxIsuKQ",
+                "video_length": 8129.501,
+                "views": "326,235 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=tDHANohGp0o",
+              "title": "If That's True Then I Shouldn't Have Won - Post Debate Drama",
+              "video": {
+                "ad": null,
+                "comments": "1,805",
+                "content creator": "Destiny",
+                "date": "Jul 18, 2021",
+                "description": "Miscommunication, confusion and drama following the Hippy Dippy championship. Did Destiny steal the win and the belt?\n\nDate: 17 Jul, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+                "dislikes": " Unavailable",
+                "id": "tDHANohGp0o",
+                "likes": "3,725 likes",
+                "title": "If That's True Then I Shouldn't Have Won - Post Debate Drama",
+                "url": "https://www.youtube.com/watch?v=tDHANohGp0o",
+                "video_length": 5063.721,
+                "views": "166,048 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=ZVO8fqOBJTo",
+          "title": "DESTINY IS A STOCHASTIC TERRORIST - Destiny Defends Himself In HEATED Debate Panel",
+          "video": {
+            "ad": null,
+            "comments": "1,079",
+            "content creator": "Destiny",
+            "date": "Dec 3, 2021",
+            "description": "DEBATE: Destiny debates stochastic terrorism on Primecaye's Reverie debate panel ft. Pisco, Counterpoints, GappyV, Dooby, Fanatiq, Lucas, Fabian, SillySerious and more...\n\nDate: 15 Nov, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "ZVO8fqOBJTo",
+            "likes": "2,950 likes",
+            "title": "DESTINY IS A STOCHASTIC TERRORIST - Destiny Defends Himself In HEATED Debate Panel",
+            "url": "https://www.youtube.com/watch?v=ZVO8fqOBJTo",
+            "video_length": 7458.381,
+            "views": "178,635 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VxK54991rF4",
+          "title": "\"DESTINY IS MANSPLAINING\" - Debate Gets Personal, Moderator Steps In...",
+          "video": {
+            "ad": null,
+            "comments": "3,541",
+            "content creator": "Destiny",
+            "date": "Nov 16, 2021",
+            "description": "DEBATE: Destiny gets accused of mansplaining in a heated Rittenhouse debate ft. Heem, Rob Noerr, Shark3ozero, Progressive Brat, DoctorRedPill, KFLOGAN1875...\n\nDate: 14 Nov, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "VxK54991rF4",
+            "likes": "6,848 likes",
+            "title": "\"DESTINY IS MANSPLAINING\" - Debate Gets Personal, Moderator Steps In...",
+            "url": "https://www.youtube.com/watch?v=VxK54991rF4",
+            "video_length": 7495,
+            "views": "273,423 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cRpQN0lTKoQ",
+          "title": "Destiny, DemonMama And Hunter CLASH In An Elimination Debate...",
+          "video": {
+            "ad": null,
+            "comments": "1,992",
+            "content creator": "Destiny",
+            "date": "Jul 17, 2021",
+            "description": "DEBATE: Hippy Dippy debate championship hosted by DylanburnsTV ft. Destiny, Trihex, Hunter Avallone, DrHeemedOut, Demonmama, Xanderhal, Counterpoints, CTV, American Nacho, LonerBox, Primecayes, Josierosec, The Sprouticus and more...\n\nDate: 16 Jul, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "cRpQN0lTKoQ",
+            "likes": "5,337 likes",
+            "title": "Destiny, DemonMama And Hunter CLASH In An Elimination Debate...",
+            "url": "https://www.youtube.com/watch?v=cRpQN0lTKoQ",
+            "video_length": 11105,
+            "views": "317,135 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UIdlHWuxdXI",
+          "title": "Debating Lefties That Targeted The Canvassing In Omaha",
+          "video": {
+            "ad": null,
+            "comments": "2,727",
+            "content creator": "Destiny",
+            "date": "Mar 4, 2021",
+            "description": "Destiny debates lefties that targeted him and the Omaha canvassing operation, including a rogue Hasan fan who called in another socialist friend and later makes inappropriate sexual comments toward Destiny...\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "UIdlHWuxdXI",
+            "likes": "6,518 likes",
+            "title": "Debating Lefties That Targeted The Canvassing In Omaha",
+            "url": "https://www.youtube.com/watch?v=UIdlHWuxdXI",
+            "video_length": 6753.261,
+            "views": "235,631 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n-PHbg7bx3U&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=n-PHbg7bx3U",
+          "title": "Destiny Forces Moderator To Leave In Heated Personal Debate - HIPPY DIPPY CHAMPIONSHIP",
+          "video": {
+            "ad": null,
+            "comments": "3,031",
+            "content creator": "Destiny",
+            "date": "Nov 27, 2021",
+            "description": "DEBATE: Destiny forces the moderator to leave by using new cage match rule in a heated and personal debate against ActualJake in DylanBurnsTV's hippy dippy debate championship...\n\nDate: 26 Nov, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "n-PHbg7bx3U&list",
+            "likes": "7,354 likes",
+            "title": "Destiny Forces Moderator To Leave In Heated Personal Debate - HIPPY DIPPY CHAMPIONSHIP",
+            "url": "https://www.youtube.com/watch?v=n-PHbg7bx3U&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=n-PHbg7bx3U",
+            "video_length": 11534.361,
+            "views": "374,753 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=sBUu8hsNBwc",
+      "title": "I TRIED TO DEPLATFORM YOU - Destiny And Lauren Southern Join Leftist Panel",
+      "video": {
+        "ad": null,
+        "comments": "1,601",
+        "content creator": "Destiny",
+        "date": "Jan 4, 2022",
+        "description": "Destiny and Lauren Southern jump into Kyosan's alcoholics panel co-hosted by Spectre\n\nDate: 1 Jan, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+        "dislikes": " Unavailable",
+        "id": "sBUu8hsNBwc",
+        "likes": "3,668 likes",
+        "title": "I TRIED TO DEPLATFORM YOU - Destiny And Lauren Southern Join Leftist Panel",
+        "url": "https://www.youtube.com/watch?v=sBUu8hsNBwc",
+        "video_length": 9391,
+        "views": "183,813 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=9-UH6VOg4Zo&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=9-UH6VOg4Zo",
+      "title": "Destiny Crashes Conservative Panel w/ Lauren Southern And Brittany Venti",
+      "video": {
+        "ad": null,
+        "comments": "6,713",
+        "content creator": "Destiny",
+        "date": "Dec 27, 2021",
+        "description": "DEBATE: Destiny jumps onto Lauren Southern's panel to defend himself against Brittany Venti and debate the panelist on a spicy topic...\n\nDate: 27 Dec, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+        "dislikes": " Unavailable",
+        "id": "9-UH6VOg4Zo&list",
+        "likes": "7,607 likes",
+        "title": "Destiny Crashes Conservative Panel w/ Lauren Southern And Brittany Venti",
+        "url": "https://www.youtube.com/watch?v=9-UH6VOg4Zo&list=RDCMUC554eY5jNUfDq3yDOJYirOQ&start_radio=1&rv=9-UH6VOg4Zo",
+        "video_length": 6004.981,
+        "views": "274,243 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=xLE-8rcuJ0A",
+      "title": "\"IT IS STUPID!\" - Destiny Gets Triggered Into A Debate w/ Lauren Southern",
+      "video": {
+        "ad": null,
+        "comments": "2,031",
+        "content creator": "Destiny",
+        "date": "Oct 15, 2021",
+        "description": "Destiny can't help himself from debating Lauren Southern in a conversation about mandates.\n\nDate: 14 Oct, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+        "dislikes": " Unavailable",
+        "id": "xLE-8rcuJ0A",
+        "likes": "3,878 likes",
+        "title": "\"IT IS STUPID!\" - Destiny Gets Triggered Into A Debate w/ Lauren Southern",
+        "url": "https://www.youtube.com/watch?v=xLE-8rcuJ0A",
+        "video_length": 6631.341,
+        "views": "213,280 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=YImedwSoogc",
+      "title": "Error found",
+      "video": {
+        "ad": null,
+        "comments": "Error found",
+        "content creator": "Error found",
+        "date": "Error found",
+        "description": "Error found",
+        "dislikes": " Unavailable",
+        "id": "YImedwSoogc",
+        "likes": "3,052 likes",
+        "title": "Error found",
+        "url": "https://www.youtube.com/watch?v=YImedwSoogc",
+        "video_length": 8708.201,
+        "views": "Error found"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=n-PHbg7bx3U",
+      "title": "Destiny Forces Moderator To Leave In Heated Personal Debate - HIPPY DIPPY CHAMPIONSHIP",
+      "video": {
+        "ad": null,
+        "comments": "3,031",
+        "content creator": "Destiny",
+        "date": "Nov 27, 2021",
+        "description": "DEBATE: Destiny forces the moderator to leave by using new cage match rule in a heated and personal debate against ActualJake in DylanBurnsTV's hippy dippy debate championship...\n\nDate: 26 Nov, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+        "dislikes": " Unavailable",
+        "id": "n-PHbg7bx3U",
+        "likes": "7,354 likes",
+        "title": "Destiny Forces Moderator To Leave In Heated Personal Debate - HIPPY DIPPY CHAMPIONSHIP",
+        "url": "https://www.youtube.com/watch?v=n-PHbg7bx3U",
+        "video_length": 11534.361,
+        "views": "374,753 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=9-UH6VOg4Zo",
+  "title": "Destiny Crashes Conservative Panel w/ Lauren Southern And Brittany Venti",
+  "video": {
+    "ad": null,
+    "comments": "6,713",
+    "content creator": "Destiny",
+    "date": "Dec 27, 2021",
+    "description": "DEBATE: Destiny jumps onto Lauren Southern's panel to defend himself against Brittany Venti and debate the panelist on a spicy topic...\n\nDate: 27 Dec, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+    "dislikes": " Unavailable",
+    "id": "9-UH6VOg4Zo",
+    "likes": "7,607 likes",
+    "title": "Destiny Crashes Conservative Panel w/ Lauren Southern And Brittany Venti",
+    "url": "https://www.youtube.com/watch?v=9-UH6VOg4Zo",
+    "video_length": 6004.981,
+    "views": "274,233 views"
+  }
+}

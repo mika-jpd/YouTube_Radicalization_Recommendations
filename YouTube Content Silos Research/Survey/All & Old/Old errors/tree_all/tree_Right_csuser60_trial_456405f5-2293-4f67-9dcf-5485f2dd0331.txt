@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=C8m4CtfkhN8",
+                  "sampled_type": "opposing",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=-eYeJP5Mc5I",
+                    "https://www.youtube.com/watch?v=q6i5eMM11G4",
+                    "https://www.youtube.com/watch?v=VyDQdswNNK8",
+                    "https://www.youtube.com/watch?v=KRoMsRujUxc",
+                    "https://www.youtube.com/watch?v=U3W84wb5jKo",
+                    "https://www.youtube.com/watch?v=8p8tFcIQ8K4",
+                    "https://www.youtube.com/watch?v=F4Ia_maYZSU",
+                    "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+                    "https://www.youtube.com/watch?v=CC_L0_9PM_4",
+                    "https://www.youtube.com/watch?v=J7hxXWzouWQ"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "736",
+                    "content creator": "The Hill",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "C8m4CtfkhN8",
+                    "likes": "1,612 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=C8m4CtfkhN8",
+                    "video_length": 822.481,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=l0BFg98Q5nY",
+              "sampled_type": "opposing",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=C8m4CtfkhN8",
+                "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+                "https://www.youtube.com/watch?v=3c584TGG7jQ",
+                "https://www.youtube.com/watch?v=b5fNif_WGdc",
+                "https://www.youtube.com/watch?v=zFleLL5zlaI",
+                "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+                "https://www.youtube.com/watch?v=tkP31Xv3QEk",
+                "https://www.youtube.com/watch?v=VyDQdswNNK8",
+                "https://www.youtube.com/watch?v=U3W84wb5jKo",
+                "https://www.youtube.com/watch?v=b6Yqw6J8WHo"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "3,260",
+                "content creator": "The Hill",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "l0BFg98Q5nY",
+                "likes": "5,952 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=l0BFg98Q5nY",
+                "video_length": 479.201,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=omRU82LY1rE",
+          "sampled_type": "opposing",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=l0BFg98Q5nY",
+            "https://www.youtube.com/watch?v=ueLINWgmsvU",
+            "https://www.youtube.com/watch?v=U3W84wb5jKo",
+            "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+            "https://www.youtube.com/watch?v=94uCDbI70CM",
+            "https://www.youtube.com/watch?v=akqcYEIXoEo",
+            "https://www.youtube.com/watch?v=7fRVt59EPsQ",
+            "https://www.youtube.com/watch?v=t8LD0iUYv80",
+            "https://www.youtube.com/watch?v=04Q2bbxLzSU",
+            "https://www.youtube.com/watch?v=9E-BGA2NLkE"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,734",
+            "content creator": "The Hill",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "omRU82LY1rE",
+            "likes": "5,224 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=omRU82LY1rE",
+            "video_length": 578.501,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=94uCDbI70CM",
+      "sampled_type": "opposing",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=omRU82LY1rE",
+        "https://www.youtube.com/watch?v=U3W84wb5jKo",
+        "https://www.youtube.com/watch?v=Rb709QV07Hc",
+        "https://www.youtube.com/watch?v=q6i5eMM11G4",
+        "https://www.youtube.com/watch?v=aICaAEXDJQQ",
+        "https://www.youtube.com/watch?v=MYS_LFk7r4c",
+        "https://www.youtube.com/watch?v=lncMKTPq3Xk",
+        "https://www.youtube.com/watch?v=FCghEFt1qsE",
+        "https://www.youtube.com/watch?v=9ly-Cp4u3nE",
+        "https://www.youtube.com/watch?v=sD0i_YxPATc"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "604",
+        "content creator": "The Hill",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "94uCDbI70CM",
+        "likes": "3,497 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=94uCDbI70CM",
+        "video_length": 955.801,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=u8ywWgNEYuQ",
+                  "sampled_type": "curated",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                    "https://www.youtube.com/watch?v=yqFPuPQUF80",
+                    "https://www.youtube.com/watch?v=qDc5Px5f0OE",
+                    "https://www.youtube.com/watch?v=IQlsHnKbC50",
+                    "https://www.youtube.com/watch?v=ALsEIT3HFmg",
+                    "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+                    "https://www.youtube.com/watch?v=gk71DDNenII",
+                    "https://www.youtube.com/watch?v=PpDXvJq8Tcg",
+                    "https://www.youtube.com/watch?v=WGrOqEead4A",
+                    "https://www.youtube.com/watch?v=EKkUtrL6B18"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "9,268",
+                    "content creator": "Fox News",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "u8ywWgNEYuQ",
+                    "likes": "47,132 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=u8ywWgNEYuQ",
+                    "video_length": 537.261,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=yqFPuPQUF80",
+              "sampled_type": "curated",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=u8ywWgNEYuQ",
+                "https://www.youtube.com/watch?v=IRJpIwBGT40",
+                "https://www.youtube.com/watch?v=KrIRwws7LGQ",
+                "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+                "https://www.youtube.com/watch?v=yLr1m14NO50",
+                "https://www.youtube.com/watch?v=5OBsHnS5S4U",
+                "https://www.youtube.com/watch?v=dBnniua6-oM",
+                "https://www.youtube.com/watch?v=sPgYaLEpfX4",
+                "https://www.youtube.com/watch?v=bzatw32j-i4",
+                "https://www.youtube.com/watch?v=JowIQEYfqEE"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "8,384",
+                "content creator": "Fox News",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "yqFPuPQUF80",
+                "likes": "51,807 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=yqFPuPQUF80",
+                "video_length": 674.361,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=SexfFbs0MZ8",
+          "sampled_type": "curated",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=hxY9pAEv4gE",
+            "https://www.youtube.com/watch?v=yqFPuPQUF80",
+            "https://www.youtube.com/watch?v=puPUxXVt6QE",
+            "https://www.youtube.com/watch?v=vCVUvTdHAQI",
+            "https://www.youtube.com/watch?v=Lp3wo1JR3es",
+            "https://www.youtube.com/watch?v=lVcTvHTn6Dw",
+            "https://www.youtube.com/watch?v=TmzBwXv4rTs",
+            "https://www.youtube.com/watch?v=ePQXmL4sYP4",
+            "https://www.youtube.com/watch?v=et4r-mAnyr4",
+            "https://www.youtube.com/watch?v=XgvUMEHaFAk"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "2,993",
+            "content creator": "Fox News",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "SexfFbs0MZ8",
+            "likes": "20,208 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=SexfFbs0MZ8",
+            "video_length": 578.681,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=NzefBA4NOLw",
+      "sampled_type": "curated",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=SexfFbs0MZ8",
+        "https://www.youtube.com/watch?v=i6rFSV1efLc",
+        "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+        "https://www.youtube.com/watch?v=lF5Bb3Mt0rg",
+        "https://www.youtube.com/watch?v=0MzctOaJZS0",
+        "https://www.youtube.com/watch?v=9bJF1F_wq1I",
+        "https://www.youtube.com/watch?v=uyMwtpok9FY",
+        "https://www.youtube.com/watch?v=WlajjTc3blA",
+        "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+        "https://www.youtube.com/watch?v=c3aXXnPm8N8"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "624",
+        "content creator": "Charlie Kirk",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "NzefBA4NOLw",
+        "likes": "12,877 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=NzefBA4NOLw",
+        "video_length": 20183.101,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=lHm5yFH3nJg",
+                  "sampled_type": "curated",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=zpkIn0jjeMM",
+                    "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                    "https://www.youtube.com/watch?v=WYoOOKoS084",
+                    "https://www.youtube.com/watch?v=UWEjxkkB8Xs",
+                    "https://www.youtube.com/watch?v=puPUxXVt6QE",
+                    "https://www.youtube.com/watch?v=k9mNRbx6LOM",
+                    "https://www.youtube.com/watch?v=H4zw15f2rH4",
+                    "https://www.youtube.com/watch?v=-eYeJP5Mc5I",
+                    "https://www.youtube.com/watch?v=SexfFbs0MZ8",
+                    "https://www.youtube.com/watch?v=VdkB3u6jzfE"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "3,265",
+                    "content creator": "Fox News",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "lHm5yFH3nJg",
+                    "likes": "15,789 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=lHm5yFH3nJg",
+                    "video_length": 263.661,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=7s81S_5LQRY",
+              "sampled_type": "curated",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=lHm5yFH3nJg",
+                "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+                "https://www.youtube.com/watch?v=kuseBljHhVA",
+                "https://www.youtube.com/watch?v=ePxjwXAIf2E",
+                "https://www.youtube.com/watch?v=GPQwlWvpebk",
+                "https://www.youtube.com/watch?v=8c9FUafWbts",
+                "https://www.youtube.com/watch?v=1_gG6hMxrXI",
+                "https://www.youtube.com/watch?v=CiDqA-X_-n4",
+                "https://www.youtube.com/watch?v=qToLkyrHivU",
+                "https://www.youtube.com/watch?v=Jy2ZSQmlszY"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "6,016",
+                "content creator": "Fox News",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "7s81S_5LQRY",
+                "likes": "27,298 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=7s81S_5LQRY",
+                "video_length": 348.161,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=3JNPDf9DZDo",
+          "sampled_type": "curated",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=YZdAejDHnAs",
+            "https://www.youtube.com/watch?v=QabAtYBnqro",
+            "https://www.youtube.com/watch?v=7s81S_5LQRY",
+            "https://www.youtube.com/watch?v=ePxjwXAIf2E",
+            "https://www.youtube.com/watch?v=H4zw15f2rH4",
+            "https://www.youtube.com/watch?v=8c9FUafWbts",
+            "https://www.youtube.com/watch?v=tkP31Xv3QEk",
+            "https://www.youtube.com/watch?v=t5qwL3JUpRg",
+            "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+            "https://www.youtube.com/watch?v=-L7o6HtX8Vg"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "11,445",
+            "content creator": "Fox News",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "3JNPDf9DZDo",
+            "likes": "30,255 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=3JNPDf9DZDo",
+            "video_length": 534.961,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=hSM-jkyN8F0",
+      "sampled_type": "curated",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=3JNPDf9DZDo",
+        "https://www.youtube.com/watch?v=VNSpTZxQYW8",
+        "https://www.youtube.com/watch?v=s0M6y5sCUVM",
+        "https://www.youtube.com/watch?v=-EvvPZFdjyk",
+        "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+        "https://www.youtube.com/watch?v=GwoMRz-EyHE",
+        "https://www.youtube.com/watch?v=jgAlEROl0PA",
+        "https://www.youtube.com/watch?v=cKoMHJ0IzK0",
+        "https://www.youtube.com/watch?v=Bd8_vO5zrjo",
+        "https://www.youtube.com/watch?v=7qUwY5jEhNs"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "5,819",
+        "content creator": "The Rubin Report",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "hSM-jkyN8F0",
+        "likes": "41,671 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=hSM-jkyN8F0",
+        "video_length": 523.481,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=ZNJyDyCocGQ",
+                  "sampled_type": "curated",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=N1MZRowhMtc",
+                    "https://www.youtube.com/watch?v=JaC1-U8LIY0",
+                    "https://www.youtube.com/watch?v=ugLbotr1RuQ",
+                    "https://www.youtube.com/watch?v=WiYudywr_tQ",
+                    "https://www.youtube.com/watch?v=1_glHa8F7fA",
+                    "https://www.youtube.com/watch?v=anUlV6umjqM",
+                    "https://www.youtube.com/watch?v=66dTtqLFDtE",
+                    "https://www.youtube.com/watch?v=3Xa1L01ZNaY",
+                    "https://www.youtube.com/watch?v=fBBvk6kS1Pk",
+                    "https://www.youtube.com/watch?v=I8LxraECD5E"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,911",
+                    "content creator": "Real Time with Bill Maher",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "ZNJyDyCocGQ",
+                    "likes": "43,416 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=ZNJyDyCocGQ",
+                    "video_length": 375.761,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=RYSLyvbR_1w",
+              "sampled_type": "curated",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=ZNJyDyCocGQ",
+                "https://www.youtube.com/watch?v=2DH4v6FnbvM",
+                "https://www.youtube.com/watch?v=4K5nQwF4EJA",
+                "https://www.youtube.com/watch?v=9UPgURkDoY4",
+                "https://www.youtube.com/watch?v=WL_SGxCEiwI",
+                "https://www.youtube.com/watch?v=gmXTUSP9a9M",
+                "https://www.youtube.com/watch?v=v7ODeW4qaDg",
+                "https://www.youtube.com/watch?v=_x5SeXNabd8",
+                "https://www.youtube.com/watch?v=ugLbotr1RuQ",
+                "https://www.youtube.com/watch?v=SxeaVEsauo8"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "9,143",
+                "content creator": "Real Time with Bill Maher",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "RYSLyvbR_1w",
+                "likes": "56,025 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=RYSLyvbR_1w",
+                "video_length": 440.921,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=U-MwaC9Euv4",
+          "sampled_type": "curated",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=RYSLyvbR_1w",
+            "https://www.youtube.com/watch?v=OJAMO_bLMw8",
+            "https://www.youtube.com/watch?v=SGcdPakoytg",
+            "https://www.youtube.com/watch?v=MPb1VNt2EOo",
+            "https://www.youtube.com/watch?v=-KQGZa773sI",
+            "https://www.youtube.com/watch?v=kasiov0ytEc",
+            "https://www.youtube.com/watch?v=cx7VnKMZew4",
+            "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+            "https://www.youtube.com/watch?v=bZ1mGVu5584",
+            "https://www.youtube.com/watch?v=ugLbotr1RuQ"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "6,720",
+            "content creator": "Real Time with Bill Maher",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "U-MwaC9Euv4",
+            "likes": "21,772 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=U-MwaC9Euv4",
+            "video_length": 455.961,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=mgbt452UMOQ",
+      "sampled_type": "curated",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=U-MwaC9Euv4",
+        "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+        "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+        "https://www.youtube.com/watch?v=CiDqA-X_-n4",
+        "https://www.youtube.com/watch?v=FWYyZQDiPHI",
+        "https://www.youtube.com/watch?v=BUcT5LHmA7w",
+        "https://www.youtube.com/watch?v=jftcx3Nt8fw",
+        "https://www.youtube.com/watch?v=HNudt52BukY",
+        "https://www.youtube.com/watch?v=kz7OGxb9X6E",
+        "https://www.youtube.com/watch?v=9AWf1HBXst0"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "17,065",
+        "content creator": "Mark Dice",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "mgbt452UMOQ",
+        "likes": "120,401 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=mgbt452UMOQ",
+        "video_length": 297.861,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=0quvNT-0wZs",
+                  "sampled_type": "curated",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=dSlRhXxXunA",
+                    "https://www.youtube.com/watch?v=6E1j710FicE",
+                    "https://www.youtube.com/watch?v=_tG29MuOCB0",
+                    "https://www.youtube.com/watch?v=VBmDMp3d8H8",
+                    "https://www.youtube.com/watch?v=9E-BGA2NLkE",
+                    "https://www.youtube.com/watch?v=WGrOqEead4A",
+                    "https://www.youtube.com/watch?v=klI0AeIVeRw",
+                    "https://www.youtube.com/watch?v=-9H5F5IYnY0",
+                    "https://www.youtube.com/watch?v=pIOdc-bG-w8",
+                    "https://www.youtube.com/watch?v=Nf2ADFYVp8U"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "351",
+                    "content creator": "Fox News",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "0quvNT-0wZs",
+                    "likes": "2,352 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=0quvNT-0wZs",
+                    "video_length": 402.661,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+              "sampled_type": "curated",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                "https://www.youtube.com/watch?v=0quvNT-0wZs",
+                "https://www.youtube.com/watch?v=BTaAzFl_GYk",
+                "https://www.youtube.com/watch?v=-DN5r0jTA2w",
+                "https://www.youtube.com/watch?v=nYmRwb71msM",
+                "https://www.youtube.com/watch?v=WlH3S-uLTIw",
+                "https://www.youtube.com/watch?v=70wdkfGJNpE",
+                "https://www.youtube.com/watch?v=XJTvn_WHiXk",
+                "https://www.youtube.com/watch?v=hlkkG6mKTCk"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,776",
+                "content creator": "Blaire White",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "yvQ6ppE7tKo",
+                "likes": "31,158 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+                "video_length": 1077.421,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=KTybcHbX3ks",
+          "sampled_type": "curated",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=yOmcwZ9s2_0",
+            "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+            "https://www.youtube.com/watch?v=70wdkfGJNpE",
+            "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+            "https://www.youtube.com/watch?v=zXQ5HFxYsfY",
+            "https://www.youtube.com/watch?v=UiFPIfN99N0",
+            "https://www.youtube.com/watch?v=JDW53q0-0PM",
+            "https://www.youtube.com/watch?v=a9OvnI5YjM4",
+            "https://www.youtube.com/watch?v=Ta40ZPTIAlA",
+            "https://www.youtube.com/watch?v=qcSuMKzrrbg"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "5,351",
+            "content creator": "Blaire White",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "KTybcHbX3ks",
+            "likes": "31,028 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=KTybcHbX3ks",
+            "video_length": 740.621,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=70wdkfGJNpE",
+      "sampled_type": "curated",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "https://www.youtube.com/watch?v=KTybcHbX3ks",
+        "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+        "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+        "https://www.youtube.com/watch?v=85iv1neQwY0",
+        "https://www.youtube.com/watch?v=CcCRs0Ic3FI&pp=sAQB",
+        "https://www.youtube.com/watch?v=FYL3pQI76hM",
+        "https://www.youtube.com/watch?v=HPeGmjvgXI4",
+        "https://www.youtube.com/watch?v=4jl6tK0gU28",
+        "https://www.youtube.com/watch?v=w1vuhrFfEkE"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "5,239",
+        "content creator": "Blaire White",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "70wdkfGJNpE",
+        "likes": "33,564 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=70wdkfGJNpE",
+        "video_length": 756.321,
+        "views": ""
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=Rxmw9eizOAo",
+                  "sampled_type": "curated",
+                  "title": "",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=AJ0-VeWMr-A",
+                    "https://www.youtube.com/watch?v=0H5LCLljJho",
+                    "https://www.youtube.com/watch?v=uXyS-74sRTE",
+                    "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+                    "https://www.youtube.com/watch?v=wieRZoJSVtw",
+                    "https://www.youtube.com/watch?v=jdVso9FSkmE",
+                    "https://www.youtube.com/watch?v=-KQGZa773sI",
+                    "https://www.youtube.com/watch?v=Cn1MugPalaA",
+                    "https://www.youtube.com/watch?v=tFlAFo78xoQ",
+                    "https://www.youtube.com/watch?v=r4wQsmAtZoc"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "29,319",
+                    "content creator": "PowerfulJRE",
+                    "date": "",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "Rxmw9eizOAo",
+                    "likes": "190,999 likes",
+                    "title": "",
+                    "url": "https://www.youtube.com/watch?v=Rxmw9eizOAo",
+                    "video_length": 9928.821,
+                    "views": ""
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=6T7pUEZfgdI",
+              "sampled_type": "curated",
+              "title": "",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Rxmw9eizOAo",
+                "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                "https://www.youtube.com/watch?v=C1sEHNw4UIg",
+                "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+                "https://www.youtube.com/watch?v=daVjWUCIbAc",
+                "https://www.youtube.com/watch?v=AscPHmLWo-M",
+                "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                "https://www.youtube.com/watch?v=-KQGZa773sI",
+                "https://www.youtube.com/watch?v=aMcjxSThD54",
+                "https://www.youtube.com/watch?v=W8e_dvbXoCQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "24,859",
+                "content creator": "PowerfulJRE",
+                "date": "",
+                "description": "",
+                "dislikes": " Unavailable",
+                "id": "6T7pUEZfgdI",
+                "likes": "264,312 likes",
+                "title": "",
+                "url": "https://www.youtube.com/watch?v=6T7pUEZfgdI",
+                "video_length": 8932.721,
+                "views": ""
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=UeWUi5yZEBY",
+          "sampled_type": "curated",
+          "title": "",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=6T7pUEZfgdI",
+            "https://www.youtube.com/watch?v=_iudkPi4_sY",
+            "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+            "https://www.youtube.com/watch?v=OSX5hZPtGa8",
+            "https://www.youtube.com/watch?v=jey_CzIOfYE",
+            "https://www.youtube.com/watch?v=A4OvOPP_scw",
+            "https://www.youtube.com/watch?v=XLVrg94GxJQ",
+            "https://www.youtube.com/watch?v=iNGf7XYtU2Q",
+            "https://www.youtube.com/watch?v=HdFKZtZop7A&pp=sAQB",
+            "https://www.youtube.com/watch?v=N1yi4QxYqJs"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "19,523",
+            "content creator": "StevenCrowder",
+            "date": "",
+            "description": "",
+            "dislikes": " Unavailable",
+            "id": "UeWUi5yZEBY",
+            "likes": "97,969 likes",
+            "title": "",
+            "url": "https://www.youtube.com/watch?v=UeWUi5yZEBY",
+            "video_length": 4060.041,
+            "views": ""
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=iNGf7XYtU2Q",
+      "sampled_type": "curated",
+      "title": "",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=kasiov0ytEc",
+        "https://www.youtube.com/watch?v=UeWUi5yZEBY",
+        "https://www.youtube.com/watch?v=CiDqA-X_-n4",
+        "https://www.youtube.com/watch?v=0Y607ZC1zBY",
+        "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+        "https://www.youtube.com/watch?v=tFlAFo78xoQ",
+        "https://www.youtube.com/watch?v=UcNwS6gXB2U",
+        "https://www.youtube.com/watch?v=N1yi4QxYqJs",
+        "https://www.youtube.com/watch?v=JJut1MVpj_k",
+        "https://www.youtube.com/watch?v=EWX5B6cD4_4"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "29,325",
+        "content creator": "StevenCrowder",
+        "date": "",
+        "description": "",
+        "dislikes": " Unavailable",
+        "id": "iNGf7XYtU2Q",
+        "likes": "125,529 likes",
+        "title": "",
+        "url": "https://www.youtube.com/watch?v=iNGf7XYtU2Q",
+        "video_length": 4255.101,
+        "views": ""
+      }
+    }
+  ],
+  "id": "dummy"
+}

@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=Wehsz38P74g",
+                  "sampled_type": "opposing",
+                  "title": "Why New York\u2019s Billionaires\u2019 Row Is Half Empty",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=aENLA_LVcRY",
+                    "https://www.youtube.com/watch?v=Wehsz38P74g&list=RDCMUC6n8I1UDTKP1IWjQMg6_TwA&start_radio=1&rv=Wehsz38P74g",
+                    "https://www.youtube.com/watch?v=658xlubwnDc",
+                    "https://www.youtube.com/watch?v=JIjADT_45Ck",
+                    "https://www.youtube.com/watch?v=PilJj0TR_xk",
+                    "https://www.youtube.com/watch?v=88fWUZhYb04",
+                    "https://www.youtube.com/watch?v=lwP9H9qTuUY",
+                    "https://www.youtube.com/watch?v=zysL_lkdtys",
+                    "https://www.youtube.com/watch?v=hNDgcjVGHIw",
+                    "https://www.youtube.com/watch?v=n068fel-W9I"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "13,699",
+                    "content creator": "The B1M",
+                    "date": "Dec 15, 2021",
+                    "description": "Manhattan\u2019s skyscrapers aren\u2019t really built for people anymore. \nFor more by The B1M subscribe now - http://ow.ly/GxW7y  \n\nFull story here - ",
+                    "dislikes": " Unavailable",
+                    "id": "Wehsz38P74g",
+                    "likes": "151,319 likes",
+                    "title": "Why New York\u2019s Billionaires\u2019 Row Is Half Empty",
+                    "url": "https://www.youtube.com/watch?v=Wehsz38P74g",
+                    "video_length": 1717.441,
+                    "views": "7,762,322 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=vwLo2tOFGtQ",
+              "sampled_type": "opposing",
+              "title": "Why Nissan\u2019s CEO is now a Wanted Fugitive (Documentary)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Wehsz38P74g",
+                "https://www.youtube.com/watch?v=vwLo2tOFGtQ&list=RDCMUCoOjH8D2XAgjzQlneM2W0EQ&start_radio=1&rv=vwLo2tOFGtQ",
+                "https://www.youtube.com/watch?v=huPF3Gid7DE",
+                "https://www.youtube.com/watch?v=rj6JOKrL_vg",
+                "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+                "https://www.youtube.com/watch?v=3fq83qbjPCM",
+                "https://www.youtube.com/watch?v=Fgvdl87lqc8",
+                "https://www.youtube.com/watch?v=PlbUYl67LTY",
+                "https://www.youtube.com/watch?v=NMPv-ZMztpA",
+                "https://www.youtube.com/watch?v=vQ0Ch0-s5Wo"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,966",
+                "content creator": "Jake Tran",
+                "date": "Oct 19, 2021",
+                "description": "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/jaketran10211",
+                "dislikes": " Unavailable",
+                "id": "vwLo2tOFGtQ",
+                "likes": "31,608 likes",
+                "title": "Why Nissan\u2019s CEO is now a Wanted Fugitive (Documentary)",
+                "url": "https://www.youtube.com/watch?v=vwLo2tOFGtQ",
+                "video_length": 1372.521,
+                "views": "851,507 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=PilJj0TR_xk",
+          "sampled_type": "opposing",
+          "title": "China's Skyscraper Boom is Officially Over",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=lLzJpCd5X9g",
+            "https://www.youtube.com/watch?v=Wehsz38P74g",
+            "https://www.youtube.com/watch?v=O4stI2TVPIc",
+            "https://www.youtube.com/watch?v=PilJj0TR_xk&list=RDCMUC6n8I1UDTKP1IWjQMg6_TwA&start_radio=1&rv=PilJj0TR_xk",
+            "https://www.youtube.com/watch?v=zysL_lkdtys",
+            "https://www.youtube.com/watch?v=sw0VfmXKq54",
+            "https://www.youtube.com/watch?v=pzbxGYBY5M8",
+            "https://www.youtube.com/watch?v=CbUjuwhQPKs",
+            "https://www.youtube.com/watch?v=VyefvcaokQg",
+            "https://www.youtube.com/watch?v=4TFrYgg7_aU"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "1,560",
+            "content creator": "The B1M",
+            "date": "Jan 12, 2022",
+            "description": "China\u2019s ban on skyscrapers just got even stricter. \nFor more by The B1M subscribe now - https://bit.ly/the-b1m",
+            "dislikes": " Unavailable",
+            "id": "PilJj0TR_xk",
+            "likes": "24,990 likes",
+            "title": "China's Skyscraper Boom is Officially Over",
+            "url": "https://www.youtube.com/watch?v=PilJj0TR_xk",
+            "video_length": 478.401,
+            "views": "708,018 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=KCzwyFHSMdY",
+      "sampled_type": "opposing",
+      "title": "Horse kicks tree, farts on dogs then runs away.",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=KJFDm2miSEU",
+        "https://www.youtube.com/watch?v=iJyweEcpsGc",
+        "https://www.youtube.com/watch?v=1o2fnTNxE_Q",
+        "https://www.youtube.com/watch?v=U3W84wb5jKo",
+        "https://www.youtube.com/watch?v=JApBR3AJq_s",
+        "https://www.youtube.com/watch?v=E0o8WxAR2b0",
+        "https://www.youtube.com/watch?v=RyX_EZ3BRlE",
+        "https://www.youtube.com/watch?v=NPtWC6nS4Gc",
+        "https://www.youtube.com/watch?v=dkvFcYBznPI",
+        "https://www.youtube.com/watch?v=Pw0vB4Lm1Tk"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "34,172",
+        "content creator": "Yukon",
+        "date": "Oct 21, 2021",
+        "description": "Sven running through the forest with the dogs, kicking trees, farting, and just having a great time. It was a cool fall day and he was feeling very frisky. The dogs and horses are buddies and play together often.\nSven is a Grulla Quarter horse who is about 13 years old ",
+        "dislikes": " Unavailable",
+        "id": "KCzwyFHSMdY",
+        "likes": "747,356 likes",
+        "title": "Horse kicks tree, farts on dogs then runs away.",
+        "url": "https://www.youtube.com/watch?v=KCzwyFHSMdY",
+        "video_length": 24.881,
+        "views": "17,289,543 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                  "sampled_type": "curated",
+                  "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+                    "https://www.youtube.com/watch?v=4KRZQQ_eICo",
+                    "https://www.youtube.com/watch?v=xq_kI2xpsJw",
+                    "https://www.youtube.com/watch?v=MnUfXYGtT5Q",
+                    "https://www.youtube.com/watch?v=9RExQFZzHXQ",
+                    "https://www.youtube.com/watch?v=rYzBxo3hbYQ&list=RDLVrYzBxo3hbYQ&start_radio=1&rv=rYzBxo3hbYQ",
+                    "https://www.youtube.com/watch?v=uXyS-74sRTE",
+                    "https://www.youtube.com/watch?v=ErZq2ZQQTrs",
+                    "https://www.youtube.com/watch?v=NNnIGh9g6fA",
+                    "https://www.youtube.com/watch?v=YXh9RQCvxmg"
+                  ],
+                  "video": {
+                    "ad": true,
+                    "comments": "6,667",
+                    "content creator": "92nd Street Y",
+                    "date": "Feb 21, 2013",
+                    "description": "Your support helps us keep our content free for all. Donate now: https://www.92y.org/donate",
+                    "dislikes": " Unavailable",
+                    "id": "rYzBxo3hbYQ",
+                    "likes": "35,818 likes",
+                    "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+                    "url": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                    "video_length": 6016.961,
+                    "views": "8,710,074 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+              "sampled_type": "curated",
+              "title": "The 1776 Report",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+                "https://www.youtube.com/watch?v=ma4DJbvO84I",
+                "https://www.youtube.com/watch?v=U8kSUDp2BC0",
+                "https://www.youtube.com/watch?v=jVyjRhSX92E",
+                "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+                "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                "https://www.youtube.com/watch?v=Nm6EGgil1_A",
+                "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+                "https://www.youtube.com/watch?v=8quWUSZCW5g"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "5,885",
+                "content creator": "Shaun",
+                "date": "Mar 21, 2021",
+                "description": "CW: racism\n\ni look at school\n\nLinks:",
+                "dislikes": " Unavailable",
+                "id": "b2d8u2QyvAo",
+                "likes": "40,566 likes",
+                "title": "The 1776 Report",
+                "url": "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+                "video_length": 3437.701,
+                "views": "913,425 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=aDMjgOYOcDw",
+          "sampled_type": "curated",
+          "title": "Perhaps Ben Shapiro Shouldn't Be Taken Seriously By Anyone About Anything - SOME MORE NEWS",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=-6DLT9MHO4M",
+            "https://www.youtube.com/watch?v=zqllxbPWKNI",
+            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+            "https://www.youtube.com/watch?v=BQLEW1c-69c",
+            "https://www.youtube.com/watch?v=n30zO0ABFqc",
+            "https://www.youtube.com/watch?v=J7dqGhOPVcY",
+            "https://www.youtube.com/watch?v=xPGdOXstSyk",
+            "https://www.youtube.com/watch?v=6VixqvOcK8E",
+            "https://www.youtube.com/watch?v=ma4DJbvO84I",
+            "https://www.youtube.com/watch?v=b2d8u2QyvAo"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "36,011",
+            "content creator": "Some More News",
+            "date": "Jun 25, 2019",
+            "description": "Is Ben Shapiro a liar or just lazy and dumb? The answer may definitely not surprise you!\n\nSupport SOME MORE NEWS: http://www.patreon.com/SomeMoreNews",
+            "dislikes": " Unavailable",
+            "id": "aDMjgOYOcDw",
+            "likes": "138,019 likes",
+            "title": "Perhaps Ben Shapiro Shouldn't Be Taken Seriously By Anyone About Anything - SOME MORE NEWS",
+            "url": "https://www.youtube.com/watch?v=aDMjgOYOcDw",
+            "video_length": 4216.001,
+            "views": "3,691,740 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=f-NnqODNdTY&t=177s",
+      "sampled_type": "curated",
+      "title": "Watching Dave Rubin Fart His Way Through 1984 | Big Joel",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=aDMjgOYOcDw",
+        "https://www.youtube.com/watch?v=f-NnqODNdTY&list=RDCMUCaN8DZdc8EHo5y1LsQWMiig&start_radio=1&rv=f-NnqODNdTY",
+        "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+        "https://www.youtube.com/watch?v=R92f94cVUrg",
+        "https://www.youtube.com/watch?v=aQTWor_2nu4",
+        "https://www.youtube.com/watch?v=wZoHGAK3k-I",
+        "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+        "https://www.youtube.com/watch?v=ma4DJbvO84I",
+        "https://www.youtube.com/watch?v=BQWjyo1m0Yg",
+        "https://www.youtube.com/watch?v=2O1QA1VoRMM"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "6,264",
+        "content creator": "Big Joel",
+        "date": "Oct 17, 2020",
+        "description": "Let's talk about 1984, PragerU, and Dave Rubin! Woooo\n\nSupport me on Patreon: https://www.patreon.com/bigjoel",
+        "dislikes": " Unavailable",
+        "id": "f-NnqODNdTY&t",
+        "likes": "39,194 likes",
+        "title": "Watching Dave Rubin Fart His Way Through 1984 | Big Joel",
+        "url": "https://www.youtube.com/watch?v=f-NnqODNdTY&t=177s",
+        "video_length": 1191.761,
+        "views": "758,859 views"
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=NaPKrZTUoUs",
+                  "sampled_type": "opposing",
+                  "title": "Joe Rogan Experience #1436 - Adam Curry",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=vIeFt88Hm8s",
+                    "https://www.youtube.com/watch?v=3RG5pXTpLBI",
+                    "https://www.youtube.com/watch?v=83ysf_GO2aw",
+                    "https://www.youtube.com/watch?v=tCRjz1fyOE4",
+                    "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                    "https://www.youtube.com/watch?v=E3URhJx0NSw",
+                    "https://www.youtube.com/watch?v=h9XzuUXj6Gc",
+                    "https://www.youtube.com/watch?v=uXyS-74sRTE",
+                    "https://www.youtube.com/watch?v=pRCzZp1J0v0",
+                    "https://www.youtube.com/watch?v=HM8WDZIhs3M"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,881",
+                    "content creator": "PowerfulJRE",
+                    "date": "Mar 4, 2020",
+                    "description": "Adam Curry is a podcaster, announcer, internet entrepreneur and media personality, known for his stint as VJ on MTV and being one of the first celebrities personally to create and administer Web sites. Check out his podcast \"No Agenda\" with new shows available every Sunday and Thursday. ",
+                    "dislikes": " Unavailable",
+                    "id": "NaPKrZTUoUs",
+                    "likes": "44,827 likes",
+                    "title": "Joe Rogan Experience #1436 - Adam Curry",
+                    "url": "https://www.youtube.com/watch?v=NaPKrZTUoUs",
+                    "video_length": 10928.301,
+                    "views": "6,016,527 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=tCRjz1fyOE4",
+              "sampled_type": "opposing",
+              "title": "Joe Rogan Experience #1403 - Forrest Galante",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=NaPKrZTUoUs",
+                "https://www.youtube.com/watch?v=83ysf_GO2aw",
+                "https://www.youtube.com/watch?v=AJ0-VeWMr-A",
+                "https://www.youtube.com/watch?v=r4wQsmAtZoc",
+                "https://www.youtube.com/watch?v=HM8WDZIhs3M",
+                "https://www.youtube.com/watch?v=3RG5pXTpLBI",
+                "https://www.youtube.com/watch?v=uXyS-74sRTE",
+                "https://www.youtube.com/watch?v=xPBejhoKlb8",
+                "https://www.youtube.com/watch?v=mPqWstVnRjQ",
+                "https://www.youtube.com/watch?v=pRCzZp1J0v0"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "9,609",
+                "content creator": "PowerfulJRE",
+                "date": "Dec 19, 2019",
+                "description": "Forrest Galante is an international wildlife adventurer and conservationist. He\u2019s also the host of \u201cExtinct of Alive\u201d on The Animal Planet. https://www.instagram.com/forrest.gal...",
+                "dislikes": " Unavailable",
+                "id": "tCRjz1fyOE4",
+                "likes": "87,318 likes",
+                "title": "Joe Rogan Experience #1403 - Forrest Galante",
+                "url": "https://www.youtube.com/watch?v=tCRjz1fyOE4",
+                "video_length": 9963.721,
+                "views": "8,732,931 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+          "sampled_type": "opposing",
+          "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=-1jAOJHvll0",
+            "https://www.youtube.com/watch?v=IF4UhElRUFg",
+            "https://www.youtube.com/watch?v=tCRjz1fyOE4",
+            "https://www.youtube.com/watch?v=aB8zcAttP1E",
+            "https://www.youtube.com/watch?v=Rxmw9eizOAo",
+            "https://www.youtube.com/watch?v=ycPr5-27vSI",
+            "https://www.youtube.com/watch?v=6JipQNWuYnA",
+            "https://www.youtube.com/watch?v=E3URhJx0NSw",
+            "https://www.youtube.com/watch?v=efs3QRr8LWw",
+            "https://www.youtube.com/watch?v=HM8WDZIhs3M"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "111,717",
+            "content creator": "PowerfulJRE",
+            "date": "Jun 20, 2019",
+            "description": "Bob Lazar is a physicist who worked at Los Alamos National Laboratory in New Mexico, and also on reverse engineering extraterrestrial technology at a site called S-4 near the Area 51 Groom Lake operating location. Jeremy Corbell is a contemporary artist and documentary filmmaker. Watch the documentary \"Bob Lazar: Area 51 & Flying Saucers\" now streaming on Netflix.",
+            "dislikes": " Unavailable",
+            "id": "BEWz4SXfyCQ",
+            "likes": "356,814 likes",
+            "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+            "url": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+            "video_length": 8084.321,
+            "views": "22,670,703 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=WUYhCmfE1a0",
+      "sampled_type": "opposing",
+      "title": "Robert Bigelow Tells Bob Lazar Stories",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+        "https://www.youtube.com/watch?v=4imQ63r_AvE",
+        "https://www.youtube.com/watch?v=0H5LCLljJho",
+        "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+        "https://www.youtube.com/watch?v=-KQGZa773sI",
+        "https://www.youtube.com/watch?v=HM8WDZIhs3M",
+        "https://www.youtube.com/watch?v=3RG5pXTpLBI",
+        "https://www.youtube.com/watch?v=BtT_iHMEt1A",
+        "https://www.youtube.com/watch?v=jdVso9FSkmE",
+        "https://www.youtube.com/watch?v=O3MGxd4DHh0"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "5,932",
+        "content creator": "PowerfulJRE",
+        "date": "Feb 25, 2021",
+        "description": "This clip is taken from the Joe Rogan Experience #1612 with Robert Bigelow. https://open.spotify.com/episode/4K3Q...",
+        "dislikes": " Unavailable",
+        "id": "WUYhCmfE1a0",
+        "likes": "33,737 likes",
+        "title": "Robert Bigelow Tells Bob Lazar Stories",
+        "url": "https://www.youtube.com/watch?v=WUYhCmfE1a0",
+        "video_length": 955.921,
+        "views": "2,666,071 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=0XNzB8r3A5M",
+                  "sampled_type": "curated",
+                  "title": "Twitter Drama ESCALATES Into Insanely HEATED Debate",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,085",
+                    "content creator": "Destiny",
+                    "date": "Dec 8, 2020",
+                    "description": "'You're a scumbag!' - Vaush hater BLOWS UP in a HEATED debate...\n\nTwitter drama escalates into an insanely heated debate as far left libertarian fa$cist radical Destiny finds himself defending Vaush against a hater who plays loose and fast with facts following twitter DSA drama & more!\n\nFollow Destiny\n\u25baTWITTER - ",
+                    "dislikes": " Unavailable",
+                    "id": "0XNzB8r3A5M",
+                    "likes": "10,503 likes",
+                    "title": "Twitter Drama ESCALATES Into Insanely HEATED Debate",
+                    "url": "https://www.youtube.com/watch?v=0XNzB8r3A5M",
+                    "video_length": 3653.621,
+                    "views": "367,251 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ktrhF1zBuCs",
+              "sampled_type": "curated",
+              "title": "HEATED DemonMama Debate Leads To Screaming Match And Ragequit",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,652",
+                "content creator": "Destiny",
+                "date": "Sep 24, 2021",
+                "description": "\"Consider this a serious mark on our friendship\"\n\nDate: 24 Sep, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+                "dislikes": " Unavailable",
+                "id": "ktrhF1zBuCs",
+                "likes": "6,042 likes",
+                "title": "HEATED DemonMama Debate Leads To Screaming Match And Ragequit",
+                "url": "https://www.youtube.com/watch?v=ktrhF1zBuCs",
+                "video_length": 4652.481,
+                "views": "273,421 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=tDHANohGp0o",
+          "sampled_type": "curated",
+          "title": "If That's True Then I Shouldn't Have Won - Post Debate Drama",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,803",
+            "content creator": "Destiny",
+            "date": "Jul 18, 2021",
+            "description": "Miscommunication, confusion and drama following the Hippy Dippy championship. Did Destiny steal the win and the belt?\n\nDate: 17 Jul, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "tDHANohGp0o",
+            "likes": "3,731 likes",
+            "title": "If That's True Then I Shouldn't Have Won - Post Debate Drama",
+            "url": "https://www.youtube.com/watch?v=tDHANohGp0o",
+            "video_length": 5063.721,
+            "views": "166,397 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=cRpQN0lTKoQ",
+      "sampled_type": "curated",
+      "title": "Destiny, DemonMama And Hunter CLASH In An Elimination Debate...",
+      "top_10_recommended": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "video": {
+        "ad": true,
+        "comments": "1,990",
+        "content creator": "Destiny",
+        "date": "Jul 17, 2021",
+        "description": "DEBATE: Hippy Dippy debate championship hosted by DylanburnsTV ft. Destiny, Trihex, Hunter Avallone, DrHeemedOut, Demonmama, Xanderhal, Counterpoints, CTV, American Nacho, LonerBox, Primecayes, Josierosec, The Sprouticus and more...\n\nDate: 16 Jul, 2021\n\nFollow Destiny\n\u25baSTREAM - ",
+        "dislikes": " Unavailable",
+        "id": "cRpQN0lTKoQ",
+        "likes": "5,348 likes",
+        "title": "Destiny, DemonMama And Hunter CLASH In An Elimination Debate...",
+        "url": "https://www.youtube.com/watch?v=cRpQN0lTKoQ",
+        "video_length": 11104.861,
+        "views": "318,538 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=xq_kI2xpsJw",
+                  "sampled_type": "curated",
+                  "title": "Neil deGrasse Tyson with Bill Nye \u2014 COSMOS: Possible Worlds",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+                    "https://www.youtube.com/watch?v=Wp-WiNXH6hI",
+                    "https://www.youtube.com/watch?v=LZDtLUUikug",
+                    "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+                    "https://www.youtube.com/watch?v=xq_kI2xpsJw&list=RDCMUC9xkc8dWgBsFfC7DOJfJLFg&start_radio=1&rv=xq_kI2xpsJw",
+                    "https://www.youtube.com/watch?v=z6kgvhG3AkI",
+                    "https://www.youtube.com/watch?v=9RExQFZzHXQ",
+                    "https://www.youtube.com/watch?v=jey_CzIOfYE",
+                    "https://www.youtube.com/watch?v=zPCvuva2deU",
+                    "https://www.youtube.com/watch?v=4KRZQQ_eICo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,675",
+                    "content creator": "92nd Street Y",
+                    "date": "Mar 19, 2020",
+                    "description": "Astrophysicist icon Neil deGrasse Tyson joins science popularizer Bill Nye to talk about the return of COSMOS to television. Recorded March 9, 2020, at 92nd Street Y.\n\nSubscribe for more videos like this: ",
+                    "dislikes": " Unavailable",
+                    "id": "xq_kI2xpsJw",
+                    "likes": "11,645 likes",
+                    "title": "Neil deGrasse Tyson with Bill Nye \u2014 COSMOS: Possible Worlds",
+                    "url": "https://www.youtube.com/watch?v=xq_kI2xpsJw",
+                    "video_length": 3228.481,
+                    "views": "959,577 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+              "sampled_type": "curated",
+              "title": "A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+                "https://www.youtube.com/watch?v=AyAK3QBnMGQ&list=RDLVAyAK3QBnMGQ&start_radio=1&rv=AyAK3QBnMGQ",
+                "https://www.youtube.com/watch?v=B9N2S6Chz44",
+                "https://www.youtube.com/watch?v=Qqc0t8ghvis",
+                "https://www.youtube.com/watch?v=xq_kI2xpsJw",
+                "https://www.youtube.com/watch?v=9RExQFZzHXQ",
+                "https://www.youtube.com/watch?v=ErZq2ZQQTrs",
+                "https://www.youtube.com/watch?v=4KRZQQ_eICo",
+                "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                "https://www.youtube.com/watch?v=DYKL89sD-dY"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "5,855",
+                "content creator": "92nd Street Y",
+                "date": "May 10, 2017",
+                "description": "Your support helps us keep our content free for all. Donate now: https://www.92y.org/donate",
+                "dislikes": " Unavailable",
+                "id": "AyAK3QBnMGQ",
+                "likes": "49,760 likes",
+                "title": "A mind-expanding tour of the cosmos with Neil deGrasse Tyson and Robert Krulwich",
+                "url": "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+                "video_length": 4961.681,
+                "views": "5,952,988 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Qqc0t8ghvis",
+          "sampled_type": "curated",
+          "title": "IQ2 Debate: Don't Trust The Promise Of Artificial Intelligence",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+            "https://www.youtube.com/watch?v=Y0Oa4Lp5fLE",
+            "https://www.youtube.com/watch?v=rGqiswuJuQI",
+            "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+            "https://www.youtube.com/watch?v=nNtR5da5LIE",
+            "https://www.youtube.com/watch?v=KNOlqzMd2Zw",
+            "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+            "https://www.youtube.com/watch?v=pflU-nnY4MA",
+            "https://www.youtube.com/watch?v=xIu4Ca2QQdw",
+            "https://www.youtube.com/watch?v=JrMiSQAGOS4"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "1,894",
+            "content creator": "92nd Street Y",
+            "date": "Mar 10, 2016",
+            "description": "As technology rapidly progresses, some proponents of artificial intelligence believe that it will help solve complex social challenges and offer immortality via virtual humans.\n\nBut AI\u2019s critics are sounding the alarm, going so far as to call its development an \u201cexistential threat\u201d to mankind. Is this the stuff of science fiction? Could the \u201cTerminator\u201d become reality, or will these fears prevent the next technological revolution?\n\nSubscribe for more videos like this: ",
+            "dislikes": " Unavailable",
+            "id": "Qqc0t8ghvis",
+            "likes": "4,295 likes",
+            "title": "IQ2 Debate: Don't Trust The Promise Of Artificial Intelligence",
+            "url": "https://www.youtube.com/watch?v=Qqc0t8ghvis",
+            "video_length": 5713.741,
+            "views": "440,240 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=shSLPcp4C18",
+      "sampled_type": "curated",
+      "title": "CO-VIDs: the 90's neoliberal fantasia as experienced by daria morgendorffer, millennial",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=ma4DJbvO84I",
+        "https://www.youtube.com/watch?v=Qqc0t8ghvis",
+        "https://www.youtube.com/watch?v=agzNANfNlTs",
+        "https://www.youtube.com/watch?v=7gDKbT_l2us",
+        "https://www.youtube.com/watch?v=AITRzvm0Xtg",
+        "https://www.youtube.com/watch?v=tr5qgaasOYY",
+        "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "https://www.youtube.com/watch?v=OGAMBbAAMnU",
+        "https://www.youtube.com/watch?v=5Luu1Beb8ng",
+        "https://www.youtube.com/watch?v=c1Mn3PC-IPY"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "3,218",
+        "content creator": "Innuendo Studios",
+        "date": "Jan 27, 2021",
+        "description": "100% of ad proceeds for CO-VIDs will be donated to Critical Resistance, a police and prison abolition group co-founded by Angela Davis. YouTube's CPM is pretty small, so I encourage you to donate directly, if you're able: https://donatenow.networkforgood.org/...",
+        "dislikes": " Unavailable",
+        "id": "shSLPcp4C18",
+        "likes": "20,928 likes",
+        "title": "CO-VIDs: the 90's neoliberal fantasia as experienced by daria morgendorffer, millennial",
+        "url": "https://www.youtube.com/watch?v=shSLPcp4C18",
+        "video_length": 1067.721,
+        "views": "258,670 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=stH9JSnGH9Q",
+                  "sampled_type": "curated",
+                  "title": "Pathologic Analysis; Themes of a Dying Classic - a Video Essay",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "515",
+                    "content creator": "SulMatul",
+                    "date": "Oct 19, 2017",
+                    "description": "THE ESSAY FOR PATHOLOGIC 2, OUT NOW:  https://www.youtube.com/watch?v=FKhSb...\n\nA video-analysis of the themes and aesthetics of Pathologic, a 2005 video game from Russian developers Ice Pick Lodge.\n\nContents\nIntro: ",
+                    "dislikes": " Unavailable",
+                    "id": "stH9JSnGH9Q",
+                    "likes": "10,170 likes",
+                    "title": "Pathologic Analysis; Themes of a Dying Classic - a Video Essay",
+                    "url": "https://www.youtube.com/watch?v=stH9JSnGH9Q",
+                    "video_length": 7530.181,
+                    "views": "594,658 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=JsNm2YLrk30",
+              "sampled_type": "curated",
+              "title": "Pathologic is Genius, And Here's Why",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=9F9ahZQ7oP0",
+                "https://www.youtube.com/watch?v=stH9JSnGH9Q",
+                "https://www.youtube.com/watch?v=JsNm2YLrk30&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=JsNm2YLrk30",
+                "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+                "https://www.youtube.com/watch?v=81fdKWOHrdE",
+                "https://www.youtube.com/watch?v=uTP-8Vc3cME",
+                "https://www.youtube.com/watch?v=1w-r21nDfb0",
+                "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+                "https://www.youtube.com/watch?v=snbHlI0luMI",
+                "https://www.youtube.com/watch?v=8BIcAZxFfrc"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "13,023",
+                "content creator": "hbomberguy",
+                "date": "Premiered Nov 21, 2019",
+                "description": "Two hours? That sounds like a nightmare. Luckily, so is the game. And what an amazing nightmare it is.\n\nMandalore's (great and much more concise) Review of Classic HD:",
+                "dislikes": " Unavailable",
+                "id": "JsNm2YLrk30",
+                "likes": "107,121 likes",
+                "title": "Pathologic is Genius, And Here's Why",
+                "url": "https://www.youtube.com/watch?v=JsNm2YLrk30",
+                "video_length": 7851.701,
+                "views": "5,198,788 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+          "sampled_type": "curated",
+          "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=JsNm2YLrk30",
+            "https://www.youtube.com/watch?v=lS1k88LzjkQ&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=lS1k88LzjkQ",
+            "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+            "https://www.youtube.com/watch?v=wGKB3jXGqu0",
+            "https://www.youtube.com/watch?v=sLOP9rJqjxI",
+            "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+            "https://www.youtube.com/watch?v=SKncPUykais",
+            "https://www.youtube.com/watch?v=xqqC5IJa2go",
+            "https://www.youtube.com/watch?v=d-7o9xYp7eE",
+            "https://www.youtube.com/watch?v=mLJ1gyIzg78"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "Error found",
+            "content creator": "XOXO Festival",
+            "date": "Oct 9, 2019",
+            "description": "Since 2014, Harry Brewis aka \u201cHbomberguy\u201d built a base of over 450k YouTube subscribers with his wry video essays skewering the alt-right, Gamergate, and conspiracy theorists. In January, his Donkey Kong 64 charity stream went viral with cameos by AOC, Chelsea Manning and others, raising over $350,000 for Mermaids, a UK charity supporting gender-diverse and transgender children and young people.\n\nHbomberguy on YouTube: ",
+            "dislikes": " Unavailable",
+            "id": "lS1k88LzjkQ",
+            "likes": "Unavailable",
+            "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+            "url": "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+            "video_length": 2053.241,
+            "views": "770,972 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+      "sampled_type": "curated",
+      "title": "Climate Denial: A Measured Response",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+        "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+        "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+        "https://www.youtube.com/watch?v=uqwvf6R1_QY",
+        "https://www.youtube.com/watch?v=oXiGR3zEEAM",
+        "https://www.youtube.com/watch?v=1Jwo5qc78QU",
+        "https://www.youtube.com/watch?v=C8dfiDeJeDU",
+        "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+        "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+        "https://www.youtube.com/watch?v=JsNm2YLrk30"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "24,280",
+        "content creator": "hbomberguy",
+        "date": "May 31, 2019",
+        "description": "Sponsored in part by CuriosityStream: https://www.curiositystream.com/hbomb...\n\nFacts. What are they good for?\n\nTwitter: ",
+        "dislikes": " Unavailable",
+        "id": "RLqXkYrdmjY",
+        "likes": "167,765 likes",
+        "title": "Climate Denial: A Measured Response",
+        "url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+        "video_length": 2479.601,
+        "views": "4,300,684 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=qsHJ3LvUWTs",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=daVjWUCIbAc",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=rChIZlSf-xU",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=W8e_dvbXoCQ",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=v6H2HmKDbZA",
+                          "title": "Jordan Peterson: From the Barricades of the Culture Wars",
+                          "video": {
+                            "ad": null,
+                            "comments": "11,351",
+                            "content creator": "The Aspen Institute",
+                            "date": "Jun 27, 2018",
+                            "description": "From the Aspen Ideas Festival, recorded Tuesday, June 26, 2018. Jordan Peterson, author of the best-selling 12 Rules for Life: An Antidote to Chaos, may be one of the most famous intellectuals in North America today. He also may be among the most misunderstood. His fans say that he\u2019s saved their lives, and detractors say that he\u2019s the gateway drug to the alt-right. Who is this psychologist-philosopher whom so many of us had never heard of two years ago, and what does he really believe?\n\nFeaturing Jordan Peterson in conversation with Bari Weiss. Hosted in the St. Regis Hotel Ballroom, Aspen, Colorado.",
+                            "dislikes": " Unavailable",
+                            "id": "v6H2HmKDbZA",
+                            "likes": "77,436 likes",
+                            "title": "Jordan Peterson: From the Barricades of the Culture Wars",
+                            "url": "https://www.youtube.com/watch?v=v6H2HmKDbZA",
+                            "video_length": 5522.601,
+                            "views": "7,215,074 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=o5fdhfVrg1I",
+                          "title": "The Brady 6: Journey of the Legend NO ONE Wanted!",
+                          "video": {
+                            "ad": null,
+                            "comments": "21,498",
+                            "content creator": "NFL Films",
+                            "date": "Mar 5, 2020",
+                            "description": "Check out Tom Brady's draft story!\n\nSubscribe to NFL Films: http://goo.gl/XJTggL",
+                            "dislikes": " Unavailable",
+                            "id": "o5fdhfVrg1I",
+                            "likes": "192,712 likes",
+                            "title": "The Brady 6: Journey of the Legend NO ONE Wanted!",
+                            "url": "https://www.youtube.com/watch?v=o5fdhfVrg1I",
+                            "video_length": 2840.161,
+                            "views": "21,479,208 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                          "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                          "video": {
+                            "ad": null,
+                            "comments": "14,584",
+                            "content creator": "OxfordUnion",
+                            "date": "Jun 24, 2018",
+                            "description": "SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion\nOxford Union on Facebook: https://www.facebook.com/theoxfordunion\nOxford Union on Twitter: @OxfordUnion\nWebsite: ",
+                            "dislikes": " Unavailable",
+                            "id": "UZMIbo_DxJk",
+                            "likes": "103,037 likes",
+                            "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                            "url": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                            "video_length": 4549.861,
+                            "views": "8,798,286 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=4O-UZGnv9O0",
+                          "title": "Jordan Peterson: Imitation Of The Divine | Full Address and Q&A | Oxford Union",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,300",
+                            "content creator": "OxfordUnion",
+                            "date": "Jan 6, 2022",
+                            "description": "SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion\nOxford Union on Facebook: https://www.facebook.com/theoxfordunion\nOxford Union on Twitter: @OxfordUnion\nWebsite: ",
+                            "dislikes": " Unavailable",
+                            "id": "4O-UZGnv9O0",
+                            "likes": "6,735 likes",
+                            "title": "Jordan Peterson: Imitation Of The Divine | Full Address and Q&A | Oxford Union",
+                            "url": "https://www.youtube.com/watch?v=4O-UZGnv9O0",
+                            "video_length": 3452.501,
+                            "views": "213,119 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=hKUffHXOb8U",
+                          "title": "Dr. Jordan B Peterson on Femsplainers",
+                          "video": {
+                            "ad": null,
+                            "comments": "9,300",
+                            "content creator": "Jordan B Peterson",
+                            "date": "Dec 21, 2018",
+                            "description": "On December 13, 2018, I was a guest on Femsplainers with Christina Hoff Sommers and Danielle Crittenden. We discussed, among other topics, the secrets of a long marriage, the problems with dating apps, how to handle a belligerent toddler, and the motivation of my radical feminist critics. \n\nFemsplainers (",
+                            "dislikes": " Unavailable",
+                            "id": "hKUffHXOb8U",
+                            "likes": "86,266 likes",
+                            "title": "Dr. Jordan B Peterson on Femsplainers",
+                            "url": "https://www.youtube.com/watch?v=hKUffHXOb8U",
+                            "video_length": 5409.601,
+                            "views": "4,106,857 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=C1roM98Dass",
+                      "title": "Should Piers Morgan Be Fired for His Views on Gender? | Good Morning Britain",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "Good Morning Britain",
+                        "date": "Oct 15, 2019",
+                        "description": "An online petition for Piers Morgan to be sacked from Good Morning Britain has been signed by thousands. The petition takes issues with Piers' view on gender and transgender issues. But should he be sacked or saved? India Willoughby and Benjamin Butterworth debate. \nSubscribe now for more! ",
+                        "dislikes": " Unavailable",
+                        "id": "C1roM98Dass",
+                        "likes": "148,597 likes",
+                        "title": "Should Piers Morgan Be Fired for His Views on Gender? | Good Morning Britain",
+                        "url": "https://www.youtube.com/watch?v=C1roM98Dass",
+                        "video_length": 837,
+                        "views": "6,895,025 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1Ef7Us0zw8Q",
+                      "title": "Milo Yiannopoulos Talks Free Speech, Feminism, Fake News & Australian Tour | Studio 10",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "Studio 10",
+                        "date": "Oct 22, 2017",
+                        "description": "Subscribe now for more! https://youtube.com/c/Studio10au\nCheck out our home on 10play: https://10play.com.au/studio10\nHe's been dubbed the poster boy of the far-right, with his controversial views often met with outrage and protest. But, who is Milo Yiannopoulos and what does he stand for? We chat with the man himself. \n\nStudio 10 | 8am \u2013 12pm weekdays on Channel 10 featuring hosts Sarah Harris, Joe Hildebrand, Angela Bishop, Kerri-Anne Kennerley, Denise Drysdale, Natarsha Belling and Narelda Jacobs.\n\nFacebook: ",
+                        "dislikes": " Unavailable",
+                        "id": "1Ef7Us0zw8Q",
+                        "likes": "44,359 likes",
+                        "title": "Milo Yiannopoulos Talks Free Speech, Feminism, Fake News & Australian Tour | Studio 10",
+                        "url": "https://www.youtube.com/watch?v=1Ef7Us0zw8Q",
+                        "video_length": 962.701,
+                        "views": "2,857,822 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KnIAAkSNtqo",
+                      "title": "2017/05/17: Senate hearing on Bill C16",
+                      "video": {
+                        "ad": null,
+                        "comments": "13,747",
+                        "content creator": "Jordan B Peterson",
+                        "date": "May 18, 2017",
+                        "description": "Update: on May 18, C16 sailed through the Canadian Senate with no amendments. \n\nI served as a witness at the Canadian Senate yesterday, regarding Bill C16, which adds the ill-defined categories of gender expression and gender identity to the list of prohibited grounds of discrimination. The Federal government, in a website which has since been taken down, stated clearly that this legislation would be interpreted in keeping with the policies of the Ontario Human Rights Commission, which I regard as one of the most dangerous institutions in Canada, in relationship to all rights other than those of \"equality,\" including freedom of speech, freedom of the press, and freedom of association. I was partnered with lawyer Jared Brown, whose courageous and detailed analysis of Bill C16 can be found here: ",
+                        "dislikes": " Unavailable",
+                        "id": "KnIAAkSNtqo",
+                        "likes": "49,245 likes",
+                        "title": "2017/05/17: Senate hearing on Bill C16",
+                        "url": "https://www.youtube.com/watch?v=KnIAAkSNtqo",
+                        "video_length": 3608.781,
+                        "views": "1,924,087 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kxgeevlRElw",
+                      "title": "Jordan Peterson DESTROYS Tom Ballard | Tonightly With Tom Ballard",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "ABC TV & iview",
+                        "date": "Mar 13, 2018",
+                        "description": "Controversial Canadian psychologist Dr Jordan Peterson explains to Tom why keeping his room clean is important, why identity politics suck, and why the ABC should be less Marxist.\nSubscribe now: http://ab.co/subscribe \n\nLike ABC TV: ",
+                        "dislikes": " Unavailable",
+                        "id": "kxgeevlRElw",
+                        "likes": "77,022 likes",
+                        "title": "Jordan Peterson DESTROYS Tom Ballard | Tonightly With Tom Ballard",
+                        "url": "https://www.youtube.com/watch?v=kxgeevlRElw",
+                        "video_length": 473.761,
+                        "views": "4,808,940 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                      "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+                      "video": {
+                        "ad": null,
+                        "comments": "Error found",
+                        "content creator": "abcqanda",
+                        "date": "Streamed live on Feb 25, 2019",
+                        "description": "Monday, 25 February 2019\n\nJordan Peterson join the live Q&A Panel with Alex Hawke, Terri Butler, Cathryn McGregor and Van Badham. \n\nFor more from Q&A, click here: ",
+                        "dislikes": " Unavailable",
+                        "id": "TmNSlF7lcaw",
+                        "likes": "109,522 likes",
+                        "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+                        "url": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                        "video_length": 4763.181,
+                        "views": "9,659,932 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                  "title": "Jordan B. Peterson | Real Time with Bill Maher (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "39,446",
+                    "content creator": "Real Time with Bill Maher",
+                    "date": "Apr 21, 2018",
+                    "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nProfessor and author Jordan Peterson joins Bill to discuss political correctness and free speech.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "8wLCmDtCDAM",
+                    "likes": "206,501 likes",
+                    "title": "Jordan B. Peterson | Real Time with Bill Maher (HBO)",
+                    "url": "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                    "video_length": 575.841,
+                    "views": "16,752,309 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+                  "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+                  "video": {
+                    "ad": null,
+                    "comments": "65,510",
+                    "content creator": "Skavlan",
+                    "date": "Oct 29, 2018",
+                    "description": "Watch the complete Skavlan interview with psychologist and professor Jordan B. Peterson.\n\nAlso present in the studio are Swedish politician Annie L\u00f6\u00f6f and Norwegian author Erlend Loe. The show's presenter is Fredrik Skavlan. \n\nMore Skavlan\nTwitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "_iudkPi4_sY",
+                    "likes": "291,154 likes",
+                    "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+                    "url": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+                    "video_length": 2320,
+                    "views": "23,051,973 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=I75kfAVF64A",
+                  "title": "Do Transgender Athletes Have an Advantage in Female Sporting Events? | Good Morning Britain",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Good Morning Britain",
+                    "date": "Mar 4, 2019",
+                    "description": "Subscribe now for more! http://bit.ly/1NbomQa\nSociology professor Ellis Cashmore believes sport should adapt to accept transgender athletes and embrace inclusivity - but Olympic medal winner Sharron Davies says it\u2019ll create an unequal playing field.\nBroadcast on: 04/03/2019\n\nLike, follow and subscribe to Good Morning Britain!\n\nThe Good Morning Britain YouTube channel delivers you the news that you\u2019re waking up to in the morning. From exclusive interviews with some of the biggest names in politics and showbiz to heartwarming human interest stories and unmissable watch again moments. \n\nJoin Susanna Reid, Piers Morgan, Ben Shephard, Kate Garraway, Charlotte Hawkins and Sean Fletcher every weekday on ITV from 6am.\n\nWebsite: ",
+                    "dislikes": " Unavailable",
+                    "id": "I75kfAVF64A",
+                    "likes": "44,694 likes",
+                    "title": "Do Transgender Athletes Have an Advantage in Female Sporting Events? | Good Morning Britain",
+                    "url": "https://www.youtube.com/watch?v=I75kfAVF64A",
+                    "video_length": 730.621,
+                    "views": "3,684,610 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=7QRQjrsFnR4",
+                  "title": "Jordan Peterson on Gender, Patriarchy and the Slide Towards Tyranny",
+                  "video": {
+                    "ad": null,
+                    "comments": "19,155",
+                    "content creator": "Intelligence Squared",
+                    "date": "May 24, 2018",
+                    "description": "Jordan Peterson, author of 12 Rules for Life: An Antidote to Chaos, was joined by Anne McElvoy, Senior Editor at The Economist and head of Economist Radio, to discuss gender, identity politics, liberalism and #MeToo.\n__________________________________\nBrilliant minds, debate, online events, ask your questions. Try Intelligence Squared +: ",
+                    "dislikes": " Unavailable",
+                    "id": "7QRQjrsFnR4",
+                    "likes": "44,109 likes",
+                    "title": "Jordan Peterson on Gender, Patriarchy and the Slide Towards Tyranny",
+                    "url": "https://www.youtube.com/watch?v=7QRQjrsFnR4",
+                    "video_length": 3564.181,
+                    "views": "2,647,585 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                  "title": "Heated debate on gender pronouns and free speech in Toronto",
+                  "video": {
+                    "ad": null,
+                    "comments": "38,745",
+                    "content creator": "CBC News",
+                    "date": "Oct 29, 2016",
+                    "description": "University of Toronto professors Jordan Peterson and A.W. Peet discuss the use of alternate pronouns on campus for those who say words like 'he, she, him or her' don't represent them accurately\nTo read more: ",
+                    "dislikes": " Unavailable",
+                    "id": "SiijS_9hPkM",
+                    "likes": "99,278 likes",
+                    "title": "Heated debate on gender pronouns and free speech in Toronto",
+                    "url": "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                    "video_length": 1002.181,
+                    "views": "6,341,452 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=SGcdPakoytg",
+              "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+              "video": {
+                "ad": null,
+                "comments": "64,964",
+                "content creator": "Real Time with Bill Maher",
+                "date": "Jun 30, 2018",
+                "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nDaily Wire Editor-in-Chief and syndicated radio host Ben Shapiro joins Bill to discuss civility in the age of Trump.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                "dislikes": " Unavailable",
+                "id": "SGcdPakoytg",
+                "likes": "119,545 likes",
+                "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+                "url": "https://www.youtube.com/watch?v=SGcdPakoytg",
+                "video_length": 663.881,
+                "views": "15,313,020 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=kasiov0ytEc",
+              "title": "Genders, Rights and Freedom of Speech",
+              "video": {
+                "ad": null,
+                "comments": "49,706",
+                "content creator": "The Agenda with Steve Paikin",
+                "date": "Oct 26, 2016",
+                "description": "Jordan Peterson, a psychology professor at the University of Toronto, posted a YouTube video criticizing the proposed Bill C-16, which adds gender identity and gender expression to the list of prohibited grounds of discrimination. His video caused concern and sparked conversation. The Agenda convenes a panel to ask: Is the legislation a matter of human rights or a case of legal overreach that threatens freedom of speech?",
+                "dislikes": " Unavailable",
+                "id": "kasiov0ytEc",
+                "likes": "99,821 likes",
+                "title": "Genders, Rights and Freedom of Speech",
+                "url": "https://www.youtube.com/watch?v=kasiov0ytEc",
+                "video_length": 3298.441,
+                "views": "7,489,166 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=n3l4hJS0jsc",
+              "title": "40 Minutes of Black Comedy Excellence",
+              "video": {
+                "ad": null,
+                "comments": "4,688",
+                "content creator": "Netflix Is A Joke",
+                "date": "Feb 15, 2021",
+                "description": "Chris Rock, Kevin Hart, Katt Williams, Trevor Noah, Tiffany Haddish, Mike Epps, Wanda Sykes, Michelle Buteau, Dave Chappelle and Sam Jay. Forty minutes of legendary comedy by legendary performers.\n\nSubscribe: ",
+                "dislikes": " Unavailable",
+                "id": "n3l4hJS0jsc",
+                "likes": "135,581 likes",
+                "title": "40 Minutes of Black Comedy Excellence",
+                "url": "https://www.youtube.com/watch?v=n3l4hJS0jsc",
+                "video_length": 2278.101,
+                "views": "8,799,680 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=PGvU_4-5fBk",
+              "title": "Eric Chong's MasterChef Journey | MasterChef Canada | MasterChef World",
+              "video": {
+                "ad": null,
+                "comments": "428",
+                "content creator": "MasterChef World",
+                "date": "Dec 22, 2021",
+                "description": "This is the entire MasterChef Canada journey of Season 1 winner, Eric Chong!\n\nSubscribe to MasterChef World here: https://www.youtube.com/MasterChefWorld",
+                "dislikes": " Unavailable",
+                "id": "PGvU_4-5fBk",
+                "likes": "12,437 likes",
+                "title": "Eric Chong's MasterChef Journey | MasterChef Canada | MasterChef World",
+                "url": "https://www.youtube.com/watch?v=PGvU_4-5fBk",
+                "video_length": 3565.941,
+                "views": "578,778 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+              "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+              "video": {
+                "ad": null,
+                "comments": "205,976",
+                "content creator": "Channel 4 News",
+                "date": "Jan 16, 2018",
+                "description": "Channel 4 News\u2019 full, fiery interview with clinical psychologist and professor Jordan B Peterson, whose views on gender have amassed great controversy - and a huge online following. He discusses the pay gap, patriarchy and his new book \"12 Rules for Life.\" Subscribe: ",
+                "dislikes": " Unavailable",
+                "id": "aMcjxSThD54",
+                "likes": "697,999 likes",
+                "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+                "url": "https://www.youtube.com/watch?v=aMcjxSThD54",
+                "video_length": 1795.461,
+                "views": "35,520,224 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=PIotJjzDyHM",
+          "title": "Court Cam: Top 5 Most Disrespectful Defendants | A&E",
+          "video": {
+            "ad": null,
+            "comments": "21,488",
+            "content creator": "A&E",
+            "date": "Nov 20, 2020",
+            "description": "Stay up to date on all of A&E's premieres at http://aetv.com/schedule.\n\nCheck out some of the most disrespectful defendants, including one man who cursed profusely, and another who smiled and laughed through an emotional witness impact statement. ",
+            "dislikes": " Unavailable",
+            "id": "PIotJjzDyHM",
+            "likes": "244,954 likes",
+            "title": "Court Cam: Top 5 Most Disrespectful Defendants | A&E",
+            "url": "https://www.youtube.com/watch?v=PIotJjzDyHM",
+            "video_length": 790,
+            "views": "25,321,093 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7Y4v79iECxY",
+          "title": "Woman Accuses Man Of Cheating But She's Sleeping With Their Roommate (Full Episode) | Couples Court",
+          "video": {
+            "ad": null,
+            "comments": "3,656",
+            "content creator": "Couples Court",
+            "date": "Nov 23, 2018",
+            "description": "Season 1, Episode 37- JOHN V WILLETTE: A Florida woman accuses her live in boyfriend of cheating, but makes a shocking confession after a cyber security expert reveals what he uncovered on her boyfriends phone.\nSubscribe: ",
+            "dislikes": " Unavailable",
+            "id": "7Y4v79iECxY",
+            "likes": "48,328 likes",
+            "title": "Woman Accuses Man Of Cheating But She's Sleeping With Their Roommate (Full Episode) | Couples Court",
+            "url": "https://www.youtube.com/watch?v=7Y4v79iECxY",
+            "video_length": 997.921,
+            "views": "3,140,006 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Q7yvvq-9ytE",
+          "title": "Flat Earthers vs Scientists: Can We Trust Science? | Middle Ground",
+          "video": {
+            "ad": null,
+            "comments": "300,392",
+            "content creator": "Jubilee",
+            "date": "Premiered Oct 11, 2019",
+            "description": "We started a podcast! Listen to a follow up conversation with one of the Flat Earthers in our first episode: \ud83d\udc49https://anchor.fm/radicalempathy \ud83d\udc48\n\nSUBSCRIBE for more! \ud83d\udc49",
+            "dislikes": " Unavailable",
+            "id": "Q7yvvq-9ytE",
+            "likes": "590,189 likes",
+            "title": "Flat Earthers vs Scientists: Can We Trust Science? | Middle Ground",
+            "url": "https://www.youtube.com/watch?v=Q7yvvq-9ytE",
+            "video_length": 2068.101,
+            "views": "19,743,852 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9eYdGGfObKk",
+          "title": "OK - Let's Tell The Scammer I Already Have The Money",
+          "video": {
+            "ad": null,
+            "comments": "21,194",
+            "content creator": "Atomic Shrimp",
+            "date": "Jul 30, 2019",
+            "description": "Time to go scambaiting again!  This time, let's see what happens if  I pretend that I somehow already received the prize, without paying the advance fee (scam)\n\nThe Music at about 3 minutes in is called Gymnopedie No.1 by Erik Satie\n\nIn case you have questions about my scambaiting videos or efforts, you might find the answer below:\nWhy do scammers promise such big rewards, and demand relatively small fees? - ",
+            "dislikes": " Unavailable",
+            "id": "9eYdGGfObKk",
+            "likes": "465,105 likes",
+            "title": "OK - Let's Tell The Scammer I Already Have The Money",
+            "url": "https://www.youtube.com/watch?v=9eYdGGfObKk",
+            "video_length": 916.201,
+            "views": "13,550,942 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dVo0v5yypW0",
+          "title": "YAF SUPERCUT: Best of Ben Shapiro Q&A",
+          "video": {
+            "ad": null,
+            "comments": "8,204",
+            "content creator": "Young America's Foundation",
+            "date": "Premiered Mar 19, 2020",
+            "description": "Through YAF's Fred Allen Lecture Series, The Daily Wire's Ben Shapiro has spread conservative ideas to 50+ campuses throughout the past years. Here are his best moments.\n\nWant to see more of Ben Shapiro and YAF\u2019s all-star speaker team? Sign up to get notified about all of our live events: ",
+            "dislikes": " Unavailable",
+            "id": "dVo0v5yypW0",
+            "likes": "98,446 likes",
+            "title": "YAF SUPERCUT: Best of Ben Shapiro Q&A",
+            "url": "https://www.youtube.com/watch?v=dVo0v5yypW0",
+            "video_length": 1501.681,
+            "views": "4,806,656 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+      "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+      "video": {
+        "ad": null,
+        "comments": "27,728",
+        "content creator": "Fiddy",
+        "date": "Nov 10, 2017",
+        "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+        "dislikes": " Unavailable",
+        "id": "8GvwYOfHXMM",
+        "likes": "165,629 likes",
+        "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #3",
+        "url": "https://www.youtube.com/watch?v=8GvwYOfHXMM",
+        "video_length": 1037.501,
+        "views": "10,625,321 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=QMWlRWnAZH8",
+      "title": "21 HORRIFIC Tech Fails they want you to forget.",
+      "video": {
+        "ad": null,
+        "comments": "25,909",
+        "content creator": "Mrwhosetheboss",
+        "date": "Feb 26, 2021",
+        "description": "From Cyberpunk to the Cybertruck, from Smartphones to the Not-so-Smart Home, here are my top 21 Tech fails of the 2021 and the past Decade!  Check out Huel here:  https://my.huel.com/arunmaini",
+        "dislikes": " Unavailable",
+        "id": "QMWlRWnAZH8",
+        "likes": "405,108 likes",
+        "title": "21 HORRIFIC Tech Fails they want you to forget.",
+        "url": "https://www.youtube.com/watch?v=QMWlRWnAZH8",
+        "video_length": 1578.781,
+        "views": "12,301,356 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zFleLL5zlaI",
+      "title": "Traditional Archery Expert Rates 10 Archery Scenes In Movies And TV | How Real Is It?",
+      "video": {
+        "ad": null,
+        "comments": "2,584",
+        "content creator": "Insider",
+        "date": "Dec 21, 2021",
+        "description": "Archery expert Grizzly Jim looks at 10 bow-and-arrow scenes from popular TV shows and movies and rates them based on realism. \n\nHe looks at \"Hawkeye\" S1E1 (2021), \"The Hunger Games\" (2012), \"Brave\" (2012), \"The Lord of the Rings: The Two Towers\" (2002), \"Wonder Woman\" (2017), \"Robin Hood\" (2018), \"War of the Arrows\" (2011), \"The Avengers\" (2012), \"Game of Thrones\" S6E9 (2016), and \"Rambo III\" (1988). He comments on the technique of Hawkeye, Kate Bishop, Katniss Everdeen, Antiope, and more. \n\nJim is a British archer who provides workshops, seminars, and one-on-one instruction in traditional archery. He previously worked on the archery YouTube channel Merlin Archery and now works on the channel Archery Adventures. \n\nFor more information, visit ",
+        "dislikes": " Unavailable",
+        "id": "zFleLL5zlaI",
+        "likes": "74,364 likes",
+        "title": "Traditional Archery Expert Rates 10 Archery Scenes In Movies And TV | How Real Is It?",
+        "url": "https://www.youtube.com/watch?v=zFleLL5zlaI",
+        "video_length": 1224.701,
+        "views": "4,220,902 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+      "title": "This is How Easy It Is to Lie With Statistics",
+      "video": {
+        "ad": null,
+        "comments": "16,497",
+        "content creator": "Zach Star",
+        "date": "Feb 4, 2019",
+        "description": "STEMerch Store: https://stemerch.com/\nSupport the Channel: https://www.patreon.com/zachstar\nPayPal(one time donation): https://www.paypal.me/ZachStarYT",
+        "dislikes": " Unavailable",
+        "id": "bVG2OQp6jEQ",
+        "likes": "238,881 likes",
+        "title": "This is How Easy It Is to Lie With Statistics",
+        "url": "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+        "video_length": 1134.061,
+        "views": "4,483,161 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ngeiKVA3w10&list=RD5cIvH-iZZfA&start_radio=1&rv=5cIvH-iZZfA",
+      "title": "FEMINIST CRINGE COMPILATION 2016",
+      "video": {
+        "ad": null,
+        "comments": "34,358",
+        "content creator": "Kingury",
+        "date": "Apr 14, 2016",
+        "description": "Enjoy it folks. Cringey Feminists get Owned - Compilation (Feminists Fail) \nSubscribe to support this Channel!\n\nFeminists Fail miserably on camera. I've compiled this Feminists Fails Compilation by myself. \n\nI do not own any of these videos. It is simply provided for entertainment.",
+        "dislikes": " Unavailable",
+        "id": "ngeiKVA3w10&list",
+        "likes": "147,438 likes",
+        "title": "FEMINIST CRINGE COMPILATION 2016",
+        "url": "https://www.youtube.com/watch?v=ngeiKVA3w10&list=RD5cIvH-iZZfA&start_radio=1&rv=5cIvH-iZZfA",
+        "video_length": 758.721,
+        "views": "9,285,364 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+  "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+  "video": {
+    "ad": null,
+    "comments": "41,954",
+    "content creator": "Fiddy",
+    "date": "Oct 15, 2017",
+    "description": "2nd channel - 50 Shades 2.0 - https://goo.gl/X4ncPw\nFollow me on\n\nTWITTER - ",
+    "dislikes": " Unavailable",
+    "id": "5cIvH-iZZfA",
+    "likes": "291,897 likes",
+    "title": "FEMINISM VS LOGIC (OWNED COMPILATION) #2",
+    "url": "https://www.youtube.com/watch?v=5cIvH-iZZfA",
+    "video_length": 1018.301,
+    "views": "15,025,184 views"
+  }
+}

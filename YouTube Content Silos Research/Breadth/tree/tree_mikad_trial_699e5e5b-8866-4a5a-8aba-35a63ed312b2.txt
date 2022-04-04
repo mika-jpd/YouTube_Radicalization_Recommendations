@@ -1,0 +1,3635 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=6oJt2x4MuV4&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=6oJt2x4MuV4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Vyyynncr3zs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=c8MLEkjLrPM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=6oJt2x4MuV4",
+                  "title": "Content Court: TikTok Pranksters",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,202",
+                    "content creator": "H3 Podcast",
+                    "date": "Oct 1, 2020",
+                    "description": "Thank you to http://JoinHoney.com/H3 for sponsoring us!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                    "dislikes": " Unavailable",
+                    "id": "6oJt2x4MuV4",
+                    "likes": "22,253 likes",
+                    "title": "Content Court: TikTok Pranksters",
+                    "url": "https://www.youtube.com/watch?v=6oJt2x4MuV4",
+                    "video_length": 4709.321,
+                    "views": "850,761 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=NrfM1mnmtDk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-F7r1JV8PtU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4CP_nl037_c",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=XsI2yDSZjOY&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=XsI2yDSZjOY",
+                  "title": "Content Court: Prince Family",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,029",
+                    "content creator": "H3 Podcast",
+                    "date": "Sep 17, 2020",
+                    "description": "Thank you to http://MintMobile.com/h3 for sponsoring us!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                    "dislikes": " Unavailable",
+                    "id": "XsI2yDSZjOY&list",
+                    "likes": "33,597 likes",
+                    "title": "Content Court: Prince Family",
+                    "url": "https://www.youtube.com/watch?v=XsI2yDSZjOY&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=XsI2yDSZjOY",
+                    "video_length": 5149.661,
+                    "views": "957,677 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=3FICW6WUBtQ&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=3FICW6WUBtQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=esUSfNrdPf0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QBmlIdXpGeU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3FICW6WUBtQ",
+                  "title": "Content Court: Jared Leto",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,744",
+                    "content creator": "H3 Podcast",
+                    "date": "Dec 10, 2020",
+                    "description": "Thank you to http://JoinFightCamp.com/H3 & http://ExpressVPN.com/H3 for sponsoring us!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                    "dislikes": " Unavailable",
+                    "id": "3FICW6WUBtQ",
+                    "likes": "30,212 likes",
+                    "title": "Content Court: Jared Leto",
+                    "url": "https://www.youtube.com/watch?v=3FICW6WUBtQ",
+                    "video_length": 4584.201,
+                    "views": "1,170,902 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=XsI2yDSZjOY",
+              "title": "Content Court: Prince Family",
+              "video": {
+                "ad": null,
+                "comments": "5,029",
+                "content creator": "H3 Podcast",
+                "date": "Sep 17, 2020",
+                "description": "Thank you to http://MintMobile.com/h3 for sponsoring us!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                "dislikes": " Unavailable",
+                "id": "XsI2yDSZjOY",
+                "likes": "33,597 likes",
+                "title": "Content Court: Prince Family",
+                "url": "https://www.youtube.com/watch?v=XsI2yDSZjOY",
+                "video_length": 5149.661,
+                "views": "957,676 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lHe2h3KWws4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=WQIoz0WRabw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0o6qQiqZKbA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=gaXA94zUsCQ",
+                  "title": "Zach from H3 Shreds Over My Beat",
+                  "video": {
+                    "ad": null,
+                    "comments": "1",
+                    "content creator": "Julien Savoldi",
+                    "date": "Aug 16, 2021",
+                    "description": "I made a beat using his joker laugh. He then added a guitar solo to the beat. legend",
+                    "dislikes": " Unavailable",
+                    "id": "gaXA94zUsCQ",
+                    "likes": "28 likes",
+                    "title": "Zach from H3 Shreds Over My Beat",
+                    "url": "https://www.youtube.com/watch?v=gaXA94zUsCQ",
+                    "video_length": 96.461,
+                    "views": "408 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-YkodofrKvw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ECWK3c35cjU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=YbCzWW1bgqs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ykXPcByScLo",
+                  "title": "Ethan loving Hila Wholeheartedly #shorts #H3AfterDark",
+                  "video": {
+                    "ad": null,
+                    "comments": "136",
+                    "content creator": "Dark_Ranger",
+                    "date": "May 1, 2021",
+                    "description": "This was the cutest and most wholesome moment on After Dark #34.",
+                    "dislikes": " Unavailable",
+                    "id": "ykXPcByScLo",
+                    "likes": "3,991 likes",
+                    "title": "Ethan loving Hila Wholeheartedly #shorts #H3AfterDark",
+                    "url": "https://www.youtube.com/watch?v=ykXPcByScLo",
+                    "video_length": 29.501,
+                    "views": "73,111 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=_gNutHiTIhI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9hG3_KYRVYU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_mfxcipuqq0&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=_mfxcipuqq0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=_mfxcipuqq0",
+                  "title": "Kanye vs Pete Davidson, Wendy Williams, Euphoria - After Dark #65",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,073",
+                    "content creator": "H3 Podcast",
+                    "date": "Streamed live on Feb 18, 2022",
+                    "description": "Thank you to http://babbel.com (use code: AFTERDARK) & http://hellofresh.com/afterdark16 (use code: afterdark 16) for sponsoring this episode!\nBecome a member for access to the recorded episodes a day early with no ads and no cuts: ",
+                    "dislikes": " Unavailable",
+                    "id": "_mfxcipuqq0",
+                    "likes": "18,688 likes",
+                    "title": "Kanye vs Pete Davidson, Wendy Williams, Euphoria - After Dark #65",
+                    "url": "https://www.youtube.com/watch?v=_mfxcipuqq0",
+                    "video_length": 7715.001,
+                    "views": "573,833 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=RdC75IoAQoo&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=RdC75IoAQoo",
+              "title": "Content Court: The ACE Family",
+              "video": {
+                "ad": null,
+                "comments": "5,417",
+                "content creator": "H3 Podcast",
+                "date": "Nov 5, 2020",
+                "description": "Thank you to http://GetQuip.com/H3 & http://Ridge.com/H3 (Use code: H3) for sponsoring us!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                "dislikes": " Unavailable",
+                "id": "RdC75IoAQoo&list",
+                "likes": "42,823 likes",
+                "title": "Content Court: The ACE Family",
+                "url": "https://www.youtube.com/watch?v=RdC75IoAQoo&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=RdC75IoAQoo",
+                "video_length": 6325.461,
+                "views": "1,850,171 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=NNnIGh9g6fA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=nEnklxGAmak",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=a9_sX93RHOk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=k_P7Y0-wgos",
+                  "title": "The Man With The Seven Second Memory (Amnesia Documentary) | Real Stories",
+                  "video": {
+                    "ad": null,
+                    "comments": "15,036",
+                    "content creator": "Real Stories",
+                    "date": "Aug 13, 2016",
+                    "description": "The Man With The Seven Second Memory (Amnesia Documentary) \n\nThe remarkable and poignant story of Clive Wearing, a man with one of the worst cases of amnesia in the world. Once a renowned conductor and musician, Clive was struck down in 1985 by a virus that caused massive damage to his brain. Against the odds, doctors managed to save his life but he was left with a memory that spans just seven seconds.\n\nWant to watch more full-length Documentaries? \nClick here: ",
+                    "dislikes": " Unavailable",
+                    "id": "k_P7Y0-wgos",
+                    "likes": "94,767 likes",
+                    "title": "The Man With The Seven Second Memory (Amnesia Documentary) | Real Stories",
+                    "url": "https://www.youtube.com/watch?v=k_P7Y0-wgos",
+                    "video_length": 2880.181,
+                    "views": "8,052,540 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lj7QRP37Wn0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tCqwT2MqLxI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7tqypS2cm0g",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=sVF_SlzxBJ4",
+                  "title": "The Case of Michael Dunn",
+                  "video": {
+                    "ad": null,
+                    "comments": "77,428",
+                    "content creator": "JCS - Criminal Psychology",
+                    "date": "Feb 20, 2020",
+                    "description": "\u201cYes Sir, fluid motion\u2026\u201d\nTCL - https://www.youtube.com/c/TRUECRIMELoser\nVoice over - https://www.youtube.com/user/kizzume",
+                    "dislikes": " Unavailable",
+                    "id": "sVF_SlzxBJ4",
+                    "likes": "220,142 likes",
+                    "title": "The Case of Michael Dunn",
+                    "url": "https://www.youtube.com/watch?v=sVF_SlzxBJ4",
+                    "video_length": 3455.701,
+                    "views": "11,815,339 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Ger6gU_9v9A",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=MUKM658o3a0&pp=sAQB",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=gIU09F8jdwc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=rtlFR5SYzYo",
+                  "title": "Impractical Jokers: The Best of Focus Groups (Mashup) | truTV",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,909",
+                    "content creator": "truTV",
+                    "date": "May 1, 2020",
+                    "description": "Focus groups are meant to be serious, but when the Impractical Jokers get involved things can get out of hand. Here are the best of their focus groups as they try to convince people they\u2019re selling real products. #truTV #ImpracticalJokers",
+                    "dislikes": " Unavailable",
+                    "id": "rtlFR5SYzYo",
+                    "likes": "209,691 likes",
+                    "title": "Impractical Jokers: The Best of Focus Groups (Mashup) | truTV",
+                    "url": "https://www.youtube.com/watch?v=rtlFR5SYzYo",
+                    "video_length": 4061.041,
+                    "views": "24,517,169 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=rudSWhe_KD0",
+              "title": "The Case of Brendt Christensen",
+              "video": {
+                "ad": null,
+                "comments": "21,402",
+                "content creator": "J C S",
+                "date": "Jun 29, 2021",
+                "description": "Main channel - https://www.youtube.com/c/JCSCriminal...\nTCL - https://www.youtube.com/c/TRUECRIMELoser\nVoice over - https://www.youtube.com/user/kizzume",
+                "dislikes": " Unavailable",
+                "id": "rudSWhe_KD0",
+                "likes": "110,442 likes",
+                "title": "The Case of Brendt Christensen",
+                "url": "https://www.youtube.com/watch?v=rudSWhe_KD0",
+                "video_length": 2740.581,
+                "views": "5,365,369 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=RdC75IoAQoo",
+          "title": "Content Court: The ACE Family",
+          "video": {
+            "ad": null,
+            "comments": "5,417",
+            "content creator": "H3 Podcast",
+            "date": "Nov 5, 2020",
+            "description": "Thank you to http://GetQuip.com/H3 & http://Ridge.com/H3 (Use code: H3) for sponsoring us!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+            "dislikes": " Unavailable",
+            "id": "RdC75IoAQoo",
+            "likes": "42,823 likes",
+            "title": "Content Court: The ACE Family",
+            "url": "https://www.youtube.com/watch?v=RdC75IoAQoo",
+            "video_length": 6325.461,
+            "views": "1,850,171 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=7gDNG9rj_1Q",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=NSXn9jSvEiE&list=RDCMUCu9sYmfPNydPJFqLLTdmxvA&start_radio=1&rv=NSXn9jSvEiE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=oVvQunZzOoQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=NSXn9jSvEiE",
+                  "title": "I Randomly Added Players To The Worst Team Of All Time Until They Won A RING",
+                  "video": {
+                    "ad": null,
+                    "comments": "439",
+                    "content creator": "KOT4Q",
+                    "date": "Feb 18, 2022",
+                    "description": "https://bit.ly/KennyKnockout\n\nMy Other Channels: \nKenny For Real: ",
+                    "dislikes": " Unavailable",
+                    "id": "NSXn9jSvEiE",
+                    "likes": "10,770 likes",
+                    "title": "I Randomly Added Players To The Worst Team Of All Time Until They Won A RING",
+                    "url": "https://www.youtube.com/watch?v=NSXn9jSvEiE",
+                    "video_length": 1435.701,
+                    "views": "159,784 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=iZWW0OAQQuw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=32l4gIoxfY8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=2ebXPP5NwzM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=6CJFRxKue3I&list=RDCMUC3L9XPe0_FGfRG-CMGtBvFg&start_radio=1&rv=6CJFRxKue3I",
+                  "title": "LeBron's New Unbreakable Record",
+                  "video": {
+                    "ad": null,
+                    "comments": "620",
+                    "content creator": "JxmyHighroller",
+                    "date": "Feb 19, 2022",
+                    "description": "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/jxmyhighroller02221",
+                    "dislikes": " Unavailable",
+                    "id": "6CJFRxKue3I&list",
+                    "likes": "7,478 likes",
+                    "title": "LeBron's New Unbreakable Record",
+                    "url": "https://www.youtube.com/watch?v=6CJFRxKue3I&list=RDCMUC3L9XPe0_FGfRG-CMGtBvFg&start_radio=1&rv=6CJFRxKue3I",
+                    "video_length": 665.981,
+                    "views": "64,476 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=n0-1EBkY4-M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=18X-TDObf_4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6LKeE3bWK7A",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=TnjOtB3S1D0",
+                  "title": "How Paul George Gave Up On The Indiana Pacers",
+                  "video": {
+                    "ad": null,
+                    "comments": "450",
+                    "content creator": "dylandoesbasketball",
+                    "date": "Jan 19, 2022",
+                    "description": "The Paul George era in Indiana is most often remembered for the way it began, with high-flying dunks in an epic battle against LeBron James. The Pacers were just one game away from reaching the finals in 2013, but they never again reached that stage in the years following. Why did Paul George suddenly grow frustrated, and why did Indiana never win a championship? This is what lead to Paul George giving up on the Pacers front office.\n\nTwitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "TnjOtB3S1D0",
+                    "likes": "6,515 likes",
+                    "title": "How Paul George Gave Up On The Indiana Pacers",
+                    "url": "https://www.youtube.com/watch?v=TnjOtB3S1D0",
+                    "video_length": 1802.261,
+                    "views": "235,812 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=6CJFRxKue3I",
+              "title": "LeBron's New Unbreakable Record",
+              "video": {
+                "ad": null,
+                "comments": "598",
+                "content creator": "JxmyHighroller",
+                "date": "Feb 19, 2022",
+                "description": "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/jxmyhighroller02221",
+                "dislikes": " Unavailable",
+                "id": "6CJFRxKue3I",
+                "likes": "6,948 likes",
+                "title": "LeBron's New Unbreakable Record",
+                "url": "https://www.youtube.com/watch?v=6CJFRxKue3I",
+                "video_length": 666,
+                "views": "60,323 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=vk7w4NVTm4A",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=uKmQTE8iYqI&list=RDCMUCU7iRrk3xfpUk0R6VdyC1Ow&start_radio=1&rv=uKmQTE8iYqI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Zgx9juZJPjs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=uKmQTE8iYqI",
+                  "title": "LeBron James & Kevin Durant Make Their Picks In The 2022 NBA All-Star Draft | NBA on TNT",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,585",
+                    "content creator": "NBA on TNT",
+                    "date": "Feb 10, 2022",
+                    "description": "Captains LeBron James & Kevin Durant made their picks in the 2022 NBA All-Star Draft with Shaq, Chuck, Kenny & EJ. \n\nPresented by Nike. \n\nWatch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: ",
+                    "dislikes": " Unavailable",
+                    "id": "uKmQTE8iYqI",
+                    "likes": "88,518 likes",
+                    "title": "LeBron James & Kevin Durant Make Their Picks In The 2022 NBA All-Star Draft | NBA on TNT",
+                    "url": "https://www.youtube.com/watch?v=uKmQTE8iYqI",
+                    "video_length": 1215.421,
+                    "views": "4,312,265 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=9symftCu8K4&list=RDCMUCU7iRrk3xfpUk0R6VdyC1Ow&start_radio=1&rv=9symftCu8K4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=oE2wcVb7f0o",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kGJnKh7kDho",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=9symftCu8K4",
+                  "title": "Raja Anders' Big Buckets At Buford High School's Senior Night | EJ's Neato Stat | NBA on TNT",
+                  "video": {
+                    "ad": null,
+                    "comments": "104",
+                    "content creator": "NBA on TNT",
+                    "date": "Feb 11, 2022",
+                    "description": "\u201cThey're always teaching having a heart for others and maximum effort\u2026 Raja Anders is a perfect example of that.\u201d \ud83d\udcaa\n\nRaja Anders, a student of Ernie Johnson's daughter Maggie, delivered some big buckets at Buford High School's senior night Flexed biceps\n\nWatch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: ",
+                    "dislikes": " Unavailable",
+                    "id": "9symftCu8K4",
+                    "likes": "1,073 likes",
+                    "title": "Raja Anders' Big Buckets At Buford High School's Senior Night | EJ's Neato Stat | NBA on TNT",
+                    "url": "https://www.youtube.com/watch?v=9symftCu8K4",
+                    "video_length": 189.241,
+                    "views": "36,937 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=5MMflLtcZkw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_SdeGi-8rZ8&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=_SdeGi-8rZ8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_SdeGi-8rZ8&list=PLvcSNZqNYJCmOeLn_mpHMJ9iuLS0hGU7b",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=_SdeGi-8rZ8",
+                  "title": "Trisha Paytas vs Gabbie Hanna Explained By My Mom - Families # 2",
+                  "video": {
+                    "ad": null,
+                    "comments": "17,739",
+                    "content creator": "H3 Podcast",
+                    "date": "Jun 30, 2021",
+                    "description": "Thank you to http://creditkarma.com/winmoney & http://JoinHoney.com/Families for sponsoring today's episode!\nBecome a member for access to the episodes a day early with no ads and no cuts: ",
+                    "dislikes": " Unavailable",
+                    "id": "_SdeGi-8rZ8",
+                    "likes": "101,441 likes",
+                    "title": "Trisha Paytas vs Gabbie Hanna Explained By My Mom - Families # 2",
+                    "url": "https://www.youtube.com/watch?v=_SdeGi-8rZ8",
+                    "video_length": 6200.341,
+                    "views": "2,379,789 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=hohlENK_xQ4&list=RDCMUCU7iRrk3xfpUk0R6VdyC1Ow&start_radio=1&rv=hohlENK_xQ4",
+              "title": "NBA 75 Ultimate Draft | NBA on TNT",
+              "video": {
+                "ad": null,
+                "comments": "1,203",
+                "content creator": "NBA on TNT",
+                "date": "Feb 19, 2022",
+                "description": "Who drafted the best squad? \ud83d\udc40\n\n8 \"GMs\" & our #NBAonTNT crews select their all-time teams from a pool of the #NBA75 players.\n\n\ud83d\udc8e Jerry West\n\ud83d\udc8e Sue Bird\n\ud83d\udc8e Quavo\n\ud83d\udc8e  D.L. Hughley\n\ud83d\udc8e  NBA on TNT Tuesday\n\ud83d\udc8e  Inside the NBA\n\ud83d\udc8e  Shams Charania & Chris Haynes\n\ud83d\udc8e  Dominique Wilkins\n\nWatch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: ",
+                "dislikes": " Unavailable",
+                "id": "hohlENK_xQ4&list",
+                "likes": "6,842 likes",
+                "title": "NBA 75 Ultimate Draft | NBA on TNT",
+                "url": "https://www.youtube.com/watch?v=hohlENK_xQ4&list=RDCMUCU7iRrk3xfpUk0R6VdyC1Ow&start_radio=1&rv=hohlENK_xQ4",
+                "video_length": 4178.241,
+                "views": "169,441 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=dmLQlGlU110",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vaVuEyU-lzM&list=RDCMUCqQo7ewe87aYAe7ub5UqXMw&start_radio=1&rv=vaVuEyU-lzM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ac61ZpOyRQ8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=vaVuEyU-lzM",
+                  "title": "2020 NBA All-Star Draft - Team LeBron vs Team Giannis",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,123",
+                    "content creator": "House of Highlights",
+                    "date": "Feb 6, 2020",
+                    "description": "\ud83d\udccc NEW HOH BACK TO SCHOOL MERCH: hoh.world/rub4g\n\ud83d\udccc Check out our latest products: houseofhighlights.shop\n\ud83d\udccc Follow our Instagram: https://www.instagram.com/houseofhigh...",
+                    "dislikes": " Unavailable",
+                    "id": "vaVuEyU-lzM",
+                    "likes": "92,624 likes",
+                    "title": "2020 NBA All-Star Draft - Team LeBron vs Team Giannis",
+                    "url": "https://www.youtube.com/watch?v=vaVuEyU-lzM",
+                    "video_length": 780,
+                    "views": "5,274,690 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=T5-vgyEbtPU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1vyQ-a9v_SI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=b8tFXFnfmSU&pp=sAQB",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=9HO7KxO3nGc",
+                  "title": "[FULL] Kobe - Shaq 1-on-1 Interview",
+                  "video": {
+                    "ad": null,
+                    "comments": "7,928",
+                    "content creator": "NBA Stats All Seasons",
+                    "date": "Feb 17, 2018",
+                    "description": "Kobe Bryant and Shaquille O'Neal sit down to talk about their careers together all the fights they had while playing for Los Angeles Lakers on Players only interview.\n#Kobe #Shaq",
+                    "dislikes": " Unavailable",
+                    "id": "9HO7KxO3nGc",
+                    "likes": "108,584 likes",
+                    "title": "[FULL] Kobe - Shaq 1-on-1 Interview",
+                    "url": "https://www.youtube.com/watch?v=9HO7KxO3nGc",
+                    "video_length": 2397.841,
+                    "views": "7,256,343 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=teQ1JKvsq0s",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=BofOXnyQWZk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ucQk7hESziM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=9rPvCf9z-8c&list=RDCMUCqQo7ewe87aYAe7ub5UqXMw&start_radio=1&rv=9rPvCf9z-8c",
+                  "title": "2022 NBA All-Star Draft - Team LeBron vs Team Durant - Inside The NBA",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,341",
+                    "content creator": "House of Highlights",
+                    "date": "Feb 10, 2022",
+                    "description": "\ud83d\udd34$100K KNOCKOUT GAME FEAT ADIN ROSS, SUPREME DREAMS, CASH NASTY, AND MORE https://youtu.be/wXadLA9LTTI",
+                    "dislikes": " Unavailable",
+                    "id": "9rPvCf9z-8c&list",
+                    "likes": "61,174 likes",
+                    "title": "2022 NBA All-Star Draft - Team LeBron vs Team Durant - Inside The NBA",
+                    "url": "https://www.youtube.com/watch?v=9rPvCf9z-8c&list=RDCMUCqQo7ewe87aYAe7ub5UqXMw&start_radio=1&rv=9rPvCf9z-8c",
+                    "video_length": 792.521,
+                    "views": "2,134,642 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=9rPvCf9z-8c",
+              "title": "2022 NBA All-Star Draft - Team LeBron vs Team Durant - Inside The NBA",
+              "video": {
+                "ad": null,
+                "comments": "5,341",
+                "content creator": "House of Highlights",
+                "date": "Feb 10, 2022",
+                "description": "\ud83d\udd34$100K KNOCKOUT GAME FEAT ADIN ROSS, SUPREME DREAMS, CASH NASTY, AND MORE https://youtu.be/wXadLA9LTTI",
+                "dislikes": " Unavailable",
+                "id": "9rPvCf9z-8c",
+                "likes": "61,169 likes",
+                "title": "2022 NBA All-Star Draft - Team LeBron vs Team Durant - Inside The NBA",
+                "url": "https://www.youtube.com/watch?v=9rPvCf9z-8c",
+                "video_length": 792.521,
+                "views": "2,134,312 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=hohlENK_xQ4",
+          "title": "NBA 75 Ultimate Draft | NBA on TNT",
+          "video": {
+            "ad": null,
+            "comments": "1,194",
+            "content creator": "NBA on TNT",
+            "date": "Feb 19, 2022",
+            "description": "Who drafted the best squad? \ud83d\udc40\n\n8 \"GMs\" & our #NBAonTNT crews select their all-time teams from a pool of the #NBA75 players.\n\n\ud83d\udc8e Jerry West\n\ud83d\udc8e Sue Bird\n\ud83d\udc8e Quavo\n\ud83d\udc8e  D.L. Hughley\n\ud83d\udc8e  NBA on TNT Tuesday\n\ud83d\udc8e  Inside the NBA\n\ud83d\udc8e  Shams Charania & Chris Haynes\n\ud83d\udc8e  Dominique Wilkins\n\nWatch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: ",
+            "dislikes": " Unavailable",
+            "id": "hohlENK_xQ4",
+            "likes": "6,799 likes",
+            "title": "NBA 75 Ultimate Draft | NBA on TNT",
+            "url": "https://www.youtube.com/watch?v=hohlENK_xQ4",
+            "video_length": 4178.241,
+            "views": "165,695 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lcVcwC3j5_E",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9Q0rsJizGbw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4JvpYb4XL1A",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=mEUnZR-WDhc",
+                  "title": "Hila the Savage #h3h3 #shorts #HilaSimpsRiseUp #H3AfterDark",
+                  "video": {
+                    "ad": null,
+                    "comments": "50",
+                    "content creator": "Dark_Ranger",
+                    "date": "Jul 11, 2021",
+                    "description": "Hila don't play no games",
+                    "dislikes": " Unavailable",
+                    "id": "mEUnZR-WDhc",
+                    "likes": "1,772 likes",
+                    "title": "Hila the Savage #h3h3 #shorts #HilaSimpsRiseUp #H3AfterDark",
+                    "url": "https://www.youtube.com/watch?v=mEUnZR-WDhc",
+                    "video_length": 8.041,
+                    "views": "52,386 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=eaPzLbMWzgY&list=RDLVeaPzLbMWzgY&start_radio=1&rv=eaPzLbMWzgY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=VMFUMRv9DaU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=PqWUGDS2FIE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=eaPzLbMWzgY",
+                  "title": "Logic - H3 Podcast #208",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,658",
+                    "content creator": "H3 Podcast",
+                    "date": "Aug 20, 2020",
+                    "description": "Thank you to http://Ridge.com/H3 (Use code: \"H3\" for 10% off your order & free shipping!) Become a member - http://youtube.com/h3podcast/join\n\u2022friday live episode \u2022early access \u2022no ads\n\nTEDDY FRESH...",
+                    "dislikes": " Unavailable",
+                    "id": "eaPzLbMWzgY",
+                    "likes": "17,967 likes",
+                    "title": "Logic - H3 Podcast #208",
+                    "url": "https://www.youtube.com/watch?v=eaPzLbMWzgY",
+                    "video_length": 9296.481,
+                    "views": "539,146 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Pzr_0oZuKws",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Q3lBzoeDuUQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=nqjRfT7isGw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-CaF8aFNKHo",
+                  "title": "(not so) fun dip",
+                  "video": {
+                    "ad": null,
+                    "comments": "146",
+                    "content creator": "Adelbert Steiner",
+                    "date": "Nov 7, 2019",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "-CaF8aFNKHo",
+                    "likes": "2,213 likes",
+                    "title": "(not so) fun dip",
+                    "url": "https://www.youtube.com/watch?v=-CaF8aFNKHo",
+                    "video_length": 51.361,
+                    "views": "90,636 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=VQ6bqvWmHoo&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=VQ6bqvWmHoo",
+              "title": "Content Court: JayStation",
+              "video": {
+                "ad": null,
+                "comments": "3,941",
+                "content creator": "H3 Podcast",
+                "date": "Premiered Sep 24, 2020",
+                "description": "Become a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                "dislikes": " Unavailable",
+                "id": "VQ6bqvWmHoo&list",
+                "likes": "29,414 likes",
+                "title": "Content Court: JayStation",
+                "url": "https://www.youtube.com/watch?v=VQ6bqvWmHoo&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=VQ6bqvWmHoo",
+                "video_length": 4758.081,
+                "views": "932,496 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=S8g8iLsaePI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Rni5vczZCjQ&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=Rni5vczZCjQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=PvH5FpJBlY0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Rni5vczZCjQ",
+                  "title": "Fresh & Fit Cringe, M&M Controversy, Metaverse Fail - H3TV #22",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,112",
+                    "content creator": "H3 Podcast",
+                    "date": "Streamed live on Jan 24, 2022",
+                    "description": "Thank you to http://hellofresh.com/h3tv16 (use code h3tv16) & http://meundies.com/h3tv & http://mintmobile.com/h3tv & http://joinhoney.com/h3tv for sponsoring this episode!\n\nPODCAST SURVEY: ",
+                    "dislikes": " Unavailable",
+                    "id": "Rni5vczZCjQ",
+                    "likes": "32,155 likes",
+                    "title": "Fresh & Fit Cringe, M&M Controversy, Metaverse Fail - H3TV #22",
+                    "url": "https://www.youtube.com/watch?v=Rni5vczZCjQ",
+                    "video_length": 11975.121,
+                    "views": "1,611,908 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=LMA8r_MuJM0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7aWP75hjDoc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ISuLDsiBDxE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ZPt1p_KeTEE&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=ZPt1p_KeTEE",
+                  "title": "NELK Is A Menace To Society - Content Court",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,533",
+                    "content creator": "H3 Podcast",
+                    "date": "Oct 14, 2021",
+                    "description": "Thank you to today's sponsors: http://blenderseyewear.com (use promo code: H3VIP) & the SpongeBob BingePants Podcast! Listen to SpongeBob BingePants on the iHeartRadio App, Apple Podcasts,\nor wherever you get your podcasts!\nBecome a member for access to the episodes a day early with no ads and no cuts: ",
+                    "dislikes": " Unavailable",
+                    "id": "ZPt1p_KeTEE&list",
+                    "likes": "40,433 likes",
+                    "title": "NELK Is A Menace To Society - Content Court",
+                    "url": "https://www.youtube.com/watch?v=ZPt1p_KeTEE&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=ZPt1p_KeTEE",
+                    "video_length": 6841.821,
+                    "views": "1,182,375 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=A2sQZ8G_h3U&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=A2sQZ8G_h3U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=iBXtS72EGcM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6rLUkQDU-wY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=A2sQZ8G_h3U",
+                  "title": "Ethan Guesses Who\u2019s High - Off The Rails #15",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,943",
+                    "content creator": "H3 Podcast",
+                    "date": "Oct 21, 2021",
+                    "description": "Thank you to http://kraken.com/h3 & http://meundies.com/h3 & http://upstart.com/h3 for sponsoring this episode!\nBecome a member for access to the episodes a day early with no ads and no cuts: ",
+                    "dislikes": " Unavailable",
+                    "id": "A2sQZ8G_h3U",
+                    "likes": "40,734 likes",
+                    "title": "Ethan Guesses Who\u2019s High - Off The Rails #15",
+                    "url": "https://www.youtube.com/watch?v=A2sQZ8G_h3U",
+                    "video_length": 7669.881,
+                    "views": "1,211,991 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ZPt1p_KeTEE&list=PLvcSNZqNYJCkc5zhl1d92Qk1mjkqUAOx8",
+              "title": "NELK Is A Menace To Society - Content Court",
+              "video": {
+                "ad": null,
+                "comments": "6,533",
+                "content creator": "H3 Podcast",
+                "date": "Oct 14, 2021",
+                "description": "Thank you to today's sponsors: http://blenderseyewear.com (use promo code: H3VIP) & the SpongeBob BingePants Podcast! Listen to SpongeBob BingePants on the iHeartRadio App, Apple Podcasts,\nor wherever you get your podcasts!\nBecome a member for access to the episodes a day early with no ads and no cuts: ",
+                "dislikes": " Unavailable",
+                "id": "ZPt1p_KeTEE&list",
+                "likes": "40,433 likes",
+                "title": "NELK Is A Menace To Society - Content Court",
+                "url": "https://www.youtube.com/watch?v=ZPt1p_KeTEE&list=PLvcSNZqNYJCkc5zhl1d92Qk1mjkqUAOx8",
+                "video_length": 6841.821,
+                "views": "1,182,362 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=d9Y0O-FtKvA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bVwGr98HYqQ&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=bVwGr98HYqQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lmD0bxtBGxs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=bVwGr98HYqQ",
+                  "title": "R. Kelly, Keemstar, My Mom Exposed - H3TV #9",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,791",
+                    "content creator": "H3 Podcast",
+                    "date": "Streamed live on Sep 27, 2021",
+                    "description": "Thank you to http://www.stamps.com/h3tv & http://hellofresh.com/h3tv14 (use code: h3tv14) & http://joinhoney.com/h3tv & http://policygenius.com/h3tv for sponsoring this episode!\nTEDDY FRESH...http://teddyfresh.com",
+                    "dislikes": " Unavailable",
+                    "id": "bVwGr98HYqQ",
+                    "likes": "30,104 likes",
+                    "title": "R. Kelly, Keemstar, My Mom Exposed - H3TV #9",
+                    "url": "https://www.youtube.com/watch?v=bVwGr98HYqQ",
+                    "video_length": 11510.081,
+                    "views": "1,619,243 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=OT8if6DXOFQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=n5elr3rsIGQ&list=RDCMUC477Kvszl9JivqOxN1dFgPQ&start_radio=1&rv=n5elr3rsIGQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1cOojW-8u9s",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=n5elr3rsIGQ",
+                  "title": "I played 9 MORE Souls-Like games you've never heard of",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,800",
+                    "content creator": "Iron Pineapple",
+                    "date": "Feb 17, 2022",
+                    "description": "episode 13 of Steam Dumpster Diving with somehow, once again, even more \"souls-likes\" you (probably) haven't heard of\ntwitter: https://twitter.com/IronPineapple_",
+                    "dislikes": " Unavailable",
+                    "id": "n5elr3rsIGQ",
+                    "likes": "49,577 likes",
+                    "title": "I played 9 MORE Souls-Like games you've never heard of",
+                    "url": "https://www.youtube.com/watch?v=n5elr3rsIGQ",
+                    "video_length": 2123.241,
+                    "views": "853,780 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=jCd6ifFdKvk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Lx_wbGNh2zU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ESjVeC1_5vg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Uj_EXb3vzVQ",
+                  "title": "the most awkward moments during the first h3h3 Bill Burr interview",
+                  "video": {
+                    "ad": null,
+                    "comments": "684",
+                    "content creator": "Connor Norris",
+                    "date": "Jun 28, 2021",
+                    "description": "this podcast was like watching a guy who does crossfit on the weekends and ran a 5k one time trying to relate to a Navy SEAL\n\nedit: this descripition was kinda mean and unfair so im editing it: Ethan got caught off guard, happens to the best of us. enjoy the video. no ill will towards h3h3\n\nSpare change sir? Spare change? I\u2019ll take 1 dollar. That\u2019s it. I\u2019m no grifter. (From every single viewer) ",
+                    "dislikes": " Unavailable",
+                    "id": "Uj_EXb3vzVQ",
+                    "likes": "2,898 likes",
+                    "title": "the most awkward moments during the first h3h3 Bill Burr interview",
+                    "url": "https://www.youtube.com/watch?v=Uj_EXb3vzVQ",
+                    "video_length": 150.721,
+                    "views": "178,236 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ZPt1p_KeTEE",
+              "title": "NELK Is A Menace To Society - Content Court",
+              "video": {
+                "ad": null,
+                "comments": "6,533",
+                "content creator": "H3 Podcast",
+                "date": "Oct 14, 2021",
+                "description": "Thank you to today's sponsors: http://blenderseyewear.com (use promo code: H3VIP) & the SpongeBob BingePants Podcast! Listen to SpongeBob BingePants on the iHeartRadio App, Apple Podcasts,\nor wherever you get your podcasts!\nBecome a member for access to the episodes a day early with no ads and no cuts: ",
+                "dislikes": " Unavailable",
+                "id": "ZPt1p_KeTEE",
+                "likes": "40,433 likes",
+                "title": "NELK Is A Menace To Society - Content Court",
+                "url": "https://www.youtube.com/watch?v=ZPt1p_KeTEE",
+                "video_length": 6841.821,
+                "views": "1,182,362 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=VQ6bqvWmHoo",
+          "title": "Content Court: JayStation",
+          "video": {
+            "ad": null,
+            "comments": "3,941",
+            "content creator": "H3 Podcast",
+            "date": "Premiered Sep 24, 2020",
+            "description": "Become a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+            "dislikes": " Unavailable",
+            "id": "VQ6bqvWmHoo",
+            "likes": "29,414 likes",
+            "title": "Content Court: JayStation",
+            "url": "https://www.youtube.com/watch?v=VQ6bqvWmHoo",
+            "video_length": 4758.081,
+            "views": "932,496 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=pMW3hfX7Z_s",
+      "title": "Content Court: TheQuartering",
+      "video": {
+        "ad": null,
+        "comments": "19,939",
+        "content creator": "H3 Podcast",
+        "date": "Oct 21, 2020",
+        "description": "Thank you to http://ExpressVPN.com/H3 for sponsoring us!\n\nToday we examine TheQuartering \n\nBecome a member for access to the episodes a day early with no ads and no cuts: ",
+        "dislikes": " Unavailable",
+        "id": "pMW3hfX7Z_s",
+        "likes": "48,970 likes",
+        "title": "Content Court: TheQuartering",
+        "url": "https://www.youtube.com/watch?v=pMW3hfX7Z_s",
+        "video_length": 6941.561,
+        "views": "1,620,127 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/show/SC0b7fS1TBuycP_xoGzg5mBA?season=19&sbp=CgIxOQ%253D%253D",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=SGcdPakoytg",
+                  "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "66,069",
+                    "content creator": "Real Time with Bill Maher",
+                    "date": "Jun 30, 2018",
+                    "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nDaily Wire Editor-in-Chief and syndicated radio host Ben Shapiro joins Bill to discuss civility in the age of Trump.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "SGcdPakoytg",
+                    "likes": "122,680 likes",
+                    "title": "Ben Shapiro: Civil Discourse | Real Time with Bill Maher (HBO)",
+                    "url": "https://www.youtube.com/watch?v=SGcdPakoytg",
+                    "video_length": 663.881,
+                    "views": "15,655,282 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vln9D81eO60",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=am3vQ7OtYLM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                  "title": "Jordan B. Peterson | Real Time with Bill Maher (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "40,405",
+                    "content creator": "Real Time with Bill Maher",
+                    "date": "Apr 21, 2018",
+                    "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nProfessor and author Jordan Peterson joins Bill to discuss political correctness and free speech.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "8wLCmDtCDAM",
+                    "likes": "215,784 likes",
+                    "title": "Jordan B. Peterson | Real Time with Bill Maher (HBO)",
+                    "url": "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                    "video_length": 575.841,
+                    "views": "17,373,767 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=fLlZXSRGFok",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IVIoC5ROaHk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xBWmkwaTQ0k",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=rE0Z2k6BJI0",
+                  "title": "Ben Shapiro and Piers Morgan on guns",
+                  "video": {
+                    "ad": null,
+                    "comments": "19,355",
+                    "content creator": "CNN",
+                    "date": "Jan 13, 2013",
+                    "description": "Guest Ben Shapiro debates Piers Morgan on gun control, and the need, or lack thereof, for assault weapons. For more CNN videos, check out http://www.youtube.com/cnn or visit our site at http://www.cnn.com/video/",
+                    "dislikes": " Unavailable",
+                    "id": "rE0Z2k6BJI0",
+                    "likes": "74,518 likes",
+                    "title": "Ben Shapiro and Piers Morgan on guns",
+                    "url": "https://www.youtube.com/watch?v=rE0Z2k6BJI0",
+                    "video_length": 332.081,
+                    "views": "5,654,316 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=6VixqvOcK8E",
+              "title": "Ben Shapiro: US commentator clashes with BBC's Andrew Neil - BBC News",
+              "video": {
+                "ad": null,
+                "comments": "138,897",
+                "content creator": "BBC News",
+                "date": "May 10, 2019",
+                "description": "He has more than 2 million followers on Twitter, 600,000 YouTube subscribers and his videos on the Daily Wire channel rack up millions of views.\n\nBen Shapiro is a controversial figure but one of the US' leading conservative political commentators. His book, The Right Side of History: How Reason and Moral Purpose Made the West Great, is a New York Times bestseller.\n\nIn a spiky Politics Live interview with Andrew Neil, Mr Shapiro refers to an incident which took place between Trump campaign manager, Corey Lewandowski and Breitbart reporter Michelle Fields in 2016.\n\nAlthough a charge was brought at the time against Mr Lewandowski, Florida prosecutors dropped the case.\n\nThis is an unedited version of their interview, which was terminated by Mr Shapiro.",
+                "dislikes": " Unavailable",
+                "id": "6VixqvOcK8E",
+                "likes": "177,008 likes",
+                "title": "Ben Shapiro: US commentator clashes with BBC's Andrew Neil - BBC News",
+                "url": "https://www.youtube.com/watch?v=6VixqvOcK8E",
+                "video_length": 966.381,
+                "views": "10,916,387 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=7QRQjrsFnR4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kasiov0ytEc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6T7pUEZfgdI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+                  "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+                  "video": {
+                    "ad": null,
+                    "comments": "209,123",
+                    "content creator": "Channel 4 News",
+                    "date": "Jan 16, 2018",
+                    "description": "Channel 4 News\u2019 full, fiery interview with clinical psychologist and professor Jordan B Peterson, whose views on gender have amassed great controversy - and a huge online following. He discusses the pay gap, patriarchy and his new book \"12 Rules for Life.\" Subscribe: ",
+                    "dislikes": " Unavailable",
+                    "id": "aMcjxSThD54",
+                    "likes": "715,692 likes",
+                    "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+                    "url": "https://www.youtube.com/watch?v=aMcjxSThD54",
+                    "video_length": 1795.461,
+                    "views": "36,417,025 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-5RCmu-HuTg&list=RDLV-5RCmu-HuTg&start_radio=1&rv=-5RCmu-HuTg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Z1qFOdbz0WE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-5RCmu-HuTg&list=RDPYM-sS-0-yg&start_radio=1&rv=PYM-sS-0-yg",
+                  "title": "Jordan B. Peterson on 12 Rules for Life",
+                  "video": {
+                    "ad": null,
+                    "comments": "12,648",
+                    "content creator": "How To Academy Mindset",
+                    "date": "Jan 17, 2018",
+                    "description": "Don't forget to Subscribe to our Channel!. \n\nThe clinical psychologist Jordan Peterson sets out twelve profound and practical principles for living a meaningful life. His 12 Rules for Life will offer an antidote to the chaos in our lives: with eternal truths applied to our modern problems.",
+                    "dislikes": " Unavailable",
+                    "id": "-5RCmu-HuTg&list",
+                    "likes": "213,797 likes",
+                    "title": "Jordan B. Peterson on 12 Rules for Life",
+                    "url": "https://www.youtube.com/watch?v=-5RCmu-HuTg&list=RDPYM-sS-0-yg&start_radio=1&rv=PYM-sS-0-yg",
+                    "video_length": 5432.461,
+                    "views": "15,222,382 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=oKNAzl-XN4I",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Xm_2zmX6Akc&list=RDLVXm_2zmX6Akc&start_radio=1&rv=Xm_2zmX6Akc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Xm_2zmX6Akc",
+                  "title": "Jordan Peterson: How To Deal With Depression | Powerful Motivational Speech",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,948",
+                    "content creator": "Motivation Madness",
+                    "date": "Feb 25, 2018",
+                    "description": "Jordan Peterson talks about how you can overcome and defeat depression. \n\nSubscribe for Motivational Videos Every Weekday, Helping You Get Through The Week! ",
+                    "dislikes": " Unavailable",
+                    "id": "Xm_2zmX6Akc",
+                    "likes": "97,665 likes",
+                    "title": "Jordan Peterson: How To Deal With Depression | Powerful Motivational Speech",
+                    "url": "https://www.youtube.com/watch?v=Xm_2zmX6Akc",
+                    "video_length": 2985.061,
+                    "views": "4,717,329 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=PYM-sS-0-yg",
+              "title": "Jordan Peterson on Cancel Culture, Comedy, and His Battle With Depression | The Russell Howard Hour",
+              "video": {
+                "ad": null,
+                "comments": "7,183",
+                "content creator": "Russell Howard",
+                "date": "Dec 4, 2021",
+                "description": "From The Russell Howard Hour, Russell sits down with clinical psychologist and prominent figure in politics and culture, Dr Jordan Peterson, as they speak about political division, finding your purpose, and Peterson's battle with depression.\n\n.\n.\nWelcome to the official Russell Howard channel! Be sure to subscribe to watch the very best Russell Howard clips!\n\nFollow the show on Twitter at ",
+                "dislikes": " Unavailable",
+                "id": "PYM-sS-0-yg",
+                "likes": "65,458 likes",
+                "title": "Jordan Peterson on Cancel Culture, Comedy, and His Battle With Depression | The Russell Howard Hour",
+                "url": "https://www.youtube.com/watch?v=PYM-sS-0-yg",
+                "video_length": 895.061,
+                "views": "1,600,962 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=9DcqFoBUtK0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kxgeevlRElw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ycPr5-27vSI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=vIeFt88Hm8s",
+                  "title": "Joe Rogan Experience #1208 - Jordan Peterson",
+                  "video": {
+                    "ad": null,
+                    "comments": "25,592",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on Nov 29, 2018",
+                    "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
+                    "dislikes": " Unavailable",
+                    "id": "vIeFt88Hm8s",
+                    "likes": "234,469 likes",
+                    "title": "Joe Rogan Experience #1208 - Jordan Peterson",
+                    "url": "https://www.youtube.com/watch?v=vIeFt88Hm8s",
+                    "video_length": 10503.901,
+                    "views": "15,135,901 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=9Xc7DN-noAc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8wFzICJ0ZYY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XKBkhidio3w",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                  "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+                  "video": {
+                    "ad": null,
+                    "comments": "230,277",
+                    "content creator": "British GQ",
+                    "date": "Oct 30, 2018",
+                    "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+                    "dislikes": " Unavailable",
+                    "id": "yZYQpge1W5s",
+                    "likes": "717,051 likes",
+                    "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+                    "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                    "video_length": 6133.181,
+                    "views": "49,015,998 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=DbOwMIj-q60",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=leHb2hdCLqo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fOGdb1CTu5c",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=2C_T6wEZ0tk",
+                  "title": "HEAL webinar - A conversation with renowned epidemiologist Dr. Shanna Swan, author of 'Count Down'",
+                  "video": {
+                    "ad": null,
+                    "comments": "12",
+                    "content creator": "Health and Environment Alliance - HEAL",
+                    "date": "Mar 16, 2021",
+                    "description": "In February 2021, renowned epidemiologist Dr. Shanna Swan released a new book alerting about the threats posed by hormone disrupting chemicals and our modern environment that are imperiling reproductive health, fertility, and the fate of humankind. Building on more than 25 years of research on the associations between exposure to environmental pollutants and health effects, \u201cCount Down \u2013 How our modern world is threatening sperm counts, altering male and female reproductive development and imperiling the future of the human race\u201d is a clarion call for more protective public policies and changes in our modern way or living.\n\nThe Health and Environment Alliance (HEAL) sat down with Dr. Swan to discuss the main findings of her book, as well as her recommendations for more protective public policies. Her presentation was followed by a panel discussion featuring two guest speakers: \n\n- Dr. Majorie van Duursen is a professor of toxicology at the Vrije Universiteit of Amsterdam and the coordinator of one of Europe\u2019s leading research projects to upgrade testing methods on endocrine disrupting, FREIA (Female Reproductive Toxicity of EDCs \u2013 A Human Evidence-Based Screening and Identification Approach), which aims at developing new test methods to identify EDCs toxic to female reproduction.\n\n- Dr. Lola G\u00f3mez Roig is the Head of Obstetrics and Gynaecology Department at the Hospital Sant Joan de D\u00e9u, University of Barcelona and and a member of the International Federation of Gynecologists and Obstetricians (FIGO), where she sits and actively participates in the committee on reproductive developmental & environmental health.\n\nTo find out more about HEAL\u2019s work to minimize exposure to toxic chemicals, visit our website and sign up to our newsletter: ",
+                    "dislikes": " Unavailable",
+                    "id": "2C_T6wEZ0tk",
+                    "likes": "Unavailable",
+                    "title": "HEAL webinar - A conversation with renowned epidemiologist Dr. Shanna Swan, author of 'Count Down'",
+                    "url": "https://www.youtube.com/watch?v=2C_T6wEZ0tk",
+                    "video_length": 3460.341,
+                    "views": "3,383 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=hl0iNRXcUbE",
+              "title": "Joe Rogan Experience #1512 - Ben Shapiro",
+              "video": {
+                "ad": null,
+                "comments": "52,026",
+                "content creator": "PowerfulJRE",
+                "date": "Jul 22, 2020",
+                "description": "Ben Shapiro is editor-in-chief of the Daily Wire, syndicated columnist, and host of \u201cThe Ben Shapiro Show\u201d is available on SoundCloud and iTunes. His new book How to Destroy America in Three Easy Steps is available now everywhere. @Ben Shapiro",
+                "dislikes": " Unavailable",
+                "id": "hl0iNRXcUbE",
+                "likes": "256,664 likes",
+                "title": "Joe Rogan Experience #1512 - Ben Shapiro",
+                "url": "https://www.youtube.com/watch?v=hl0iNRXcUbE",
+                "video_length": 6210.401,
+                "views": "12,039,370 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=ke4TBkus5FQ",
+          "title": "Jordan Peterson Cries to Ben Shapiro About Gender (VERY EMOTIONAL)",
+          "video": {
+            "ad": null,
+            "comments": "3,391",
+            "content creator": "Vaush",
+            "date": "Dec 26, 2021",
+            "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+            "dislikes": " Unavailable",
+            "id": "ke4TBkus5FQ",
+            "likes": "6,781 likes",
+            "title": "Jordan Peterson Cries to Ben Shapiro About Gender (VERY EMOTIONAL)",
+            "url": "https://www.youtube.com/watch?v=ke4TBkus5FQ",
+            "video_length": 2545.701,
+            "views": "185,643 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Y2CYnifjUPg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=WqrxlpHwWWQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1zSU_Df54C4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ez_bTUjWG5Y&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=ez_bTUjWG5Y",
+                  "title": "Oliver Tree - H3 Podcast #248",
+                  "video": {
+                    "ad": null,
+                    "comments": "11,578",
+                    "content creator": "H3 Podcast",
+                    "date": "Jan 27, 2022",
+                    "description": "Thank you to http://babbel.com (use code: H3) & http://joinhoney.com/h3 & http://meundies.com/h3 & http://expressVPN.com/h3 (go to http://expressvpn.com/h3 to get an extra 3 months free on a 1-year package) for sponsoring this episode!\nGet tickets to Oliver's tour at ",
+                    "dislikes": " Unavailable",
+                    "id": "ez_bTUjWG5Y&list",
+                    "likes": "77,490 likes",
+                    "title": "Oliver Tree - H3 Podcast #248",
+                    "url": "https://www.youtube.com/watch?v=ez_bTUjWG5Y&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=ez_bTUjWG5Y",
+                    "video_length": 7405.021,
+                    "views": "1,601,739 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=W-tiqGm8djQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=WLdDWEUH_Ds",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=CbjgfUyu2Bs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=jIg0etiMSUI",
+                  "title": "Oliver Tree fighting Ethan Klein on the H3 Podcast",
+                  "video": {
+                    "ad": null,
+                    "comments": "5",
+                    "content creator": "Shooovoo",
+                    "date": "Jan 27, 2022",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "jIg0etiMSUI",
+                    "likes": "123 likes",
+                    "title": "Oliver Tree fighting Ethan Klein on the H3 Podcast",
+                    "url": "https://www.youtube.com/watch?v=jIg0etiMSUI",
+                    "video_length": 126.481,
+                    "views": "3,341 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=B9p2sbuv-hU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Dkjkh3OrjeA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-XoCvn4fnXw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lqEPlpHLfM0",
+                  "title": "Day 5 of my bread challenge",
+                  "video": {
+                    "ad": null,
+                    "comments": "97",
+                    "content creator": "Jeanelleats",
+                    "date": "Feb 19, 2022",
+                    "description": "Recipe here: https://jeanelleats.com/hagelslag-on-...\nGet the Hagelslag (Dutch sprinkles): https://amzn.to/3H1VaLc",
+                    "dislikes": " Unavailable",
+                    "id": "lqEPlpHLfM0",
+                    "likes": "4,618 likes",
+                    "title": "Day 5 of my bread challenge",
+                    "url": "https://www.youtube.com/watch?v=lqEPlpHLfM0",
+                    "video_length": 59.881,
+                    "views": "24,744 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ez_bTUjWG5Y",
+              "title": "Oliver Tree - H3 Podcast #248",
+              "video": {
+                "ad": null,
+                "comments": "11,578",
+                "content creator": "H3 Podcast",
+                "date": "Jan 27, 2022",
+                "description": "Thank you to http://babbel.com (use code: H3) & http://joinhoney.com/h3 & http://meundies.com/h3 & http://expressVPN.com/h3 (go to http://expressvpn.com/h3 to get an extra 3 months free on a 1-year package) for sponsoring this episode!\nGet tickets to Oliver's tour at ",
+                "dislikes": " Unavailable",
+                "id": "ez_bTUjWG5Y",
+                "likes": "77,487 likes",
+                "title": "Oliver Tree - H3 Podcast #248",
+                "url": "https://www.youtube.com/watch?v=ez_bTUjWG5Y",
+                "video_length": 7405.021,
+                "views": "1,601,661 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=XniIQaL1b8k",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=545x4EldHlg&list=RDLV545x4EldHlg&start_radio=1&rv=545x4EldHlg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=E3-nuWgxRgI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=545x4EldHlg",
+                  "title": "Professor Slavoj \u017di\u017eek | Full Address and Q&A | Oxford Union",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,435",
+                    "content creator": "OxfordUnion",
+                    "date": "Jan 1, 2019",
+                    "description": "SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion\nOxford Union on Facebook: https://www.facebook.com/theoxfordunion\nOxford Union on Twitter: @OxfordUnion\nWebsite: ",
+                    "dislikes": " Unavailable",
+                    "id": "545x4EldHlg",
+                    "likes": "15,082 likes",
+                    "title": "Professor Slavoj \u017di\u017eek | Full Address and Q&A | Oxford Union",
+                    "url": "https://www.youtube.com/watch?v=545x4EldHlg",
+                    "video_length": 4507.941,
+                    "views": "784,252 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lsWndfzuOc4&list=RDLVlsWndfzuOc4&start_radio=1&rv=lsWndfzuOc4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=HK_qkyGE4ao",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IgR6uaVqWsQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lsWndfzuOc4",
+                  "title": "Marxism: Zizek/Peterson: Official Video",
+                  "video": {
+                    "ad": null,
+                    "comments": "19,110",
+                    "content creator": "Jordan B Peterson",
+                    "date": "May 15, 2019",
+                    "description": "I posted this yesterday, but the volume was too low, so now it's been raised.\n\nOn February, April 19, 2019, I debated Marxist philosopher Slavoj Zizek in Toronto, April 19 at the Sony Centre. Dr. Zizek is a Slovenian philosopher and professor at the Institute for Sociology and Philosophy at the University of Ljubljana, whose works on cultural studies, psychoanalysis and, above all, for the purposes of our debate, Marxism, are world-renowned. The topic? Happiness: Marxism vs Capitalism. This is the official video. Many bootlegs have already been released, but that seems inevitable given our current state of technological capability. \n\nI started with a critique of The Communist Manifesto, which is the central revolutionary document of the Marxist movement (rather than addressing, say, Zizek's work, which wasn't what the debate was about). \n\nIt wasn't so obvious for the rest of the discussion that Marxism, per se, comprised the central topic of discussion.\n\nWatch for yourself.\n\nA good article, I think, on Zizek: ",
+                    "dislikes": " Unavailable",
+                    "id": "lsWndfzuOc4",
+                    "likes": "75,406 likes",
+                    "title": "Marxism: Zizek/Peterson: Official Video",
+                    "url": "https://www.youtube.com/watch?v=lsWndfzuOc4",
+                    "video_length": 9932.941,
+                    "views": "3,686,222 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=PA9PZZjWAE0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7TMqcTB_nKQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rX3vKcAayk0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=cnjZu8UrmWw",
+                  "title": "The Crazy Fight Over American Schools!",
+                  "video": {
+                    "ad": null,
+                    "comments": "297",
+                    "content creator": "Rm Brown",
+                    "date": "Feb 18, 2022",
+                    "description": "The Crazy Fight Over American Schools!\n\nKeep the Show Goin and Get Secret Videos on PATREON",
+                    "dislikes": " Unavailable",
+                    "id": "cnjZu8UrmWw",
+                    "likes": "872 likes",
+                    "title": "The Crazy Fight Over American Schools!",
+                    "url": "https://www.youtube.com/watch?v=cnjZu8UrmWw",
+                    "video_length": 978.301,
+                    "views": "12,030 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=kWGBN8WqAAo&list=RDCMUCq86GXNNcwlRG1zZiYsXBBg&start_radio=1&rv=kWGBN8WqAAo",
+              "title": "End Of An Arc - Professor Flowers Video On Vaush & I",
+              "video": {
+                "ad": null,
+                "comments": "1,484",
+                "content creator": "Heem",
+                "date": "Oct 7, 2021",
+                "description": "#vaush #professorflowers #debatebros\n\nprofessor flowers made a response video after her discussions with Vaush and myself.\n\nI reacted to it. That's it\n\nJoin this channel to get access to perks:",
+                "dislikes": " Unavailable",
+                "id": "kWGBN8WqAAo&list",
+                "likes": "2,241 likes",
+                "title": "End Of An Arc - Professor Flowers Video On Vaush & I",
+                "url": "https://www.youtube.com/watch?v=kWGBN8WqAAo&list=RDCMUCq86GXNNcwlRG1zZiYsXBBg&start_radio=1&rv=kWGBN8WqAAo",
+                "video_length": 5566.921,
+                "views": "46,456 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=08mwXICY4JM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KciAzYfXNwU&list=RDCMUCMOqf8ab-42UUQIdVoKwjlQ&start_radio=1&rv=KciAzYfXNwU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=FP6iyVJ70OU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=KciAzYfXNwU",
+                  "title": "What Really Happened During the 2003 Blackout?",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,110",
+                    "content creator": "Practical Engineering",
+                    "date": "Feb 15, 2022",
+                    "description": "In 2003, one of the most severe power outages in history affected the northeastern US and parts of eastern Canada. This video summarizes the events leading up to and during the blackout.\n\nMy Power Grid playlist: ",
+                    "dislikes": " Unavailable",
+                    "id": "KciAzYfXNwU",
+                    "likes": "34,430 likes",
+                    "title": "What Really Happened During the 2003 Blackout?",
+                    "url": "https://www.youtube.com/watch?v=KciAzYfXNwU",
+                    "video_length": 1239,
+                    "views": "715,486 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=tdguh1D-fOk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kgqef1ozkKA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=pHgki_0ZME0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=R2paSGQRwvo",
+                  "title": "Pounds, shillings, and pence: a history of English coinage",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,564",
+                    "content creator": "Lindybeige",
+                    "date": "Dec 18, 2020",
+                    "description": "Try Acorn TV free for 30 days by going to https://acorn.tv and use promo code: 'lindybeige'.\nI talk for a bit the history of English coinage, and the problems of maintaining a good currency.  Once or twice I might stray off topic, but I end with an explanation of why the system worked so well.\n\nPicture credits:\n40 librae weight\nMartinvl, CC BY-SA 3.0 ",
+                    "dislikes": " Unavailable",
+                    "id": "R2paSGQRwvo",
+                    "likes": "27,772 likes",
+                    "title": "Pounds, shillings, and pence: a history of English coinage",
+                    "url": "https://www.youtube.com/watch?v=R2paSGQRwvo",
+                    "video_length": 3532.981,
+                    "views": "690,964 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=9LMr5XTgeyI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3YFeE1eDlD0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=O37yJBFRrfg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=LruaD7XhQ50",
+                  "title": "What is Federal Land?",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,422",
+                    "content creator": "CGP Grey",
+                    "date": "Nov 26, 2018",
+                    "description": "Like what does it mean?  (For real though?)\n***Federal Girls Wallpaper***: https://www.patreon.com/posts/federal...\nLand in America Part 1: https://www.youtube.com/watch?v=SgZ1f...",
+                    "dislikes": " Unavailable",
+                    "id": "LruaD7XhQ50",
+                    "likes": "182,304 likes",
+                    "title": "What is Federal Land?",
+                    "url": "https://www.youtube.com/watch?v=LruaD7XhQ50",
+                    "video_length": 534.281,
+                    "views": "8,301,638 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=8Fn_30AD7Pk",
+              "title": "\ud83d\ude9b \ud83d\ude97 The Interstate's Forgotten Code \ud83d\ude97 \ud83d\ude9b",
+              "video": {
+                "ad": null,
+                "comments": "7,708",
+                "content creator": "CGP Grey",
+                "date": "Premiered Feb 10, 2022",
+                "description": "- Thank you, Bonnie Bees, for making this video possible: https://www.patreon.com/cgpgrey\n\n- Discuss this video: https://www.reddit.com/r/cgpgrey",
+                "dislikes": " Unavailable",
+                "id": "8Fn_30AD7Pk",
+                "likes": "157,690 likes",
+                "title": "\ud83d\ude9b \ud83d\ude97 The Interstate's Forgotten Code \ud83d\ude97 \ud83d\ude9b",
+                "url": "https://www.youtube.com/watch?v=8Fn_30AD7Pk",
+                "video_length": 509.601,
+                "views": "2,965,981 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=kWGBN8WqAAo",
+          "title": "End Of An Arc - Professor Flowers Video On Vaush & I",
+          "video": {
+            "ad": null,
+            "comments": "1,484",
+            "content creator": "Heem",
+            "date": "Oct 7, 2021",
+            "description": "#vaush #professorflowers #debatebros\n\nprofessor flowers made a response video after her discussions with Vaush and myself.\n\nI reacted to it. That's it\n\nJoin this channel to get access to perks:",
+            "dislikes": " Unavailable",
+            "id": "kWGBN8WqAAo",
+            "likes": "2,241 likes",
+            "title": "End Of An Arc - Professor Flowers Video On Vaush & I",
+            "url": "https://www.youtube.com/watch?v=kWGBN8WqAAo",
+            "video_length": 5566.921,
+            "views": "46,456 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=K0t50D4lQrs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lMjLo2EJcUI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=JSHHCPanX9Q",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=5Sn54uc1EJY",
+                  "title": "I Met Him At A Libertarian Convention. Now, We Debate",
+                  "video": {
+                    "ad": null,
+                    "comments": "446",
+                    "content creator": "The Vaush Pit",
+                    "date": "Nov 24, 2021",
+                    "description": "\ud83d\udd34 Website  - https://www.vaush.gg/\n\ud83d\udcb5 Patreon  - https://www.patreon.com/vaush",
+                    "dislikes": " Unavailable",
+                    "id": "5Sn54uc1EJY",
+                    "likes": "1,976 likes",
+                    "title": "I Met Him At A Libertarian Convention. Now, We Debate",
+                    "url": "https://www.youtube.com/watch?v=5Sn54uc1EJY",
+                    "video_length": 7686.161,
+                    "views": "58,046 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=nEBpZUfQ2pc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dDYFiq1l5Dg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=U4BoRsPUwUs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Olj9Q_wLV28&list=RDCMUCdUD6racxisHiSX9iWFcuug&start_radio=1&rv=Olj9Q_wLV28",
+                  "title": "The Debate So Vile I Had To End It",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,408",
+                    "content creator": "The Vaush Pit",
+                    "date": "Dec 23, 2021",
+                    "description": "\ud83d\udd34 Website  - https://www.vaush.gg/\n\ud83d\udcb5 Patreon  - https://www.patreon.com/vaush",
+                    "dislikes": " Unavailable",
+                    "id": "Olj9Q_wLV28&list",
+                    "likes": "9,335 likes",
+                    "title": "The Debate So Vile I Had To End It",
+                    "url": "https://www.youtube.com/watch?v=Olj9Q_wLV28&list=RDCMUCdUD6racxisHiSX9iWFcuug&start_radio=1&rv=Olj9Q_wLV28",
+                    "video_length": 3797.401,
+                    "views": "288,854 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=X42ClNHmIaY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XDUhZ_pnR3U&list=RDCMUC0YvoAYGgdOfySQSLcxtu1w&start_radio=1&rv=XDUhZ_pnR3U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=D37W90aBoLo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=XDUhZ_pnR3U",
+                  "title": "Let's talk about Ukraine warming up....",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,695",
+                    "content creator": "Beau of the Fifth Column",
+                    "date": "Feb 18, 2022",
+                    "description": "Support via Patreon: https://www.patreon.com/beautfc\nThe Roads with Beau: https://www.youtube.com/channel/UC_x7...",
+                    "dislikes": " Unavailable",
+                    "id": "XDUhZ_pnR3U",
+                    "likes": "9,218 likes",
+                    "title": "Let's talk about Ukraine warming up....",
+                    "url": "https://www.youtube.com/watch?v=XDUhZ_pnR3U",
+                    "video_length": 768.301,
+                    "views": "88,131 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Olj9Q_wLV28",
+              "title": "The Debate So Vile I Had To End It",
+              "video": {
+                "ad": null,
+                "comments": "5,408",
+                "content creator": "The Vaush Pit",
+                "date": "Dec 23, 2021",
+                "description": "\ud83d\udd34 Website  - https://www.vaush.gg/\n\ud83d\udcb5 Patreon  - https://www.patreon.com/vaush",
+                "dislikes": " Unavailable",
+                "id": "Olj9Q_wLV28",
+                "likes": "9,335 likes",
+                "title": "The Debate So Vile I Had To End It",
+                "url": "https://www.youtube.com/watch?v=Olj9Q_wLV28",
+                "video_length": 3797.401,
+                "views": "288,846 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=AAGIi62-sAU&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=AAGIi62-sAU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=zqllxbPWKNI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ewLpXw6uN28",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AAGIi62-sAU",
+                  "title": "Prohibition - OverSimplified",
+                  "video": {
+                    "ad": null,
+                    "comments": "54,311",
+                    "content creator": "OverSimplified",
+                    "date": "Premiered Dec 15, 2020",
+                    "description": "Get Honey for FREE today \u25b8 http://joinhoney.com/oversimplified\nHoney finds coupons with the click of a button. Thanks to Honey for sponsoring!\n\nMERCH (New limited edition Al Capone pin OUT NOW!) - ",
+                    "dislikes": " Unavailable",
+                    "id": "AAGIi62-sAU",
+                    "likes": "590,049 likes",
+                    "title": "Prohibition - OverSimplified",
+                    "url": "https://www.youtube.com/watch?v=AAGIi62-sAU",
+                    "video_length": 2022.821,
+                    "views": "26,527,411 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=UELRuY_By5Y",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=o7HoZ-ZMSiA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8_MAPMqqwR4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=QLq6GEiHqR8&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=QLq6GEiHqR8",
+                  "title": "The Pig War - OverSimplified",
+                  "video": {
+                    "ad": null,
+                    "comments": "45,924",
+                    "content creator": "OverSimplified",
+                    "date": "Premiered Dec 6, 2021",
+                    "description": "Go to https://nordvpn.com/oversimplified to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee!\n\nMERCH (Plushie and new character pins OUT NOW!) - ",
+                    "dislikes": " Unavailable",
+                    "id": "QLq6GEiHqR8&list",
+                    "likes": "535,750 likes",
+                    "title": "The Pig War - OverSimplified",
+                    "url": "https://www.youtube.com/watch?v=QLq6GEiHqR8&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=QLq6GEiHqR8",
+                    "video_length": 2322.521,
+                    "views": "11,553,279 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=BXpu6tbFCsI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=W12vb_Crf00",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=T0fAznO1wA8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+                  "title": "The War that Changed the English Language - Mini-Wars #3",
+                  "video": {
+                    "ad": null,
+                    "comments": "16,592",
+                    "content creator": "OverSimplified",
+                    "date": "May 24, 2018",
+                    "description": "2 FREE MONTHS OF SKILLSHARE: http://skl.sh/oversimplified3\nMERCH: oversimplified.tv/merch",
+                    "dislikes": " Unavailable",
+                    "id": "Jl3K63Rbygw",
+                    "likes": "361,106 likes",
+                    "title": "The War that Changed the English Language - Mini-Wars #3",
+                    "url": "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+                    "video_length": 763.021,
+                    "views": "24,848,410 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+              "title": "The Pig War - OverSimplified",
+              "video": {
+                "ad": null,
+                "comments": "45,921",
+                "content creator": "OverSimplified",
+                "date": "Premiered Dec 6, 2021",
+                "description": "Go to https://nordvpn.com/oversimplified to get a 2-year plan plus 1 additional month with a huge discount. It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee!\n\nMERCH (Plushie and new character pins OUT NOW!) - ",
+                "dislikes": " Unavailable",
+                "id": "QLq6GEiHqR8",
+                "likes": "535,747 likes",
+                "title": "The Pig War - OverSimplified",
+                "url": "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+                "video_length": 2322.521,
+                "views": "11,552,797 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/show/SC1Dd2OxhAzUXWuhFBFecIAA?season=2&sbp=CgEy",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XEVlyP4_11M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Cy-O4myeUzg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                  "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "27,126",
+                    "content creator": "LastWeekTonight",
+                    "date": "Nov 7, 2016",
+                    "description": "Multilevel marketing companies claim to be legitimate businesses, but some seem awfully\u2026pyramid shaped. John Oliver and Jaime Camil demonstrate how they work. \n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "s6MwGeOm8iI",
+                    "likes": "314,507 likes",
+                    "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                    "video_length": 1917.681,
+                    "views": "31,451,553 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ubDXtrF7uYg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=pflU-nnY4MA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6LFzk1afiD8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+                  "title": "The God Debate II: Harris vs. Craig",
+                  "video": {
+                    "ad": null,
+                    "comments": "41,557",
+                    "content creator": "University of Notre Dame",
+                    "date": "Apr 12, 2011",
+                    "description": "The second annual God Debate features atheist neuroscientist Sam Harris and Evangelical Christian apologist William Lane Craig as they debate the topic: \"Is Good From God?\" The debate was sponsored in large part by the Notre Dame College of Arts and Letters: The Henkels Lecturer Series, The Center for Philosophy of Religion and the Institute for Scholarship in the Liberal Arts.",
+                    "dislikes": " Unavailable",
+                    "id": "yqaHXKLRKzg",
+                    "likes": "45,622 likes",
+                    "title": "The God Debate II: Harris vs. Craig",
+                    "url": "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+                    "video_length": 7614.961,
+                    "views": "10,669,464 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=q0mljE9K-gY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=LIVEsa2g4ag",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Xc0kbM4tBYE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=9V85OykSDT8",
+                  "title": "The God Debate: Hitchens vs. D'Souza",
+                  "video": {
+                    "ad": null,
+                    "comments": "17,152",
+                    "content creator": "University of Notre Dame",
+                    "date": "Apr 22, 2010",
+                    "description": "\"Two titans of the religious spectrum  famed Atheist Christopher Hitchens and esteemed Catholic apologetic Dinesh D'Souza  clash in public debate at the University of Notre Dame.\n\nSponsored in part by The College of Arts and Letters: The Henkels Lecturer Series, The Center for Philosophy of Religion and the Institute for Scholarship in the Liberal Arts.\"",
+                    "dislikes": " Unavailable",
+                    "id": "9V85OykSDT8",
+                    "likes": "29,567 likes",
+                    "title": "The God Debate: Hitchens vs. D'Souza",
+                    "url": "https://www.youtube.com/watch?v=9V85OykSDT8",
+                    "video_length": 6483.821,
+                    "views": "5,752,743 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Fny6_8gayRY",
+              "title": "This MGTOW Guy Is More Afraid of Women Than I Am of Anything",
+              "video": {
+                "ad": null,
+                "comments": "3,583",
+                "content creator": "Vaush",
+                "date": "Mar 11, 2021",
+                "description": "Website - https://www.vaush.gg/\nPatreon - https://www.patreon.com/vaush\nDonate - https://www.paypal.me/vaush",
+                "dislikes": " Unavailable",
+                "id": "Fny6_8gayRY",
+                "likes": "10,092 likes",
+                "title": "This MGTOW Guy Is More Afraid of Women Than I Am of Anything",
+                "url": "https://www.youtube.com/watch?v=Fny6_8gayRY",
+                "video_length": 3623.261,
+                "views": "314,776 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=gjej-_-qZO0",
+          "title": "Trying A NEW RHETORICAL STRATEGY In The 4-Way Hippie Dippie Championship Debate",
+          "video": {
+            "ad": null,
+            "comments": "2,959",
+            "content creator": "Vaush",
+            "date": "Apr 11, 2021",
+            "description": "Website - https://www.vaush.gg/\nPatreon - https://www.patreon.com/vaush\nDonate - https://www.paypal.me/vaush",
+            "dislikes": " Unavailable",
+            "id": "gjej-_-qZO0",
+            "likes": "6,595 likes",
+            "title": "Trying A NEW RHETORICAL STRATEGY In The 4-Way Hippie Dippie Championship Debate",
+            "url": "https://www.youtube.com/watch?v=gjej-_-qZO0",
+            "video_length": 14305.041,
+            "views": "369,938 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=XVzH82K4M28",
+      "title": "The Professor Flowers DRAMA Retrospective",
+      "video": {
+        "ad": null,
+        "comments": "2,937",
+        "content creator": "Vaush",
+        "date": "Oct 9, 2021",
+        "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+        "dislikes": " Unavailable",
+        "id": "XVzH82K4M28",
+        "likes": "7,094 likes",
+        "title": "The Professor Flowers DRAMA Retrospective",
+        "url": "https://www.youtube.com/watch?v=XVzH82K4M28",
+        "video_length": 3539.241,
+        "views": "182,923 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=hbmf0bB38h0&list=RDLVhbmf0bB38h0&start_radio=1&rv=hbmf0bB38h0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=yuD34tEpRFw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0NbBjNiw4tk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=hbmf0bB38h0",
+                  "title": "Einstein's General Theory of Relativity | Lecture 1",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,942",
+                    "content creator": "Stanford",
+                    "date": "Jan 13, 2009",
+                    "description": "Lecture 1 of Leonard Susskind's Modern Physics concentrating on General Relativity. Recorded September 22, 2008 at Stanford University.\n\nThis Stanford Continuing Studies course is the fourth of a six-quarter sequence of classes exploring the essential theoretical foundations of modern physics. The topics covered in this course focus on classical mechanics. Leonard Susskind is the Felix Bloch Professor of Physics at Stanford University.\n\nStanford Continuing Studies: ",
+                    "dislikes": " Unavailable",
+                    "id": "hbmf0bB38h0",
+                    "likes": "42,658 likes",
+                    "title": "Einstein's General Theory of Relativity | Lecture 1",
+                    "url": "https://www.youtube.com/watch?v=hbmf0bB38h0",
+                    "video_length": 5907.681,
+                    "views": "5,160,704 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=JRZgW1YjCKk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lZ3bPUKo5zc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QvuQH4_05LI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+                  "title": "Math Has a Fatal Flaw",
+                  "video": {
+                    "ad": null,
+                    "comments": "43,640",
+                    "content creator": "Veritasium",
+                    "date": "May 22, 2021",
+                    "description": "Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer. This video is sponsored by Brilliant. The first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. \n\nSpecial thanks to Prof. Asaf Karagila for consultation on set theory and specific rewrites, to Prof. Alex Kontorovich for reviews of earlier drafts, Prof. Toby \u2018Qubit\u2019 Cubitt for the help with the spectral gap, to Henry Reich for the helpful feedback and comments on the video. \n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580 \nReferences:\n\nDunham, W. (2013, July). A Note on the Origin of the Twin Prime Conjecture. In Notices of the International Congress of Chinese Mathematicians (Vol. 1, No. 1, pp. 63-65). International Press of Boston.  \u2014 ",
+                    "dislikes": " Unavailable",
+                    "id": "HeQX2HjkcNo",
+                    "likes": "574,664 likes",
+                    "title": "Math Has a Fatal Flaw",
+                    "url": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+                    "video_length": 2039.201,
+                    "views": "16,791,886 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=4xIQGbYur9Q",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KyD8VIK032o",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+                  "title": "10 Challenges For Flat Earthers",
+                  "video": {
+                    "ad": null,
+                    "comments": "74,004",
+                    "content creator": "Professor Dave Explains",
+                    "date": "Feb 28, 2020",
+                    "description": "I can't count how many people have asked for another one of these, and I figured it's been quite a while, so why not mock the flatties one more time? In this video I point out ten blatantly obvious and trivial things any flat earther could do to substantiate their model, that they totally never and will never do. It's hard to fathom that there are a few hundred of them left, maybe I can pick a few off with this one.\n\nMy original flat earth debunk: ",
+                    "dislikes": " Unavailable",
+                    "id": "AQl8h7Aa75s",
+                    "likes": "218,225 likes",
+                    "title": "10 Challenges For Flat Earthers",
+                    "url": "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+                    "video_length": 774.441,
+                    "views": "4,655,812 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+              "title": "Response to Globebusters - The Earth Still Isn't Flat",
+              "video": {
+                "ad": null,
+                "comments": "121,628",
+                "content creator": "Professor Dave Explains",
+                "date": "May 22, 2019",
+                "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+                "dislikes": " Unavailable",
+                "id": "JDy95_eNPzM",
+                "likes": "251,059 likes",
+                "title": "Response to Globebusters - The Earth Still Isn't Flat",
+                "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+                "video_length": 2713.401,
+                "views": "9,383,843 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=8e0FASr2ZBs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Iv-efyrt1sc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=k4n9mjUcqgA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=x3yv-KdTha8",
+                  "title": "B.C. COVID-19 health update - Feb. 1",
+                  "video": {
+                    "ad": null,
+                    "comments": "30",
+                    "content creator": "CityNews",
+                    "date": "Streamed live on Feb 1, 2022",
+                    "description": "B.C. COVID-19 health update with Dr. Bonnie Henry and Minister Adrian Dix",
+                    "dislikes": " Unavailable",
+                    "id": "x3yv-KdTha8",
+                    "likes": "12 likes",
+                    "title": "B.C. COVID-19 health update - Feb. 1",
+                    "url": "https://www.youtube.com/watch?v=x3yv-KdTha8",
+                    "video_length": 4750.061,
+                    "views": "3,079 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=UIaLoIWUB38",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=VPAe507YLwk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=SqIrkWfKTA4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=osddVvkdq30",
+                  "title": "Karen Soe 20 February 2022",
+                  "video": {
+                    "ad": null,
+                    "comments": "8",
+                    "content creator": "Karen World News",
+                    "date": "Feb 19, 2022",
+                    "description": "",
+                    "dislikes": " Unavailable",
+                    "id": "osddVvkdq30",
+                    "likes": "248 likes",
+                    "title": "Karen Soe 20 February 2022",
+                    "url": "https://www.youtube.com/watch?v=osddVvkdq30",
+                    "video_length": 746.561,
+                    "views": "3,413 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=7pO95nrvzVs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Lxte0_XU7eU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=d-2ltZ_Nanc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=cZjoSMHaBTg",
+                  "title": "Justin Trudeau is nothing more than a Poundshop Putin and he's got to go",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,225",
+                    "content creator": "GBNews",
+                    "date": "Feb 19, 2022",
+                    "description": "Mark Dolan: 'Who is the most dangerous man in the world? Vladimir Putin? Kim Jong-un? Well I would happily add Canadian Prime Minister Justin Trudeau to that list.'\n\nSubscribe to the GB News YouTube channel ",
+                    "dislikes": " Unavailable",
+                    "id": "cZjoSMHaBTg",
+                    "likes": "9,240 likes",
+                    "title": "Justin Trudeau is nothing more than a Poundshop Putin and he's got to go",
+                    "url": "https://www.youtube.com/watch?v=cZjoSMHaBTg",
+                    "video_length": 387.661,
+                    "views": "92,921 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=VNoCpyMk_j4",
+              "title": "COVID-19: Provincial health update for Feb. 1 | Vancouver Sun",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Vancouver Sun",
+                "date": "Feb 2, 2022",
+                "description": "Adrian Dix, Minister of Health and Dr. Bonnie Henry, BC's provincial health officer update on COVID-19 for Feb. 1, 2022\n___\n\nAbout: Since 1912, the Vancouver Sun has cast a watchful eye on the events, issues and politics of the day \u2013 all with a unique West Coast perspective. Publishing Monday through Saturday in print and daily online at vancouversun.com, we are proud to be B.C.\u2019s largest newsroom and are dedicated to telling the stories of our vibrant community.\n\nConnect with the Vancouver Sun Online:\nVisit vancouversun.com: ",
+                "dislikes": " Unavailable",
+                "id": "VNoCpyMk_j4",
+                "likes": "163 likes",
+                "title": "COVID-19: Provincial health update for Feb. 1 | Vancouver Sun",
+                "url": "https://www.youtube.com/watch?v=VNoCpyMk_j4",
+                "video_length": 2392.421,
+                "views": "202,901 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=wS4D-PRFZR0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=J3kWO3qeKKs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IZG5woF1Qj4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+                  "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+                  "video": {
+                    "ad": null,
+                    "comments": "40,297",
+                    "content creator": "Professor Dave Explains",
+                    "date": "Jan 26, 2020",
+                    "description": "A channel named Modern Day Debate reached out to me based on my flat earth debunking to see if I would debate someone named Kent Hovind about Young Earth Creationism. Normally I stay out of religion, but I dug into this guy a little, and he is a total scumbag. The epitome of a con man. Nothing but lies and misrepresentations of science out of his mouth for several decades now. He's really no different than the flat earthers, manipulating people to make money. So I decided to take a chunk out of him. He's a slippery little greased pig, watch for his signature move, the gish gallop.\n\nWatch my other debunks/debates: ",
+                    "dislikes": " Unavailable",
+                    "id": "lbB7AhwaZy8",
+                    "likes": "44,376 likes",
+                    "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+                    "url": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+                    "video_length": 6466,
+                    "views": "1,812,541 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=WUQMb18ran4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM&list=PLybg94GvOJ9GEuq4mp9ruJpj-rjKQ_a6E",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wR1yUlJ9CPg&list=RDLVwR1yUlJ9CPg&start_radio=1&rv=wR1yUlJ9CPg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=wR1yUlJ9CPg",
+                  "title": "A Discussion on Theism With Blake Giunta",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,667",
+                    "content creator": "Professor Dave Explains",
+                    "date": "Jul 8, 2020",
+                    "description": "The problem of the origin of the universe and the fundamental nature of reality is a challenging topic. Is there a god, or can the universe have come to exist without one? I had a very mentally stimulating conversation about this with theist Blake Giunta. We talk physics, logic, probability, and personal belief. If you are a fan of philosophy, give this a listen!\n\nWatch my other debunks/debates/discussions: ",
+                    "dislikes": " Unavailable",
+                    "id": "wR1yUlJ9CPg",
+                    "likes": "2,420 likes",
+                    "title": "A Discussion on Theism With Blake Giunta",
+                    "url": "https://www.youtube.com/watch?v=wR1yUlJ9CPg",
+                    "video_length": 6987.841,
+                    "views": "151,709 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Zi_mQ0sKOfo&list=RDLVZi_mQ0sKOfo&start_radio=1&rv=Zi_mQ0sKOfo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vmVdPgkudC8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=P-medYaqVak",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Zi_mQ0sKOfo",
+                  "title": "Pierre-Marie Robitaille Is Clueless (Sky Scholar Debunked)",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,335",
+                    "content creator": "Professor Dave Explains",
+                    "date": "Oct 30, 2020",
+                    "description": "Keeping in the theme of debunking all kinds of cranks and con men in the realm of \"alternate cosmology\", let's add one more nutjob to the mix. Pierre-Marie Robitaille is a former radiologist who likes to pretend that he understands astrophysics better than astrophysicists. He doesn't. When he talks, he makes ridiculous claims and blatant errors that can be spotted by anyone with a basic understanding of physics and astronomy. Nevertheless, many gullible people speak about him like he's a genius, so I thought I'd explain quite thoroughly how he definitely isn't. If you're someone who has fallen for his lies, please watch.\n\nOther debunks in this genre:\nDebunking the SAFIRE Project: ",
+                    "dislikes": " Unavailable",
+                    "id": "Zi_mQ0sKOfo",
+                    "likes": "13,958 likes",
+                    "title": "Pierre-Marie Robitaille Is Clueless (Sky Scholar Debunked)",
+                    "url": "https://www.youtube.com/watch?v=Zi_mQ0sKOfo",
+                    "video_length": 2878.741,
+                    "views": "456,396 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=_56_3A5-y7g",
+              "title": "Atheists think they\u2019re valueless clumps of cells, so why argue ever?",
+              "video": {
+                "ad": null,
+                "comments": "1,100",
+                "content creator": "Logicked",
+                "date": "Feb 6, 2022",
+                "description": "Also we should burn in hell blah blah\n\n\ud83c\udfa9 Join my Discord: https://discord.gg/vtZazQA",
+                "dislikes": " Unavailable",
+                "id": "_56_3A5-y7g",
+                "likes": "4,007 likes",
+                "title": "Atheists think they\u2019re valueless clumps of cells, so why argue ever?",
+                "url": "https://www.youtube.com/watch?v=_56_3A5-y7g",
+                "video_length": 2744.441,
+                "views": "35,485 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=PTsz0s424gk",
+          "title": "The Existential Agony of Watching Michael Knowles Take a Political Compass Test",
+          "video": {
+            "ad": null,
+            "comments": "4,171",
+            "content creator": "Vaush",
+            "date": "Nov 13, 2020",
+            "description": "Website - https://www.vaush.gg/\nPatreon - https://www.patreon.com/vaush\nDonate - https://www.paypal.me/vaush",
+            "dislikes": " Unavailable",
+            "id": "PTsz0s424gk",
+            "likes": "21,757 likes",
+            "title": "The Existential Agony of Watching Michael Knowles Take a Political Compass Test",
+            "url": "https://www.youtube.com/watch?v=PTsz0s424gk",
+            "video_length": 4333.721,
+            "views": "675,722 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=e_EgdShO1K8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ynbgMKclWWc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=s9ovOwl5Cns",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=YJQSuUZdcV4",
+                  "title": "Capitalism vs. Socialism: A Soho Forum Debate",
+                  "video": {
+                    "ad": null,
+                    "comments": "86,794",
+                    "content creator": "ReasonTV",
+                    "date": "Nov 14, 2019",
+                    "description": "\"Socialism is preferable to capitalism as an economic system that promotes freedom, equality, and prosperity.\"\n-------\nSubscribe to our YouTube channel: ",
+                    "dislikes": " Unavailable",
+                    "id": "YJQSuUZdcV4",
+                    "likes": "70,788 likes",
+                    "title": "Capitalism vs. Socialism: A Soho Forum Debate",
+                    "url": "https://www.youtube.com/watch?v=YJQSuUZdcV4",
+                    "video_length": 5924.721,
+                    "views": "3,310,126 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=SgZ1f4ACZBQ&list=RDCMUC2C_jShtL725hvbm1arSV9w&start_radio=1&rv=SgZ1f4ACZBQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=BiDvLshi9CY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dk_si8CiyP0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=SgZ1f4ACZBQ",
+                  "title": "Who Owns The Statue of Liberty?",
+                  "video": {
+                    "ad": null,
+                    "comments": "12,147",
+                    "content creator": "CGP Grey",
+                    "date": "Oct 30, 2018",
+                    "description": "Wallpapers on Patreon: https://www.patreon.com/posts/project...\n\nPart 2: What is Federal Land? https://www.youtube.com/watch?v=LruaD...",
+                    "dislikes": " Unavailable",
+                    "id": "SgZ1f4ACZBQ",
+                    "likes": "182,890 likes",
+                    "title": "Who Owns The Statue of Liberty?",
+                    "url": "https://www.youtube.com/watch?v=SgZ1f4ACZBQ",
+                    "video_length": 448.601,
+                    "views": "7,988,254 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=qMkYlIA7mgw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Erp8IAUouus",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=m3_I2rfApYk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ASSOQDQvVLU",
+                  "title": "American Empire",
+                  "video": {
+                    "ad": null,
+                    "comments": "13,704",
+                    "content creator": "CGP Grey",
+                    "date": "Jul 3, 2014",
+                    "description": "More land in America videos: https://www.youtube.com/watch?v=SgZ1f...\nSupport these videos: https://www.patreon.com/cgpgrey\n\u2021 https://www.youtube.com/watch?v=0dU4I...",
+                    "dislikes": " Unavailable",
+                    "id": "ASSOQDQvVLU",
+                    "likes": "163,479 likes",
+                    "title": "American Empire",
+                    "url": "https://www.youtube.com/watch?v=ASSOQDQvVLU",
+                    "video_length": 383.281,
+                    "views": "11,741,593 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=nC7kyMwUxS8",
+              "title": "Socialism vs Social Democracy - Interviewed By A Socdem",
+              "video": {
+                "ad": null,
+                "comments": "880",
+                "content creator": "Vaush",
+                "date": "Jan 14, 2021",
+                "description": "Check out Denims! \nhttps://www.twitch.tv/denims\nhttps://www.youtube.com/denimstv",
+                "dislikes": " Unavailable",
+                "id": "nC7kyMwUxS8",
+                "likes": "4,889 likes",
+                "title": "Socialism vs Social Democracy - Interviewed By A Socdem",
+                "url": "https://www.youtube.com/watch?v=nC7kyMwUxS8",
+                "video_length": 2963.081,
+                "views": "109,047 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=b1reY72ktEc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Cqbleas1mmo&list=RDLVCqbleas1mmo&start_radio=1&rv=Cqbleas1mmo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ATlila3e9dM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Cqbleas1mmo",
+                  "title": "The Russian Revolution - OverSimplified (Part 1)",
+                  "video": {
+                    "ad": null,
+                    "comments": "32,910",
+                    "content creator": "OverSimplified",
+                    "date": "Premiered Aug 17, 2020",
+                    "description": "Get 68% off NordVPN! Only $3.71/mo, plus you get an additional month FREE at:\nhttps://nordvpn.com/oversimplified\nUse codeword: oversimplified\n\nMERCH (Russian Revolution merch OUT NOW!) - ",
+                    "dislikes": " Unavailable",
+                    "id": "Cqbleas1mmo",
+                    "likes": "482,691 likes",
+                    "title": "The Russian Revolution - OverSimplified (Part 1)",
+                    "url": "https://www.youtube.com/watch?v=Cqbleas1mmo",
+                    "video_length": 1263.821,
+                    "views": "22,212,899 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=OIYy32RuHao",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=I79TpDe3t2g&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=I79TpDe3t2g",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-E8g8CKNpNU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=I79TpDe3t2g",
+                  "title": "The Cold War - OverSimplified (Part 1)",
+                  "video": {
+                    "ad": null,
+                    "comments": "43,795",
+                    "content creator": "OverSimplified",
+                    "date": "Jan 24, 2019",
+                    "description": "Get 75% off NordVPN! Only $2.99/mo, plus you get an additional month FREE at: https://nordvpn.com/oversimplified\nUse codeword: oversimplified\n\nNEW COLD WAR MERCH - ",
+                    "dislikes": " Unavailable",
+                    "id": "I79TpDe3t2g",
+                    "likes": "620,333 likes",
+                    "title": "The Cold War - OverSimplified (Part 1)",
+                    "url": "https://www.youtube.com/watch?v=I79TpDe3t2g",
+                    "video_length": 963.061,
+                    "views": "44,730,296 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=H-iE-LlpCME",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=qRr538aPIfk&list=PLDb22nlVXGgd0-Obov_tdEh1cNKIvXcMm",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=S5oDKhqka8Y",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AsR-C9WtoKg",
+                  "title": "History RE-Summarized: The Roman Republic",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,740",
+                    "content creator": "Overly Sarcastic Productions",
+                    "date": "Sep 18, 2020",
+                    "description": "The Roman Republic is a fascinating story all on its own, but it also serves as an excellent object lesson in civics.\nThis video is a Remastered, Definitive Edition of three previous videos from this channel \u2014 History Summarized: \"The Roman Republic\", \"The Punic Wars\", and \"Julius Caesar and the Fall of The Republic\". This video combines them all into one narrative, fully upgrades all of the visuals, and adds extra historical notes and clarifications along the way. Please let me know if you enjoyed this, and are interested in more videos like this. There are many historical miniseries on this channel that would fit neatly into a compilation like this, and I'd be thrilled to make them!\n\nSOURCES & Further Reading: Virgil's \"Aeneid\", Polybius' \"Histories\", Livy's \"Ab Urbe Condita\" Plutarch's \"Parallel Lives\", Caesar's \"De Bello Gallico\", \"SPQR\" by Mary Beard, \"Rome: A History in Seven Sackings\" by Matt Kneale, \"Rubicon\" by Tom Holland, \"The Storm Before the Storm\" by Mike Duncan, (and also my degree in Classical Studies).\n\nSECTION TIME-CODES:",
+                    "dislikes": " Unavailable",
+                    "id": "AsR-C9WtoKg",
+                    "likes": "41,457 likes",
+                    "title": "History RE-Summarized: The Roman Republic",
+                    "url": "https://www.youtube.com/watch?v=AsR-C9WtoKg",
+                    "video_length": 2114.401,
+                    "views": "1,624,125 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=aYuhn8-wALw",
+              "title": "BASED Indigenous Activist Comes On To Talk About Professor Flowers Debate, Landback, & More!",
+              "video": {
+                "ad": null,
+                "comments": "1,373",
+                "content creator": "Vaush",
+                "date": "Oct 30, 2021",
+                "description": "Thank you for coming on Morgan!\n\nCheck out her Patreon here: https://www.patreon.com/StationGaller...",
+                "dislikes": " Unavailable",
+                "id": "aYuhn8-wALw",
+                "likes": "5,530 likes",
+                "title": "BASED Indigenous Activist Comes On To Talk About Professor Flowers Debate, Landback, & More!",
+                "url": "https://www.youtube.com/watch?v=aYuhn8-wALw",
+                "video_length": 5040.601,
+                "views": "118,174 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=R_wscUcbynk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7LZbSbatwSg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=H0AGjuuX1q8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=tn2BrH_WeHo",
+                  "title": "Socialism? The N-Word? ACAB? | Politics Discord AMA",
+                  "video": {
+                    "ad": null,
+                    "comments": "420",
+                    "content creator": "Vaush",
+                    "date": "Jun 2, 2021",
+                    "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\nWebsite - https://www.vaush.gg/",
+                    "dislikes": " Unavailable",
+                    "id": "tn2BrH_WeHo",
+                    "likes": "3,036 likes",
+                    "title": "Socialism? The N-Word? ACAB? | Politics Discord AMA",
+                    "url": "https://www.youtube.com/watch?v=tn2BrH_WeHo",
+                    "video_length": 5589.301,
+                    "views": "86,327 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=9DzSgrXDGe8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=oV5oeIajpBM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=X_tYf-nYPZg",
+                  "title": "Dylan Burns vs Jabson Ankles Debate Goes FERAL | Vaush Reacts",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,965",
+                    "content creator": "Vaush",
+                    "date": "Oct 1, 2021",
+                    "description": "Like playing chess with a pigeon.\n\nOriginal Video: https://www.youtube.com/watch?v=h8-rt...",
+                    "dislikes": " Unavailable",
+                    "id": "X_tYf-nYPZg",
+                    "likes": "6,120 likes",
+                    "title": "Dylan Burns vs Jabson Ankles Debate Goes FERAL | Vaush Reacts",
+                    "url": "https://www.youtube.com/watch?v=X_tYf-nYPZg",
+                    "video_length": 11325.861,
+                    "views": "326,092 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lADBHDg-JtA&list=RDLVlADBHDg-JtA&start_radio=1&rv=lADBHDg-JtA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=zf06lpLIOjo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lKtcdqQoJTI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lADBHDg-JtA",
+                  "title": "The Enduring Mystery of Jack the Ripper",
+                  "video": {
+                    "ad": null,
+                    "comments": "24,691",
+                    "content creator": "LEMMiNO",
+                    "date": "Sep 9, 2021",
+                    "description": "[Credits, References, and More]\nhttps://www.lemmi.no/p/the-enduring-m...",
+                    "dislikes": " Unavailable",
+                    "id": "lADBHDg-JtA",
+                    "likes": "337,428 likes",
+                    "title": "The Enduring Mystery of Jack the Ripper",
+                    "url": "https://www.youtube.com/watch?v=lADBHDg-JtA",
+                    "video_length": 4148.841,
+                    "views": "4,903,372 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=QdsCpGnQNvA",
+              "title": "DEBATE with HANS & DEMONMAMA Goes COMPLETELY OFF THE RAILS (Debate Review)",
+              "video": {
+                "ad": null,
+                "comments": "1,137",
+                "content creator": "Vaush",
+                "date": "Oct 2, 2021",
+                "description": "well, here we go...\n\nLinky to the debate: https://youtu.be/T0hfungQqGo",
+                "dislikes": " Unavailable",
+                "id": "QdsCpGnQNvA",
+                "likes": "2,259 likes",
+                "title": "DEBATE with HANS & DEMONMAMA Goes COMPLETELY OFF THE RAILS (Debate Review)",
+                "url": "https://www.youtube.com/watch?v=QdsCpGnQNvA",
+                "video_length": 5604,
+                "views": "86,782 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=5l90-mO6KC8&list=RDCMUCdUD6racxisHiSX9iWFcuug&start_radio=1&rv=5l90-mO6KC8",
+          "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+          "video": {
+            "ad": null,
+            "comments": "1,917",
+            "content creator": "The Vaush Pit",
+            "date": "Oct 4, 2021",
+            "description": "Original video: https://www.youtube.com/watch?v=nSrLp...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+            "dislikes": " Unavailable",
+            "id": "5l90-mO6KC8&list",
+            "likes": "4,146 likes",
+            "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+            "url": "https://www.youtube.com/watch?v=5l90-mO6KC8&list=RDCMUCdUD6racxisHiSX9iWFcuug&start_radio=1&rv=5l90-mO6KC8",
+            "video_length": 4674.681,
+            "views": "147,778 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ryg077wBvsM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=nx2-4l4s4Nw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=__oFy1aQb7Q",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=dVG1dNygOgA",
+                  "title": "An Amusing \"Discussion\" With Jesse Lee Peterson",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Professor Dave Explains",
+                    "date": "May 15, 2020",
+                    "description": "Jesse Lee Peterson is an evangelist, commentator, and all-around bizarre person. He and I exchanged some words regarding racism, politics, and psychology, and hilarity ensued. As a disclaimer, there is no educational merit to this exchange whatsoever. This is 90 minutes of Jesse saying the dumbest things imaginable, and me mocking him relentlessly in response. Only watch this if that sounds entertaining to you.\n\nNote: I turned off comments because I got tired of spending 1-2 hours a day explaining basic logic to ignorant bigots. If you were planning to drop a comment on another video, or message me on some other platform, please first read the following:\n1) Out of wedlock does not mean single. You don't have be married to raise children together, and in fact, black couples disproportionately don't marry. Out of wedlock does not equal single parent. Read that sentence as  many times as you need to in order to get it into your skull. Jesse misrepresented the statistic, and then piled other claims on top regarding crime and drug use with no basis. He was wrong. Let me repeat. He was wrong.\n2) Jesse's ancestors were indeed slaves. He was lying. He is a liar. Google it.\n3) The history of slavery is irrelevant, so stop acting like you're a history scholar. It doesn't matter if there were times that slavery wasn't racist. When one race enslaves another race, it's racist.\n4) If you were planning on saying nothing but spewing Jesse's catch phrases, congratulations, you are among the dumbest people alive.\n\nWatch my other debunks/debates/discussions: ",
+                    "dislikes": " Unavailable",
+                    "id": "dVG1dNygOgA",
+                    "likes": "10,948 likes",
+                    "title": "An Amusing \"Discussion\" With Jesse Lee Peterson",
+                    "url": "https://www.youtube.com/watch?v=dVG1dNygOgA",
+                    "video_length": 5544.041,
+                    "views": "701,078 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=COkTKkEbw88",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ghJGnMwRHCs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=DpNHiR1DIKc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=t6xpEZZdiJI",
+                  "title": "THE BEST OF VAUSH (2021 EDITION)",
+                  "video": {
+                    "ad": null,
+                    "comments": "567",
+                    "content creator": "Vaush",
+                    "date": "Jan 1, 2022",
+                    "description": "Let's look back on some beautiful moments throughout 2021. Skip to 1:17:17 for Vaush's final thoughts on 2021 heading into the new year that he recorded specifically for this compilation!\n\nFor debate highlights/moments...\n\nBEST of Vaush Debate Moments: ",
+                    "dislikes": " Unavailable",
+                    "id": "t6xpEZZdiJI",
+                    "likes": "6,368 likes",
+                    "title": "THE BEST OF VAUSH (2021 EDITION)",
+                    "url": "https://www.youtube.com/watch?v=t6xpEZZdiJI",
+                    "video_length": 4790.021,
+                    "views": "122,452 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=sV6uuMAnJUE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=dHSQAEam2yc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kF8I_r9XT7A",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=tsxmyL7TUJg",
+                  "title": "The American Civil War - OverSimplified (Part 1)",
+                  "video": {
+                    "ad": null,
+                    "comments": "51,849",
+                    "content creator": "OverSimplified",
+                    "date": "Premiered Jan 31, 2020",
+                    "description": "Get 70% off NordVPN! Only $3.49/mo, plus you get an additional month FREE at: https://nordvpn.com/oversimplified or use a coupon code 'oversimplified' at the checkout.\n\nPART 2 HERE - ",
+                    "dislikes": " Unavailable",
+                    "id": "tsxmyL7TUJg",
+                    "likes": "546,137 likes",
+                    "title": "The American Civil War - OverSimplified (Part 1)",
+                    "url": "https://www.youtube.com/watch?v=tsxmyL7TUJg",
+                    "video_length": 1792.841,
+                    "views": "37,783,645 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=xri9PWEHY5E",
+              "title": "The Best of Vaush: 2 Hours of the Best and Funniest Debate Moments",
+              "video": {
+                "ad": null,
+                "comments": "2,030",
+                "content creator": "Vaush",
+                "date": "Aug 9, 2021",
+                "description": "This is it! The DEFINITIVE compilation of the greatest debate moments from Vaush. This video documents the best moments from the very earliest debates all the way to the most recent ones. Watch Vaush use FACTS and LOGIC to destroy everyone from MAGA chuds, ancaps, tankies, conspiracy theorists, AND MORE!\n\n\ud83d\udd34 Website  - ",
+                "dislikes": " Unavailable",
+                "id": "xri9PWEHY5E",
+                "likes": "14,304 likes",
+                "title": "The Best of Vaush: 2 Hours of the Best and Funniest Debate Moments",
+                "url": "https://www.youtube.com/watch?v=xri9PWEHY5E",
+                "video_length": 7821.721,
+                "views": "499,483 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lgwnJX6lnlg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Rshw9N09ZOE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=EKckMzy2_z4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=OMpLDUHzSjg",
+                  "title": "Canadian gelato shop owner breaks down crying after threats for donation to truckers",
+                  "video": {
+                    "ad": null,
+                    "comments": "25,543",
+                    "content creator": "Fox News",
+                    "date": "Feb 18, 2022",
+                    "description": "Ottawa's Stella Luna Gelato Caf\u00e9 owner, Tammy Giuliani, speaks out on 'Jesse Watters Primetime' about the harassment and threats she faced after a $250 donation was made public. #FoxNews #Watters",
+                    "dislikes": " Unavailable",
+                    "id": "OMpLDUHzSjg",
+                    "likes": "109,072 likes",
+                    "title": "Canadian gelato shop owner breaks down crying after threats for donation to truckers",
+                    "url": "https://www.youtube.com/watch?v=OMpLDUHzSjg",
+                    "video_length": 475.581,
+                    "views": "2,071,119 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=14GDTiQ-_pE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AFkY41u0LGA&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=AFkY41u0LGA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=32ZnAR82cXE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AFkY41u0LGA",
+                  "title": "Finally Releasing The DMs - Off The Rails #11",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,924",
+                    "content creator": "H3 Podcast",
+                    "date": "Sep 9, 2021",
+                    "description": "Thank you to http://Curology.com/H3 & http://Kraken.com/H3 & http://PolicyGenius.com/h3podcast for sponsoring today's episode!\nBecome a member for access to the episodes a day early with no ads and no cuts: ",
+                    "dislikes": " Unavailable",
+                    "id": "AFkY41u0LGA",
+                    "likes": "40,864 likes",
+                    "title": "Finally Releasing The DMs - Off The Rails #11",
+                    "url": "https://www.youtube.com/watch?v=AFkY41u0LGA",
+                    "video_length": 7314.601,
+                    "views": "1,884,781 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=H00jERnz8Rw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kKPawaBtqcg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Ak0WRuy3jPs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Oju1B10tGjM",
+                  "title": "Sam Seder's FULL Review Of His Charlie Kirk Smackdown At Politicon",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,383",
+                    "content creator": "The Majority Report w/ Sam Seder",
+                    "date": "Oct 25, 2018",
+                    "description": "Sam Seder breaks down his debate with Charlie Kirk and Politicon 2018.\n\nWe need your help to keep providing free videos! Support the Majority Report's video content by going to ",
+                    "dislikes": " Unavailable",
+                    "id": "Oju1B10tGjM",
+                    "likes": "10,644 likes",
+                    "title": "Sam Seder's FULL Review Of His Charlie Kirk Smackdown At Politicon",
+                    "url": "https://www.youtube.com/watch?v=Oju1B10tGjM",
+                    "video_length": 6663.581,
+                    "views": "598,187 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=fNLddXkLCzQ",
+              "title": "Debate Review: Charlie Kirk Faces Off Against Sam Seder at Politicon",
+              "video": {
+                "ad": null,
+                "comments": "991",
+                "content creator": "The Vaush Pit",
+                "date": "Jul 28, 2021",
+                "description": "The Charlie Kirk debate is right around the corner... I'm going back to review some of his older debates! First up, Sam Seder at Politicon in 2018.\n\nStreamed on Jul 20, 2021\n\n\ud83d\udd34 Website  - ",
+                "dislikes": " Unavailable",
+                "id": "fNLddXkLCzQ",
+                "likes": "5,177 likes",
+                "title": "Debate Review: Charlie Kirk Faces Off Against Sam Seder at Politicon",
+                "url": "https://www.youtube.com/watch?v=fNLddXkLCzQ",
+                "video_length": 5618.541,
+                "views": "164,982 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lXyGJVWafH8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=jrXf8Qn9pBI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Sljj1z8BrgE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=bnjJkVcayac&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=bnjJkVcayac",
+                  "title": "Steven Crowder Freaks Out Over Black James Bond - Leftovers #2",
+                  "video": {
+                    "ad": null,
+                    "comments": "7,341",
+                    "content creator": "H3 Podcast",
+                    "date": "Oct 3, 2021",
+                    "description": "Thank you to http://harrys.com/leftovers for sponsoring this episode!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                    "dislikes": " Unavailable",
+                    "id": "bnjJkVcayac&list",
+                    "likes": "50,406 likes",
+                    "title": "Steven Crowder Freaks Out Over Black James Bond - Leftovers #2",
+                    "url": "https://www.youtube.com/watch?v=bnjJkVcayac&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=bnjJkVcayac",
+                    "video_length": 5744.701,
+                    "views": "1,302,699 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=QdKFBuFOHAA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=uASzNUFT5Dk&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=uASzNUFT5Dk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lPvAIiPUacc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=uASzNUFT5Dk",
+                  "title": "And The New Host Is...",
+                  "video": {
+                    "ad": null,
+                    "comments": "21,667",
+                    "content creator": "H3 Podcast",
+                    "date": "Sep 26, 2021",
+                    "description": "Thank you to http://Policygenius.com & http://GetQuip.com/Leftovers & http://HelloFresh.com/leftovers14 (use code: leftovers14) & http://Stamps.com (use code: Leftover) for sponsoring this episode!\nBecome a member for access to the episodes a day early with no ads and no cuts: ",
+                    "dislikes": " Unavailable",
+                    "id": "uASzNUFT5Dk",
+                    "likes": "97,365 likes",
+                    "title": "And The New Host Is...",
+                    "url": "https://www.youtube.com/watch?v=uASzNUFT5Dk",
+                    "video_length": 8864.681,
+                    "views": "1,924,074 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=EgwOxM_2CW8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vjluqyN7SNk&list=RDCMUCLtREJY21xRfCuEKvdki1Kw&start_radio=1&rv=vjluqyN7SNk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9xVGBL0_crc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=vjluqyN7SNk",
+                  "title": "We Have Our First Heated Debate - Leftovers #3",
+                  "video": {
+                    "ad": null,
+                    "comments": "9,777",
+                    "content creator": "H3 Podcast",
+                    "date": "Premiered Oct 10, 2021",
+                    "description": "Become a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                    "dislikes": " Unavailable",
+                    "id": "vjluqyN7SNk",
+                    "likes": "50,103 likes",
+                    "title": "We Have Our First Heated Debate - Leftovers #3",
+                    "url": "https://www.youtube.com/watch?v=vjluqyN7SNk",
+                    "video_length": 7440.941,
+                    "views": "1,514,568 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=bnjJkVcayac",
+              "title": "Steven Crowder Freaks Out Over Black James Bond - Leftovers #2",
+              "video": {
+                "ad": null,
+                "comments": "7,341",
+                "content creator": "H3 Podcast",
+                "date": "Oct 3, 2021",
+                "description": "Thank you to http://harrys.com/leftovers for sponsoring this episode!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                "dislikes": " Unavailable",
+                "id": "bnjJkVcayac",
+                "likes": "50,406 likes",
+                "title": "Steven Crowder Freaks Out Over Black James Bond - Leftovers #2",
+                "url": "https://www.youtube.com/watch?v=bnjJkVcayac",
+                "video_length": 5744.701,
+                "views": "1,302,695 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=NtqOt5Xuxvw",
+          "title": "CROWDER RUNS FROM SAM SEDER ON THE H3 PODCAST",
+          "video": {
+            "ad": null,
+            "comments": "6,420",
+            "content creator": "Vaush",
+            "date": "Jun 22, 2021",
+            "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\nWebsite - https://www.vaush.gg/",
+            "dislikes": " Unavailable",
+            "id": "NtqOt5Xuxvw",
+            "likes": "22,434 likes",
+            "title": "CROWDER RUNS FROM SAM SEDER ON THE H3 PODCAST",
+            "url": "https://www.youtube.com/watch?v=NtqOt5Xuxvw",
+            "video_length": 5062.981,
+            "views": "506,663 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=5l90-mO6KC8",
+      "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+      "video": {
+        "ad": null,
+        "comments": "1,917",
+        "content creator": "The Vaush Pit",
+        "date": "Oct 4, 2021",
+        "description": "Original video: https://www.youtube.com/watch?v=nSrLp...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+        "dislikes": " Unavailable",
+        "id": "5l90-mO6KC8",
+        "likes": "4,146 likes",
+        "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+        "url": "https://www.youtube.com/watch?v=5l90-mO6KC8",
+        "video_length": 4674.681,
+        "views": "147,778 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=5O3Xp7A0q24",
+  "title": "Talking With Professor Flowers About Black Nationalism and Her Video Criticizing Me",
+  "video": {
+    "ad": null,
+    "comments": "10,267",
+    "content creator": "Vaush",
+    "date": "Sep 8, 2021",
+    "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+    "dislikes": " Unavailable",
+    "id": "5O3Xp7A0q24",
+    "likes": "11,113 likes",
+    "title": "Talking With Professor Flowers About Black Nationalism and Her Video Criticizing Me",
+    "url": "https://www.youtube.com/watch?v=5O3Xp7A0q24",
+    "video_length": 11835,
+    "views": "356,243 views"
+  }
+}

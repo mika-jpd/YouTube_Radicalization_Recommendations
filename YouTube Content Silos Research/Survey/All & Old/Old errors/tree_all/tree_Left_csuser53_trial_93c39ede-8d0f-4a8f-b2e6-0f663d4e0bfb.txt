@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=VBmDMp3d8H8",
+                  "sampled_type": "opposing",
+                  "title": "'The Five' roast Biden for his 'epic' week of failure",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=9AWf1HBXst0",
+                    "https://www.youtube.com/watch?v=ZI8QZ2WN-Xo",
+                    "https://www.youtube.com/watch?v=3CYCXAXPWaQ",
+                    "https://www.youtube.com/watch?v=U3W84wb5jKo",
+                    "https://www.youtube.com/watch?v=pIOdc-bG-w8",
+                    "https://www.youtube.com/watch?v=g5e2rfV_Yz4",
+                    "https://www.youtube.com/watch?v=wk6Qr6OO5Xo",
+                    "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+                    "https://www.youtube.com/watch?v=gptbftU69XE",
+                    "https://www.youtube.com/watch?v=H4zw15f2rH4"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,490",
+                    "content creator": "Fox News",
+                    "date": "Jan 14, 2022",
+                    "description": "White House tries to spin the president's brutal week of defeats; 'The Five' reacts. \n#FoxNews #TheFive",
+                    "dislikes": " Unavailable",
+                    "id": "VBmDMp3d8H8",
+                    "likes": "18,313 likes",
+                    "title": "'The Five' roast Biden for his 'epic' week of failure",
+                    "url": "https://www.youtube.com/watch?v=VBmDMp3d8H8",
+                    "video_length": 651.901,
+                    "views": "702,851 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Lp3wo1JR3es",
+              "sampled_type": "opposing",
+              "title": "'The Five' torches Kamala Harris' recent interview",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=VBmDMp3d8H8",
+                "https://www.youtube.com/watch?v=MxT6IwUtLSU",
+                "https://www.youtube.com/watch?v=oa-s7uUvC2g",
+                "https://www.youtube.com/watch?v=w0Wmc8C0Eq0",
+                "https://www.youtube.com/watch?v=8WSFo6XIWSg",
+                "https://www.youtube.com/watch?v=0MzctOaJZS0",
+                "https://www.youtube.com/watch?v=U3W84wb5jKo",
+                "https://www.youtube.com/watch?v=crgD7OyQWPg",
+                "https://www.youtube.com/watch?v=rBKfRy0M-30",
+                "https://www.youtube.com/watch?v=c6xhd9bMDj0"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "3,844",
+                "content creator": "Fox News",
+                "date": "Jan 14, 2022",
+                "description": "'The Five' weighs in on criticism the vice president has received over her 'word salad' interview",
+                "dislikes": " Unavailable",
+                "id": "Lp3wo1JR3es",
+                "likes": "15,317 likes",
+                "title": "'The Five' torches Kamala Harris' recent interview",
+                "url": "https://www.youtube.com/watch?v=Lp3wo1JR3es",
+                "video_length": 493.961,
+                "views": "607,876 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Jy2ZSQmlszY",
+          "sampled_type": "opposing",
+          "title": "Tucker: Here comes Hillary",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Lp3wo1JR3es",
+            "https://www.youtube.com/watch?v=lF5Bb3Mt0rg",
+            "https://www.youtube.com/watch?v=5hVmeOCJjOU",
+            "https://www.youtube.com/watch?v=658xlubwnDc",
+            "https://www.youtube.com/watch?v=0T--WC4D1C0",
+            "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+            "https://www.youtube.com/watch?v=78ROsNqwqms",
+            "https://www.youtube.com/watch?v=7jgu7EJ9A8A",
+            "https://www.youtube.com/watch?v=U3W84wb5jKo",
+            "https://www.youtube.com/watch?v=puPUxXVt6QE"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "14,374",
+            "content creator": "Fox News",
+            "date": "Premiered Jan 12, 2022",
+            "description": "Tucker Carlson talks the possibility of a Hillary Clinton 2024 presidential run.\n#FoxNews #Tucker",
+            "dislikes": " Unavailable",
+            "id": "Jy2ZSQmlszY",
+            "likes": "64,895 likes",
+            "title": "Tucker: Here comes Hillary",
+            "url": "https://www.youtube.com/watch?v=Jy2ZSQmlszY",
+            "video_length": 740.001,
+            "views": "1,891,786 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ueLINWgmsvU",
+      "sampled_type": "opposing",
+      "title": "Jesse Watters: The End of an Era",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=Jy2ZSQmlszY",
+        "https://www.youtube.com/watch?v=U3W84wb5jKo",
+        "https://www.youtube.com/watch?v=7xgM0QUFLTE",
+        "https://www.youtube.com/watch?v=8vgQLVJdv28",
+        "https://www.youtube.com/watch?v=q6i5eMM11G4",
+        "https://www.youtube.com/watch?v=bHIhgxav9LY",
+        "https://www.youtube.com/watch?v=-He2S1cOUtc",
+        "https://www.youtube.com/watch?v=-eYeJP5Mc5I",
+        "https://www.youtube.com/watch?v=9E-BGA2NLkE",
+        "https://www.youtube.com/watch?v=W94UeUGNI3c"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "2,140",
+        "content creator": "Fox News",
+        "date": "Jan 15, 2022",
+        "description": "'Jesse Watters Primetime' begins weeknights at 7 p.m. ET, starting Jan. 24.\n#FoxNews #Watters",
+        "dislikes": " Unavailable",
+        "id": "ueLINWgmsvU",
+        "likes": "22,953 likes",
+        "title": "Jesse Watters: The End of an Era",
+        "url": "https://www.youtube.com/watch?v=ueLINWgmsvU",
+        "video_length": 687.981,
+        "views": "603,095 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=W_6RgolSB0M",
+                  "sampled_type": "random",
+                  "title": "Cowboy Baked Beans",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=ttK2YP_ayYI",
+                    "https://www.youtube.com/watch?v=W_6RgolSB0M&list=RDCMUClrMJRlvoyoWsVlB-7c61PQ&start_radio=1&rv=W_6RgolSB0M",
+                    "https://www.youtube.com/watch?v=tcBDI9O-bk0",
+                    "https://www.youtube.com/watch?v=pKLA2yO_jco",
+                    "https://www.youtube.com/watch?v=xu3ux1h_caU",
+                    "https://www.youtube.com/watch?v=z64lAyS_QvY",
+                    "https://www.youtube.com/watch?v=sR5eXtIbEDY",
+                    "https://www.youtube.com/watch?v=oQmEODdXDfE",
+                    "https://www.youtube.com/watch?v=8QTM958qsMY",
+                    "https://www.youtube.com/watch?v=UXCGiRsUwLQ"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,518",
+                    "content creator": "Cowboy Kent Rollins",
+                    "date": "May 25, 2017",
+                    "description": "Cowboy Baked Beans! \nhttps://youtu.be/W_6RgolSB0M",
+                    "dislikes": " Unavailable",
+                    "id": "W_6RgolSB0M",
+                    "likes": "37,177 likes",
+                    "title": "Cowboy Baked Beans",
+                    "url": "https://www.youtube.com/watch?v=W_6RgolSB0M",
+                    "video_length": 490.421,
+                    "views": "1,484,189 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=hOgvfJe7PwE",
+              "sampled_type": "random",
+              "title": "The Real Pork and Beans | Cowboy Beans",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=_BClG9tUTAw",
+                "https://www.youtube.com/watch?v=hOgvfJe7PwE&list=RDCMUClrMJRlvoyoWsVlB-7c61PQ&start_radio=1&rv=hOgvfJe7PwE",
+                "https://www.youtube.com/watch?v=YSP_kIFj6lY",
+                "https://www.youtube.com/watch?v=Rz496HeKYEI",
+                "https://www.youtube.com/watch?v=UAXHVQoEito",
+                "https://www.youtube.com/watch?v=GDw4pCUnHro",
+                "https://www.youtube.com/watch?v=iFUrLfRusx0",
+                "https://www.youtube.com/watch?v=MWHeCJjBc3M",
+                "https://www.youtube.com/watch?v=hj0W6A8DLuw",
+                "https://www.youtube.com/watch?v=YVe3PvdrRoQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,192",
+                "content creator": "Cowboy Kent Rollins",
+                "date": "Dec 25, 2019",
+                "description": "Printable recipe below! Grab our NEW cookbook Faith, Family and the Feast here: https://kentrollins.com/fff/",
+                "dislikes": " Unavailable",
+                "id": "hOgvfJe7PwE",
+                "likes": "22,373 likes",
+                "title": "The Real Pork and Beans | Cowboy Beans",
+                "url": "https://www.youtube.com/watch?v=hOgvfJe7PwE",
+                "video_length": 893.561,
+                "views": "612,652 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=8Pay2WMEFHI",
+          "sampled_type": "random",
+          "title": "Traditional Cowboy Beans",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=7UAoT21eqXI",
+            "https://www.youtube.com/watch?v=8Pay2WMEFHI&list=RDCMUClrMJRlvoyoWsVlB-7c61PQ&start_radio=1&rv=8Pay2WMEFHI",
+            "https://www.youtube.com/watch?v=2tp9mx9c9fE",
+            "https://www.youtube.com/watch?v=HNudt52BukY",
+            "https://www.youtube.com/watch?v=ffO3VxzQReM",
+            "https://www.youtube.com/watch?v=9EhCKxRLSMI",
+            "https://www.youtube.com/watch?v=hOgvfJe7PwE",
+            "https://www.youtube.com/watch?v=T4Rk2G0JRXw",
+            "https://www.youtube.com/watch?v=nPItJS1gtVY",
+            "https://www.youtube.com/watch?v=ckELeAo-Lzo"
+          ],
+          "video": {
+            "ad": true,
+            "comments": "2,320",
+            "content creator": "Cowboy Kent Rollins",
+            "date": "Jun 9, 2021",
+            "description": "Beans just the way the old cook made going down the trail.Printable recipe below! Stay in touch with more recipes and upcoming events in our email newsletter: https://kentrollins.com/email-sign-up/ #bestpintobeans #oldfashionbeans \n\nSign up for updates on the New Bertha stove visit ",
+            "dislikes": " Unavailable",
+            "id": "8Pay2WMEFHI",
+            "likes": "39,640 likes",
+            "title": "Traditional Cowboy Beans",
+            "url": "https://www.youtube.com/watch?v=8Pay2WMEFHI",
+            "video_length": 949.421,
+            "views": "1,087,452 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=7LGiFZV5hGw",
+      "sampled_type": "random",
+      "title": "Stories of Us: Kirk Cameron",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=i6rFSV1efLc",
+        "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+        "https://www.youtube.com/watch?v=k9mNRbx6LOM",
+        "https://www.youtube.com/watch?v=-vZXgApsPCQ",
+        "https://www.youtube.com/watch?v=xPGdOXstSyk",
+        "https://www.youtube.com/watch?v=X7asVJfXgKE",
+        "https://www.youtube.com/watch?v=uRcGSD22m5g",
+        "https://www.youtube.com/watch?v=BvR1_93szvc",
+        "https://www.youtube.com/watch?v=MF1jJy1F-8I",
+        "https://www.youtube.com/watch?v=fZtXYXBEIn4"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "357",
+        "content creator": "PragerU",
+        "date": "Premiered Jan 11, 2022",
+        "description": "Actor Kirk Cameron began his career in Hollywood starring in ABC\u2019s TV sitcom \u201cGrowing Pains.\u201d His success on the silver screen, however, left him feeling unfulfilled and questioning his purpose in life. He shares how his experience led him on a journey to discover a relationship with God and find ultimate fulfillment in his faith and family.\n\n\ud83d\udea8  PragerU is experiencing severe censorship on Big Tech platforms. Go to ",
+        "dislikes": " Unavailable",
+        "id": "7LGiFZV5hGw",
+        "likes": "4,771 likes",
+        "title": "Stories of Us: Kirk Cameron",
+        "url": "https://www.youtube.com/watch?v=7LGiFZV5hGw",
+        "video_length": 863.561,
+        "views": "343,928 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=sKCeqiWA-gQ",
+                  "sampled_type": "curated",
+                  "title": "Meanwhile... Put That Pickle Back In The Jar!",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=NmRt4WFxUQU",
+                    "https://www.youtube.com/watch?v=HdFKZtZop7A&pp=sAQB",
+                    "https://www.youtube.com/watch?v=FXrTPWLWqSU",
+                    "https://www.youtube.com/watch?v=sKCeqiWA-gQ&list=RDCMUCMtFAi84ehTSYSE9XoHefig&start_radio=1&rv=sKCeqiWA-gQ",
+                    "https://www.youtube.com/watch?v=-UHr5baraKo",
+                    "https://www.youtube.com/watch?v=i4FEJQrbIQs&pp=sAQB",
+                    "https://www.youtube.com/watch?v=sZ-aUlNY9_g&pp=sAQB",
+                    "https://www.youtube.com/watch?v=VgRvFoLMgCQ",
+                    "https://www.youtube.com/watch?v=b_OP7GAo2r0",
+                    "https://www.youtube.com/watch?v=LB1zY1js_I0"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "564",
+                    "content creator": "The Late Show with Stephen Colbert",
+                    "date": "Jan 15, 2022",
+                    "description": "Meanwhile... A baseball team mascot recently learned a valuable lesson in how to crop photos for social media. #Colbert #Comedy #Meanwhile",
+                    "dislikes": " Unavailable",
+                    "id": "sKCeqiWA-gQ",
+                    "likes": "12,752 likes",
+                    "title": "Meanwhile... Put That Pickle Back In The Jar!",
+                    "url": "https://www.youtube.com/watch?v=sKCeqiWA-gQ",
+                    "video_length": 357.901,
+                    "views": "606,023 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=5Luu1Beb8ng",
+              "sampled_type": "curated",
+              "title": "Endnote 2: White Fascism",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=4mm0KyaovhY",
+                "https://www.youtube.com/watch?v=_If4a-gHg_I",
+                "https://www.youtube.com/watch?v=sKCeqiWA-gQ",
+                "https://www.youtube.com/watch?v=E4CI2vk3ugk",
+                "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+                "https://www.youtube.com/watch?v=xMabpBvtXr4",
+                "https://www.youtube.com/watch?v=AxZWxxZ2JGE",
+                "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+                "https://www.youtube.com/watch?v=51a4N_qv-u0",
+                "https://www.youtube.com/watch?v=2gFsOoKAHZg"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "8,048",
+                "content creator": "Innuendo Studios",
+                "date": "Nov 29, 2018",
+                "description": "patreon: http://patreon.com/InnuendoStudios\ntumblr: http://innuendostudios.tumblr.com\ntwitter: https://twitter.com/InnuendoStudios",
+                "dislikes": " Unavailable",
+                "id": "5Luu1Beb8ng",
+                "likes": "41,755 likes",
+                "title": "Endnote 2: White Fascism",
+                "url": "https://www.youtube.com/watch?v=5Luu1Beb8ng",
+                "video_length": 1364.181,
+                "views": "1,108,245 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+          "sampled_type": "curated",
+          "title": "Endnote 4: How the Alt-Right is Like an Abusive Relationship (live)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=KS0NtNxlX-s",
+            "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+            "https://www.youtube.com/watch?v=UWLDQeVK16A",
+            "https://www.youtube.com/watch?v=5Luu1Beb8ng",
+            "https://www.youtube.com/watch?v=X-rGqnPVxI4",
+            "https://www.youtube.com/watch?v=e46uOGQ6RWg",
+            "https://www.youtube.com/watch?v=4N6y6LEwsKc",
+            "https://www.youtube.com/watch?v=dbEiVrnhwlU",
+            "https://www.youtube.com/watch?v=iyAjp-NkzBQ",
+            "https://www.youtube.com/watch?v=ma4DJbvO84I"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,970",
+            "content creator": "Innuendo Studios",
+            "date": "Dec 2, 2019",
+            "description": "patreon: http://patreon.com/InnuendoStudios\ntumblr: http://innuendostudios.tumblr.com\ntwitter: https://twitter.com/InnuendoStudios",
+            "dislikes": " Unavailable",
+            "id": "e-MP_yOHiV0",
+            "likes": "22,073 likes",
+            "title": "Endnote 4: How the Alt-Right is Like an Abusive Relationship (live)",
+            "url": "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+            "video_length": 2159.621,
+            "views": "539,980 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+      "sampled_type": "curated",
+      "title": "Endnote 5: A Case Study in Digital Radicalism (UC Merced Talk)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+        "https://www.youtube.com/watch?v=lLYWHpgIoIw&list=RDLVlLYWHpgIoIw&start_radio=1&rv=lLYWHpgIoIw",
+        "https://www.youtube.com/watch?v=JsNm2YLrk30",
+        "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+        "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+        "https://www.youtube.com/watch?v=agzNANfNlTs",
+        "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+        "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+        "https://www.youtube.com/watch?v=KSXKzPOcYDU",
+        "https://www.youtube.com/watch?v=5Luu1Beb8ng"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "4,923",
+        "content creator": "Innuendo Studios",
+        "date": "Aug 23, 2021",
+        "description": "this video was edited with the help of Magdalen Rose, please go sub to her channel: https://www.youtube.com/MagdalenRose",
+        "dislikes": " Unavailable",
+        "id": "lLYWHpgIoIw",
+        "likes": "24,604 likes",
+        "title": "Endnote 5: A Case Study in Digital Radicalism (UC Merced Talk)",
+        "url": "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+        "video_length": 3008.541,
+        "views": "398,616 views"
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                  "sampled_type": "opposing",
+                  "title": "Jordan B. Peterson on 12 Rules for Life",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                    "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+                    "https://www.youtube.com/watch?v=Ful-7jFCIXs",
+                    "https://www.youtube.com/watch?v=-5RCmu-HuTg&list=RDLV-5RCmu-HuTg&start_radio=1&rv=-5RCmu-HuTg",
+                    "https://www.youtube.com/watch?v=ApC0faRYabI",
+                    "https://www.youtube.com/watch?v=PFo9-7VX2K8",
+                    "https://www.youtube.com/watch?v=f5rUPatnXSE",
+                    "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+                    "https://www.youtube.com/watch?v=a_HfSnQqeyY",
+                    "https://www.youtube.com/watch?v=MnUfXYGtT5Q"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "12,988",
+                    "content creator": "How To Academy Mindset",
+                    "date": "Jan 17, 2018",
+                    "description": "Don't forget to Subscribe to our Channel!. \n\nThe clinical psychologist Jordan Peterson sets out twelve profound and practical principles for living a meaningful life. His 12 Rules for Life will offer an antidote to the chaos in our lives: with eternal truths applied to our modern problems.",
+                    "dislikes": " Unavailable",
+                    "id": "-5RCmu-HuTg",
+                    "likes": "209,402 likes",
+                    "title": "Jordan B. Peterson on 12 Rules for Life",
+                    "url": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                    "video_length": 5432.461,
+                    "views": "14,841,504 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=jKh0ni7HlNw",
+              "sampled_type": "opposing",
+              "title": "Evolution & the Challenges of Modern Life | Bret Weinstein & Heather Heying | The JBP Podcast S4 E73",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "video": {
+                "ad": null,
+                "comments": "3,034",
+                "content creator": "Jordan B Peterson",
+                "date": "Jan 10, 2022",
+                "description": "This episode was recorded on October 5th, 2021.\n\nPodcasters and evolutionary biology power-couple Bret Weinstein and Heather Heying join me to discuss a variety of topics related to their new book, A Hunter-Gatherer\u2019s Guide to the 21st Century. We explore topics like niche-switching, what Darwin got wrong, Twitter, sources for modern values, hyper-novelty, the aftermath of progress, parenthood, and sexual selection \u2013 just to name a few.\nBret Weinstein and Heather Heying are evolutionary biologists, former Evergreen State College professors, and the current hosts of the DarkHorse podcast. You may also know Bret through Joe Rogan, or as the twice-moderator for Jordan\u2019s debates with Sam Harris. \nThe couple\u2019s book, titled \u201cA Hunter-Gatherer\u2019s Guide to the 21st Century: Evolution and the Challenges of Modern Life,\u201d asks why the most prosperous age in history has scarcely offset suicide rates, tribal division, loneliness, and human misery.\n\nFollow Bret at: ",
+                "dislikes": " Unavailable",
+                "id": "jKh0ni7HlNw",
+                "likes": "17,573 likes",
+                "title": "Evolution & the Challenges of Modern Life | Bret Weinstein & Heather Heying | The JBP Podcast S4 E73",
+                "url": "https://www.youtube.com/watch?v=jKh0ni7HlNw",
+                "video_length": 5603.141,
+                "views": "494,462 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=xu3ux1h_caU",
+          "sampled_type": "opposing",
+          "title": "It's Time to Live",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=q4zZ2ker1iI",
+            "https://www.youtube.com/watch?v=jKh0ni7HlNw",
+            "https://www.youtube.com/watch?v=Xm_2zmX6Akc",
+            "https://www.youtube.com/watch?v=AscPHmLWo-M",
+            "https://www.youtube.com/watch?v=dJyz6iK8VXE",
+            "https://www.youtube.com/watch?v=j_MXSE3wUT4",
+            "https://www.youtube.com/watch?v=ERj3QeGw9Ok",
+            "https://www.youtube.com/watch?v=YU8ktM80BCw",
+            "https://www.youtube.com/watch?v=wqEsTPaUZF0",
+            "https://www.youtube.com/watch?v=Cn_lucBscH4"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "12,773",
+            "content creator": "Jordan B Peterson",
+            "date": "Jan 12, 2022",
+            "description": "It\u2019s mid January, 2022. I wrote this column this week for one of Canada\u2019s major newspapers, the National Post, and thought I\u2019d read it for those of you who want to watch or listen. \n\nLink to National Post article: ",
+            "dislikes": " Unavailable",
+            "id": "xu3ux1h_caU",
+            "likes": "60,701 likes",
+            "title": "It's Time to Live",
+            "url": "https://www.youtube.com/watch?v=xu3ux1h_caU",
+            "video_length": 628.901,
+            "views": "552,440 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=7tHDRc32k2I",
+      "sampled_type": "opposing",
+      "title": "LOL: Clay Aiken's HILARIOUS Campaign Ad",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=xu3ux1h_caU",
+        "https://www.youtube.com/watch?v=fbI1eJ_zAB8",
+        "https://www.youtube.com/watch?v=ovdbrdCIP7U",
+        "https://www.youtube.com/watch?v=J7dqGhOPVcY",
+        "https://www.youtube.com/watch?v=Lx1P1YA2rlA",
+        "https://www.youtube.com/watch?v=oCqO2oFjWrg",
+        "https://www.youtube.com/watch?v=kz7OGxb9X6E",
+        "https://www.youtube.com/watch?v=XJTvn_WHiXk",
+        "https://www.youtube.com/watch?v=NrRTFMaL0LE",
+        "https://www.youtube.com/watch?v=i4X-iZj5wlU"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,648",
+        "content creator": "Michael Knowles",
+        "date": "Jan 11, 2022",
+        "description": "LIKE & SUBSCRIBE for new videos everyday. https://www.youtube.com/c/MichaelKnowles \n\nClay Aiken has decided to run for Congress again in North Carolina.\n\nWatch the full episode here: ",
+        "dislikes": " Unavailable",
+        "id": "7tHDRc32k2I",
+        "likes": "10,466 likes",
+        "title": "LOL: Clay Aiken's HILARIOUS Campaign Ad",
+        "url": "https://www.youtube.com/watch?v=7tHDRc32k2I",
+        "video_length": 304.401,
+        "views": "144,033 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=gvZSpET11ZY",
+                  "sampled_type": "curated",
+                  "title": "Retirement Plans: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                    "https://www.youtube.com/watch?v=LfgSEwjAeno",
+                    "https://www.youtube.com/watch?v=gvZSpET11ZY&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=gvZSpET11ZY",
+                    "https://www.youtube.com/watch?v=J6lyURyVz7k",
+                    "https://www.youtube.com/watch?v=zsjZ2r9Ygzw",
+                    "https://www.youtube.com/watch?v=9PK-netuhHA",
+                    "https://www.youtube.com/watch?v=bq2_wSsDwkQ",
+                    "https://www.youtube.com/watch?v=XEVlyP4_11M",
+                    "https://www.youtube.com/watch?v=yw_nqzVfxFQ",
+                    "https://www.youtube.com/watch?v=hxUAntt1z2c"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,743",
+                    "content creator": "LastWeekTonight",
+                    "date": "Jun 13, 2016",
+                    "description": "Saving for retirement means navigating a potential minefield of high fees and bad advice. Billy Eichner and Kristin Chenoweth share some tips.\n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "gvZSpET11ZY",
+                    "likes": "154,933 likes",
+                    "title": "Retirement Plans: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=gvZSpET11ZY",
+                    "video_length": 1289.241,
+                    "views": "17,715,706 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+              "sampled_type": "curated",
+              "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=gvZSpET11ZY",
+                "https://www.youtube.com/watch?v=XEVlyP4_11M",
+                "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+                "https://www.youtube.com/watch?v=P8pjd1QEA0c",
+                "https://www.youtube.com/watch?v=7y1xJAVZxXg",
+                "https://www.youtube.com/watch?v=s6MwGeOm8iI&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=s6MwGeOm8iI",
+                "https://www.youtube.com/watch?v=wyCRzBt7GuY",
+                "https://www.youtube.com/watch?v=He1bgJ0sqtw",
+                "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+                "https://www.youtube.com/watch?v=BgyqAD5Z6_A"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "27,040",
+                "content creator": "LastWeekTonight",
+                "date": "Nov 7, 2016",
+                "description": "Multilevel marketing companies claim to be legitimate businesses, but some seem awfully\u2026pyramid shaped. John Oliver and Jaime Camil demonstrate how they work. \n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "s6MwGeOm8iI",
+                "likes": "312,622 likes",
+                "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                "video_length": 1917.681,
+                "views": "31,193,879 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+          "sampled_type": "curated",
+          "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+            "https://www.youtube.com/watch?v=xecEV4dSAXE",
+            "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+            "https://www.youtube.com/watch?v=XEVlyP4_11M",
+            "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+            "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I",
+            "https://www.youtube.com/watch?v=mXQuto1fMp4",
+            "https://www.youtube.com/watch?v=5d667Bb_iYA",
+            "https://www.youtube.com/watch?v=7y1xJAVZxXg",
+            "https://www.youtube.com/watch?v=TrS0uNBuG9c"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "58,328",
+            "content creator": "LastWeekTonight",
+            "date": "Oct 9, 2017",
+            "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "J5b_-TZwQ0I",
+            "likes": "342,417 likes",
+            "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+            "video_length": 1298.221,
+            "views": "26,919,272 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=f-NnqODNdTY&t=177s",
+      "sampled_type": "curated",
+      "title": "Watching Dave Rubin Fart His Way Through 1984 | Big Joel",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=2G56_mQwyBM",
+        "https://www.youtube.com/watch?v=VG_hsUdFkOM",
+        "https://www.youtube.com/watch?v=5uRG4RB_Nvo",
+        "https://www.youtube.com/watch?v=fGlW5nauOS0",
+        "https://www.youtube.com/watch?v=JlkJJygIoVU",
+        "https://www.youtube.com/watch?v=R92f94cVUrg",
+        "https://www.youtube.com/watch?v=J7dqGhOPVcY",
+        "https://www.youtube.com/watch?v=KkMfKihy33w",
+        "https://www.youtube.com/watch?v=xGzJGgQeSDE"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "6,263",
+        "content creator": "Big Joel",
+        "date": "Oct 17, 2020",
+        "description": "Let's talk about 1984, PragerU, and Dave Rubin! Woooo\n\nSupport me on Patreon: https://www.patreon.com/bigjoel",
+        "dislikes": " Unavailable",
+        "id": "f-NnqODNdTY&t",
+        "likes": "39,198 likes",
+        "title": "Watching Dave Rubin Fart His Way Through 1984 | Big Joel",
+        "url": "https://www.youtube.com/watch?v=f-NnqODNdTY&t=177s",
+        "video_length": 1191.761,
+        "views": "758,995 views"
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=vln9D81eO60",
+                  "sampled_type": "opposing",
+                  "title": "Ben Affleck, Sam Harris and Bill Maher Debate Radical Islam | Real Time with Bill Maher (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=MlAw7qYLk5w",
+                    "https://www.youtube.com/watch?v=sWclm4Bi4UM",
+                    "https://www.youtube.com/watch?v=WQAebYGLjEw",
+                    "https://www.youtube.com/watch?v=tOHUwwP6LLs",
+                    "https://www.youtube.com/watch?v=P5ZOwNK6n9U",
+                    "https://www.youtube.com/watch?v=LV7eVvph69Y",
+                    "https://www.youtube.com/watch?v=WAUUgxQPwM0",
+                    "https://www.youtube.com/watch?v=zRlm4o6he74",
+                    "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+                    "https://www.youtube.com/watch?v=ZkFUU-xJM6I"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "73,657",
+                    "content creator": "Real Time with Bill Maher",
+                    "date": "Oct 6, 2014",
+                    "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nBill Maher and his guests \u2013 Sam Harris, Ben Affleck, Michael Steele and Nicholas Kristof - discuss ISIS and radical Islam during the panel portion of \u201cReal Time.\u201d\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "vln9D81eO60",
+                    "likes": "81,267 likes",
+                    "title": "Ben Affleck, Sam Harris and Bill Maher Debate Radical Islam | Real Time with Bill Maher (HBO)",
+                    "url": "https://www.youtube.com/watch?v=vln9D81eO60",
+                    "video_length": 605.061,
+                    "views": "10,037,589 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=jey_CzIOfYE",
+              "sampled_type": "opposing",
+              "title": "Sam Harris & Jordan Peterson in Vancouver - Part 1 - Presented by Pangburn (CC: Arabic & Spanish)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=9V85OykSDT8",
+                "https://www.youtube.com/watch?v=vln9D81eO60",
+                "https://www.youtube.com/watch?v=GEf6X-FueMo",
+                "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                "https://www.youtube.com/watch?v=kLUFit8815c",
+                "https://www.youtube.com/watch?v=1OLz6uUuMp8",
+                "https://www.youtube.com/watch?v=pflU-nnY4MA",
+                "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                "https://www.youtube.com/watch?v=v6H2HmKDbZA"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "26,164",
+                "content creator": "Pangburn",
+                "date": "Aug 31, 2018",
+                "description": "Join the new Pangburn Offensive Channel https://www.youtube.com/channel/UCI5A...\n#Pangburn #SamHarris #JordanPeterson",
+                "dislikes": " Unavailable",
+                "id": "jey_CzIOfYE",
+                "likes": "65,853 likes",
+                "title": "Sam Harris & Jordan Peterson in Vancouver - Part 1 - Presented by Pangburn (CC: Arabic & Spanish)",
+                "url": "https://www.youtube.com/watch?v=jey_CzIOfYE",
+                "video_length": 7597.821,
+                "views": "5,002,473 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=-6ZyQKiwMQw",
+          "sampled_type": "opposing",
+          "title": "Sex and Dating Apps | Rob Henderson | The Jordan B. Peterson Podcast - S4: E47",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": null,
+            "comments": "5,246",
+            "content creator": "Jordan B Peterson",
+            "date": "Sep 20, 2021",
+            "description": "This episode was recorded on May 7th 2021.  \n\nDr. Jordan Peterson and Rob Henderson exchange ideas about the impact of luxury beliefs on the different socioeconomic classes, polyamory, and the idea of the patriarchal institution. Dr. Jordan shares his experience with Henderson as they discuss psychopathy and its relationship with dating apps. Check out this episode to listen to what they have to say about pornography, defunding the police, the role of sex, the consequences of reproductive technology, and much more.\n\nRob Henderson, a veteran of the US Air Force, is a Ph.D. student in evolutionary and social psychology at the University of Cambridge. He also got his bachelor\u2019s degree in psychology from Yale. His writing has appeared in worldwide newspapers like the New York Times, The Wall Street Journal, and Quillette. Currently, he is writing a memoir to be published in late 2022.\n\nCheck out his website for more information:",
+            "dislikes": " Unavailable",
+            "id": "-6ZyQKiwMQw",
+            "likes": "34,982 likes",
+            "title": "Sex and Dating Apps | Rob Henderson | The Jordan B. Peterson Podcast - S4: E47",
+            "url": "https://www.youtube.com/watch?v=-6ZyQKiwMQw",
+            "video_length": 6535.801,
+            "views": "1,046,342 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=fSKQfATa-1I",
+      "sampled_type": "opposing",
+      "title": "Irreversible Damage? | Abigail Shrier - Jordan B. Peterson Podcast S4 E11",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=E6qBxn_hFDQ",
+        "https://www.youtube.com/watch?v=SiijS_9hPkM",
+        "https://www.youtube.com/watch?v=-6ZyQKiwMQw",
+        "https://www.youtube.com/watch?v=5McqqLETmkw",
+        "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+        "https://www.youtube.com/watch?v=DWbxIFC0Q2o",
+        "https://www.youtube.com/watch?v=5Yhf0wBFtvY",
+        "https://www.youtube.com/watch?v=wa8vzUQQpaE&pp=sAQB",
+        "https://www.youtube.com/watch?v=RKgmvRXswcw",
+        "https://www.youtube.com/watch?v=w84uRYq0Uc8"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "7,795",
+        "content creator": "Jordan B Peterson",
+        "date": "Mar 22, 2021",
+        "description": "This episode was recorded on 01/06/21\n\nAbigail Shrier and I discuss identity, gender dysphoria, the increased rate of gender transitioning procedures among young female adolescents, details of these procedures, de-transitioning, her personal experiences writing her book \u201cIrreversible Damage\u201d, and more.\n\nAbigail Shrier is a frequent contributor to the Wall Street Journal and author of Irreversible Damage: The Transgender Craze Seducing Our Daughters. Abigail used her experience as a journalist to interview a wide variety of experts on the explosion in the number of young women self-diagnosing and taking steps to transition to male using hormones and surgery physically.\n\nFind more of Abigail Shrier on Twitter @AbigailShrier\n\nPurchase Abigail\u2019s book here: ",
+        "dislikes": " Unavailable",
+        "id": "fSKQfATa-1I",
+        "likes": "33,735 likes",
+        "title": "Irreversible Damage? | Abigail Shrier - Jordan B. Peterson Podcast S4 E11",
+        "url": "https://www.youtube.com/watch?v=fSKQfATa-1I",
+        "video_length": 5524.581,
+        "views": "883,265 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

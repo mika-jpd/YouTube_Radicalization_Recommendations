@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=7QRQjrsFnR4",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=kasiov0ytEc",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=3O9dgfMTUv4",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=AscPHmLWo-M",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=uTChrirK-hw",
+                          "title": "Was the Moon Landing faked? | Neil deGrasse Tyson | Big Questions",
+                          "video": {
+                            "ad": null,
+                            "comments": "46,721",
+                            "content creator": "Penguin Books UK",
+                            "date": "Nov 22, 2019",
+                            "description": "Neil deGrasse Tyson joined us to answer our biggest questions on climate change, God, AI and more. Order your copy of Letters from an Astrophysicist now: https://amzn.to/2DgjVVH",
+                            "dislikes": " Unavailable",
+                            "id": "uTChrirK-hw",
+                            "likes": "139,800 likes",
+                            "title": "Was the Moon Landing faked? | Neil deGrasse Tyson | Big Questions",
+                            "url": "https://www.youtube.com/watch?v=uTChrirK-hw",
+                            "video_length": 688.541,
+                            "views": "5,395,502 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+                          "title": "The Future of Colonizing Space- Neil deGrasse Tyson- WGS 2018",
+                          "video": {
+                            "ad": null,
+                            "comments": "6,165",
+                            "content creator": "World Government Summit",
+                            "date": "Mar 12, 2018",
+                            "description": "Space missions need to have a defensive component or economic benefit. With economic returns often uncertain, space programmes have tended to be led by governments, because only they can invest in programmes that have a long-term pay-off, whether economic or geopolitical. When it comes to saving humanity from an asteroid impact, Tyson stressed that rather than establishing colonies in space, we would be better to try to deflect the asteroid.\n\n\u062a\u062d\u062f\u062b \u0646\u064a\u0644 \u062f\u064a\u063a\u0631\u0627\u0633 \u062a\u0627\u064a\u0633\u0648\u0646\u060c \u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u064a\u0632\u064a\u0627\u0621 \u0627\u0644\u0641\u0644\u0643\u064a\u0629\u060c \u0623\u0646 \u0627\u0644\u0628\u0639\u062b\u0627\u062a \u0627\u0644\u0641\u0636\u0627\u0626\u064a\u0629 \u062a\u064f\u0637\u0644\u0642 \u0639\u0627\u062f\u0629\u064b \u0625\u0645\u0627 \u0644\u0623\u063a\u0631\u0627\u0636 \u062f\u0641\u0627\u0639\u064a\u0629 \u0623\u0648 \u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629 \u0644\u062a\u0628\u0631\u064a\u0631 \u063a\u0627\u064a\u062a\u0647\u0627. \u0648\u0641\u064a \u063a\u064a\u0627\u0628 \u0636\u0645\u0627\u0646\u0627\u062a \u0627\u0644\u0639\u0627\u0626\u062f \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635\u060c \u062a\u062a\u0648\u0644\u0649 \u0627\u0644\u062d\u0643\u0648\u0645\u0627\u062a \u0625\u062f\u0627\u0631\u0629 \u062c\u0645\u064a\u0639 \u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0641\u0636\u0627\u0621 \u0644\u0645\u0627 \u062a\u0645\u0644\u0643\u0647 \u0645\u0646 \u0642\u062f\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u0641\u064a \u0628\u0631\u0627\u0645\u062c \u0630\u0627\u062a \u0639\u0627\u0626\u062f \u0637\u0648\u064a\u0644 \u0627\u0644\u0623\u062c\u0644\u060c \u0633\u0648\u0627\u0621 \u0643\u0627\u0646 \u0644\u0647\u0630\u0627 \u0627\u0644\u0639\u0627\u0626\u062f \u0628\u064f\u0639\u062f \u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0623\u0648 \u062c\u064a\u0648\u0633\u064a\u0627\u0633\u064a. \u0623\u0645\u0627 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0625\u0644\u0649 \u0627\u0644\u062f\u0639\u0648\u0629 \u0644\u0628\u0646\u0627\u0621 \u0645\u0633\u062a\u0639\u0645\u0631\u0627\u062a \u0639\u0644\u0649 \u0633\u0637\u062d \u0627\u0644\u0643\u0648\u0627\u0643\u0628 \u0627\u0644\u0623\u062e\u0631\u0649 \u062a\u062d\u0633\u0628\u064b\u0627 \u0644\u0623\u064a \u062f\u0645\u0627\u0631 \u0642\u062f \u064a\u062d\u0644\u0651 \u0628\u0643\u0648\u0643\u0628 \u0627\u0644\u0623\u0631\u0636 \u0646\u062a\u064a\u062c\u0629 \u062a\u0639\u0631\u0636\u0647 \u0644\u0627\u0635\u0637\u062f\u0627\u0645 \u0646\u064a\u0632\u0643\u060c \u0642\u0627\u0644 \u062a\u0627\u064a\u0633\u0648\u0646 \u0625\u0646 \u062a\u062d\u0648\u064a\u0644 \u0645\u0633\u0627\u0631 \u0627\u0644\u0646\u064a\u0632\u0643 \u064a\u0638\u0644 \u0647\u0648 \u0627\u0644\u062d\u0644 \u0627\u0644\u0623\u0645\u062b\u0644 \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0645\u0631\u062d\u0644\u0629",
+                            "dislikes": " Unavailable",
+                            "id": "X_m1mPtYzTk",
+                            "likes": "30,970 likes",
+                            "title": "The Future of Colonizing Space- Neil deGrasse Tyson- WGS 2018",
+                            "url": "https://www.youtube.com/watch?v=X_m1mPtYzTk",
+                            "video_length": 4791.301,
+                            "views": "3,377,379 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                          "title": "Heated debate on gender pronouns and free speech in Toronto",
+                          "video": {
+                            "ad": null,
+                            "comments": "38,609",
+                            "content creator": "CBC News",
+                            "date": "Oct 29, 2016",
+                            "description": "University of Toronto professors Jordan Peterson and A.W. Peet discuss the use of alternate pronouns on campus for those who say words like 'he, she, him or her' don't represent them accurately\nTo read more: ",
+                            "dislikes": " Unavailable",
+                            "id": "SiijS_9hPkM",
+                            "likes": "98,968 likes",
+                            "title": "Heated debate on gender pronouns and free speech in Toronto",
+                            "url": "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                            "video_length": 1002.181,
+                            "views": "6,322,272 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+                          "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+                          "video": {
+                            "ad": null,
+                            "comments": "112,705",
+                            "content creator": "PowerfulJRE",
+                            "date": "Jun 20, 2019",
+                            "description": "Bob Lazar is a physicist who worked at Los Alamos National Laboratory in New Mexico, and also on reverse engineering extraterrestrial technology at a site called S-4 near the Area 51 Groom Lake operating location. Jeremy Corbell is a contemporary artist and documentary filmmaker. Watch the documentary \"Bob Lazar: Area 51 & Flying Saucers\" now streaming on Netflix.",
+                            "dislikes": " Unavailable",
+                            "id": "BEWz4SXfyCQ",
+                            "likes": "351,953 likes",
+                            "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+                            "url": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+                            "video_length": 8084.321,
+                            "views": "22,113,360 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                          "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+                          "video": {
+                            "ad": null,
+                            "comments": "226,470",
+                            "content creator": "British GQ",
+                            "date": "Oct 30, 2018",
+                            "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+                            "dislikes": " Unavailable",
+                            "id": "yZYQpge1W5s",
+                            "likes": "695,106 likes",
+                            "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+                            "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                            "video_length": 6133.181,
+                            "views": "47,630,499 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=2s4TqVAbfz4",
+                      "title": "Perfect Shapes in Higher Dimensions - Numberphile",
+                      "video": {
+                        "ad": null,
+                        "comments": "7,069",
+                        "content creator": "Numberphile",
+                        "date": "Mar 23, 2016",
+                        "description": "Carlo Sequin talks through platonic solids and regular polytopes in higher dimensions.\nMore links & stuff in full description below \u2193\u2193\u2193\n\nExtra footage (Hypernom): ",
+                        "dislikes": " Unavailable",
+                        "id": "2s4TqVAbfz4",
+                        "likes": "94,376 likes",
+                        "title": "Perfect Shapes in Higher Dimensions - Numberphile",
+                        "url": "https://www.youtube.com/watch?v=2s4TqVAbfz4",
+                        "video_length": 1578.661,
+                        "views": "4,620,129 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=U8HEwO-2L4w",
+                      "title": "Carl Sagan's last interview with Charlie Rose (Full Interview)",
+                      "video": {
+                        "ad": null,
+                        "comments": "2,823",
+                        "content creator": "bailesie",
+                        "date": "Apr 19, 2012",
+                        "description": "Last interview with Charlie Rose",
+                        "dislikes": " Unavailable",
+                        "id": "U8HEwO-2L4w",
+                        "likes": "16,499 likes",
+                        "title": "Carl Sagan's last interview with Charlie Rose (Full Interview)",
+                        "url": "https://www.youtube.com/watch?v=U8HEwO-2L4w",
+                        "video_length": 1227.361,
+                        "views": "1,178,052 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=YGmQe85cBeI",
+                      "title": "4th Dimension Explained \u25ba Tesseract Hypercube Visualized More Than 4 Ways",
+                      "video": {
+                        "ad": null,
+                        "comments": "347",
+                        "content creator": "The Truth w/ Carlos Farias",
+                        "date": "Jan 27, 2021",
+                        "description": "Introduction to the 4th dimension, where we visualize a tesseract (in the family of hypercubes) by building from 0D to 1D, 2D, 3D, & 4D. Many fourth dimensional illustrations are utilized for visual learners. We also share examples from Flatland, how a 2D object views 3D shapes.\n\n1D, we have 2 0D points\n2D, we have 4 1D lines\n3D, we have 6 2D squares\n4D, we have 8 3D cubes",
+                        "dislikes": " Unavailable",
+                        "id": "YGmQe85cBeI",
+                        "likes": "2,898 likes",
+                        "title": "4th Dimension Explained \u25ba Tesseract Hypercube Visualized More Than 4 Ways",
+                        "url": "https://www.youtube.com/watch?v=YGmQe85cBeI",
+                        "video_length": 646.541,
+                        "views": "86,551 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tixOyiR8B-8",
+                      "title": "Magnificent Storyteller Soldier Reveals What He Saw In Vietnam",
+                      "video": {
+                        "ad": null,
+                        "comments": "33,925",
+                        "content creator": "David Hoffman",
+                        "date": "Jul 19, 2018",
+                        "description": "In 1990 I did interviews with 180 baby boomers talking about their early life during the 1960s for my television series, Making Sense of the Sixties. This is a clip of poet and educator Bill Ehrhart from one of those interviews - a very articulate Vietnam veteran who joined the military with patriotism in his heart. He has written a book on his experiences - Vietnam-Perkasie: A Combat Marine Memoir, Search the word \"Vietnam\" on my YouTube channel to find more related clips. Including one more by this man. Here is his background of service - W. D. Ehrhart served with 1st Battalion, 1st Marines, from early February 1967 to late February 1968. His service number is 2279361. He holds the Purple Heart Medal, Navy Combat Action Ribbon, Presidential Unit Citation (2), Good Conduct Medal, National Defense Service Medal, Republic of Vietnam Service Medal, Cross of Gallantry Meritorious Unit Citation, Civic Action Meritorious Unit Citation, Vietnamese Campaign Medal. The last three were all awarded by the now-extinct government of the Republic of Vietnam.  He received the PUC and the two Vietnamese unit citations as a member of 1st Battalion, 1st Marine Regiment. You can find more at his website -www.wdehrhart.com. ",
+                        "dislikes": " Unavailable",
+                        "id": "tixOyiR8B-8",
+                        "likes": "353,043 likes",
+                        "title": "Magnificent Storyteller Soldier Reveals What He Saw In Vietnam",
+                        "url": "https://www.youtube.com/watch?v=tixOyiR8B-8",
+                        "video_length": 925.601,
+                        "views": "14,807,645 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1_ZsDBMPQMI",
+                      "title": "Physicist Sean Carroll Explains Parallel Universes to Joe Rogan",
+                      "video": {
+                        "ad": null,
+                        "comments": "11,272",
+                        "content creator": "JRE Clips",
+                        "date": "Sep 16, 2019",
+                        "description": "Taken from JRE #1352 w/Sean Carroll: \nhttps://youtu.be/TP5W2MG8Jjs",
+                        "dislikes": " Unavailable",
+                        "id": "1_ZsDBMPQMI",
+                        "likes": "82,446 likes",
+                        "title": "Physicist Sean Carroll Explains Parallel Universes to Joe Rogan",
+                        "url": "https://www.youtube.com/watch?v=1_ZsDBMPQMI",
+                        "video_length": 1303.421,
+                        "views": "6,047,934 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=rtozQEsw7RM",
+                  "title": "Anti-Vax Leader Pushes Drinking Urine for COVID, Guillermo's Deer Antler Spray & Anti-Vax Barbie!",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,115",
+                    "content creator": "Jimmy Kimmel Live",
+                    "date": "Jan 10, 2022",
+                    "description": "We make our return to studio after an unwilling extra week off because of Omicron, there was some early-season drama on the new season of \u201cThe Bachelor,\u201d the Golden Globes were not televised this year and they had to announce winners on Twitter, there is a shortage of at-home COVID-19 tests available, anti-vaxhole Christopher Key is touting the benefits of drinking your own urine and after doing some research we discovered that our very own Guillermo has endorsed one of his crazy products, and the folks at Mattel made a mint over Christmas with a twist on America\u2019s all-time favorite doll.\n\nSUBSCRIBE to get the latest ",
+                    "dislikes": " Unavailable",
+                    "id": "rtozQEsw7RM",
+                    "likes": "12,530 likes",
+                    "title": "Anti-Vax Leader Pushes Drinking Urine for COVID, Guillermo's Deer Antler Spray & Anti-Vax Barbie!",
+                    "url": "https://www.youtube.com/watch?v=rtozQEsw7RM",
+                    "video_length": 686.381,
+                    "views": "554,520 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=IK3g4G20eYU&list=RDCMUCMtFAi84ehTSYSE9XoHefig&start_radio=1&rv=IK3g4G20eYU",
+                  "title": "Deltacron Infects 25 In Cyprus | Jim Jordan Refuses To Cooperate With Jan. 6th Committee",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,305",
+                    "content creator": "The Late Show with Stephen Colbert",
+                    "date": "Jan 10, 2022",
+                    "description": "While America grapples with a massive surge in Omicron cases, scientists in Cyprus are tracking dozens of infections they attribute to a new variant that combines elements of Delta and Omicron. Elsewhere, Rep. Jim Jordan announced he will not cooperate with the congressional committee investigating the Jan. 6th insurrection. ",
+                    "dislikes": " Unavailable",
+                    "id": "IK3g4G20eYU&list",
+                    "likes": "25,066 likes",
+                    "title": "Deltacron Infects 25 In Cyprus | Jim Jordan Refuses To Cooperate With Jan. 6th Committee",
+                    "url": "https://www.youtube.com/watch?v=IK3g4G20eYU&list=RDCMUCMtFAi84ehTSYSE9XoHefig&start_radio=1&rv=IK3g4G20eYU",
+                    "video_length": 686.201,
+                    "views": "1,107,166 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=d-7o9xYp7eE",
+                  "title": "Don't Talk to the Police",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Regent University School of Law",
+                    "date": "Mar 20, 2012",
+                    "description": "Regent Law Professor James Duane gives viewers startling reasons why they should always exercise their 5th Amendment rights when questioned by government officials.  Download his article on the topic at http://papers.ssrn.com/sol3/papers.cf....\n\nHis best-selling book on the same subject, You Have the Right to Remain Innocent, can be found at ",
+                    "dislikes": " Unavailable",
+                    "id": "d-7o9xYp7eE",
+                    "likes": "Unavailable",
+                    "title": "Don't Talk to the Police",
+                    "url": "https://www.youtube.com/watch?v=d-7o9xYp7eE",
+                    "video_length": 2798.261,
+                    "views": "17,232,326 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=4wsTq7X9AzQ",
+                  "title": "Trump Lawyers Met With Georgia Prosecutors; Days Later, Trump Rants About Law Enforcement",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,106",
+                    "content creator": "MSNBC",
+                    "date": "Jan 11, 2022",
+                    "description": "Gwen Keyes Fleming, former district attorney for DeKalb Count, Georgia, talks with Rachel Maddow about new details in the criminal investigation of Donald Trump's alleged actions to pressure election officials in that state.\n\u00bb Subscribe to MSNBC: ",
+                    "dislikes": " Unavailable",
+                    "id": "4wsTq7X9AzQ",
+                    "likes": "11,676 likes",
+                    "title": "Trump Lawyers Met With Georgia Prosecutors; Days Later, Trump Rants About Law Enforcement",
+                    "url": "https://www.youtube.com/watch?v=4wsTq7X9AzQ",
+                    "video_length": 677,
+                    "views": "563,677 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=N0WjV6MmCyM",
+                  "title": "4th Dimension - Tesseract, 4th Dimension Made Easy - Carl Sagan",
+                  "video": {
+                    "ad": null,
+                    "comments": "14,353",
+                    "content creator": "AstronomyCorner",
+                    "date": "Aug 9, 2011",
+                    "description": "From the epic Cosmos by Carl Sagan: http://amzn.to/2BKhUix (US). For UK: http://amzn.to/2BNeP14 | Canada: http://amzn.to/2AutZu2 | \n\nThis short video clip shows Carl Sagan explaining the 4th Dimension. It is a short clip from Carl Sagan's Cosmos: A Personal Voyage.\n\nAstronomy Gift Shop: ",
+                    "dislikes": " Unavailable",
+                    "id": "N0WjV6MmCyM",
+                    "likes": "194,048 likes",
+                    "title": "4th Dimension - Tesseract, 4th Dimension Made Easy - Carl Sagan",
+                    "url": "https://www.youtube.com/watch?v=N0WjV6MmCyM",
+                    "video_length": 569.901,
+                    "views": "7,638,477 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=S7G-ruj22Uo",
+              "title": "Astrology: Fact or Fiction?",
+              "video": {
+                "ad": null,
+                "comments": "4,149",
+                "content creator": "Professor Dave Explains",
+                "date": "Apr 3, 2019",
+                "description": "A significant percentage of the population believes in astrology. This is the notion that the positions of the stars and planets in the sky at the moment of your birth have an influence on your characteristics, and that their positions over time influence daily events. Can this be possible? By what mechanism does this influence propagate? If it's true, why haven't we encountered anything like this in our study of astronomy? Shouldn't we be able to do experiments to test its validity? We sure can. Let's take a real good look at what astrology proposes, and see if we can to the bottom of whether there is any truth to it or not.\n\nLarge-scale study showing no correlation between date of birth and personality: ",
+                "dislikes": " Unavailable",
+                "id": "S7G-ruj22Uo",
+                "likes": "16,743 likes",
+                "title": "Astrology: Fact or Fiction?",
+                "url": "https://www.youtube.com/watch?v=S7G-ruj22Uo",
+                "video_length": 1114,
+                "views": "397,700 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=SixyZ7DkSjA",
+              "title": "Elucidating the Agenda of James Tour: A Defense of Abiogenesis",
+              "video": {
+                "ad": null,
+                "comments": "5,202",
+                "content creator": "Professor Dave Explains",
+                "date": "Aug 28, 2020",
+                "description": "The origin of life! How did we get here? How did the first living organism come about? Can it have happened spontaneously? Isn't life way too complex for that to happen? It seems ridiculous, right? Well, no. Not if you understand biochemistry, which creationists do not. But every once in a while, a hero emerges from academia to champion the cause of the creationist, and lend some illusory credence to their views. In this case, that hero is James Tour, a synthetic organic chemist who insists that abiogenesis is impossible, and he should know better than anyone, because he's a chemist. I was made aware of Dr. Tour after a couple hundred people linked me to a video of his in an empty argument from authority, insisting that because a chemist confirms their religious bias, they must be right. But is Dr. Tour a bit biased himself? Let's find out precisely what his agenda is, shall we?\n\nUpdate: James Tour responded to this single video with a dumpster fire of a 14-part series overflowing with stupidity and lies, which qualifies for the Dunning-Kruger Hall of Fame. Naturally I tore through it like tissue paper, so to watch me do that please check out my two-part response which exposes his fraudulence ten times more thoroughly than this video:\nPart 1: ",
+                "dislikes": " Unavailable",
+                "id": "SixyZ7DkSjA",
+                "likes": "10,141 likes",
+                "title": "Elucidating the Agenda of James Tour: A Defense of Abiogenesis",
+                "url": "https://www.youtube.com/watch?v=SixyZ7DkSjA",
+                "video_length": 2761,
+                "views": "499,332 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=IF4UhElRUFg",
+              "title": "The End of the Universe - with Geraint Lewis",
+              "video": {
+                "ad": null,
+                "comments": "1,236",
+                "content creator": "The Royal Institution",
+                "date": "Oct 3, 2018",
+                "description": "Come with us on a very final journey as we wander forwards in time at breakneck speeds to see what happens at the very end of the universe.\nSubscribe for regular science videos: http://bit.ly/RiSubscRibe",
+                "dislikes": " Unavailable",
+                "id": "IF4UhElRUFg",
+                "likes": "10,097 likes",
+                "title": "The End of the Universe - with Geraint Lewis",
+                "url": "https://www.youtube.com/watch?v=IF4UhElRUFg",
+                "video_length": 3468.181,
+                "views": "1,719,677 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=tRPu5u_Pizk",
+              "title": "The Day the Mesozoic Died: The Asteroid That Killed the Dinosaurs \u2014 HHMI BioInteractive Video",
+              "video": {
+                "ad": null,
+                "comments": "6,216",
+                "content creator": "biointeractive",
+                "date": "Aug 26, 2014",
+                "description": "Ever wonder why the dinosaurs disappeared? HHMI BioInteractive investigates the cause of the mass extinction at the end of the Cretaceous period\u2014and the clues come from paleontology, chemistry, physics, and biology.\n\nThis three-act film tells the story of the extraordinary detective work that solved one of the greatest scientific mysteries of all time. Explore the fossil evidence of these prehistoric animals, and other organisms that went extinct, through this lively educational video. \n\nSee more HHMI BioInteractive short films and classroom resources here: ",
+                "dislikes": " Unavailable",
+                "id": "tRPu5u_Pizk",
+                "likes": "54,058 likes",
+                "title": "The Day the Mesozoic Died: The Asteroid That Killed the Dinosaurs \u2014 HHMI BioInteractive Video",
+                "url": "https://www.youtube.com/watch?v=tRPu5u_Pizk",
+                "video_length": 2030.161,
+                "views": "9,707,438 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=IK3g4G20eYU",
+              "title": "Deltacron Infects 25 In Cyprus | Jim Jordan Refuses To Cooperate With Jan. 6th Committee",
+              "video": {
+                "ad": null,
+                "comments": "2,307",
+                "content creator": "The Late Show with Stephen Colbert",
+                "date": "Jan 10, 2022",
+                "description": "While America grapples with a massive surge in Omicron cases, scientists in Cyprus are tracking dozens of infections they attribute to a new variant that combines elements of Delta and Omicron. Elsewhere, Rep. Jim Jordan announced he will not cooperate with the congressional committee investigating the Jan. 6th insurrection. ",
+                "dislikes": " Unavailable",
+                "id": "IK3g4G20eYU",
+                "likes": "25,019 likes",
+                "title": "Deltacron Infects 25 In Cyprus | Jim Jordan Refuses To Cooperate With Jan. 6th Committee",
+                "url": "https://www.youtube.com/watch?v=IK3g4G20eYU",
+                "video_length": 686.201,
+                "views": "1,107,166 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+          "title": "The Earth is Definitely Not Flat",
+          "video": {
+            "ad": null,
+            "comments": "23,290",
+            "content creator": "Professor Dave Explains",
+            "date": "Mar 27, 2019",
+            "description": "Anti-science mentality is rampant in this day and age, and one of the more peculiar aspects of this trend is the current fad that is the Flat Earth model. There exists a group of people who believe that against everything we have come to learn throughout the scientific revolution, the world is actually flat, and the center of the universe. That's not all, there's a big cover up, with NASA, and all the governments, like some real sci-fi stuff. Let's go through some of the talking points of this model and see if we can deconstruct it, shall we?\n\nWatch the whole Astronomy/Astrophysics playlist: ",
+            "dislikes": " Unavailable",
+            "id": "tC5RalYWZ5Y",
+            "likes": "42,780 likes",
+            "title": "The Earth is Definitely Not Flat",
+            "url": "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+            "video_length": 787,
+            "views": "1,246,332 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KyD8VIK032o",
+          "title": "The 10 Things That All Flat Earthers Say",
+          "video": {
+            "ad": null,
+            "comments": "73,688",
+            "content creator": "Professor Dave Explains",
+            "date": "Jul 2, 2019",
+            "description": "So it's been a minute since I made my response to the Globebusters, and for two months now I've had to listen to flat earthers spew the same nonsense in the comment section of that video, day after day. Now that I'm intimately familiar with their most popular and most ridiculous talking points, I thought I would put them all together in one clip for a vigorous debunking.\n\nMy original flat earth video:",
+            "dislikes": " Unavailable",
+            "id": "KyD8VIK032o",
+            "likes": "146,208 likes",
+            "title": "The 10 Things That All Flat Earthers Say",
+            "url": "https://www.youtube.com/watch?v=KyD8VIK032o",
+            "video_length": 1110.401,
+            "views": "4,041,457 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+          "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+          "video": {
+            "ad": null,
+            "comments": "37,399",
+            "content creator": "Professor Dave Explains",
+            "date": "Jan 26, 2020",
+            "description": "A channel named Modern Day Debate reached out to me based on my flat earth debunking to see if I would debate someone named Kent Hovind about Young Earth Creationism. Normally I stay out of religion, but I dug into this guy a little, and he is a total scumbag. The epitome of a con man. Nothing but lies and misrepresentations of science out of his mouth for several decades now. He's really no different than the flat earthers, manipulating people to make money. So I decided to take a chunk out of him. He's a slippery little greased pig, watch for his signature move, the gish gallop.\n\nWatch my other debunks/debates: ",
+            "dislikes": " Unavailable",
+            "id": "lbB7AhwaZy8",
+            "likes": "39,653 likes",
+            "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+            "url": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+            "video_length": 6465.861,
+            "views": "1,593,775 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+          "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+          "video": {
+            "ad": null,
+            "comments": "6,646",
+            "content creator": "92nd Street Y",
+            "date": "Feb 21, 2013",
+            "description": "Your support helps us keep our content free for all. Donate now: https://www.92y.org/donate",
+            "dislikes": " Unavailable",
+            "id": "rYzBxo3hbYQ",
+            "likes": "35,630 likes",
+            "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+            "url": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+            "video_length": 6016.961,
+            "views": "8,639,415 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+          "title": "Debunking the Electric Universe",
+          "video": {
+            "ad": null,
+            "comments": "10,641",
+            "content creator": "Professor Dave Explains",
+            "date": "May 1, 2020",
+            "description": "I know that I've become known for my flat earth destructions, but now that I've driven that one so far into the ground that it's coming out the other side of the spherical earth, it's time to tackle some other topics. There exists an obscure fad called the electric universe, which tends to attract exemplars of the Dunning-Kruger effect who think they understand physics better than Einstein. Literally. Although not quite as ridiculous as the flat earth, it's still pretty ridiculous, so let's go through the finer points of precisely why that is the case, shall we?\n\nWatch my other debunks: ",
+            "dislikes": " Unavailable",
+            "id": "T9q-v4lBGuw",
+            "likes": "16,848 likes",
+            "title": "Debunking the Electric Universe",
+            "url": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+            "video_length": 1566.641,
+            "views": "554,723 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=6VixqvOcK8E",
+      "title": "Ben Shapiro: US commentator clashes with BBC's Andrew Neil - BBC News",
+      "video": {
+        "ad": null,
+        "comments": "136,933",
+        "content creator": "BBC News",
+        "date": "May 10, 2019",
+        "description": "He has more than 2 million followers on Twitter, 600,000 YouTube subscribers and his videos on the Daily Wire channel rack up millions of views.\n\nBen Shapiro is a controversial figure but one of the US' leading conservative political commentators. His book, The Right Side of History: How Reason and Moral Purpose Made the West Great, is a New York Times bestseller.\n\nIn a spiky Politics Live interview with Andrew Neil, Mr Shapiro refers to an incident which took place between Trump campaign manager, Corey Lewandowski and Breitbart reporter Michelle Fields in 2016.\n\nAlthough a charge was brought at the time against Mr Lewandowski, Florida prosecutors dropped the case.\n\nThis is an unedited version of their interview, which was terminated by Mr Shapiro.",
+        "dislikes": " Unavailable",
+        "id": "6VixqvOcK8E",
+        "likes": "172,242 likes",
+        "title": "Ben Shapiro: US commentator clashes with BBC's Andrew Neil - BBC News",
+        "url": "https://www.youtube.com/watch?v=6VixqvOcK8E",
+        "video_length": 966.381,
+        "views": "10,590,502 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+      "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+      "video": {
+        "ad": null,
+        "comments": "26,359",
+        "content creator": "Stand-up Maths",
+        "date": "Feb 4, 2021",
+        "description": "Buy my book Humble Pi now!\nhttps://www.penguinrandomhouse.com/bo...\nUPDATE: Harvard Book Store have totally sold out.\n\nMy talk on 4 February 2021 at Harvard Book Store:",
+        "dislikes": " Unavailable",
+        "id": "8Ko3TdPy0TU",
+        "likes": "262,476 likes",
+        "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+        "url": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+        "video_length": 2386.941,
+        "views": "4,532,378 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=V5fG0oZMr-I",
+      "title": "Elon Musk JUST Exposed Sen Elizabeth Warren\u2019s Corruption",
+      "video": {
+        "ad": null,
+        "comments": "4,944",
+        "content creator": "TMIO Tesla",
+        "date": "Dec 16, 2021",
+        "description": "Elon Musk has been named Person of the Year by multiple institutions including Time magazine, the Financial Times, and Newsweek. Yet Senator Elizabeth Warren claims that Elon isn't paying any taxes. Furious about this, Elon Musk has taken to twitter to fight back against Warren while at the same time exposing her corrupt behaviour, showing that she herself has not paid tax, while in fact Elon Musk will be paying more tax this year than any individual throughout history.",
+        "dislikes": " Unavailable",
+        "id": "V5fG0oZMr-I",
+        "likes": "36,020 likes",
+        "title": "Elon Musk JUST Exposed Sen Elizabeth Warren\u2019s Corruption",
+        "url": "https://www.youtube.com/watch?v=V5fG0oZMr-I",
+        "video_length": 699,
+        "views": "750,086 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+      "title": "This is How Easy It Is to Lie With Statistics",
+      "video": {
+        "ad": null,
+        "comments": "16,361",
+        "content creator": "Zach Star",
+        "date": "Feb 4, 2019",
+        "description": "STEMerch Store: https://stemerch.com/\nSupport the Channel: https://www.patreon.com/zachstar\nPayPal(one time donation): https://www.paypal.me/ZachStarYT",
+        "dislikes": " Unavailable",
+        "id": "bVG2OQp6jEQ",
+        "likes": "235,993 likes",
+        "title": "This is How Easy It Is to Lie With Statistics",
+        "url": "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+        "video_length": 1134.061,
+        "views": "4,425,818 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "video": {
+        "ad": null,
+        "comments": "114,051",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "229,900 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713.401,
+        "views": "8,399,771 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=nORLTrzzNm8",
+  "title": "Leftists MELT DOWN After Elon Musk Condemns Vaccine Mandates",
+  "video": {
+    "ad": null,
+    "comments": "2,880",
+    "content creator": "Ben Shapiro",
+    "date": "Dec 14, 2021",
+    "description": "Thanks to Kamikoto for sponsoring today's video. Go to https://kamikoto.com/benshapiro to save $50.\n\nLIKE & SUBSCRIBE for new videos everyday. ",
+    "dislikes": " Unavailable",
+    "id": "nORLTrzzNm8",
+    "likes": "34,182 likes",
+    "title": "Leftists MELT DOWN After Elon Musk Condemns Vaccine Mandates",
+    "url": "https://www.youtube.com/watch?v=nORLTrzzNm8",
+    "video_length": 499,
+    "views": "478,925 views"
+  }
+}

@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=mS5WYp5xmvI",
+                  "sampled_type": "curated",
+                  "title": "Thomas Sowell on the Myths of Economic Inequality",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=ERj3QeGw9Ok",
+                    "https://www.youtube.com/watch?v=-EvvPZFdjyk",
+                    "https://www.youtube.com/watch?v=YJQSuUZdcV4",
+                    "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+                    "https://www.youtube.com/watch?v=n30zO0ABFqc",
+                    "https://www.youtube.com/watch?v=sGYl17DiEwo",
+                    "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                    "https://www.youtube.com/watch?v=pU-kFUJoJEU",
+                    "https://www.youtube.com/watch?v=LdHEbOAQFmY",
+                    "https://www.youtube.com/watch?v=bvikt3Ynsss"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,889",
+                    "content creator": "Hoover Institution",
+                    "date": "Dec 3, 2018",
+                    "description": "Recorded on November 15, 2018\n\nThomas Sowell discusses economic inequality, racial inequality, and the myths that have continued to falsely describe the system of poverty among different racial and economic classes. He explains the economic theories behind these pervasive myths and proposes fact-based solutions for seemingly intractable situations.\n\nSowell discusses his early life as a high school dropout and his first full-time job as a Western Union messenger delivering telegrams. He admits to flirting with Marxism in his early twenties as he first tried to grapple with the housing inequality he saw across the neighborhoods of New York City. Marxism, he says, was the only explanation he could find at the time. He went on to serve in the Marine Corps before continuing his education in economics at Harvard and earning a master\u2019s at Columbia and a PhD at the University of Chicago.\n\nSowell\u2019s first job after his receiving his PhD in economics was working for the Department of Labor, and he says it was there that he realized Marxism was not the answer. He argues that the government has its own institutional interests in inequality that cannot be explained through Marxism. He began to be discouraged by Marxism and the government in general and began searching for better economic ideas and solutions (the free market).\n\nRobinson and Sowell discuss Sowell\u2019s written works, his ideas of racial and economic inequality, the state of the United States today, and much more.\n\nInterested in exclusive Uncommon Knowledge content? Check out Uncommon Knowledge on social media!\n\nFacebook: ",
+                    "dislikes": " Unavailable",
+                    "id": "mS5WYp5xmvI",
+                    "likes": "99,393 likes",
+                    "title": "Thomas Sowell on the Myths of Economic Inequality",
+                    "url": "https://www.youtube.com/watch?v=mS5WYp5xmvI",
+                    "video_length": 3213.461,
+                    "views": "4,790,388 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+              "sampled_type": "curated",
+              "title": "Jordan B. Peterson on 12 Rules for Life",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+                "https://www.youtube.com/watch?v=-5RCmu-HuTg&list=RDLV-5RCmu-HuTg&start_radio=1&rv=-5RCmu-HuTg",
+                "https://www.youtube.com/watch?v=arj7oStGLkU",
+                "https://www.youtube.com/watch?v=AscPHmLWo-M",
+                "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+                "https://www.youtube.com/watch?v=WXuK6gekU1Y",
+                "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                "https://www.youtube.com/watch?v=-vZXgApsPCQ",
+                "https://www.youtube.com/watch?v=apbSsILLh28",
+                "https://www.youtube.com/watch?v=O_MQr4lHm0c"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "12,988",
+                "content creator": "How To Academy Mindset",
+                "date": "Jan 17, 2018",
+                "description": "Don't forget to Subscribe to our Channel!. \n\nThe clinical psychologist Jordan Peterson sets out twelve profound and practical principles for living a meaningful life. His 12 Rules for Life will offer an antidote to the chaos in our lives: with eternal truths applied to our modern problems.",
+                "dislikes": " Unavailable",
+                "id": "-5RCmu-HuTg",
+                "likes": "209,384 likes",
+                "title": "Jordan B. Peterson on 12 Rules for Life",
+                "url": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                "video_length": 5432.461,
+                "views": "14,840,482 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=arj7oStGLkU",
+          "sampled_type": "curated",
+          "title": "Tim Urban: Inside the mind of a master procrastinator | TED",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=c0KYU2j0TM4",
+            "https://www.youtube.com/watch?v=arj7oStGLkU&list=RDLVarj7oStGLkU&start_radio=1&rv=arj7oStGLkU",
+            "https://www.youtube.com/watch?v=-vZXgApsPCQ",
+            "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+            "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+            "https://www.youtube.com/watch?v=ykH8E9wTCcQ",
+            "https://www.youtube.com/watch?v=IlU-zDU6aQ0",
+            "https://www.youtube.com/watch?v=uT_GcOGEFsk",
+            "https://www.youtube.com/watch?v=H2rG4Dg6xyI",
+            "https://www.youtube.com/watch?v=9vJRopau0g0"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "76,407",
+            "content creator": "TED",
+            "date": "Apr 6, 2016",
+            "description": "Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.\n\nFor more from Tim Urban, visit Wait But Why: ",
+            "dislikes": " Unavailable",
+            "id": "arj7oStGLkU",
+            "likes": "1,662,945 likes",
+            "title": "Tim Urban: Inside the mind of a master procrastinator | TED",
+            "url": "https://www.youtube.com/watch?v=arj7oStGLkU",
+            "video_length": 843.721,
+            "views": "46,331,771 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=jza2zLw_8cI",
+      "sampled_type": "curated",
+      "title": "Losing. My. Mind.",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=arj7oStGLkU",
+        "https://www.youtube.com/watch?v=EWX5B6cD4_4",
+        "https://www.youtube.com/watch?v=W4ktLen9cVM",
+        "https://www.youtube.com/watch?v=zFleLL5zlaI",
+        "https://www.youtube.com/watch?v=b5fNif_WGdc",
+        "https://www.youtube.com/watch?v=Isc8u8KI7Qk",
+        "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+        "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+        "https://www.youtube.com/watch?v=J7dqGhOPVcY"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "3,708",
+        "content creator": "Lauren Southern",
+        "date": "Jun 15, 2021",
+        "description": "Twitter: https://twitter.com/Lauren_Southern\nFacebook: https://www.facebook.com/LaurenCSouth...\nInstagram: https://www.instagram.com/laurencheriie/",
+        "dislikes": " Unavailable",
+        "id": "jza2zLw_8cI",
+        "likes": "19,584 likes",
+        "title": "Losing. My. Mind.",
+        "url": "https://www.youtube.com/watch?v=jza2zLw_8cI",
+        "video_length": 658.461,
+        "views": "152,322 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=H5JmP_QV13k",
+                  "sampled_type": "random",
+                  "title": "Hugh Jackman thanks Gary Oldman on Graham Norton Show",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=gZOj3143iP0",
+                    "https://www.youtube.com/watch?v=MnpB1X5VbOQ&list=RDH5JmP_QV13k&start_radio=1&rv=H5JmP_QV13k",
+                    "https://www.youtube.com/watch?v=FaLTWW_yEG4",
+                    "https://www.youtube.com/watch?v=nV-tLC_6P5U",
+                    "https://www.youtube.com/watch?v=HdFKZtZop7A&pp=sAQB",
+                    "https://www.youtube.com/watch?v=2BE2XhnZ_4g",
+                    "https://www.youtube.com/watch?v=Ug-HzOS5dc8",
+                    "https://www.youtube.com/watch?v=L3oOldViIgY",
+                    "https://www.youtube.com/watch?v=ML3qYHWRIZk",
+                    "https://www.youtube.com/watch?v=psPqPWV0kpU"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "130",
+                    "content creator": "Rob Butler",
+                    "date": "Jan 18, 2018",
+                    "description": "Hugh Jackman thanks Gary Oldman and says how brilliant he is in Darkest Hour (I Agree!) \nI realise this is a copyrighted video so understand if it has to be taken down but please can BBC Upload this video themselves. I think this is a wonderful video of a great moment that happened on BBC TV and it would be a great shame for others not to see it who hadn't already",
+                    "dislikes": " Unavailable",
+                    "id": "H5JmP_QV13k",
+                    "likes": "3,044 likes",
+                    "title": "Hugh Jackman thanks Gary Oldman on Graham Norton Show",
+                    "url": "https://www.youtube.com/watch?v=H5JmP_QV13k",
+                    "video_length": 35.201,
+                    "views": "327,668 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Fy3Mi8rOB3U",
+              "sampled_type": "random",
+              "title": "Chris Pratt Knows The Best Card Trick Ever - The Graham Norton Show",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=D6ZMWwFS85I",
+                "https://www.youtube.com/watch?v=Fy3Mi8rOB3U&list=RDCMUCdHkLMxTYwV66Sky1xXVrxQ&start_radio=1&rv=Fy3Mi8rOB3U",
+                "https://www.youtube.com/watch?v=HMUp2yAJLKI",
+                "https://www.youtube.com/watch?v=GfGN7bfohms",
+                "https://www.youtube.com/watch?v=H5JmP_QV13k",
+                "https://www.youtube.com/watch?v=cxZNr0qxg1U",
+                "https://www.youtube.com/watch?v=b_6VE-pXvak",
+                "https://www.youtube.com/watch?v=KYqJJVDbQPw",
+                "https://www.youtube.com/watch?v=Gv1xjf8BUrY",
+                "https://www.youtube.com/watch?v=5Epez-jCTic"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "10,999",
+                "content creator": "BBC America",
+                "date": "Dec 2, 2016",
+                "description": "You gotta watch this one all the way to the end. \n\nThe Graham Norton Show airs Saturdays at 10/9c on BBC America.\n\nSubscribe now: ",
+                "dislikes": " Unavailable",
+                "id": "Fy3Mi8rOB3U",
+                "likes": "452,254 likes",
+                "title": "Chris Pratt Knows The Best Card Trick Ever - The Graham Norton Show",
+                "url": "https://www.youtube.com/watch?v=Fy3Mi8rOB3U",
+                "video_length": 379.081,
+                "views": "27,584,969 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=ZnbuXqLmBtk",
+          "sampled_type": "random",
+          "title": "fat thor being fat thor for 4.6 minutes straight",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=tHupXDAWKQs",
+            "https://www.youtube.com/watch?v=YX-l0UhXI7A&pp=sAQB",
+            "https://www.youtube.com/watch?v=TKmSBXpT0JM",
+            "https://www.youtube.com/watch?v=Fy3Mi8rOB3U",
+            "https://www.youtube.com/watch?v=EOTCjp87qYE",
+            "https://www.youtube.com/watch?v=Z-RMCM0NxaY",
+            "https://www.youtube.com/watch?v=si1qKLbxnMA",
+            "https://www.youtube.com/watch?v=OFqRej80iIY",
+            "https://www.youtube.com/watch?v=cfVY9wLKltA",
+            "https://www.youtube.com/watch?v=htHZ7JY4C6I"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "2,707",
+            "content creator": "yesterday",
+            "date": "Aug 3, 2019",
+            "description": "the strongest avenger, obviously\n\n----- I do not own the clips used in this edit -----\nCopyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research.",
+            "dislikes": " Unavailable",
+            "id": "ZnbuXqLmBtk",
+            "likes": "48,700 likes",
+            "title": "fat thor being fat thor for 4.6 minutes straight",
+            "url": "https://www.youtube.com/watch?v=ZnbuXqLmBtk",
+            "video_length": 277.941,
+            "views": "3,043,249 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=y47XfLdQP30",
+      "sampled_type": "random",
+      "title": "Avengers Meet Captain Marvel Scene - AVENGERS 4: ENDGAME (2019) Movie Clip",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=SY86xyG-hDY",
+        "https://www.youtube.com/watch?v=DvTqCvrSs20",
+        "https://www.youtube.com/watch?v=zeAe1w3tXfg",
+        "https://www.youtube.com/watch?v=y47XfLdQP30&list=RDCMUCA0MDADBWmCFro3SXR5mlSg&start_radio=1&rv=y47XfLdQP30",
+        "https://www.youtube.com/watch?v=FsaopM1uyLg",
+        "https://www.youtube.com/watch?v=o3bhQwY0KCY",
+        "https://www.youtube.com/watch?v=KoRD0FPjMK8",
+        "https://www.youtube.com/watch?v=ZnbuXqLmBtk",
+        "https://www.youtube.com/watch?v=ImEnWAVRLU0",
+        "https://www.youtube.com/watch?v=2VyV-pgYcOE"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "6,451",
+        "content creator": "Entertainment Access",
+        "date": "Apr 14, 2019",
+        "description": "Watch the official 'Avengers Meet Captain Marvel' clip for Avengers 4: Endgame, an action movie starring Robert Downey Jr., Chris Evans and Chris Hemsworth. In theaters April 26, 2019.\n\nAfter Thanos wiped out half of the universe, the Avengers still standing are doing what they promised to do, avenge.\n\n\u00a9 The Walt Disney Company",
+        "dislikes": " Unavailable",
+        "id": "y47XfLdQP30",
+        "likes": "121,475 likes",
+        "title": "Avengers Meet Captain Marvel Scene - AVENGERS 4: ENDGAME (2019) Movie Clip",
+        "url": "https://www.youtube.com/watch?v=y47XfLdQP30",
+        "video_length": 229.181,
+        "views": "15,152,738 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=uL3ywB3ycgY",
+                  "sampled_type": "curated",
+                  "title": "Dr. Ben Carson - Liberty University Convocation",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=VabSFBQjT7U",
+                    "https://www.youtube.com/watch?v=Dx5qFachd3A",
+                    "https://www.youtube.com/watch?v=zyHBT4sfHoE",
+                    "https://www.youtube.com/watch?v=UQCipqsjsW8",
+                    "https://www.youtube.com/watch?v=p4hEj17NSvg",
+                    "https://www.youtube.com/watch?v=-1jAOJHvll0",
+                    "https://www.youtube.com/watch?v=0ck2flZZ7V0",
+                    "https://www.youtube.com/watch?v=PLcE5xa4MnI",
+                    "https://www.youtube.com/watch?v=bRJzEPTgqqU",
+                    "https://www.youtube.com/watch?v=yaQZFhrW0fU"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Liberty University",
+                    "date": "Nov 12, 2015",
+                    "description": "On November 11th, 2015, at Convocation, North America\u2019s largest weekly gathering of Christian students, Dr. Ben Carson spoke to students about the special nature of the American dream and the American people. He encouraged students to aspire to achieve greatness. \n\nDr. Ben Carson is a candidate for the Republican nomination for President and a retired neurosurgeon.",
+                    "dislikes": " Unavailable",
+                    "id": "uL3ywB3ycgY",
+                    "likes": "21,958 likes",
+                    "title": "Dr. Ben Carson - Liberty University Convocation",
+                    "url": "https://www.youtube.com/watch?v=uL3ywB3ycgY",
+                    "video_length": 2413.644566666667,
+                    "views": "1,906,966 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=rrKOnp1dcoo",
+              "sampled_type": "curated",
+              "title": "Candace Owens - Liberty University Convocation",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=-1jAOJHvll0",
+                "https://www.youtube.com/watch?v=x5DfVmtKgzw",
+                "https://www.youtube.com/watch?v=0cUQqPxw3hc",
+                "https://www.youtube.com/watch?v=3WMuzhQXJoY",
+                "https://www.youtube.com/watch?v=UQCipqsjsW8",
+                "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+                "https://www.youtube.com/watch?v=uL3ywB3ycgY",
+                "https://www.youtube.com/watch?v=n72HNgvvWK8",
+                "https://www.youtube.com/watch?v=5hVmeOCJjOU",
+                "https://www.youtube.com/watch?v=3Y_LI_u5WLA"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Liberty University",
+                "date": "Sep 26, 2018",
+                "description": "On September 26, 2018, at Convocation, North America's largest weekly gathering of Christian students, welcomed Candace Owens, American conservative commentator to the stage. \n\nConvocation is North America\u2019s largest weekly gathering of Christian students, and each year it plays host to more than 80 guest speakers of national significance from every sphere of society. ",
+                "dislikes": " Unavailable",
+                "id": "rrKOnp1dcoo",
+                "likes": "48,307 likes",
+                "title": "Candace Owens - Liberty University Convocation",
+                "url": "https://www.youtube.com/watch?v=rrKOnp1dcoo",
+                "video_length": 2012.361,
+                "views": "3,179,714 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=UQCipqsjsW8",
+          "sampled_type": "curated",
+          "title": "Katie Pavlich and Candace Owens on why they are conservative",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=rrKOnp1dcoo",
+            "https://www.youtube.com/watch?v=SiijS_9hPkM",
+            "https://www.youtube.com/watch?v=FEXL5USuDGI",
+            "https://www.youtube.com/watch?v=uTUwL_vRoHE",
+            "https://www.youtube.com/watch?v=0cUQqPxw3hc",
+            "https://www.youtube.com/watch?v=H4zw15f2rH4",
+            "https://www.youtube.com/watch?v=IVIoC5ROaHk",
+            "https://www.youtube.com/watch?v=KBTaRfaVb78",
+            "https://www.youtube.com/watch?v=oAUxvsonk-k",
+            "https://www.youtube.com/watch?v=O57AvC8Shzg"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "4,868",
+            "content creator": "Fox News",
+            "date": "Aug 26, 2018",
+            "description": "Candace Owens and Katie Pavlich join 'Life, Liberty & Levin' to discuss their backgrounds and factors that led them to conservatism.\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most watched television news channel for more than 16 years and according to a Suffolk University/USA Today poll, is the most trusted television news source in the country. Owned by 21st Century Fox, FNC is available in more than 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n \nSubscribe to Fox News!  ",
+            "dislikes": " Unavailable",
+            "id": "UQCipqsjsW8",
+            "likes": "55,538 likes",
+            "title": "Katie Pavlich and Candace Owens on why they are conservative",
+            "url": "https://www.youtube.com/watch?v=UQCipqsjsW8",
+            "video_length": 855.401,
+            "views": "3,176,823 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=4lGGlbZRoV4",
+      "sampled_type": "curated",
+      "title": "Facebook CENSORED a sitting President. None of us are safe!",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=0cUQqPxw3hc",
+        "https://www.youtube.com/watch?v=arj7oStGLkU",
+        "https://www.youtube.com/watch?v=O7VaXlMvAvk",
+        "https://www.youtube.com/watch?v=UQCipqsjsW8",
+        "https://www.youtube.com/watch?v=QzG7Oq7u0s8",
+        "https://www.youtube.com/watch?v=m8Nudmm7ha4",
+        "https://www.youtube.com/watch?v=DO9U_XxN-Kc",
+        "https://www.youtube.com/watch?v=DGVdD_QxuEc",
+        "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "https://www.youtube.com/watch?v=i4zRnO_jcC0"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "9,793",
+        "content creator": "Candace Owens",
+        "date": "Jan 9, 2021",
+        "description": "Everyone PLEASE take 5 minutes to watch this video\u2014and more importantly, SHARE IT.  I have been warning everyone since last year about what these \"fact-checkers\" represent, and we are inching ever-closer to a totalitarian state. I began suing the fact-checkers last year because I knew that their actions would culminate into this extraordinary moment in American history: a sitting President of the United States has been censored. This means none of us are safe from being wiped away. My Facebook page has long since been demonetized but I believe we can make this video viral by sharing person to person. I still believe in the power of the people.",
+        "dislikes": " Unavailable",
+        "id": "4lGGlbZRoV4",
+        "likes": "51,078 likes",
+        "title": "Facebook CENSORED a sitting President. None of us are safe!",
+        "url": "https://www.youtube.com/watch?v=4lGGlbZRoV4",
+        "video_length": 306.321,
+        "views": "423,411 views"
+      }
+    },
+    {
+      "actual_video_type": "opposing",
+      "children": [
+        {
+          "actual_video_type": "oppsing",
+          "children": [
+            {
+              "actual_video_type": "oppsing",
+              "children": [
+                {
+                  "actual_video_type": "oppsing",
+                  "id": "https://www.youtube.com/watch?v=LvMJ6t5NdpQ",
+                  "sampled_type": "opposing",
+                  "title": "Top Story With Tom Llamas - Jan. 14 | NBC News NOW",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=krLrWqk6qk4",
+                    "https://www.youtube.com/watch?v=jKG0HmfjFg8",
+                    "https://www.youtube.com/watch?v=Vc7I-n5KvsA",
+                    "https://www.youtube.com/watch?v=wTlCjrHY0DM",
+                    "https://www.youtube.com/watch?v=W36s447UUE8",
+                    "https://www.youtube.com/watch?v=kv32Zm5NLrs",
+                    "https://www.youtube.com/watch?v=F9vgg8z-ut0",
+                    "https://www.youtube.com/watch?v=5OBsHnS5S4U",
+                    "https://www.youtube.com/watch?v=aN3V9q8_tGo",
+                    "https://www.youtube.com/watch?v=RIA1yk4tWAo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "157",
+                    "content creator": "NBC News",
+                    "date": "Jan 14, 2022",
+                    "description": "More than 50 million Americans are under alert as substantial snowstorms threaten the holiday weekend, new data from major U.S. cities suggests the omicron wave may be ending as New York City sees cases dropping the past three straight days, the U.S. says there is mounting evidence Russia could invade Ukraine in the next 30 days, and disturbing body camera footage shows a police sergeant grabbing a fellow officer by the neck after she allegedly tried to prevent him from pepper spraying a handcuffed suspect.  \n\n\u00bb Subscribe to NBC News: ",
+                    "dislikes": " Unavailable",
+                    "id": "LvMJ6t5NdpQ",
+                    "likes": "1,022 likes",
+                    "title": "Top Story With Tom Llamas - Jan. 14 | NBC News NOW",
+                    "url": "https://www.youtube.com/watch?v=LvMJ6t5NdpQ",
+                    "video_length": 2482.981,
+                    "views": "235,005 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=kv32Zm5NLrs",
+              "sampled_type": "opposing",
+              "title": "Nightly News Full Broadcast - Jan. 14",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,413",
+                "content creator": "NBC News",
+                "date": "Jan 14, 2022",
+                "description": "Millions across the U.S. are under winter weather alerts, inside a Pittsburgh children\u2019s hospital overwhelmed by Covid cases, and bodycam video shows dramatic rescues from Colorado wildfire.",
+                "dislikes": " Unavailable",
+                "id": "kv32Zm5NLrs",
+                "likes": "7,366 likes",
+                "title": "Nightly News Full Broadcast - Jan. 14",
+                "url": "https://www.youtube.com/watch?v=kv32Zm5NLrs",
+                "video_length": 1283.201,
+                "views": "816,848 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=4NPPRoqd7No",
+          "sampled_type": "opposing",
+          "title": "Hidden cameras catch HVAC scam in action (Marketplace)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Wz2tZAmPkgk",
+            "https://www.youtube.com/watch?v=2tfjbsakQAU",
+            "https://www.youtube.com/watch?v=kv32Zm5NLrs",
+            "https://www.youtube.com/watch?v=wjRjIEXh-mY",
+            "https://www.youtube.com/watch?v=huPF3Gid7DE",
+            "https://www.youtube.com/watch?v=47XmcbQrUww",
+            "https://www.youtube.com/watch?v=tmeHRNA5WSM",
+            "https://www.youtube.com/watch?v=2Na6JyF-GW8",
+            "https://www.youtube.com/watch?v=E17lGpMdhI0",
+            "https://www.youtube.com/watch?v=bvlzZnhZhrc"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "200",
+            "content creator": "CBC News",
+            "date": "Jan 14, 2022",
+            "description": "We\u2019re teaming up with Go Public to expose deceptive sales tactics being used to suck people into unfair HVAC contracts, years after some provincial governments banned door-to-door sales.\n\nTo read more: ",
+            "dislikes": " Unavailable",
+            "id": "4NPPRoqd7No",
+            "likes": "1,052 likes",
+            "title": "Hidden cameras catch HVAC scam in action (Marketplace)",
+            "url": "https://www.youtube.com/watch?v=4NPPRoqd7No",
+            "video_length": 1326.721,
+            "views": "71,418 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=7mQsLCxGodQ",
+      "sampled_type": "opposing",
+      "title": "Federal modelling suggests Omicron surge within weeks",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+        "https://www.youtube.com/watch?v=4NPPRoqd7No",
+        "https://www.youtube.com/watch?v=5qap5aO4i9A",
+        "https://www.youtube.com/watch?v=arj7oStGLkU",
+        "https://www.youtube.com/watch?v=t-_qzsMF8RM",
+        "https://www.youtube.com/watch?v=tCs48OFv7xA",
+        "https://www.youtube.com/watch?v=r_8juU4t6iM",
+        "https://www.youtube.com/watch?v=rvGCL8u3mMg",
+        "https://www.youtube.com/watch?v=lVcTvHTn6Dw",
+        "https://www.youtube.com/watch?v=4NtjCTaxeCU"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "Error found",
+        "content creator": "CBC News",
+        "date": "Streamed live on Jan 14, 2022",
+        "description": "New modelling released today by the Public Health Agency of Canada (PHAC) suggests the highly transmissible Omicron variant will push hospital admissions to \"extremely high levels\" in the coming weeks as case counts reach levels never before seen in this country.\n\nTo read more: ",
+        "dislikes": " Unavailable",
+        "id": "7mQsLCxGodQ",
+        "likes": "192 likes",
+        "title": "Federal modelling suggests Omicron surge within weeks",
+        "url": "https://www.youtube.com/watch?v=7mQsLCxGodQ",
+        "video_length": 4754.981,
+        "views": "55,304 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=wRyT-45vFzk",
+                  "sampled_type": "curated",
+                  "title": "Ben Shapiro and Piers Morgan on guns",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=SGcdPakoytg",
+                    "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+                    "https://www.youtube.com/watch?v=2IopqnNhqkY",
+                    "https://www.youtube.com/watch?v=P5ZOwNK6n9U",
+                    "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                    "https://www.youtube.com/watch?v=ror9v2LwHoY",
+                    "https://www.youtube.com/watch?v=vj5JXrpwsZs",
+                    "https://www.youtube.com/watch?v=YgQy70_LPS4",
+                    "https://www.youtube.com/watch?v=FkevH42sEl4",
+                    "https://www.youtube.com/watch?v=kasiov0ytEc"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,264",
+                    "content creator": "CNN",
+                    "date": "Jan 13, 2013",
+                    "description": "Guest Ben Shapiro debates Piers Morgan on gun control, and the need, or lack thereof, for assault weapons.  For more CNN videos, check out http://www.youtube.com/cnn or visit our site at http://www.cnn.com/video/",
+                    "dislikes": " Unavailable",
+                    "id": "wRyT-45vFzk",
+                    "likes": "9,264 likes",
+                    "title": "Ben Shapiro and Piers Morgan on guns",
+                    "url": "https://www.youtube.com/watch?v=wRyT-45vFzk",
+                    "video_length": 271.761,
+                    "views": "928,049 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=rE0Z2k6BJI0",
+              "sampled_type": "curated",
+              "title": "Ben Shapiro and Piers Morgan on guns",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=wRyT-45vFzk",
+                "https://www.youtube.com/watch?v=SiijS_9hPkM",
+                "https://www.youtube.com/watch?v=YgQy70_LPS4",
+                "https://www.youtube.com/watch?v=JY5t6iUzajk",
+                "https://www.youtube.com/watch?v=SGcdPakoytg",
+                "https://www.youtube.com/watch?v=QEKbDFzvP3o",
+                "https://www.youtube.com/watch?v=ZF3cUjl2WG0",
+                "https://www.youtube.com/watch?v=hl0iNRXcUbE",
+                "https://www.youtube.com/watch?v=Kre1LwyMUFI",
+                "https://www.youtube.com/watch?v=C1roM98Dass"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "18,966",
+                "content creator": "CNN",
+                "date": "Jan 13, 2013",
+                "description": "Guest Ben Shapiro debates Piers Morgan on gun control, and the need, or lack thereof, for assault weapons. For more CNN videos, check out http://www.youtube.com/cnn or visit our site at http://www.cnn.com/video/",
+                "dislikes": " Unavailable",
+                "id": "rE0Z2k6BJI0",
+                "likes": "73,147 likes",
+                "title": "Ben Shapiro and Piers Morgan on guns",
+                "url": "https://www.youtube.com/watch?v=rE0Z2k6BJI0",
+                "video_length": 332.081,
+                "views": "5,544,681 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+          "sampled_type": "curated",
+          "title": "Ben Shapiro and Malcolm Nance on Critical Race Theory | Real Time with Bill Maher (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=rE0Z2k6BJI0",
+            "https://www.youtube.com/watch?v=0pabbzNjZ2s",
+            "https://www.youtube.com/watch?v=vj5JXrpwsZs",
+            "https://www.youtube.com/watch?v=RYSLyvbR_1w",
+            "https://www.youtube.com/watch?v=U-MwaC9Euv4",
+            "https://www.youtube.com/watch?v=kasiov0ytEc",
+            "https://www.youtube.com/watch?v=SGcdPakoytg",
+            "https://www.youtube.com/watch?v=SPN-YJRaOl4",
+            "https://www.youtube.com/watch?v=dVo0v5yypW0",
+            "https://www.youtube.com/watch?v=6VixqvOcK8E"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "71,769",
+            "content creator": "Real Time with Bill Maher",
+            "date": "Aug 6, 2021",
+            "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nMalcolm Nance and Ben Shapiro join Bill to discuss the \"muzzle laws\" being introduced by Republican lawmakers that seek to limit the degree to which educators can talk about race in the classroom.\n\nConnect with Real Time Online:\nFind Real Time on Facebook: ",
+            "dislikes": " Unavailable",
+            "id": "dwgsbZ1MsAE",
+            "likes": "79,401 likes",
+            "title": "Ben Shapiro and Malcolm Nance on Critical Race Theory | Real Time with Bill Maher (HBO)",
+            "url": "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+            "video_length": 570.941,
+            "views": "5,485,031 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=ij-C0lh5qQ4",
+      "sampled_type": "curated",
+      "title": "WATCH: Insane RACIST Interview Handled Perfectly by White Guest",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=dwgsbZ1MsAE",
+        "https://www.youtube.com/watch?v=aMcjxSThD54",
+        "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+        "https://www.youtube.com/watch?v=O57AvC8Shzg",
+        "https://www.youtube.com/watch?v=H4zw15f2rH4",
+        "https://www.youtube.com/watch?v=pJGCqevu7RQ",
+        "https://www.youtube.com/watch?v=wp2U1Kkf_Vk",
+        "https://www.youtube.com/watch?v=NVvCkAaHMcM",
+        "https://www.youtube.com/watch?v=UHPmhisf5yY"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "14,109",
+        "content creator": "Michael Knowles",
+        "date": "May 27, 2021",
+        "description": "LIKE & SUBSCRIBE for new videos everyday. http://bit.ly/2QA8RbN \n\nOn Black News Tonight, host Marc Lamont Hill asks anti-Critical Race Theory advocate Christopher Rufo, what exactly he likes about being white.\n\nWatch the full episode here: ",
+        "dislikes": " Unavailable",
+        "id": "ij-C0lh5qQ4",
+        "likes": "48,427 likes",
+        "title": "WATCH: Insane RACIST Interview Handled Perfectly by White Guest",
+        "url": "https://www.youtube.com/watch?v=ij-C0lh5qQ4",
+        "video_length": 464.761,
+        "views": "998,414 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+                  "sampled_type": "curated",
+                  "title": "Tucker: Here's why NPR is collapsing",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=BLIm2E_JWP4",
+                    "https://www.youtube.com/watch?v=lF5Bb3Mt0rg",
+                    "https://www.youtube.com/watch?v=CC_L0_9PM_4",
+                    "https://www.youtube.com/watch?v=Jy2ZSQmlszY",
+                    "https://www.youtube.com/watch?v=U3W84wb5jKo",
+                    "https://www.youtube.com/watch?v=7xgM0QUFLTE",
+                    "https://www.youtube.com/watch?v=NQVVp9bcjWI",
+                    "https://www.youtube.com/watch?v=lHm5yFH3nJg",
+                    "https://www.youtube.com/watch?v=0MzctOaJZS0",
+                    "https://www.youtube.com/watch?v=MxT6IwUtLSU"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,341",
+                    "content creator": "Fox News",
+                    "date": "Jan 13, 2022",
+                    "description": "'Tucker Carlson Tonight' host examines why NPR is losing its listeners. \n#FoxNews #Tucker",
+                    "dislikes": " Unavailable",
+                    "id": "-VVGyRJHuMY",
+                    "likes": "23,030 likes",
+                    "title": "Tucker: Here's why NPR is collapsing",
+                    "url": "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+                    "video_length": 168.601,
+                    "views": "508,600 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+              "sampled_type": "curated",
+              "title": "Reacting to the MOST INSANE Woke Tik Toks (ft. Michael Malice)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=aMcjxSThD54",
+                "https://www.youtube.com/watch?v=-VVGyRJHuMY",
+                "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                "https://www.youtube.com/watch?v=T8SKmG-X_vk",
+                "https://www.youtube.com/watch?v=Jy2ZSQmlszY",
+                "https://www.youtube.com/watch?v=0quvNT-0wZs",
+                "https://www.youtube.com/watch?v=-DN5r0jTA2w",
+                "https://www.youtube.com/watch?v=Xd7nEtcTVpY",
+                "https://www.youtube.com/watch?v=RsiqmDEWAtI",
+                "https://www.youtube.com/watch?v=UiFPIfN99N0"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "4,776",
+                "content creator": "Blaire White",
+                "date": "Premiered Nov 16, 2021",
+                "description": "Today I needed to sit my friend Michael Malice down and show him the depths of WOKE TIK TOK. He will never be the same.\n\u25cf Check out FloraCBD and use code BLAIRE for 25% off!: https://bit.ly/3wSvSMe",
+                "dislikes": " Unavailable",
+                "id": "yvQ6ppE7tKo",
+                "likes": "31,162 likes",
+                "title": "Reacting to the MOST INSANE Woke Tik Toks (ft. Michael Malice)",
+                "url": "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+                "video_length": 1077.421,
+                "views": "513,175 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=4jl6tK0gU28",
+          "sampled_type": "curated",
+          "title": "Reacting To Trans People Who HATE Me!",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+            "https://www.youtube.com/watch?v=4jl6tK0gU28&list=RDCMUCDmCBKaKOtOrEqgsL4-3C8Q&start_radio=1&rv=4jl6tK0gU28",
+            "https://www.youtube.com/watch?v=21xqLKWKMrQ",
+            "https://www.youtube.com/watch?v=HPeGmjvgXI4",
+            "https://www.youtube.com/watch?v=0m0UhUFWXnU",
+            "https://www.youtube.com/watch?v=NrdnckE_sUM",
+            "https://www.youtube.com/watch?v=7ly9xWo4al8",
+            "https://www.youtube.com/watch?v=BTt1-J5eR4s",
+            "https://www.youtube.com/watch?v=5qap5aO4i9A",
+            "https://www.youtube.com/watch?v=No4bzN3rKvc"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "11,128",
+            "content creator": "Blaire White",
+            "date": "Apr 7, 2020",
+            "description": "Reacting to videos of trans people who HATE me :X\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite\n\u25cf TikTok: @imblairewhite\n\u25cf NEW! Merch: ",
+            "dislikes": " Unavailable",
+            "id": "4jl6tK0gU28",
+            "likes": "78,616 likes",
+            "title": "Reacting To Trans People Who HATE Me!",
+            "url": "https://www.youtube.com/watch?v=4jl6tK0gU28",
+            "video_length": 731.721,
+            "views": "1,214,556 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=70wdkfGJNpE",
+      "sampled_type": "curated",
+      "title": "The Woke White Saviors of TikTok",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=kasiov0ytEc",
+        "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+        "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "https://www.youtube.com/watch?v=T_RTnuJvg6U",
+        "https://www.youtube.com/watch?v=YyU63LJV3AE",
+        "https://www.youtube.com/watch?v=aMcjxSThD54",
+        "https://www.youtube.com/watch?v=5zZk0NPxiGM",
+        "https://www.youtube.com/watch?v=bYH992ynhdU",
+        "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+        "https://www.youtube.com/watch?v=_-3v1MonI54"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "5,239",
+        "content creator": "Blaire White",
+        "date": "Premiered Jun 8, 2021",
+        "description": "Today we're reacting to & discussing the new phenomenon known as the Woke White Saviors- white people so can't help but post cringe as they try to save all the minorities.\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite",
+        "dislikes": " Unavailable",
+        "id": "70wdkfGJNpE",
+        "likes": "33,569 likes",
+        "title": "The Woke White Saviors of TikTok",
+        "url": "https://www.youtube.com/watch?v=70wdkfGJNpE",
+        "video_length": 756.321,
+        "views": "480,372 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

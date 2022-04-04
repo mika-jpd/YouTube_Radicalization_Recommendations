@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                  "sampled_type": "curated",
+                  "title": "The Death Penalty feat. PragerU",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=jVyjRhSX92E",
+                    "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                    "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+                    "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+                    "https://www.youtube.com/watch?v=ujg0Y5IziiY",
+                    "https://www.youtube.com/watch?v=JDy95_eNPzM",
+                    "https://www.youtube.com/watch?v=Yb9dXSkZbTY",
+                    "https://www.youtube.com/watch?v=1yTIhtfgDwY",
+                    "https://www.youtube.com/watch?v=EM7BgrddY18",
+                    "https://www.youtube.com/watch?v=cXZ6BZzQeCQ"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,532",
+                    "content creator": "Shaun",
+                    "date": "Apr 27, 2020",
+                    "description": "Sequelae?\n\nContent warning: violence, sexual assault\n\nPragerU video: ",
+                    "dislikes": " Unavailable",
+                    "id": "L30_hfuZoQ8",
+                    "likes": "53,268 likes",
+                    "title": "The Death Penalty feat. PragerU",
+                    "url": "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                    "video_length": 2417.481,
+                    "views": "1,203,984 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+              "sampled_type": "curated",
+              "title": "Dropping the Bomb: Hiroshima & Nagasaki",
+              "top_10_recommended": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "video": {
+                "ad": null,
+                "comments": "9,283",
+                "content creator": "Shaun",
+                "date": "Dec 11, 2020",
+                "description": "Cw: racist speech and imagery, violence\n\nApologies for the surely terrible pronunciation throughout.\n\nSpecial thanks to JusticeKazzy, Shuklia & Kav P for providing very useful feedback! :D\n\nJusticeKazzy: ",
+                "dislikes": " Unavailable",
+                "id": "RCRTgtpC-Go",
+                "likes": "53,700 likes",
+                "title": "Dropping the Bomb: Hiroshima & Nagasaki",
+                "url": "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+                "video_length": 8418.541,
+                "views": "1,340,763 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+          "sampled_type": "curated",
+          "title": "The 1776 Report",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+            "https://www.youtube.com/watch?v=MCTp_kYwz1E",
+            "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+            "https://www.youtube.com/watch?v=Nm6EGgil1_A",
+            "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+            "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+            "https://www.youtube.com/watch?v=zqllxbPWKNI",
+            "https://www.youtube.com/watch?v=R_wscUcbynk",
+            "https://www.youtube.com/watch?v=YllzdGa3E5A"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "5,885",
+            "content creator": "Shaun",
+            "date": "Mar 21, 2021",
+            "description": "CW: racism\n\ni look at school\n\nLinks:",
+            "dislikes": " Unavailable",
+            "id": "b2d8u2QyvAo",
+            "likes": "40,567 likes",
+            "title": "The 1776 Report",
+            "url": "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+            "video_length": 3437.701,
+            "views": "913,509 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=MCTp_kYwz1E",
+      "sampled_type": "curated",
+      "title": "PragerU & The Law",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=L-x8DYTOv7w",
+        "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+        "https://www.youtube.com/watch?v=xjnubfRy8Ws",
+        "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+        "https://www.youtube.com/watch?v=FYbtHGt2Zco",
+        "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+        "https://www.youtube.com/watch?v=a_yfnQPaD_E",
+        "https://www.youtube.com/watch?v=RCRTgtpC-Go",
+        "https://www.youtube.com/watch?v=ZUz1nCRJJBg",
+        "https://www.youtube.com/watch?v=8BIcAZxFfrc"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "4,217",
+        "content creator": "Shaun",
+        "date": "Aug 12, 2021",
+        "description": "Laws for thee, but not for Dennis.\n\nContact:\nTwitter: ",
+        "dislikes": " Unavailable",
+        "id": "MCTp_kYwz1E",
+        "likes": "38,464 likes",
+        "title": "PragerU & The Law",
+        "url": "https://www.youtube.com/watch?v=MCTp_kYwz1E",
+        "video_length": 1388.541,
+        "views": "597,106 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=z1afqR5QkDM",
+                  "sampled_type": "curated",
+                  "title": "The Aesthetic | ContraPoints",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=QuN6GfUix7c",
+                    "https://www.youtube.com/watch?v=opi8X9hQ7q8",
+                    "https://www.youtube.com/watch?v=3S7ypQQIMQk",
+                    "https://www.youtube.com/watch?v=z1afqR5QkDM&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=z1afqR5QkDM",
+                    "https://www.youtube.com/watch?v=9bbINLWtMKI",
+                    "https://www.youtube.com/watch?v=S6GodWn4XMM",
+                    "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+                    "https://www.youtube.com/watch?v=7Kuk35VNSEc",
+                    "https://www.youtube.com/watch?v=7gDKbT_l2us",
+                    "https://www.youtube.com/watch?v=hyaftqCORT4"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,962",
+                    "content creator": "ContraPoints",
+                    "date": "Sep 19, 2018",
+                    "description": "What matters more\u2014the way things are or the way things look?\nSupport this channel: https://www.patreon.com/contrapoints",
+                    "dislikes": " Unavailable",
+                    "id": "z1afqR5QkDM",
+                    "likes": "68,479 likes",
+                    "title": "The Aesthetic | ContraPoints",
+                    "url": "https://www.youtube.com/watch?v=z1afqR5QkDM",
+                    "video_length": 1282.721,
+                    "views": "1,563,869 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=qtj7LDYaufM",
+              "sampled_type": "curated",
+              "title": "The Darkness | ContraPoints",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=z1afqR5QkDM",
+                "https://www.youtube.com/watch?v=qtj7LDYaufM&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=qtj7LDYaufM",
+                "https://www.youtube.com/watch?v=S6GodWn4XMM",
+                "https://www.youtube.com/watch?v=smQsfNw_7V4",
+                "https://www.youtube.com/watch?v=n9mspMJTNEY",
+                "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+                "https://www.youtube.com/watch?v=acKAJPp-xww",
+                "https://www.youtube.com/watch?v=hyaftqCORT4",
+                "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+                "https://www.youtube.com/watch?v=S1xxcKCGljY"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "10,034",
+                "content creator": "ContraPoints",
+                "date": "Mar 2, 2019",
+                "description": "Some like it dark.\nSupport this channel: https://www.patreon.com/contrapoints",
+                "dislikes": " Unavailable",
+                "id": "qtj7LDYaufM",
+                "likes": "104,747 likes",
+                "title": "The Darkness | ContraPoints",
+                "url": "https://www.youtube.com/watch?v=qtj7LDYaufM",
+                "video_length": 1761.521,
+                "views": "1,897,457 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+          "sampled_type": "curated",
+          "title": "Gender Critical | ContraPoints",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=qtj7LDYaufM",
+            "https://www.youtube.com/watch?v=aPhrTOg1RUk",
+            "https://www.youtube.com/watch?v=1pTPuoGjQsI&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=1pTPuoGjQsI",
+            "https://www.youtube.com/watch?v=7gDKbT_l2us",
+            "https://www.youtube.com/watch?v=n9mspMJTNEY",
+            "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+            "https://www.youtube.com/watch?v=smQsfNw_7V4",
+            "https://www.youtube.com/watch?v=hyaftqCORT4",
+            "https://www.youtube.com/watch?v=EdvM_pRfuFM",
+            "https://www.youtube.com/watch?v=9bbINLWtMKI"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "21,442",
+            "content creator": "ContraPoints",
+            "date": "Mar 30, 2019",
+            "description": "Let's go adult human females.\nSupport this channel: https://www.patreon.com/contrapoints",
+            "dislikes": " Unavailable",
+            "id": "1pTPuoGjQsI",
+            "likes": "162,927 likes",
+            "title": "Gender Critical | ContraPoints",
+            "url": "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+            "video_length": 2028.961,
+            "views": "3,416,126 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=aPhrTOg1RUk&t=1230s",
+      "sampled_type": "curated",
+      "title": "Envy | ContraPoints",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+        "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+        "https://www.youtube.com/watch?v=aPhrTOg1RUk&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=aPhrTOg1RUk",
+        "https://www.youtube.com/watch?v=S6GodWn4XMM",
+        "https://www.youtube.com/watch?v=7gDKbT_l2us",
+        "https://www.youtube.com/watch?v=smQsfNw_7V4",
+        "https://www.youtube.com/watch?v=JsNm2YLrk30",
+        "https://www.youtube.com/watch?v=1o2fnTNxE_Q",
+        "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+        "https://www.youtube.com/watch?v=rfYvLlbXj_8"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "24,363",
+        "content creator": "ContraPoints",
+        "date": "Aug 7, 2021",
+        "description": "Starting at the surface with celebrity gossip, then spiraling into the inferno of the human psyche. Virgil, get me out of here.\n\nSupport this channel: ",
+        "dislikes": " Unavailable",
+        "id": "aPhrTOg1RUk&t",
+        "likes": "207,099 likes",
+        "title": "Envy | ContraPoints",
+        "url": "https://www.youtube.com/watch?v=aPhrTOg1RUk&t=1230s",
+        "video_length": 6495.801,
+        "views": "3,856,826 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=mOVPStnVgvU",
+                  "sampled_type": "curated",
+                  "title": "Stupid Watergate II: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=YMBj_tU7HRU",
+                    "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+                    "https://www.youtube.com/watch?v=OubM8bD9kck",
+                    "https://www.youtube.com/watch?v=NpPyLcQ2vdI",
+                    "https://www.youtube.com/watch?v=UnSILVWDKL8",
+                    "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                    "https://www.youtube.com/watch?v=UN8bJb8biZU",
+                    "https://www.youtube.com/watch?v=HaBQfSAVt0s",
+                    "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                    "https://www.youtube.com/watch?v=dXyO_MC9g3k"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "8,014",
+                    "content creator": "LastWeekTonight",
+                    "date": "Jun 11, 2018",
+                    "description": "John Oliver explains how the president and his allies are going full O. J. in order to undermine the investigation of Russian interference in the 2016 election.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "mOVPStnVgvU",
+                    "likes": "105,120 likes",
+                    "title": "Stupid Watergate II: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=mOVPStnVgvU",
+                    "video_length": 1069.421,
+                    "views": "8,034,902 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+              "sampled_type": "curated",
+              "title": "Stupid Watergate: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=mOVPStnVgvU",
+                "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                "https://www.youtube.com/watch?v=yw_nqzVfxFQ",
+                "https://www.youtube.com/watch?v=xecEV4dSAXE",
+                "https://www.youtube.com/watch?v=dXyO_MC9g3k",
+                "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                "https://www.youtube.com/watch?v=zxT8CM8XntA",
+                "https://www.youtube.com/watch?v=mXQuto1fMp4",
+                "https://www.youtube.com/watch?v=oDPCmmZifE8",
+                "https://www.youtube.com/watch?v=hxUAntt1z2c"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "10,989",
+                "content creator": "LastWeekTonight",
+                "date": "May 22, 2017",
+                "description": "John Oliver discusses the shocking magnitude and potential impact of the latest revelations surrounding the Russia investigation.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "FVFdsl29s_Q",
+                "likes": "171,258 likes",
+                "title": "Stupid Watergate: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+                "video_length": 1445.521,
+                "views": "16,669,560 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+          "sampled_type": "curated",
+          "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+            "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+            "https://www.youtube.com/watch?v=LEcbagW4O-s",
+            "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+            "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I",
+            "https://www.youtube.com/watch?v=XEVlyP4_11M",
+            "https://www.youtube.com/watch?v=vU8dCYocuyI",
+            "https://www.youtube.com/watch?v=LdhQzXHYLZ4",
+            "https://www.youtube.com/watch?v=0b_eHBZLM6U",
+            "https://www.youtube.com/watch?v=7y1xJAVZxXg"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "58,329",
+            "content creator": "LastWeekTonight",
+            "date": "Oct 9, 2017",
+            "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "J5b_-TZwQ0I",
+            "likes": "342,415 likes",
+            "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+            "video_length": 1298.221,
+            "views": "26,919,016 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=kknfvfmdiYI",
+      "sampled_type": "curated",
+      "title": "Tim Pool Narrowly Avoids Mortal Kombat With RA Rugged Man During Explosive Debate",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=akqcYEIXoEo",
+        "https://www.youtube.com/watch?v=qOzsy6IHNUM",
+        "https://www.youtube.com/watch?v=kknfvfmdiYI&list=RDCMUC-3jIAlnQmbbVMV6gR7K8aQ&start_radio=1&rv=kknfvfmdiYI",
+        "https://www.youtube.com/watch?v=vTMF6xEiAaY",
+        "https://www.youtube.com/watch?v=fl0x9Swgfgw",
+        "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+        "https://www.youtube.com/watch?v=2G56_mQwyBM"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "1,984",
+        "content creator": "The Majority Report w/ Sam Seder",
+        "date": "Dec 17, 2021",
+        "description": "Tim Pool and rapper RA Rugged Man's debate on anti-racism and abolishing the police gets out of hand. RA Rugged man lashes out and Pool is evidently scared. The Majority Report crew discuss the incident as well as when Sam Seder's debate with Tim Pool and how he might have been embarrassed leading him not to post it on his more relevant channel. \n\nWe stream our live show every day at 12 PM ET.\n\nWe need your help to keep providing free videos! Support the Majority Report's video content by going to ",
+        "dislikes": " Unavailable",
+        "id": "kknfvfmdiYI",
+        "likes": "4,000 likes",
+        "title": "Tim Pool Narrowly Avoids Mortal Kombat With RA Rugged Man During Explosive Debate",
+        "url": "https://www.youtube.com/watch?v=kknfvfmdiYI",
+        "video_length": 921.601,
+        "views": "109,532 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=FtCV421T52s",
+                  "sampled_type": "curated",
+                  "title": "Does Call of Duty Believe in Anything?",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=SvRFTcPSqzY",
+                    "https://www.youtube.com/watch?v=f4ynPp10jMc",
+                    "https://www.youtube.com/watch?v=7MOKTU9tCbw",
+                    "https://www.youtube.com/watch?v=FtCV421T52s&list=RDCMUCeTfBygNb1TahcNpZyELO8g&start_radio=1&rv=FtCV421T52s",
+                    "https://www.youtube.com/watch?v=W4TNu0oBtKs",
+                    "https://www.youtube.com/watch?v=DQQdnve5fQk",
+                    "https://www.youtube.com/watch?v=v5DqmTtCPiQ",
+                    "https://www.youtube.com/watch?v=y7vlaI2fGTY",
+                    "https://www.youtube.com/watch?v=IZ1y75vxO0o",
+                    "https://www.youtube.com/watch?v=fs0PbITsUQQ"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,621",
+                    "content creator": "Jacob Geller",
+                    "date": "Dec 14, 2019",
+                    "description": "Some time after the looting, the locked gates,\nthe US tank stood idle in a gallery\n\nSupport me: ",
+                    "dislikes": " Unavailable",
+                    "id": "FtCV421T52s",
+                    "likes": "60,085 likes",
+                    "title": "Does Call of Duty Believe in Anything?",
+                    "url": "https://www.youtube.com/watch?v=FtCV421T52s",
+                    "video_length": 1529.781,
+                    "views": "950,593 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=usSfgHGEGxQ",
+              "sampled_type": "curated",
+              "title": "Games, Schools, and Worlds Designed for Violence",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=v5DqmTtCPiQ",
+                "https://www.youtube.com/watch?v=usSfgHGEGxQ&list=RDCMUCeTfBygNb1TahcNpZyELO8g&start_radio=1&rv=usSfgHGEGxQ",
+                "https://www.youtube.com/watch?v=FtCV421T52s",
+                "https://www.youtube.com/watch?v=eNMmSkE8ua4",
+                "https://www.youtube.com/watch?v=hUwTh4uSILg",
+                "https://www.youtube.com/watch?v=7MOKTU9tCbw",
+                "https://www.youtube.com/watch?v=t7STD2ESmWg",
+                "https://www.youtube.com/watch?v=fe-SZ_FPZew",
+                "https://www.youtube.com/watch?v=f4ynPp10jMc",
+                "https://www.youtube.com/watch?v=aBBuoD9eL5k"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "13,957",
+                "content creator": "Jacob Geller",
+                "date": "Oct 1, 2019",
+                "description": "They walk out under the branches of hopelessness\nThey think of this world welcoming\nthe bodies of their sons. \n\nSupport me and receive a full-length video commentary on this essay: ",
+                "dislikes": " Unavailable",
+                "id": "usSfgHGEGxQ",
+                "likes": "113,358 likes",
+                "title": "Games, Schools, and Worlds Designed for Violence",
+                "url": "https://www.youtube.com/watch?v=usSfgHGEGxQ",
+                "video_length": 997.921,
+                "views": "1,864,659 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=v5DqmTtCPiQ",
+          "sampled_type": "curated",
+          "title": "Who\u2019s Afraid of Modern Art: Vandalism, Video Games, and Fascism",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=usSfgHGEGxQ",
+            "https://www.youtube.com/watch?v=7MOKTU9tCbw",
+            "https://www.youtube.com/watch?v=v5DqmTtCPiQ&list=RDCMUCeTfBygNb1TahcNpZyELO8g&start_radio=1&rv=v5DqmTtCPiQ",
+            "https://www.youtube.com/watch?v=ETAcIbzOTYs",
+            "https://www.youtube.com/watch?v=FtCV421T52s",
+            "https://www.youtube.com/watch?v=Pp2wbyLoEtM",
+            "https://www.youtube.com/watch?v=f4ynPp10jMc",
+            "https://www.youtube.com/watch?v=-WhkGDFM04o",
+            "https://www.youtube.com/watch?v=DQQdnve5fQk",
+            "https://www.youtube.com/watch?v=G2MDVXPDNOM"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "14,140",
+            "content creator": "Jacob Geller",
+            "date": "May 19, 2019",
+            "description": "A picture lives by companionship, expanding and quickening in the eyes of the sensitive observer. It dies by the same token...how often it must be impaired by the eyes of the unfeeling and the cruelty of the impotent.\n\nFollow me: ",
+            "dislikes": " Unavailable",
+            "id": "v5DqmTtCPiQ",
+            "likes": "89,411 likes",
+            "title": "Who\u2019s Afraid of Modern Art: Vandalism, Video Games, and Fascism",
+            "url": "https://www.youtube.com/watch?v=v5DqmTtCPiQ",
+            "video_length": 1755.421,
+            "views": "1,388,414 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=-WhkGDFM04o&t=1430s",
+      "sampled_type": "curated",
+      "title": "The Conservative Propaganda of Dr Phil",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=v5DqmTtCPiQ",
+        "https://www.youtube.com/watch?v=dsiFsVaKSAw",
+        "https://www.youtube.com/watch?v=-WhkGDFM04o&list=RDCMUCaN8DZdc8EHo5y1LsQWMiig&start_radio=1&rv=-WhkGDFM04o",
+        "https://www.youtube.com/watch?v=5uRG4RB_Nvo",
+        "https://www.youtube.com/watch?v=VG_hsUdFkOM",
+        "https://www.youtube.com/watch?v=100XL1eON6Y",
+        "https://www.youtube.com/watch?v=wZoHGAK3k-I",
+        "https://www.youtube.com/watch?v=5Bsi5V66fJE",
+        "https://www.youtube.com/watch?v=R92f94cVUrg",
+        "https://www.youtube.com/watch?v=KSXKzPOcYDU"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "7,855",
+        "content creator": "Big Joel",
+        "date": "Mar 4, 2021",
+        "description": "Let's talk about the man himself, Dr Phil, and the time he met a furry. Visit http://curiositystream.com/bigjoel and get thousands of exciting documentaries and access to my streaming service Nebula, where I have all my beautiful Nebula Plus videos. \n\nSupport me on Patreon: ",
+        "dislikes": " Unavailable",
+        "id": "-WhkGDFM04o&t",
+        "likes": "52,274 likes",
+        "title": "The Conservative Propaganda of Dr Phil",
+        "url": "https://www.youtube.com/watch?v=-WhkGDFM04o&t=1430s",
+        "video_length": 1637.201,
+        "views": "841,846 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=_-0J49_9lwc",
+                  "sampled_type": "curated",
+                  "title": "Housing Discrimination: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=oFetFqrVBNc",
+                    "https://www.youtube.com/watch?v=_-0J49_9lwc&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=_-0J49_9lwc",
+                    "https://www.youtube.com/watch?v=AyAK3QBnMGQ",
+                    "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+                    "https://www.youtube.com/watch?v=GzFG0Cdh8D8",
+                    "https://www.youtube.com/watch?v=Ezv8sdTLxKo",
+                    "https://www.youtube.com/watch?v=29lXsOYBaow",
+                    "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                    "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                    "https://www.youtube.com/watch?v=WqD-ATqw3js"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "16,171",
+                    "content creator": "LastWeekTonight",
+                    "date": "Jul 26, 2021",
+                    "description": "John Oliver breaks down the long history of housing discrimination in the U.S., the damage it\u2019s done, and, crucially, what we can do about it. \n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "_-0J49_9lwc",
+                    "likes": "123,588 likes",
+                    "title": "Housing Discrimination: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=_-0J49_9lwc",
+                    "video_length": 1927.281,
+                    "views": "5,903,029 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Cy-O4myeUzg",
+              "sampled_type": "curated",
+              "title": "Mercadeo Multinivel: Last Week Tonight With John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                "https://www.youtube.com/watch?v=Cy-O4myeUzg&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=Cy-O4myeUzg",
+                "https://www.youtube.com/watch?v=SVRwRPEr1Mg",
+                "https://www.youtube.com/watch?v=-6DLT9MHO4M",
+                "https://www.youtube.com/watch?v=LB2HD5VuUuw",
+                "https://www.youtube.com/watch?v=zOtDLeGmdgw",
+                "https://www.youtube.com/watch?v=_-0J49_9lwc",
+                "https://www.youtube.com/watch?v=YbQLxwcdfV4",
+                "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                "https://www.youtube.com/watch?v=n30zO0ABFqc"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,655",
+                "content creator": "LastWeekTonight",
+                "date": "Nov 7, 2016",
+                "description": "Las compa\u00f1\u00edas de mercadeo multinivel aclaman ser negocios leg\u00edtimos, pero algunas parecen ser terriblemente... piramidales. John Oliver y Jaime Camil nos demuestran como funcionan. \n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "Cy-O4myeUzg",
+                "likes": "45,254 likes",
+                "title": "Mercadeo Multinivel: Last Week Tonight With John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=Cy-O4myeUzg",
+                "video_length": 1948.681,
+                "views": "4,368,904 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+          "sampled_type": "curated",
+          "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Cy-O4myeUzg",
+            "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+            "https://www.youtube.com/watch?v=XEVlyP4_11M",
+            "https://www.youtube.com/watch?v=He1bgJ0sqtw",
+            "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+            "https://www.youtube.com/watch?v=s6MwGeOm8iI&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=s6MwGeOm8iI",
+            "https://www.youtube.com/watch?v=g6iDZspbRMg",
+            "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+            "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+            "https://www.youtube.com/watch?v=LEcbagW4O-s"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "27,040",
+            "content creator": "LastWeekTonight",
+            "date": "Nov 7, 2016",
+            "description": "Multilevel marketing companies claim to be legitimate businesses, but some seem awfully\u2026pyramid shaped. John Oliver and Jaime Camil demonstrate how they work. \n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "s6MwGeOm8iI",
+            "likes": "312,621 likes",
+            "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+            "video_length": 1917.681,
+            "views": "31,193,778 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=7Bd_H8Cyago",
+      "sampled_type": "curated",
+      "title": "The Easy Answers of YouTube Conservatism",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=KS0NtNxlX-s",
+        "https://www.youtube.com/watch?v=9vz06QO3UkQ",
+        "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=WyGq6cjcc3Q",
+        "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+        "https://www.youtube.com/watch?v=sBODfLEZfWg",
+        "https://www.youtube.com/watch?v=rokAtlFGa7Y",
+        "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+        "https://www.youtube.com/watch?v=QLq6GEiHqR8"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "2,720",
+        "content creator": "Three Arrows",
+        "date": "May 22, 2020",
+        "description": "=Support me via=\n\u25ba Patreon: https://www.patreon.com/join/DanArrows?\n\u25ba TipJar: https://ko-fi.com/threearrows",
+        "dislikes": " Unavailable",
+        "id": "7Bd_H8Cyago",
+        "likes": "21,221 likes",
+        "title": "The Easy Answers of YouTube Conservatism",
+        "url": "https://www.youtube.com/watch?v=7Bd_H8Cyago",
+        "video_length": 4069.301,
+        "views": "424,873 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=DQQdnve5fQk",
+                  "sampled_type": "curated",
+                  "title": "Judaism and Whiteness in Wolfenstein",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=bby-qlZ29P4",
+                    "https://www.youtube.com/watch?v=FtCV421T52s",
+                    "https://www.youtube.com/watch?v=DQQdnve5fQk&list=RDCMUCeTfBygNb1TahcNpZyELO8g&start_radio=1&rv=DQQdnve5fQk",
+                    "https://www.youtube.com/watch?v=7MOKTU9tCbw",
+                    "https://www.youtube.com/watch?v=usSfgHGEGxQ",
+                    "https://www.youtube.com/watch?v=v5DqmTtCPiQ",
+                    "https://www.youtube.com/watch?v=f4ynPp10jMc",
+                    "https://www.youtube.com/watch?v=BgpvZVsfiVM",
+                    "https://www.youtube.com/watch?v=lnAWQz34PJs",
+                    "https://www.youtube.com/watch?v=eu-Kp_3KupQ"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,904",
+                    "content creator": "Jacob Geller",
+                    "date": "Mar 18, 2019",
+                    "description": "Samuel Beckett once said, \u201cEvery word is like an unnecessary stain on silence and nothingness\u201d...on the other hand, he SAID it. \n-Art Spiegelman, 1992\n\nFollow me at ",
+                    "dislikes": " Unavailable",
+                    "id": "DQQdnve5fQk",
+                    "likes": "53,658 likes",
+                    "title": "Judaism and Whiteness in Wolfenstein",
+                    "url": "https://www.youtube.com/watch?v=DQQdnve5fQk",
+                    "video_length": 1998.821,
+                    "views": "806,562 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=-WhkGDFM04o",
+              "sampled_type": "curated",
+              "title": "The Conservative Propaganda of Dr Phil",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=DQQdnve5fQk",
+                "https://www.youtube.com/watch?v=-WhkGDFM04o&list=RDCMUCaN8DZdc8EHo5y1LsQWMiig&start_radio=1&rv=-WhkGDFM04o",
+                "https://www.youtube.com/watch?v=VG_hsUdFkOM",
+                "https://www.youtube.com/watch?v=5uRG4RB_Nvo",
+                "https://www.youtube.com/watch?v=R92f94cVUrg",
+                "https://www.youtube.com/watch?v=AC_8vkD1-H8",
+                "https://www.youtube.com/watch?v=ngaRstWBJvs",
+                "https://www.youtube.com/watch?v=dsiFsVaKSAw",
+                "https://www.youtube.com/watch?v=wZoHGAK3k-I",
+                "https://www.youtube.com/watch?v=EmoawVscVcE"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "7,855",
+                "content creator": "Big Joel",
+                "date": "Mar 4, 2021",
+                "description": "Let's talk about the man himself, Dr Phil, and the time he met a furry. Visit http://curiositystream.com/bigjoel and get thousands of exciting documentaries and access to my streaming service Nebula, where I have all my beautiful Nebula Plus videos. \n\nSupport me on Patreon: ",
+                "dislikes": " Unavailable",
+                "id": "-WhkGDFM04o",
+                "likes": "52,274 likes",
+                "title": "The Conservative Propaganda of Dr Phil",
+                "url": "https://www.youtube.com/watch?v=-WhkGDFM04o",
+                "video_length": 1637.201,
+                "views": "841,852 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=2G56_mQwyBM",
+          "sampled_type": "curated",
+          "title": "The Propaganda of The War On Christmas",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Pw0vB4Lm1Tk",
+            "https://www.youtube.com/watch?v=2G56_mQwyBM&list=RDCMUCaN8DZdc8EHo5y1LsQWMiig&start_radio=1&rv=2G56_mQwyBM",
+            "https://www.youtube.com/watch?v=-WhkGDFM04o",
+            "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+            "https://www.youtube.com/watch?v=5uRG4RB_Nvo",
+            "https://www.youtube.com/watch?v=k1hFnjUFSsY",
+            "https://www.youtube.com/watch?v=rGnQVUW9z4M",
+            "https://www.youtube.com/watch?v=C8dfiDeJeDU",
+            "https://www.youtube.com/watch?v=Xy9hjtC0B84",
+            "https://www.youtube.com/watch?v=iaWjKaAHmFI"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "3,597",
+            "content creator": "Big Joel",
+            "date": "Dec 31, 2021",
+            "description": "Visit http://curiositystream.com/bigjoel and get thousands of exciting documentaries and access to my streaming service Nebula, where I have all my beautiful Nebula Plus videos. \n\nLet's talk about the war on Christmas, Dennis Prager, Bill O'Reilly, Fox News, conservatism, and a strange movie called Christmas with a Capital C.\n\nSupport me on Patreon: ",
+            "dislikes": " Unavailable",
+            "id": "2G56_mQwyBM",
+            "likes": "30,828 likes",
+            "title": "The Propaganda of The War On Christmas",
+            "url": "https://www.youtube.com/watch?v=2G56_mQwyBM",
+            "video_length": 2112.661,
+            "views": "518,430 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=f-NnqODNdTY&t=177s",
+      "sampled_type": "curated",
+      "title": "Watching Dave Rubin Fart His Way Through 1984 | Big Joel",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=2G56_mQwyBM",
+        "https://www.youtube.com/watch?v=JlkJJygIoVU",
+        "https://www.youtube.com/watch?v=fGlW5nauOS0",
+        "https://www.youtube.com/watch?v=f-NnqODNdTY&list=RDCMUCaN8DZdc8EHo5y1LsQWMiig&start_radio=1&rv=f-NnqODNdTY",
+        "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+        "https://www.youtube.com/watch?v=5uRG4RB_Nvo",
+        "https://www.youtube.com/watch?v=OpLvioS8GbQ",
+        "https://www.youtube.com/watch?v=R92f94cVUrg",
+        "https://www.youtube.com/watch?v=VG_hsUdFkOM",
+        "https://www.youtube.com/watch?v=ma4DJbvO84I"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "6,263",
+        "content creator": "Big Joel",
+        "date": "Oct 17, 2020",
+        "description": "Let's talk about 1984, PragerU, and Dave Rubin! Woooo\n\nSupport me on Patreon: https://www.patreon.com/bigjoel",
+        "dislikes": " Unavailable",
+        "id": "f-NnqODNdTY&t",
+        "likes": "39,198 likes",
+        "title": "Watching Dave Rubin Fart His Way Through 1984 | Big Joel",
+        "url": "https://www.youtube.com/watch?v=f-NnqODNdTY&t=177s",
+        "video_length": 1191.761,
+        "views": "758,985 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

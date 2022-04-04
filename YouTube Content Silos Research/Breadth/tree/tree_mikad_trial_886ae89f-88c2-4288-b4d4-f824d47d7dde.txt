@@ -1,0 +1,3635 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=tKYEXjMlKKQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=y8ULmUqUIdg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=zqllxbPWKNI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+                  "title": "Disney's FastPass: A Complicated History",
+                  "video": {
+                    "ad": null,
+                    "comments": "18,329",
+                    "content creator": "Defunctland",
+                    "date": "Nov 21, 2021",
+                    "description": "Pre-order Shapeland merch today and help support the channel: https://defunctland.myshopify.com/",
+                    "dislikes": " Unavailable",
+                    "id": "9yjZpBq1XBE",
+                    "likes": "254,917 likes",
+                    "title": "Disney's FastPass: A Complicated History",
+                    "url": "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+                    "video_length": 6179.141,
+                    "views": "8,267,954 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=CWF_0lkBhjY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_1K2gJCbzq4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7gDKbT_l2us",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=rfYvLlbXj_8&list=RDLVrfYvLlbXj_8&start_radio=1&rv=rfYvLlbXj_8",
+                  "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,986",
+                    "content creator": "Philosophy Tube",
+                    "date": "Jul 1, 2020",
+                    "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/philosophytube3\nSupport the show here! https://www.patreon.com/PhilosophyTube \ud83e\uddec\ud83d\ude49\ud83e\uddec\n\nSubscribe! ",
+                    "dislikes": " Unavailable",
+                    "id": "rfYvLlbXj_8&list",
+                    "likes": "62,383 likes",
+                    "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=rfYvLlbXj_8&list=RDLVrfYvLlbXj_8&start_radio=1&rv=rfYvLlbXj_8",
+                    "video_length": 3686.141,
+                    "views": "1,426,615 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-suvkwNYSQo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=taOBFURZvcA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Xc0kbM4tBYE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=JZRcYaAYWg4",
+                  "title": "The Catholic Church is a Force for Good in the World - Full Version",
+                  "video": {
+                    "ad": null,
+                    "comments": "27,812",
+                    "content creator": "Intelligence Squared",
+                    "date": "Sep 15, 2015",
+                    "description": "Want to join the debate? Check out the Intelligence Squared website to hear about future live events and podcasts: http://www.intelligencesquared.com \n__________________________\n\nStephen Fry and Christopher Hitchens battle it out with Archbishop John Onaiyekan and Ann Widdecombe over the motion \"The Catholic Church is a Force for Good in the World\" in our debate from 2009. \n\nStephen Fry's clash with Anne Widdecombe was turned into an an iq2 Short, which can be seen here: ",
+                    "dislikes": " Unavailable",
+                    "id": "JZRcYaAYWg4",
+                    "likes": "44,671 likes",
+                    "title": "The Catholic Church is a Force for Good in the World - Full Version",
+                    "url": "https://www.youtube.com/watch?v=JZRcYaAYWg4",
+                    "video_length": 7152,
+                    "views": "4,984,534 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+              "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+              "video": {
+                "ad": null,
+                "comments": "8,986",
+                "content creator": "Philosophy Tube",
+                "date": "Jul 1, 2020",
+                "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/philosophytube3\nSupport the show here! https://www.patreon.com/PhilosophyTube \ud83e\uddec\ud83d\ude49\ud83e\uddec\n\nSubscribe! ",
+                "dislikes": " Unavailable",
+                "id": "rfYvLlbXj_8",
+                "likes": "62,383 likes",
+                "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                "video_length": 3686,
+                "views": "1,426,603 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=pflU-nnY4MA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KxGPe1jD-qY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=GEf6X-FueMo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=jey_CzIOfYE",
+                  "title": "Sam Harris & Jordan Peterson in Vancouver - Part 1 - Presented by Pangburn (CC: Arabic & Spanish)",
+                  "video": {
+                    "ad": null,
+                    "comments": "26,448",
+                    "content creator": "Pangburn",
+                    "date": "Aug 31, 2018",
+                    "description": "Join the new Pangburn Offensive Channel https://www.youtube.com/channel/UCI5A...\n#Pangburn #SamHarris #JordanPeterson",
+                    "dislikes": " Unavailable",
+                    "id": "jey_CzIOfYE",
+                    "likes": "66,889 likes",
+                    "title": "Sam Harris & Jordan Peterson in Vancouver - Part 1 - Presented by Pangburn (CC: Arabic & Spanish)",
+                    "url": "https://www.youtube.com/watch?v=jey_CzIOfYE",
+                    "video_length": 7597.821,
+                    "views": "5,083,521 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=9Xc7DN-noAc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-KQGZa773sI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=hl0iNRXcUbE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=6T7pUEZfgdI",
+                  "title": "Joe Rogan Experience #1070 - Jordan Peterson",
+                  "video": {
+                    "ad": null,
+                    "comments": "26,335",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on Jan 30, 2018",
+                    "description": "Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.",
+                    "dislikes": " Unavailable",
+                    "id": "6T7pUEZfgdI",
+                    "likes": "288,015 likes",
+                    "title": "Joe Rogan Experience #1070 - Jordan Peterson",
+                    "url": "https://www.youtube.com/watch?v=6T7pUEZfgdI",
+                    "video_length": 8932.721,
+                    "views": "18,376,715 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=4O-UZGnv9O0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-5RCmu-HuTg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kasiov0ytEc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                  "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "abcqanda",
+                    "date": "Streamed live on Feb 25, 2019",
+                    "description": "Monday, 25 February 2019\n\nJordan Peterson join the live Q&A Panel with Alex Hawke, Terri Butler, Cathryn McGregor and Van Badham. \n\nFor more from Q&A, click here: ",
+                    "dislikes": " Unavailable",
+                    "id": "TmNSlF7lcaw",
+                    "likes": "112,895 likes",
+                    "title": "Jordan Peterson Destroys Q&A | 25 February 2019",
+                    "url": "https://www.youtube.com/watch?v=TmNSlF7lcaw",
+                    "video_length": 4763.181,
+                    "views": "9,948,886 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+              "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+              "video": {
+                "ad": null,
+                "comments": "230,316",
+                "content creator": "British GQ",
+                "date": "Oct 30, 2018",
+                "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+                "dislikes": " Unavailable",
+                "id": "yZYQpge1W5s",
+                "likes": "717,168 likes",
+                "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+                "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+                "video_length": 6133.181,
+                "views": "49,024,272 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=BqO5CnnKLtA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=sJhjEoxxj1s",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=hMKqPgWJYr8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AxZWxxZ2JGE",
+                  "title": "Why our generals were more successful in World War II than in Korea, Vietnam or Iraq/Afghanistan",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,803",
+                    "content creator": "UC Berkeley Events",
+                    "date": "Mar 23, 2011",
+                    "description": "The Fleet Admiral Chester W. Nimitz Memorial Lecture\n\nThomas E. Ricks is a Senior Fellow at the Center for a New American Security (CNAS). Concurrently with his duties at CNAS, Ricks writes an online blog for ForeignPolicy.com called, \"The Best Defense,\" serves as contributing editor for Foreign Policy.",
+                    "dislikes": " Unavailable",
+                    "id": "AxZWxxZ2JGE",
+                    "likes": "26,427 likes",
+                    "title": "Why our generals were more successful in World War II than in Korea, Vietnam or Iraq/Afghanistan",
+                    "url": "https://www.youtube.com/watch?v=AxZWxxZ2JGE",
+                    "video_length": 3528.901,
+                    "views": "1,809,885 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=53vmQNVBm0w",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=m81q-ZkfBm0&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=m81q-ZkfBm0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=PYM-sS-0-yg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=m81q-ZkfBm0",
+                  "title": "Jordan Peterson's Ideology | Philosophy Tube",
+                  "video": {
+                    "ad": null,
+                    "comments": "17,509",
+                    "content creator": "Philosophy Tube",
+                    "date": "Premiered Apr 9, 2021",
+                    "description": "\ud83d\udd25 https://curiositystream.com/philosoph... \ud83d\udd25\nA definition and demonstration of what ideology is, using Peterson's new book as the example! https://www.patreon.com/PhilosophyTube",
+                    "dislikes": " Unavailable",
+                    "id": "m81q-ZkfBm0",
+                    "likes": "105,366 likes",
+                    "title": "Jordan Peterson's Ideology | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=m81q-ZkfBm0",
+                    "video_length": 2103.661,
+                    "views": "1,884,733 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=CbUjuwhQPKs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lADBHDg-JtA&list=RDLVlADBHDg-JtA&start_radio=1&rv=lADBHDg-JtA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0fgpHaZfZBY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lADBHDg-JtA",
+                  "title": "The Enduring Mystery of Jack the Ripper",
+                  "video": {
+                    "ad": null,
+                    "comments": "24,690",
+                    "content creator": "LEMMiNO",
+                    "date": "Sep 9, 2021",
+                    "description": "[Credits, References, and More]\nhttps://www.lemmi.no/p/the-enduring-m...",
+                    "dislikes": " Unavailable",
+                    "id": "lADBHDg-JtA",
+                    "likes": "337,479 likes",
+                    "title": "The Enduring Mystery of Jack the Ripper",
+                    "url": "https://www.youtube.com/watch?v=lADBHDg-JtA",
+                    "video_length": 4148.841,
+                    "views": "4,905,276 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=SEMB1Ky2n1E&list=RDLVSEMB1Ky2n1E&start_radio=1&rv=SEMB1Ky2n1E",
+              "title": "Jordan Peterson & The Meaning of Life | Philosophy Tube",
+              "video": {
+                "ad": null,
+                "comments": "10,432",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Apr 12, 2019",
+                "description": "Why this is Hell, nor are we out of it!\nPatreon: http://www.patreon.com/PhilosophyTube",
+                "dislikes": " Unavailable",
+                "id": "SEMB1Ky2n1E&list",
+                "likes": "76,851 likes",
+                "title": "Jordan Peterson & The Meaning of Life | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=SEMB1Ky2n1E&list=RDLVSEMB1Ky2n1E&start_radio=1&rv=SEMB1Ky2n1E",
+                "video_length": 2390.421,
+                "views": "2,027,510 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+          "title": "Jordan Peterson & The Meaning of Life | Philosophy Tube",
+          "video": {
+            "ad": null,
+            "comments": "10,432",
+            "content creator": "Philosophy Tube",
+            "date": "Premiered Apr 12, 2019",
+            "description": "Why this is Hell, nor are we out of it!\nPatreon: http://www.patreon.com/PhilosophyTube",
+            "dislikes": " Unavailable",
+            "id": "SEMB1Ky2n1E",
+            "likes": "76,851 likes",
+            "title": "Jordan Peterson & The Meaning of Life | Philosophy Tube",
+            "url": "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+            "video_length": 2390.421,
+            "views": "2,027,508 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Dz8dxbRW5u8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=I2O7blSSzpI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ryg077wBvsM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=5gnlhmaM-dM&list=RDLV5gnlhmaM-dM&start_radio=1&rv=5gnlhmaM-dM",
+                  "title": "Elon Musk | Philosophy Tube",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,365",
+                    "content creator": "Philosophy Tube",
+                    "date": "Aug 31, 2018",
+                    "description": "It's Elon Musk Vs Slavoj \u017di\u017eek in the war for ironic counterculture. Whoever wins, we lose...\n\nPatreon: http://www.patreon.com/PhilosophyTube",
+                    "dislikes": " Unavailable",
+                    "id": "5gnlhmaM-dM&list",
+                    "likes": "63,794 likes",
+                    "title": "Elon Musk | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=5gnlhmaM-dM&list=RDLV5gnlhmaM-dM&start_radio=1&rv=5gnlhmaM-dM",
+                    "video_length": 1638.681,
+                    "views": "1,495,284 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ahnYw3KmX74",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Ttw8XZaNr0w",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KElPnD-dbkk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=TJ53ckFy96Y",
+                  "title": "What is the Oldest Song You Know?",
+                  "video": {
+                    "ad": null,
+                    "comments": "290",
+                    "content creator": "Polyphonic",
+                    "date": "Feb 18, 2022",
+                    "description": "Go to https://curiositystream.com/polyphonic to get 26% off an annual deal to CuriosityStream and full access to Nebula\n\nBrayden Olson's Hurrian Hymns: ",
+                    "dislikes": " Unavailable",
+                    "id": "TJ53ckFy96Y",
+                    "likes": "2,558 likes",
+                    "title": "What is the Oldest Song You Know?",
+                    "url": "https://www.youtube.com/watch?v=TJ53ckFy96Y",
+                    "video_length": 639.841,
+                    "views": "32,875 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=qEV9qoup2mQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=R_wscUcbynk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ngjQs_QjSwc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                  "title": "The Death Penalty feat. PragerU",
+                  "video": {
+                    "ad": null,
+                    "comments": "7,630",
+                    "content creator": "Shaun",
+                    "date": "Apr 27, 2020",
+                    "description": "Sequelae?\n\nContent warning: violence, sexual assault\n\nPragerU video: ",
+                    "dislikes": " Unavailable",
+                    "id": "L30_hfuZoQ8",
+                    "likes": "54,060 likes",
+                    "title": "The Death Penalty feat. PragerU",
+                    "url": "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+                    "video_length": 2417.481,
+                    "views": "1,230,014 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=5gnlhmaM-dM",
+              "title": "Elon Musk | Philosophy Tube",
+              "video": {
+                "ad": null,
+                "comments": "6,365",
+                "content creator": "Philosophy Tube",
+                "date": "Aug 31, 2018",
+                "description": "It's Elon Musk Vs Slavoj \u017di\u017eek in the war for ironic counterculture. Whoever wins, we lose...\n\nPatreon: http://www.patreon.com/PhilosophyTube",
+                "dislikes": " Unavailable",
+                "id": "5gnlhmaM-dM",
+                "likes": "63,793 likes",
+                "title": "Elon Musk | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=5gnlhmaM-dM",
+                "video_length": 1638.681,
+                "views": "1,495,283 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=RaaKovhajps",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=M63pXsYgHdI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fLB2FSLp4Ec",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=pgDbj2OvSwI",
+                  "title": "This Song From the 1500\u2019s Blows Me Away",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,987",
+                    "content creator": "Rick Beato",
+                    "date": "Feb 17, 2022",
+                    "description": "In this episode I discuss the Music of Renaissance Songwriter and Lute virtuoso John Dowland (1563-1624).\n\nDamien Kelly ",
+                    "dislikes": " Unavailable",
+                    "id": "pgDbj2OvSwI",
+                    "likes": "25,166 likes",
+                    "title": "This Song From the 1500\u2019s Blows Me Away",
+                    "url": "https://www.youtube.com/watch?v=pgDbj2OvSwI",
+                    "video_length": 812.641,
+                    "views": "379,872 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/show/SC1Dd2OxhAzUXWuhFBFecIAA?season=2&sbp=CgEy",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XEVlyP4_11M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Cy-O4myeUzg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                  "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+                  "video": {
+                    "ad": null,
+                    "comments": "27,126",
+                    "content creator": "LastWeekTonight",
+                    "date": "Nov 7, 2016",
+                    "description": "Multilevel marketing companies claim to be legitimate businesses, but some seem awfully\u2026pyramid shaped. John Oliver and Jaime Camil demonstrate how they work. \n\nConnect with Last Week Tonight online...\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "s6MwGeOm8iI",
+                    "likes": "314,517 likes",
+                    "title": "Multilevel Marketing: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                    "video_length": 1917.681,
+                    "views": "31,452,817 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=QCjk_NPsIqU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kFSGeG1-eOk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=27FpoRiStgk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+                  "title": "Climate Denial: A Measured Response",
+                  "video": {
+                    "ad": null,
+                    "comments": "24,533",
+                    "content creator": "hbomberguy",
+                    "date": "May 31, 2019",
+                    "description": "Sponsored in part by CuriosityStream: https://www.curiositystream.com/hbomb...\n\nFacts. What are they good for?\n\nTwitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "RLqXkYrdmjY",
+                    "likes": "170,871 likes",
+                    "title": "Climate Denial: A Measured Response",
+                    "url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+                    "video_length": 2479.601,
+                    "views": "4,428,749 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+              "title": "Climate Grief | Philosophy Tube",
+              "video": {
+                "ad": null,
+                "comments": "5,613",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Aug 22, 2019",
+                "description": "rip \ud83c\udf0dhttps://www.patreon.com/PhilosophyTube\n\nSubscribe! http://tinyurl.com/pr99a46",
+                "dislikes": " Unavailable",
+                "id": "CqCx9xU_-Fw",
+                "likes": "62,250 likes",
+                "title": "Climate Grief | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+                "video_length": 1770.681,
+                "views": "960,215 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=yyzd_a6vLWY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-OcY9ZsbXuo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rc24YtUslCU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=oENI8NnTx0w&list=RDLVoENI8NnTx0w&start_radio=1&rv=oENI8NnTx0w",
+                  "title": "HBO's Chernobyl & Personal Responsibility | Philosophy Tube",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,043",
+                    "content creator": "Philosophy Tube",
+                    "date": "Premiered Sep 28, 2019",
+                    "description": "Power corrupts - literally https://www.patreon.com/PhilosophyTube\n\nSubscribe! http://tinyurl.com/pr99a46",
+                    "dislikes": " Unavailable",
+                    "id": "oENI8NnTx0w&list",
+                    "likes": "46,164 likes",
+                    "title": "HBO's Chernobyl & Personal Responsibility | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=oENI8NnTx0w&list=RDLVoENI8NnTx0w&start_radio=1&rv=oENI8NnTx0w",
+                    "video_length": 2010.781,
+                    "views": "1,086,759 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=CjZjVUWMEz0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lZ3bPUKo5zc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Ijst4g5KFN0&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=Ijst4g5KFN0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Ijst4g5KFN0",
+                  "title": "26. Chernobyl \u2014 How It Happened",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,444",
+                    "content creator": "MIT OpenCourseWare",
+                    "date": "Sep 20, 2019",
+                    "description": "MIT 22.01 Introduction to Nuclear Engineering and Ionizing Radiation, Fall 2016\nInstructor: Michael Short\nView the complete course: https://ocw.mit.edu/22-01F16",
+                    "dislikes": " Unavailable",
+                    "id": "Ijst4g5KFN0",
+                    "likes": "28,968 likes",
+                    "title": "26. Chernobyl \u2014 How It Happened",
+                    "url": "https://www.youtube.com/watch?v=Ijst4g5KFN0",
+                    "video_length": 3263.141,
+                    "views": "1,591,652 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=0AuFvboGKrQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AeGEv0YVLtw&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=AeGEv0YVLtw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ImEn_eg5w-A",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AeGEv0YVLtw",
+                  "title": "Men. Abuse. Trauma. | Philosophy Tube \u2605",
+                  "video": {
+                    "ad": null,
+                    "comments": "9,370",
+                    "content creator": "Philosophy Tube",
+                    "date": "Jul 26, 2019",
+                    "description": "A play about masculinity, anxiety, relationships, and Shrek - https://www.patreon.com/PhilosophyTube \u2605\n\nSubscribe! ",
+                    "dislikes": " Unavailable",
+                    "id": "AeGEv0YVLtw",
+                    "likes": "109,857 likes",
+                    "title": "Men. Abuse. Trauma. | Philosophy Tube \u2605",
+                    "url": "https://www.youtube.com/watch?v=AeGEv0YVLtw",
+                    "video_length": 2099.141,
+                    "views": "1,509,608 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=oENI8NnTx0w",
+              "title": "HBO's Chernobyl & Personal Responsibility | Philosophy Tube",
+              "video": {
+                "ad": null,
+                "comments": "4,043",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Sep 28, 2019",
+                "description": "Power corrupts - literally https://www.patreon.com/PhilosophyTube\n\nSubscribe! http://tinyurl.com/pr99a46",
+                "dislikes": " Unavailable",
+                "id": "oENI8NnTx0w",
+                "likes": "46,164 likes",
+                "title": "HBO's Chernobyl & Personal Responsibility | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                "video_length": 2010.781,
+                "views": "1,086,758 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+          "title": "Brexit: What Is Democracy? | Philosophy Tube",
+          "video": {
+            "ad": null,
+            "comments": "5,959",
+            "content creator": "Philosophy Tube",
+            "date": "Mar 8, 2019",
+            "description": "A Scifi Odyssey to the heart of democracy\nPatreon: http://www.patreon.com/PhilosophyTube",
+            "dislikes": " Unavailable",
+            "id": "Vr-ZeToI4R8",
+            "likes": "54,410 likes",
+            "title": "Brexit: What Is Democracy? | Philosophy Tube",
+            "url": "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+            "video_length": 2520.661,
+            "views": "1,347,828 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=K4ChzesrWKI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=F9H9LwGmc-0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Rh_iRwtPNHc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=q8NVy00tfdI&list=RDLVq8NVy00tfdI&start_radio=1&rv=q8NVy00tfdI",
+                  "title": "Logic | Philosophy Tube",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,934",
+                    "content creator": "Philosophy Tube",
+                    "date": "Jul 31, 2020",
+                    "description": "Support the show here! https://www.patreon.com/PhilosophyTube \nThanks to Space Baby for the credits song!  https://www.youtube.com/channel/UC__U...",
+                    "dislikes": " Unavailable",
+                    "id": "q8NVy00tfdI&list",
+                    "likes": "57,799 likes",
+                    "title": "Logic | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=q8NVy00tfdI&list=RDLVq8NVy00tfdI&start_radio=1&rv=q8NVy00tfdI",
+                    "video_length": 2063.481,
+                    "views": "958,276 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=e3JPe75W-Eg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=bzatw32j-i4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3duE5TzSWco",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=LRV185XaMIM",
+                  "title": "Caesar in Gaul - Roman History DOCUMENTARY",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,129",
+                    "content creator": "Kings and Generals",
+                    "date": "Jan 9, 2020",
+                    "description": "In our animated historical documentary on the Gallic War and Gaius Julius Caesar, we will cover the war between the Romans and the Celts in modern France, and the battles of Bibracte, Vosges, Axona, Sabis, Gergovia, Alesia, alongside Caesars invasions of Britain and Germany. In these battles, Caesar and his legionaries fought against Helvetii led by Divico, Suebi led by Ariovistus, Belgae led by Galba, Nervii led by Boduognatus, Britons led by Cassivellaunus, Eburones led by Ambiorix and Arverni led by Vercingetorix. The Roman Civil war against Pompey is just around the corner. \n\nOur podcast on the history of the Celts: ",
+                    "dislikes": " Unavailable",
+                    "id": "LRV185XaMIM",
+                    "likes": "64,090 likes",
+                    "title": "Caesar in Gaul - Roman History DOCUMENTARY",
+                    "url": "https://www.youtube.com/watch?v=LRV185XaMIM",
+                    "video_length": 5052.081,
+                    "views": "7,513,934 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-wrCpLJ1XAw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=NKEhdsnKKHs&list=RDLVNKEhdsnKKHs&start_radio=1&rv=NKEhdsnKKHs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=NKEhdsnKKHs",
+                  "title": "How to Argue - Philosophical Reasoning: Crash Course Philosophy #2",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,794",
+                    "content creator": "CrashCourse",
+                    "date": "Feb 16, 2016",
+                    "description": "Before we dive into the big questions of philosophy, you need to know how to argue properly. We\u2019ll start with an overview of philosophical reasoning and breakdown of how deductive arguments work (and sometimes don\u2019t work).\n\n--\n\nImages and video via VideoBlocks or Wikimedia Commons, licensed under Creative Commons by 4.0:",
+                    "dislikes": " Unavailable",
+                    "id": "NKEhdsnKKHs",
+                    "likes": "76,274 likes",
+                    "title": "How to Argue - Philosophical Reasoning: Crash Course Philosophy #2",
+                    "url": "https://www.youtube.com/watch?v=NKEhdsnKKHs",
+                    "video_length": 582.941,
+                    "views": "3,920,994 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=q8NVy00tfdI",
+              "title": "Logic | Philosophy Tube",
+              "video": {
+                "ad": null,
+                "comments": "4,934",
+                "content creator": "Philosophy Tube",
+                "date": "Jul 31, 2020",
+                "description": "Support the show here! https://www.patreon.com/PhilosophyTube \nThanks to Space Baby for the credits song!  https://www.youtube.com/channel/UC__U...",
+                "dislikes": " Unavailable",
+                "id": "q8NVy00tfdI",
+                "likes": "57,798 likes",
+                "title": "Logic | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                "video_length": 2063.481,
+                "views": "958,273 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=fLJBzhcSWTk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Y410v7OmAm4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=bFeXJkcKYaU&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=bFeXJkcKYaU",
+                  "title": "Confucius (or, What to Do When Elites Break The Rules) | Philosophy Tube",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,321",
+                    "content creator": "Philosophy Tube",
+                    "date": "Oct 2, 2020",
+                    "description": "Alternate Title - 'What to Do When Elites Break The Rules'\nhttps://www.patreon.com/PhilosophyTube",
+                    "dislikes": " Unavailable",
+                    "id": "bFeXJkcKYaU&list",
+                    "likes": "56,547 likes",
+                    "title": "Confucius (or, What to Do When Elites Break The Rules) | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=bFeXJkcKYaU&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=bFeXJkcKYaU",
+                    "video_length": 2059.921,
+                    "views": "940,855 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=R2paSGQRwvo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lnAC-Y9p_sY&list=RDCMUC8XjmAEDVZSCQjI150cb4QA&start_radio=1&rv=lnAC-Y9p_sY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=H0AGjuuX1q8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lnAC-Y9p_sY",
+                  "title": "Playing the Victim | Historical Revisionism and Japan",
+                  "video": {
+                    "ad": null,
+                    "comments": "64,234",
+                    "content creator": "Knowing Better",
+                    "date": "Jul 8, 2018",
+                    "description": "Nazi Germany always seems to be our go-to villain whenever we depict World War 2, despite the fact that Imperial Japan killed just as many people. Japan also seems to be portrayed as a victim of the war rather than one of the main aggressors. Why is that?\n\nWebsite \u25ba ",
+                    "dislikes": " Unavailable",
+                    "id": "lnAC-Y9p_sY",
+                    "likes": "167,562 likes",
+                    "title": "Playing the Victim | Historical Revisionism and Japan",
+                    "url": "https://www.youtube.com/watch?v=lnAC-Y9p_sY",
+                    "video_length": 1432.581,
+                    "views": "3,525,727 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=b1reY72ktEc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Cqbleas1mmo&list=RDLVCqbleas1mmo&start_radio=1&rv=Cqbleas1mmo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Cqbleas1mmo",
+                  "title": "The Russian Revolution - OverSimplified (Part 1)",
+                  "video": {
+                    "ad": null,
+                    "comments": "32,910",
+                    "content creator": "OverSimplified",
+                    "date": "Premiered Aug 17, 2020",
+                    "description": "Get 68% off NordVPN! Only $3.71/mo, plus you get an additional month FREE at:\nhttps://nordvpn.com/oversimplified\nUse codeword: oversimplified\n\nMERCH (Russian Revolution merch OUT NOW!) - ",
+                    "dislikes": " Unavailable",
+                    "id": "Cqbleas1mmo",
+                    "likes": "482,747 likes",
+                    "title": "The Russian Revolution - OverSimplified (Part 1)",
+                    "url": "https://www.youtube.com/watch?v=Cqbleas1mmo",
+                    "video_length": 1263.821,
+                    "views": "22,217,440 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=bFeXJkcKYaU",
+              "title": "Confucius (or, What to Do When Elites Break The Rules) | Philosophy Tube",
+              "video": {
+                "ad": null,
+                "comments": "6,321",
+                "content creator": "Philosophy Tube",
+                "date": "Oct 2, 2020",
+                "description": "Alternate Title - 'What to Do When Elites Break The Rules'\nhttps://www.patreon.com/PhilosophyTube",
+                "dislikes": " Unavailable",
+                "id": "bFeXJkcKYaU",
+                "likes": "56,547 likes",
+                "title": "Confucius (or, What to Do When Elites Break The Rules) | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=bFeXJkcKYaU",
+                "video_length": 2059.921,
+                "views": "940,854 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ATITdJg7bWI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Jl3K63Rbygw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=26EivpCPHnQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=3S7ypQQIMQk&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=3S7ypQQIMQk",
+                  "title": "Islamophobia: An Analysis | Philosophy Tube",
+                  "video": {
+                    "ad": null,
+                    "comments": "5,719",
+                    "content creator": "Philosophy Tube",
+                    "date": "Premiered Oct 8, 2021",
+                    "description": "https://curiositystream.com/philosoph...\n\nhttps://www.patreon.com/PhilosophyTube",
+                    "dislikes": " Unavailable",
+                    "id": "3S7ypQQIMQk&list",
+                    "likes": "60,182 likes",
+                    "title": "Islamophobia: An Analysis | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=3S7ypQQIMQk&list=RDCMUC2PA-AKmVpU6NKCGtZq_rKQ&start_radio=1&rv=3S7ypQQIMQk",
+                    "video_length": 2208.481,
+                    "views": "963,790 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=e8MbwOfS6kA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KAFbpWVO-ow&list=RDLVKAFbpWVO-ow&start_radio=1&rv=KAFbpWVO-ow",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5BIwf72ynS8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=KAFbpWVO-ow",
+                  "title": "Antisemitism: An Analysis | Philosophy Tube",
+                  "video": {
+                    "ad": null,
+                    "comments": "8,835",
+                    "content creator": "Philosophy Tube",
+                    "date": "Jun 1, 2020",
+                    "description": "\ud83c\uddeb\ud83c\uddf7\ud83d\udc8b\u270a https://www.patreon.com/PhilosophyTube\nSubscribe! http://tinyurl.com/pr99a46\nPaypal.me/PhilosophyTube\n\nCheck out my other videos on:\nArtists & Fandoms ",
+                    "dislikes": " Unavailable",
+                    "id": "KAFbpWVO-ow",
+                    "likes": "70,028 likes",
+                    "title": "Antisemitism: An Analysis | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=KAFbpWVO-ow",
+                    "video_length": 3346,
+                    "views": "1,307,817 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=6_5PyOreBbo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KFRohPi-1CE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rStL7niR7gs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=uqwvf6R1_QY",
+                  "title": "Climate Change Is An Absolute Nightmare - This Is Why",
+                  "video": {
+                    "ad": null,
+                    "comments": "23,588",
+                    "content creator": "UpIsNotJump",
+                    "date": "Jul 9, 2020",
+                    "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/upisnotjump2",
+                    "dislikes": " Unavailable",
+                    "id": "uqwvf6R1_QY",
+                    "likes": "137,492 likes",
+                    "title": "Climate Change Is An Absolute Nightmare - This Is Why",
+                    "url": "https://www.youtube.com/watch?v=uqwvf6R1_QY",
+                    "video_length": 1806,
+                    "views": "2,144,372 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=3S7ypQQIMQk",
+              "title": "Islamophobia: An Analysis | Philosophy Tube",
+              "video": {
+                "ad": null,
+                "comments": "5,719",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Oct 8, 2021",
+                "description": "https://curiositystream.com/philosoph...\n\nhttps://www.patreon.com/PhilosophyTube",
+                "dislikes": " Unavailable",
+                "id": "3S7ypQQIMQk",
+                "likes": "60,182 likes",
+                "title": "Islamophobia: An Analysis | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=3S7ypQQIMQk",
+                "video_length": 2208.481,
+                "views": "963,784 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=BNhj_s8flUk",
+          "title": "Amy Coney Barrett | Philosophy Tube ft. LegalEagle",
+          "video": {
+            "ad": null,
+            "comments": "6,606",
+            "content creator": "Philosophy Tube",
+            "date": "Premiered Oct 31, 2020",
+            "description": "What IS Originalism? \ud83d\udc34\ud83d\udc34\ud83d\udc34  - https://www.patreon.com/PhilosophyTube\nCheck out LegalEagle here! - https://www.youtube.com/channel/UCpa-...",
+            "dislikes": " Unavailable",
+            "id": "BNhj_s8flUk",
+            "likes": "57,426 likes",
+            "title": "Amy Coney Barrett | Philosophy Tube ft. LegalEagle",
+            "url": "https://www.youtube.com/watch?v=BNhj_s8flUk",
+            "video_length": 2131.741,
+            "views": "957,612 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+      "title": "Steve Bannon | Philosophy Tube",
+      "video": {
+        "ad": null,
+        "comments": "9,566",
+        "content creator": "Philosophy Tube",
+        "date": "Premiered Feb 4, 2019",
+        "description": "Alternate title - Why Do We Build the Wall?\nPatreon: http://www.patreon.com/PhilosophyTube",
+        "dislikes": " Unavailable",
+        "id": "wO6uD3c2qMo",
+        "likes": "70,792 likes",
+        "title": "Steve Bannon | Philosophy Tube",
+        "url": "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+        "video_length": 2697.061,
+        "views": "2,178,236 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=_CkkSjHX8-E",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AfJIgsFHX0Q&list=RDLVAfJIgsFHX0Q&start_radio=1&rv=AfJIgsFHX0Q",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=n0GGGPW-Dvg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AfJIgsFHX0Q",
+                  "title": "Understanding The Man Who Sold The World",
+                  "video": {
+                    "ad": null,
+                    "comments": "540",
+                    "content creator": "12tone",
+                    "date": "Nov 5, 2021",
+                    "description": "The Man Who Sold The World is a haunting song with a haunting legacy. Its story is ambiguous and vague, leaving plenty of room for interpretation. Who is this man, who did he sell the world to, and most importantly, what even is a gazely stare? It's hard to say for sure, but however you choose to read the song, it's drenched in pain and loss, and those same feelings have inspired musicians for generations since Bowie first wrote it.\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "AfJIgsFHX0Q",
+                    "likes": "15,057 likes",
+                    "title": "Understanding The Man Who Sold The World",
+                    "url": "https://www.youtube.com/watch?v=AfJIgsFHX0Q",
+                    "video_length": 1063.421,
+                    "views": "309,945 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=kzA4PNj9Wuo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=yIR4OtdOK7E",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=FDi1M6ns9Dc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=tr0BRZfIY5U&list=RDLVtr0BRZfIY5U&start_radio=1&rv=tr0BRZfIY5U",
+                  "title": "Understanding Carry On Wayward Son",
+                  "video": {
+                    "ad": null,
+                    "comments": "646",
+                    "content creator": "12tone",
+                    "date": "Oct 8, 2021",
+                    "description": "Carry On Wayward Son is one of those songs that's both totally unique and perfectly emblematic of a larger musical movement. There's nothing quite like it, but it still captures the sound of rock music in the mid '70s, and that blend of the unconventional and the iconic singlehandedly changed the fortunes of a struggling rock band. Kansas had built a following, but Carry On put them on the map, and almost 50 years later, it still stands as one of the greatest classic rock anthems ever recorded.\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "tr0BRZfIY5U&list",
+                    "likes": "8,133 likes",
+                    "title": "Understanding Carry On Wayward Son",
+                    "url": "https://www.youtube.com/watch?v=tr0BRZfIY5U&list=RDLVtr0BRZfIY5U&start_radio=1&rv=tr0BRZfIY5U",
+                    "video_length": 1283.001,
+                    "views": "182,565 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=tH2w6Oxx0kQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=2X_2IdybTV0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=BciS5krYL80",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=P5ZJui3aPoQ",
+                  "title": "Kansas - Carry on Wayward Son (Official Video)",
+                  "video": {
+                    "ad": null,
+                    "comments": "23,678",
+                    "content creator": "KANSAS",
+                    "date": "Feb 15, 2017",
+                    "description": "Official Video for \u201cCarry On Wayward Son\u201d by Kansas\nListen to Kansas: https://Kansas.lnk.to/listenYD\nWatch more videos by Kansas: https://Kansas.lnk.to/listenYD/youtube",
+                    "dislikes": " Unavailable",
+                    "id": "P5ZJui3aPoQ",
+                    "likes": "577,381 likes",
+                    "title": "Kansas - Carry on Wayward Son (Official Video)",
+                    "url": "https://www.youtube.com/watch?v=P5ZJui3aPoQ",
+                    "video_length": 323.921,
+                    "views": "57,603,340 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=tr0BRZfIY5U",
+              "title": "Understanding Carry On Wayward Son",
+              "video": {
+                "ad": null,
+                "comments": "646",
+                "content creator": "12tone",
+                "date": "Oct 8, 2021",
+                "description": "Carry On Wayward Son is one of those songs that's both totally unique and perfectly emblematic of a larger musical movement. There's nothing quite like it, but it still captures the sound of rock music in the mid '70s, and that blend of the unconventional and the iconic singlehandedly changed the fortunes of a struggling rock band. Kansas had built a following, but Carry On put them on the map, and almost 50 years later, it still stands as one of the greatest classic rock anthems ever recorded.\n\nPatreon: ",
+                "dislikes": " Unavailable",
+                "id": "tr0BRZfIY5U",
+                "likes": "8,133 likes",
+                "title": "Understanding Carry On Wayward Son",
+                "url": "https://www.youtube.com/watch?v=tr0BRZfIY5U",
+                "video_length": 1283.001,
+                "views": "182,563 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=4YgsvITe7IU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=k6XtUoZ0Z9Q&list=RDCMUCTUtqcDkzw7bisadh6AOx5w&start_radio=1&rv=k6XtUoZ0Z9Q",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5pidokakU4I",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=k6XtUoZ0Z9Q",
+                  "title": "Understanding Bohemian Rhapsody's Opera",
+                  "video": {
+                    "ad": null,
+                    "comments": "359",
+                    "content creator": "12tone",
+                    "date": "Feb 4, 2022",
+                    "description": "Last week I tried to analyze Bohemian Rhapsody, and after it took me 21 minutes to get through the first 3 minutes of the song, I decided I needed to make it two videos, so... here's the second one! This one starts with the opera section and goes through the rest of it from there. Honestly, these are some of the most interesting parts of the song, the parts that really make it unique in the rock canon, so this video turned out even longer. Whoops!\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "k6XtUoZ0Z9Q",
+                    "likes": "5,220 likes",
+                    "title": "Understanding Bohemian Rhapsody's Opera",
+                    "url": "https://www.youtube.com/watch?v=k6XtUoZ0Z9Q",
+                    "video_length": 1411.101,
+                    "views": "86,120 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=QEgalcH_-b4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=na_bC36uBQo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=YXh9RQCvxmg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=1TzbiX12vBA&list=RDCMUCTUtqcDkzw7bisadh6AOx5w&start_radio=1&rv=1TzbiX12vBA",
+                  "title": "This Is The Most Important Instrument In The World",
+                  "video": {
+                    "ad": null,
+                    "comments": "484",
+                    "content creator": "12tone",
+                    "date": "Oct 22, 2021",
+                    "description": "How voices work.\nGet 26% off CuriosityStream and a free Nebula account: http://www.curiositystream.com/12tone and use promo code \"12tone\"\n\nMany instruments have defined many musical movements over the years, but there's one that's played a pivotal role in almost every one: The human voice. The way a singer uses their voice is one of the clearest ways of shaping a musical identity. Despite its clear significance, though, or perhaps because of it, the voice is notoriously hard to analyze. There's so many factors that it's hard to know where to begin, but hey, let's give it a shot.\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "1TzbiX12vBA&list",
+                    "likes": "3,984 likes",
+                    "title": "This Is The Most Important Instrument In The World",
+                    "url": "https://www.youtube.com/watch?v=1TzbiX12vBA&list=RDCMUCTUtqcDkzw7bisadh6AOx5w&start_radio=1&rv=1TzbiX12vBA",
+                    "video_length": 1396.921,
+                    "views": "74,647 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=1yXWAKG1Pec&list=RDCMUCTUtqcDkzw7bisadh6AOx5w&start_radio=1&rv=1yXWAKG1Pec",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=OEIk3bJtTNw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=2_ZhauJMvyU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=1yXWAKG1Pec",
+                  "title": "The Surprising Enemy Of Good Songwriting",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,235",
+                    "content creator": "12tone",
+                    "date": "Jan 31, 2020",
+                    "description": "Is musical cleverness a double-edged sword?\nTry CuriosityStream free and get Nebula included: http://www.curiositystream.com/12tone and use promo code \"12tone\"\n\nWriting good songs requires a lot of practice and experience, but if you don't have that experience it can be hard to know what to practice. Fortunately, most new songwriters tend to make the same sorts of mistakes, especially if you're willing to abstract away some of the details, so today I thought I'd offer some guidance in how to handle what is, I think, one of the most common mistakes of all: Trying to get too clever. It's a really tempting trap, and all of us fall into it at one point or another in our development, but with a little attention to detail, it's really not that hard to get past. You just have to realize you're doing it first.\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "1yXWAKG1Pec",
+                    "likes": "28,993 likes",
+                    "title": "The Surprising Enemy Of Good Songwriting",
+                    "url": "https://www.youtube.com/watch?v=1yXWAKG1Pec",
+                    "video_length": 495.761,
+                    "views": "633,205 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=1TzbiX12vBA",
+              "title": "This Is The Most Important Instrument In The World",
+              "video": {
+                "ad": null,
+                "comments": "484",
+                "content creator": "12tone",
+                "date": "Oct 22, 2021",
+                "description": "How voices work.\nGet 26% off CuriosityStream and a free Nebula account: http://www.curiositystream.com/12tone and use promo code \"12tone\"\n\nMany instruments have defined many musical movements over the years, but there's one that's played a pivotal role in almost every one: The human voice. The way a singer uses their voice is one of the clearest ways of shaping a musical identity. Despite its clear significance, though, or perhaps because of it, the voice is notoriously hard to analyze. There's so many factors that it's hard to know where to begin, but hey, let's give it a shot.\n\nPatreon: ",
+                "dislikes": " Unavailable",
+                "id": "1TzbiX12vBA",
+                "likes": "3,983 likes",
+                "title": "This Is The Most Important Instrument In The World",
+                "url": "https://www.youtube.com/watch?v=1TzbiX12vBA",
+                "video_length": 1396.921,
+                "views": "74,645 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=zm01bKJpvFc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=QEjANevZVfw&list=RDLVQEjANevZVfw&start_radio=1&rv=QEjANevZVfw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=v2AC41dglnM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=QEjANevZVfw",
+                  "title": "You're Playing Bach Wrong",
+                  "video": {
+                    "ad": null,
+                    "comments": "833",
+                    "content creator": "12tone",
+                    "date": "Sep 24, 2021",
+                    "description": "Or, I mean, at least there's some history to consider.\nGet 26% off CuriosityStream and a free Nebula account: http://www.curiositystream.com/12tone and use promo code \"12tone\"\n\nEveryone knows what Bach's music sounds like, right? We've all heard his stuff played thousands of times in all sorts of places, from concert halls to TV shows to your own piano lessons, but even so, do you *really* know what it sounds like? Or is there something missing from all these renditions, something that would make the whole experience complete? Well, that... I mean, that depends what you're looking for, but maybe!\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "QEjANevZVfw",
+                    "likes": "8,325 likes",
+                    "title": "You're Playing Bach Wrong",
+                    "url": "https://www.youtube.com/watch?v=QEjANevZVfw",
+                    "video_length": 960.241,
+                    "views": "188,435 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Ah11JxMCcYE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wBEAjjioZFI&list=RDCMUCo_IB5145EVNcf8hw1Kku7w&start_radio=1&rv=wBEAjjioZFI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=5PmV6w-rHUw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=wBEAjjioZFI",
+                  "title": "Game Theory: FNAF, The Clue That ALMOST Solves Everything! (FNAF Security Breach)",
+                  "video": {
+                    "ad": null,
+                    "comments": "17,141",
+                    "content creator": "The Game Theorists",
+                    "date": "Feb 19, 2022",
+                    "description": "Get yourself The Quest Jacket and SOLVE our mystery! \u25ba theorywear.com/products/quest-jacket\n\nTheorists, I am finally ready to talk about it. You know what I mean. The secret CDs from FNAF Security Breach. I've mentioned them in previous theories but I've never really TALKED about them. You see, they seem to be the key to EVERYTHING... except they aren't. Theorists, I think Five Nights at Freddy's finally broke its own lore... and maybe for good.\n\nTune in for our LIVE FNAF Theory talkback TODAY at 11 AM PST! \u25ba ",
+                    "dislikes": " Unavailable",
+                    "id": "wBEAjjioZFI",
+                    "likes": "333,399 likes",
+                    "title": "Game Theory: FNAF, The Clue That ALMOST Solves Everything! (FNAF Security Breach)",
+                    "url": "https://www.youtube.com/watch?v=wBEAjjioZFI",
+                    "video_length": 1512,
+                    "views": "2,938,476 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=BRHefbIgKxk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7ZY1ghNr_fU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=53N99Nim6WE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Ez8Ljhv9dyw&list=RDCMUCTUtqcDkzw7bisadh6AOx5w&start_radio=1&rv=Ez8Ljhv9dyw",
+                  "title": "Understanding Bohemian Rhapsody",
+                  "video": {
+                    "ad": null,
+                    "comments": "398",
+                    "content creator": "12tone",
+                    "date": "Jan 28, 2022",
+                    "description": "So... Bohemian Rhapsody. Do I have to tell you what this song is? Probably not. It's one of the most well-known, beloved rock songs ever made, and a long time ago, I promised that if I ever reached 500,000 subscribers, I'd turn my analytical lens on it. We finally made it, so... here it is. Analyzing this song was a daunting task, but it's hard to imagine a song more deserving. I hope you enjoy this one, 'cause it was a lot of work.\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "Ez8Ljhv9dyw&list",
+                    "likes": "8,022 likes",
+                    "title": "Understanding Bohemian Rhapsody",
+                    "url": "https://www.youtube.com/watch?v=Ez8Ljhv9dyw&list=RDCMUCTUtqcDkzw7bisadh6AOx5w&start_radio=1&rv=Ez8Ljhv9dyw",
+                    "video_length": 1302.921,
+                    "views": "107,454 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Ez8Ljhv9dyw",
+              "title": "Understanding Bohemian Rhapsody",
+              "video": {
+                "ad": null,
+                "comments": "398",
+                "content creator": "12tone",
+                "date": "Jan 28, 2022",
+                "description": "So... Bohemian Rhapsody. Do I have to tell you what this song is? Probably not. It's one of the most well-known, beloved rock songs ever made, and a long time ago, I promised that if I ever reached 500,000 subscribers, I'd turn my analytical lens on it. We finally made it, so... here it is. Analyzing this song was a daunting task, but it's hard to imagine a song more deserving. I hope you enjoy this one, 'cause it was a lot of work.\n\nPatreon: ",
+                "dislikes": " Unavailable",
+                "id": "Ez8Ljhv9dyw",
+                "likes": "8,022 likes",
+                "title": "Understanding Bohemian Rhapsody",
+                "url": "https://www.youtube.com/watch?v=Ez8Ljhv9dyw",
+                "video_length": 1302.921,
+                "views": "107,436 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=tODG4Xt45bU",
+          "title": "No, Today's Music Isn't Boring (A Response To Rick Beato)",
+          "video": {
+            "ad": null,
+            "comments": "7,593",
+            "content creator": "12tone",
+            "date": "Jul 16, 2021",
+            "description": "Look I don't want to start a fight but we need to talk about this.\nThe first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/12tone07210",
+            "dislikes": " Unavailable",
+            "id": "tODG4Xt45bU",
+            "likes": "26,532 likes",
+            "title": "No, Today's Music Isn't Boring (A Response To Rick Beato)",
+            "url": "https://www.youtube.com/watch?v=tODG4Xt45bU",
+            "video_length": 903.061,
+            "views": "385,436 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=H4KIwA8O9LU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=DVPq_-oJV5U&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=DVPq_-oJV5U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wD7YQEqW1gQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=DVPq_-oJV5U",
+                  "title": "What key is Sweet Home Alabama in?",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,240",
+                    "content creator": "Adam Neely",
+                    "date": "Dec 3, 2019",
+                    "description": "It's in D.\n\nThanks for watching!\n\nActually, it might be a bit more complicated than that. It, along with many other songs in Rock and Pop music, uses a chord loop vamp as its harmonic scheme, and because of that, it might show something that ethnomusicologist Peter Manuel calls \"Dual Tonicity.\" So...it's kind of in both the key of D and G at the same time. Neat!\n\nEthan Hein\u2019s Blog Post on Phillip Tagg",
+                    "dislikes": " Unavailable",
+                    "id": "DVPq_-oJV5U",
+                    "likes": "33,397 likes",
+                    "title": "What key is Sweet Home Alabama in?",
+                    "url": "https://www.youtube.com/watch?v=DVPq_-oJV5U",
+                    "video_length": 589.081,
+                    "views": "676,946 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=H_XS5rVtTk4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=CZP6nogQYPg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=azz2UuOKIBo",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=DVvmALPu5TU&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=DVvmALPu5TU",
+                  "title": "What Key is Hey Joe in?",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,301",
+                    "content creator": "Adam Neely",
+                    "date": "Mar 15, 2021",
+                    "description": "It's in E.\n\nThat's about it. Thanks for watching!\n\nBlues Tonality",
+                    "dislikes": " Unavailable",
+                    "id": "DVvmALPu5TU&list",
+                    "likes": "33,987 likes",
+                    "title": "What Key is Hey Joe in?",
+                    "url": "https://www.youtube.com/watch?v=DVvmALPu5TU&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=DVvmALPu5TU",
+                    "video_length": 1053.921,
+                    "views": "468,509 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=TLV4_xaYynY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=rXwMrBb2x1Q&list=RDrXwMrBb2x1Q&start_radio=1&rv=rXwMrBb2x1Q",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=04v-SdKeEpE&list=RDCLAK5uy_mfut9V_o1n9nVG_m5yZ3ztCif29AHUffI&start_radio=1&rv=rXwMrBb2x1Q",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=rXwMrBb2x1Q",
+                  "title": "The Jimi Hendrix Experience - Hey Joe (Official Audio)",
+                  "video": {
+                    "ad": null,
+                    "comments": "7,048",
+                    "content creator": "Jimi Hendrix",
+                    "date": "Feb 26, 2013",
+                    "description": "Click to subscribe: http://smarturl.it/SubscribeJHVevo?IQ...\n\nListen to Jimi Hendrix on Spotify: http://smarturl.it/JimiHSpotify?IQid=...",
+                    "dislikes": " Unavailable",
+                    "id": "rXwMrBb2x1Q",
+                    "likes": "236,856 likes",
+                    "title": "The Jimi Hendrix Experience - Hey Joe (Official Audio)",
+                    "url": "https://www.youtube.com/watch?v=rXwMrBb2x1Q",
+                    "video_length": 227.221,
+                    "views": "30,334,619 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=DVvmALPu5TU",
+              "title": "What Key is Hey Joe in?",
+              "video": {
+                "ad": null,
+                "comments": "3,301",
+                "content creator": "Adam Neely",
+                "date": "Mar 15, 2021",
+                "description": "It's in E.\n\nThat's about it. Thanks for watching!\n\nBlues Tonality",
+                "dislikes": " Unavailable",
+                "id": "DVvmALPu5TU",
+                "likes": "33,987 likes",
+                "title": "What Key is Hey Joe in?",
+                "url": "https://www.youtube.com/watch?v=DVvmALPu5TU",
+                "video_length": 1053.921,
+                "views": "468,509 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ec7D6KOgCIQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=X2EJp8IHrBI&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=X2EJp8IHrBI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=OS8taasZl8k",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=X2EJp8IHrBI",
+                  "title": "What is the Neapolitan Chord? | Music Theory Q+A",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,047",
+                    "content creator": "Adam Neely",
+                    "date": "Jun 2, 2021",
+                    "description": "Answering your music theory questions!\nThe first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/adamneely05211",
+                    "dislikes": " Unavailable",
+                    "id": "X2EJp8IHrBI",
+                    "likes": "20,898 likes",
+                    "title": "What is the Neapolitan Chord? | Music Theory Q+A",
+                    "url": "https://www.youtube.com/watch?v=X2EJp8IHrBI",
+                    "video_length": 952.261,
+                    "views": "386,728 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=48sCx-wBs34",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=094y1Z2wpJg&list=RDCMUCHnyfMqiRRG1u-2MsSQLbXA&start_radio=1&rv=094y1Z2wpJg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ovJcsL7vyrk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=094y1Z2wpJg",
+                  "title": "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
+                  "video": {
+                    "ad": null,
+                    "comments": "60,846",
+                    "content creator": "Veritasium",
+                    "date": "Jul 30, 2021",
+                    "description": "The Collatz Conjecture is the simplest math problem no one can solve \u2014 it is easy enough for almost anyone to understand but notoriously difficult to solve. This video is sponsored by Brilliant. The first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription.\n\nSpecial thanks to Prof. Alex Kontorovich for introducing us to this topic, filming the interview, and consulting on the script and earlier drafts of this video.\n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580 \nReferences:\nLagarias, J. C. (2006). The 3x+ 1 problem: An annotated bibliography, II (2000-2009). arXiv preprint math/0608208. \u2014 ",
+                    "dislikes": " Unavailable",
+                    "id": "094y1Z2wpJg",
+                    "likes": "672,083 likes",
+                    "title": "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
+                    "url": "https://www.youtube.com/watch?v=094y1Z2wpJg",
+                    "video_length": 1328.521,
+                    "views": "23,495,169 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=XAzGewEWfHs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wMkYIP6j2a0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=es3EXJl5oo8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=aoYzFBxS_JU",
+                  "title": "The intro music of Adam Neely's Bass lessons but slow",
+                  "video": {
+                    "ad": null,
+                    "comments": "23",
+                    "content creator": "osobuco donosor",
+                    "date": "Apr 2, 2021",
+                    "description": "#BASS #adamneely #basslessons #basslesson #tutorial",
+                    "dislikes": " Unavailable",
+                    "id": "aoYzFBxS_JU",
+                    "likes": "464 likes",
+                    "title": "The intro music of Adam Neely's Bass lessons but slow",
+                    "url": "https://www.youtube.com/watch?v=aoYzFBxS_JU",
+                    "video_length": 53.801,
+                    "views": "12,417 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=3MhwGnq4N9o&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=3MhwGnq4N9o",
+              "title": "The Great Myth of the Medieval Tritone Ban",
+              "video": {
+                "ad": null,
+                "comments": "5,135",
+                "content creator": "Adam Neely",
+                "date": "Aug 2, 2021",
+                "description": "Debunking the great myth!\nGet CuriosityStream AND Nebula for 26% off! \nhttps://curiositystream.com/adamneely",
+                "dislikes": " Unavailable",
+                "id": "3MhwGnq4N9o&list",
+                "likes": "49,917 likes",
+                "title": "The Great Myth of the Medieval Tritone Ban",
+                "url": "https://www.youtube.com/watch?v=3MhwGnq4N9o&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=3MhwGnq4N9o",
+                "video_length": 1958.301,
+                "views": "699,325 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=l_BvAjyFWig",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9RDCVM8R5YM&list=RDLV9RDCVM8R5YM&start_radio=1&rv=9RDCVM8R5YM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lVwF6Y8WynA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=9RDCVM8R5YM",
+                  "title": "Hip Hop's Greatest Invention",
+                  "video": {
+                    "ad": null,
+                    "comments": "665",
+                    "content creator": "12tone",
+                    "date": "Jun 12, 2020",
+                    "description": "Or why hip-hop lyrics are a million times more complicated than any other style.\nSupport the National Bail Fund Network: https://secure.actblue.com/donate/bai...\nBLM resources: https://blacklivesmatters.carrd.co/",
+                    "dislikes": " Unavailable",
+                    "id": "9RDCVM8R5YM",
+                    "likes": "5,957 likes",
+                    "title": "Hip Hop's Greatest Invention",
+                    "url": "https://www.youtube.com/watch?v=9RDCVM8R5YM",
+                    "video_length": 883.741,
+                    "views": "79,754 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=rZbkY_RRL2A",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IXE-ZMyHNm8&list=RDCMUCTUtqcDkzw7bisadh6AOx5w&start_radio=1&rv=IXE-ZMyHNm8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=unQZvhQ9Giw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=IXE-ZMyHNm8",
+                  "title": "Understanding Iron Man",
+                  "video": {
+                    "ad": null,
+                    "comments": "637",
+                    "content creator": "12tone",
+                    "date": "Dec 4, 2020",
+                    "description": "Black Sabbath were among the first pioneers of heavy metal, and their work has had a profound influence on generations of metal artists. Choices they made on their early albums have had ripple effects through the decades, helping shape the genre into what it is today, so in order to better understand one of my favorite styles of music, I thought it was finally time to go back to the source. Iron Man is one of the most enduring tracks from those early Sabbath days, and its almost cinematic approach to songwriting makes it a classic in its own right.\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "IXE-ZMyHNm8",
+                    "likes": "13,564 likes",
+                    "title": "Understanding Iron Man",
+                    "url": "https://www.youtube.com/watch?v=IXE-ZMyHNm8",
+                    "video_length": 839.461,
+                    "views": "340,596 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=M-aIk7GUpW0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Yjyj8qnqkYI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0J2QdDbelmY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ZeytZ8qvbTk&list=RDLVZeytZ8qvbTk&start_radio=1&rv=ZeytZ8qvbTk",
+                  "title": "Understanding Seven Nation Army",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,190",
+                    "content creator": "12tone",
+                    "date": "Jul 2, 2021",
+                    "description": "Seven Nation Army is arguably the most iconic bassline ever recorded. It's been adapted by countless musicians, and it's even become a stadium chant. But how did that happen? How did this humble walk down the minor scale become such a global sensation, and what can it teach us about the power of repetition?\n\nPatreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "ZeytZ8qvbTk&list",
+                    "likes": "15,534 likes",
+                    "title": "Understanding Seven Nation Army",
+                    "url": "https://www.youtube.com/watch?v=ZeytZ8qvbTk&list=RDLVZeytZ8qvbTk&start_radio=1&rv=ZeytZ8qvbTk",
+                    "video_length": 1069.601,
+                    "views": "313,740 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ZeytZ8qvbTk",
+              "title": "Understanding Seven Nation Army",
+              "video": {
+                "ad": null,
+                "comments": "1,190",
+                "content creator": "12tone",
+                "date": "Jul 2, 2021",
+                "description": "Seven Nation Army is arguably the most iconic bassline ever recorded. It's been adapted by countless musicians, and it's even become a stadium chant. But how did that happen? How did this humble walk down the minor scale become such a global sensation, and what can it teach us about the power of repetition?\n\nPatreon: ",
+                "dislikes": " Unavailable",
+                "id": "ZeytZ8qvbTk",
+                "likes": "15,534 likes",
+                "title": "Understanding Seven Nation Army",
+                "url": "https://www.youtube.com/watch?v=ZeytZ8qvbTk",
+                "video_length": 1069.601,
+                "views": "313,738 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=3MhwGnq4N9o",
+          "title": "The Great Myth of the Medieval Tritone Ban",
+          "video": {
+            "ad": null,
+            "comments": "5,135",
+            "content creator": "Adam Neely",
+            "date": "Aug 2, 2021",
+            "description": "Debunking the great myth!\nGet CuriosityStream AND Nebula for 26% off! \nhttps://curiositystream.com/adamneely",
+            "dislikes": " Unavailable",
+            "id": "3MhwGnq4N9o",
+            "likes": "49,917 likes",
+            "title": "The Great Myth of the Medieval Tritone Ban",
+            "url": "https://www.youtube.com/watch?v=3MhwGnq4N9o",
+            "video_length": 1958.301,
+            "views": "699,325 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=VR3o45Pwx9Y",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=J0NAoQbmNwY&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=J0NAoQbmNwY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9rEqrPwVITY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=J0NAoQbmNwY",
+                  "title": "What's in between Major and Minor chords? | Q+A",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,880",
+                    "content creator": "Adam Neely",
+                    "date": "Apr 27, 2020",
+                    "description": "Also, how did you write a musical in 24 hours, do you like barbershop harmony, and what's your favorite intro to the Wire?\n\n\u29bf Adam Neely T-shirts! \u29bf",
+                    "dislikes": " Unavailable",
+                    "id": "J0NAoQbmNwY",
+                    "likes": "42,463 likes",
+                    "title": "What's in between Major and Minor chords? | Q+A",
+                    "url": "https://www.youtube.com/watch?v=J0NAoQbmNwY",
+                    "video_length": 781.861,
+                    "views": "995,012 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=wGStbygOu94",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3Wc0B7v_Dy8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7U8o2kg3Rww",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ghUs-84NAAU&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=ghUs-84NAAU",
+                  "title": "Testing 432 Hz Frequencies (and temperaments)",
+                  "video": {
+                    "ad": null,
+                    "comments": "13,395",
+                    "content creator": "Adam Neely",
+                    "date": "Jul 12, 2019",
+                    "description": "432 Hz might be how we should be tuning our instruments, but....\n\n...most justifications for 432 require it to be in really wacky tuning systems for the numbers to make any sort of numerological sense. I actually tested some of these tuning systems to hear how they sound.\n\nTHE THREE TUNINGS I USED\n\nSonic Geometry: The Language of Frequency and Form",
+                    "dislikes": " Unavailable",
+                    "id": "ghUs-84NAAU&list",
+                    "likes": "99,221 likes",
+                    "title": "Testing 432 Hz Frequencies (and temperaments)",
+                    "url": "https://www.youtube.com/watch?v=ghUs-84NAAU&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=ghUs-84NAAU",
+                    "video_length": 845.461,
+                    "views": "2,780,356 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=FdwQ-zHTa0c",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=LjR0WpWwLrE&list=RDLjR0WpWwLrE&start_radio=1&rv=LjR0WpWwLrE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_n7gscYo0ek",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=LjR0WpWwLrE",
+                  "title": "What's the Deal With A = 440 Hz vs 432 Hz? Let's Talk!",
+                  "video": {
+                    "ad": null,
+                    "comments": "803",
+                    "content creator": "Rick Beato",
+                    "date": "May 8, 2017",
+                    "description": "This is by far the most frequent question I get asked so I finally decided to weigh in on it. I brought in 3 experts to weigh in as well. What are your thoughts?\n\nLinks to Follow:\n\nIf you are interested in purchasing The Beato Book please email me at rickbeato1@gmail.com\n\nIf you would like to donate to my channel to support my video creation you can use my PayPal address rickbeato1@gmail.com\n\nSkype Lessons are available on a limited basis. If you are interested please write me at rickbeato1@gmail.com\n\nYouTube - ",
+                    "dislikes": " Unavailable",
+                    "id": "LjR0WpWwLrE",
+                    "likes": "5,158 likes",
+                    "title": "What's the Deal With A = 440 Hz vs 432 Hz? Let's Talk!",
+                    "url": "https://www.youtube.com/watch?v=LjR0WpWwLrE",
+                    "video_length": 173.781,
+                    "views": "218,697 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ghUs-84NAAU",
+              "title": "Testing 432 Hz Frequencies (and temperaments)",
+              "video": {
+                "ad": null,
+                "comments": "13,395",
+                "content creator": "Adam Neely",
+                "date": "Jul 12, 2019",
+                "description": "432 Hz might be how we should be tuning our instruments, but....\n\n...most justifications for 432 require it to be in really wacky tuning systems for the numbers to make any sort of numerological sense. I actually tested some of these tuning systems to hear how they sound.\n\nTHE THREE TUNINGS I USED\n\nSonic Geometry: The Language of Frequency and Form",
+                "dislikes": " Unavailable",
+                "id": "ghUs-84NAAU",
+                "likes": "99,221 likes",
+                "title": "Testing 432 Hz Frequencies (and temperaments)",
+                "url": "https://www.youtube.com/watch?v=ghUs-84NAAU",
+                "video_length": 845.461,
+                "views": "2,780,326 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=UxIJPO-Jric",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=x_4Ph_YeX8k",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lrRl065BR2w",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=-yQ0WKlgSZU",
+                  "title": "George Martin Discusses The Beatles Albums",
+                  "video": {
+                    "ad": null,
+                    "comments": "371",
+                    "content creator": "Panflute",
+                    "date": "Jan 21, 2022",
+                    "description": "An interview with music producer George Martin conducted in 1993, where he talks about producing The Beatles Albums.\n\nWe hope you enjoy our videos and consider donating to our Patreon if you do; ",
+                    "dislikes": " Unavailable",
+                    "id": "-yQ0WKlgSZU",
+                    "likes": "1,710 likes",
+                    "title": "George Martin Discusses The Beatles Albums",
+                    "url": "https://www.youtube.com/watch?v=-yQ0WKlgSZU",
+                    "video_length": 4684.421,
+                    "views": "88,019 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=5a4ea6fdFPQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=e5n9tOGIun8&list=RDCMUChFur_NwVSbUozOcF_F2kMg&start_radio=1&rv=e5n9tOGIun8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=EYelCj5Eg88",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=e5n9tOGIun8",
+                  "title": "Playing with New Blocks in Minecraft 1.19: Deep Dark",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,057",
+                    "content creator": "Mumbo Jumbo",
+                    "date": "Feb 19, 2022",
+                    "description": "In this Mumbo Jumbo Minecraft redstone video, I'm experimenting with new features in Minecraft 1.19: Deep Dark Experimental Snapshot. The Latest Minecraft Snapshot for the new Minecraft update introduces a lot of the features of the Minecraft: Deep Dark update. This includes Minecraft ancient cities, Minecraft sculk blocks, Minecraft Sculk sensors, the Minecraft warden and more. Playing with  New Blocks in Minecraft 1.19: Deep Dark taught me a lot about what we can expect in the next update.\n\nMy Minecraft servers are provided by Nodecraft! Following this link gives you 30% off: ",
+                    "dislikes": " Unavailable",
+                    "id": "e5n9tOGIun8",
+                    "likes": "49,016 likes",
+                    "title": "Playing with New Blocks in Minecraft 1.19: Deep Dark",
+                    "url": "https://www.youtube.com/watch?v=e5n9tOGIun8",
+                    "video_length": 690.161,
+                    "views": "682,981 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=50m2Q7wPUFg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AIxY_Y9TGWI&list=RDAIxY_Y9TGWI&start_radio=1&rv=AIxY_Y9TGWI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=MCxzMYVvHBg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AIxY_Y9TGWI",
+                  "title": "Corporate Music - How to Compose with no Soul",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,550",
+                    "content creator": "Tantacrul",
+                    "date": "Oct 18, 2019",
+                    "description": "In this video I explore how corporatism produces soulless music, some of which is amusingly awful! I also explore how tech and oil companies with dubious business practices use music as part of propaganda campaigns to convince the public that they support ecological activism. With some music theory thrown in along the way, I also compose a few kinds of different corporate styles to show the various tropes that exist. Some of it is blundering nonsense. Some of it is a little more sinister. All of it is garbage. Enjoy!\n\n---\n\nTwitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "AIxY_Y9TGWI",
+                    "likes": "124,865 likes",
+                    "title": "Corporate Music - How to Compose with no Soul",
+                    "url": "https://www.youtube.com/watch?v=AIxY_Y9TGWI",
+                    "video_length": 926.861,
+                    "views": "1,579,361 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=nUHEPmg0sPo&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=nUHEPmg0sPo",
+              "title": "This BPM is trash, and here's why",
+              "video": {
+                "ad": null,
+                "comments": "1,928",
+                "content creator": "Adam Neely",
+                "date": "Feb 18, 2022",
+                "description": "The perceptual limits of tempo, and why decimal points in BPMs are trash.\n\ud83e\udde0 Get CuriosityStream and Nebula for 26% off! \ud83e\udde0 \nhttps://curiositystream.com/adamneely",
+                "dislikes": " Unavailable",
+                "id": "nUHEPmg0sPo&list",
+                "likes": "19,571 likes",
+                "title": "This BPM is trash, and here's why",
+                "url": "https://www.youtube.com/watch?v=nUHEPmg0sPo&list=RDCMUCnkp4xDOwqqJD7sSM3xdUiQ&start_radio=1&rv=nUHEPmg0sPo",
+                "video_length": 1198.881,
+                "views": "304,585 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=fSE_Nm7pAw4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=gidJopKtcnc&list=RDCMUCWFKCr40YwOZQx8FHU_ZqqQ&start_radio=1&rv=gidJopKtcnc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XkmFDMPE4L0",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=gidJopKtcnc",
+                  "title": "Want a Ride? - My Electric Hummer Battery is MOUNTED!!",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,813",
+                    "content creator": "JerryRigEverything",
+                    "date": "Feb 19, 2022",
+                    "description": "It is time to take our FIRST DRIVE in my Electric Hummer! Get your first month FREE with any Kiwico Subscription: https://www.kiwico.com/JerryRig  This day has been in the works for a very long time. I started taking apart my Military Hummer January of 2021, and here we are taking it for a spin with its electric motors in February of 2022. A full year of hard work and learning later. Thank you for joining me on this adventure! Its been super fun and we have a lot more work to do! Should we add some Solar panels to the top?! I think so. \n\nGrab your Whisper Project shirt (since its not a Hummer any more) here: ",
+                    "dislikes": " Unavailable",
+                    "id": "gidJopKtcnc",
+                    "likes": "45,890 likes",
+                    "title": "Want a Ride? - My Electric Hummer Battery is MOUNTED!!",
+                    "url": "https://www.youtube.com/watch?v=gidJopKtcnc",
+                    "video_length": 1869.741,
+                    "views": "551,511 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=ir_GliLHuEg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=W2wPqhZk06g",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=XiiKFeKmkfw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=cjGqxbsY9JA&list=RDCMUCXuqSBlHAE6Xw-yeJA0Tunw&start_radio=1&rv=cjGqxbsY9JA",
+                  "title": "This Seems Like a BAD Idea - Intel $5,000 Extreme Tech Upgrade",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,063",
+                    "content creator": "Linus Tech Tips",
+                    "date": "Feb 19, 2022",
+                    "description": "Thanks to Intel for continuing to sponsor this series! Check out Intel 12th Gen Processors at https://geni.us/uNekg\nCheck Out Colin's Upgrade Part List: https://lmg.gg/FKEZs",
+                    "dislikes": " Unavailable",
+                    "id": "cjGqxbsY9JA&list",
+                    "likes": "46,945 likes",
+                    "title": "This Seems Like a BAD Idea - Intel $5,000 Extreme Tech Upgrade",
+                    "url": "https://www.youtube.com/watch?v=cjGqxbsY9JA&list=RDCMUCXuqSBlHAE6Xw-yeJA0Tunw&start_radio=1&rv=cjGqxbsY9JA",
+                    "video_length": 1304.581,
+                    "views": "830,462 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=TvuWn6KsGik",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=OT8if6DXOFQ&list=RDCMUCETrNUjuH4EoRdZNFx9EI-A&start_radio=1&rv=OT8if6DXOFQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=L0m2WLOwkK8",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=OT8if6DXOFQ",
+                  "title": "ELDEN RING \u2013 Overview Trailer",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,543",
+                    "content creator": "BANDAI NAMCO Europe",
+                    "date": "Feb 19, 2022",
+                    "description": "Much has changed in the Lands Between since the days of your banishment, Tarnished. Come and learn what awaits you on the path of grace.\nELDEN RING releases on February 25, 2022.\n\nPre-order ELDEN RING: ",
+                    "dislikes": " Unavailable",
+                    "id": "OT8if6DXOFQ",
+                    "likes": "18,228 likes",
+                    "title": "ELDEN RING \u2013 Overview Trailer",
+                    "url": "https://www.youtube.com/watch?v=OT8if6DXOFQ",
+                    "video_length": 388.501,
+                    "views": "199,800 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=cjGqxbsY9JA",
+              "title": "This Seems Like a BAD Idea - Intel $5,000 Extreme Tech Upgrade",
+              "video": {
+                "ad": null,
+                "comments": "2,053",
+                "content creator": "Linus Tech Tips",
+                "date": "Feb 19, 2022",
+                "description": "Thanks to Intel for continuing to sponsor this series! Check out Intel 12th Gen Processors at https://geni.us/uNekg\nCheck Out Colin's Upgrade Part List: https://lmg.gg/FKEZs",
+                "dislikes": " Unavailable",
+                "id": "cjGqxbsY9JA",
+                "likes": "46,727 likes",
+                "title": "This Seems Like a BAD Idea - Intel $5,000 Extreme Tech Upgrade",
+                "url": "https://www.youtube.com/watch?v=cjGqxbsY9JA",
+                "video_length": 1304.581,
+                "views": "825,170 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=nUHEPmg0sPo",
+          "title": "This BPM is trash, and here's why",
+          "video": {
+            "ad": null,
+            "comments": "1,928",
+            "content creator": "Adam Neely",
+            "date": "Feb 18, 2022",
+            "description": "The perceptual limits of tempo, and why decimal points in BPMs are trash.\n\ud83e\udde0 Get CuriosityStream and Nebula for 26% off! \ud83e\udde0 \nhttps://curiositystream.com/adamneely",
+            "dislikes": " Unavailable",
+            "id": "nUHEPmg0sPo",
+            "likes": "19,566 likes",
+            "title": "This BPM is trash, and here's why",
+            "url": "https://www.youtube.com/watch?v=nUHEPmg0sPo",
+            "video_length": 1198.881,
+            "views": "304,385 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=Kr3quGh7pJA",
+      "title": "Music Theory and White Supremacy",
+      "video": {
+        "ad": null,
+        "comments": "34,604",
+        "content creator": "Adam Neely",
+        "date": "Sep 7, 2020",
+        "description": "Thanks to Phil Ewell and his paper:\nhttps://mtosmt.org/issues/mto.20.26.2...",
+        "dislikes": " Unavailable",
+        "id": "Kr3quGh7pJA",
+        "likes": "117,555 likes",
+        "title": "Music Theory and White Supremacy",
+        "url": "https://www.youtube.com/watch?v=Kr3quGh7pJA",
+        "video_length": 2641.381,
+        "views": "1,680,776 views"
+      }
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=dWWK6_Ed2nA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0Ix9jxid2YU&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=0Ix9jxid2YU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AC3OuLU5XCw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=0Ix9jxid2YU",
+                  "title": "Natalie Wynn, ContraPoints - XOXO Festival (2018)",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "XOXO Festival",
+                    "date": "Nov 9, 2018",
+                    "description": "With reason, dark humor, and fabulous costumes, ex-academic turned video essayist Natalie Wynn makes ContraPoints, her YouTube channel tackling social justice issues with an eye towards reaching wider audiences than progressives alone, last month surpassing 4,000 supporters on Patreon and over 8 million views on YouTube.\n\nContraPoints on YouTube: ",
+                    "dislikes": " Unavailable",
+                    "id": "0Ix9jxid2YU",
+                    "likes": "Unavailable",
+                    "title": "Natalie Wynn, ContraPoints - XOXO Festival (2018)",
+                    "url": "https://www.youtube.com/watch?v=0Ix9jxid2YU",
+                    "video_length": 1182.281,
+                    "views": "855,782 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=hW4U_lfgPac",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=ZTIHBVaTwGg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=35P6XSw5HMk",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=7Alen-p6_ak&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=7Alen-p6_ak",
+                  "title": "Lindsay Ellis, Video Essayist - XOXO Festival (2019)",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "XOXO Festival",
+                    "date": "Oct 18, 2019",
+                    "description": "With an MFA in film/TV production and the support of her dedicated Patreon base, Lindsay Ellis creates thoughtful and in-depth video essays about film criticism, pop culture, and a whole lot of Transformers. The day before XOXO 2019, Lindsay announced her debut novel, Axiom's End, will be published by St. Martin's Press next summer.\n\nWatch Lindsay on YouTube: ",
+                    "dislikes": " Unavailable",
+                    "id": "7Alen-p6_ak&list",
+                    "likes": "Unavailable",
+                    "title": "Lindsay Ellis, Video Essayist - XOXO Festival (2019)",
+                    "url": "https://www.youtube.com/watch?v=7Alen-p6_ak&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=7Alen-p6_ak",
+                    "video_length": 2123.601,
+                    "views": "519,079 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=23_G0i_bSKE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Bk1gMAivD0U&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=Bk1gMAivD0U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=unfHhKHzk9U",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Bk1gMAivD0U",
+                  "title": "Adam Conover, Adam Ruins Everything - XOXO Festival (2018)",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "XOXO Festival",
+                    "date": "Nov 14, 2018",
+                    "description": "Adam Conover is the creator and host of Adam Ruins Everything on truTV, an investigative comedian combating widespread myths and misconceptions with humor, pulling in supporting experts to debunk everything from circumcision to the prison system.\n\nFollow Adam on Twitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "Bk1gMAivD0U",
+                    "likes": "Unavailable",
+                    "title": "Adam Conover, Adam Ruins Everything - XOXO Festival (2018)",
+                    "url": "https://www.youtube.com/watch?v=Bk1gMAivD0U",
+                    "video_length": 1805.161,
+                    "views": "402,311 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=7Alen-p6_ak",
+              "title": "Lindsay Ellis, Video Essayist - XOXO Festival (2019)",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "XOXO Festival",
+                "date": "Oct 18, 2019",
+                "description": "With an MFA in film/TV production and the support of her dedicated Patreon base, Lindsay Ellis creates thoughtful and in-depth video essays about film criticism, pop culture, and a whole lot of Transformers. The day before XOXO 2019, Lindsay announced her debut novel, Axiom's End, will be published by St. Martin's Press next summer.\n\nWatch Lindsay on YouTube: ",
+                "dislikes": " Unavailable",
+                "id": "7Alen-p6_ak",
+                "likes": "Unavailable",
+                "title": "Lindsay Ellis, Video Essayist - XOXO Festival (2019)",
+                "url": "https://www.youtube.com/watch?v=7Alen-p6_ak",
+                "video_length": 2123.601,
+                "views": "519,079 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=5zXLuXOV7Po",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=usSfgHGEGxQ&list=RDCMUCeTfBygNb1TahcNpZyELO8g&start_radio=1&rv=usSfgHGEGxQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=WLkJxhfD2rA",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=usSfgHGEGxQ",
+                  "title": "Games, Schools, and Worlds Designed for Violence",
+                  "video": {
+                    "ad": null,
+                    "comments": "14,200",
+                    "content creator": "Jacob Geller",
+                    "date": "Oct 1, 2019",
+                    "description": "They walk out under the branches of hopelessness\nThey think of this world welcoming\nthe bodies of their sons. \n\nSupport me and receive a full-length video commentary on this essay: ",
+                    "dislikes": " Unavailable",
+                    "id": "usSfgHGEGxQ",
+                    "likes": "118,003 likes",
+                    "title": "Games, Schools, and Worlds Designed for Violence",
+                    "url": "https://www.youtube.com/watch?v=usSfgHGEGxQ",
+                    "video_length": 998,
+                    "views": "1,944,727 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=lARHu6nNAZ0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=6fLxiajrL28",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=xqqC5IJa2go",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=wGKB3jXGqu0",
+                  "title": "Hbomberguy Oh Boy",
+                  "video": {
+                    "ad": null,
+                    "comments": "34",
+                    "content creator": "TekuzoOdium",
+                    "date": "Dec 4, 2019",
+                    "description": "Just hbomberguy doing something that is funny.",
+                    "dislikes": " Unavailable",
+                    "id": "wGKB3jXGqu0",
+                    "likes": "1,348 likes",
+                    "title": "Hbomberguy Oh Boy",
+                    "url": "https://www.youtube.com/watch?v=wGKB3jXGqu0",
+                    "video_length": 10.041,
+                    "views": "39,980 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=z2svpsfnPGQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=sLOP9rJqjxI",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=HxenpmSJXtc",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=AXh2hhz6KoI",
+                  "title": "Hbomberguy's Donkey Kong 64 Charity Stream Highlights",
+                  "video": {
+                    "ad": null,
+                    "comments": "631",
+                    "content creator": "ESYTC",
+                    "date": "Jan 22, 2019",
+                    "description": "There are just a few of the highlights. The entirety of the stream is definitely an experience. You can find the whole stream on Hbomb's twitch: https://www.twitch.tv/hbomberguy\nOr on his archive channel: https://www.youtube.com/channel/UCIPq...",
+                    "dislikes": " Unavailable",
+                    "id": "AXh2hhz6KoI",
+                    "likes": "9,921 likes",
+                    "title": "Hbomberguy's Donkey Kong 64 Charity Stream Highlights",
+                    "url": "https://www.youtube.com/watch?v=AXh2hhz6KoI",
+                    "video_length": 1059.521,
+                    "views": "255,785 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=lS1k88LzjkQ&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=lS1k88LzjkQ",
+              "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "XOXO Festival",
+                "date": "Oct 9, 2019",
+                "description": "Since 2014, Harry Brewis aka \u201cHbomberguy\u201d built a base of over 450k YouTube subscribers with his wry video essays skewering the alt-right, Gamergate, and conspiracy theorists. In January, his Donkey Kong 64 charity stream went viral with cameos by AOC, Chelsea Manning and others, raising over $350,000 for Mermaids, a UK charity supporting gender-diverse and transgender children and young people.\n\nHbomberguy on YouTube: ",
+                "dislikes": " Unavailable",
+                "id": "lS1k88LzjkQ&list",
+                "likes": "Unavailable",
+                "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+                "url": "https://www.youtube.com/watch?v=lS1k88LzjkQ&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=lS1k88LzjkQ",
+                "video_length": 2053.241,
+                "views": "780,330 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=hrsxRJdwfM0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3fp6pvpcZEw&list=RDhCc0OsyMbQk&start_radio=1&rv=hCc0OsyMbQk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=daeB46Z4fjs",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=hCc0OsyMbQk",
+                  "title": "English counties explained",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,697",
+                    "content creator": "Jay Foreman",
+                    "date": "Sep 13, 2021",
+                    "description": "Get Surfshark VPN at https://surfshark.deals/mapmen\nEnter promo code MAPMEN for 83% off and 3 extra months for FREE! \n \nBUY MAP MEN MUGS, T-SHIRTS, POSTERS ETC...",
+                    "dislikes": " Unavailable",
+                    "id": "hCc0OsyMbQk",
+                    "likes": "98,940 likes",
+                    "title": "English counties explained",
+                    "url": "https://www.youtube.com/watch?v=hCc0OsyMbQk",
+                    "video_length": 618.221,
+                    "views": "2,049,779 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=uFQdcKJUijQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+                  "title": "Response to Globebusters - The Earth Still Isn't Flat",
+                  "video": {
+                    "ad": null,
+                    "comments": "121,596",
+                    "content creator": "Professor Dave Explains",
+                    "date": "May 22, 2019",
+                    "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+                    "dislikes": " Unavailable",
+                    "id": "JDy95_eNPzM",
+                    "likes": "251,144 likes",
+                    "title": "Response to Globebusters - The Earth Still Isn't Flat",
+                    "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+                    "video_length": 2713.401,
+                    "views": "9,388,546 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=dFCbJmgeHmA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KyD8VIK032o",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+                  "title": "Flat Earth: A Measured Response",
+                  "video": {
+                    "ad": null,
+                    "comments": "17,004",
+                    "content creator": "hbomberguy",
+                    "date": "Premiered Dec 31, 2018",
+                    "description": "It's like Frisbee, only real\n\nCredits theme (and thumbnail!) by Patricia Taxxon, it's Kissing Ancaps from her album \"Little Spoon\"",
+                    "dislikes": " Unavailable",
+                    "id": "2gFsOoKAHZg",
+                    "likes": "119,087 likes",
+                    "title": "Flat Earth: A Measured Response",
+                    "url": "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+                    "video_length": 2717.281,
+                    "views": "4,169,444 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+              "title": "Vaccines: A Measured Response",
+              "video": {
+                "ad": null,
+                "comments": "35,039",
+                "content creator": "hbomberguy",
+                "date": "May 26, 2021",
+                "description": "What is the science behind the anti-vaccine movement, and is it any good? Let\u2019s find out!\n\nMy Twitter: https://twitter.com/hbomberguy",
+                "dislikes": " Unavailable",
+                "id": "8BIcAZxFfrc",
+                "likes": "198,599 likes",
+                "title": "Vaccines: A Measured Response",
+                "url": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+                "video_length": 6249.241,
+                "views": "4,023,342 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+          "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+          "video": {
+            "ad": null,
+            "comments": "Error found",
+            "content creator": "XOXO Festival",
+            "date": "Oct 9, 2019",
+            "description": "Since 2014, Harry Brewis aka \u201cHbomberguy\u201d built a base of over 450k YouTube subscribers with his wry video essays skewering the alt-right, Gamergate, and conspiracy theorists. In January, his Donkey Kong 64 charity stream went viral with cameos by AOC, Chelsea Manning and others, raising over $350,000 for Mermaids, a UK charity supporting gender-diverse and transgender children and young people.\n\nHbomberguy on YouTube: ",
+            "dislikes": " Unavailable",
+            "id": "lS1k88LzjkQ",
+            "likes": "Unavailable",
+            "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+            "url": "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+            "video_length": 2053.241,
+            "views": "780,328 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=rx5hA9G_bac",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=iLOURV_HWeU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=soDt04sgbkg",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=lgwnJX6lnlg",
+                  "title": "Canada threatens to seize, potentially euthanize truckers' pets",
+                  "video": {
+                    "ad": null,
+                    "comments": "21,201",
+                    "content creator": "Fox News",
+                    "date": "Feb 18, 2022",
+                    "description": "The \u2018Outnumbered\u2019 panel discusses actions taken by PM Justin Trudeau and the Ottawa police against the Canadian trucker convoy. #FoxNews",
+                    "dislikes": " Unavailable",
+                    "id": "lgwnJX6lnlg",
+                    "likes": "54,620 likes",
+                    "title": "Canada threatens to seize, potentially euthanize truckers' pets",
+                    "url": "https://www.youtube.com/watch?v=lgwnJX6lnlg",
+                    "video_length": 527.481,
+                    "views": "1,466,059 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=KfihDtA0pfA",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8e0FASr2ZBs",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=B0W8eIHxj7I",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=inPEY_PS4kU",
+                  "title": "'This is terrifying': What Justin Trudeau is doing in Canada is 'insane'",
+                  "video": {
+                    "ad": null,
+                    "comments": "9,278",
+                    "content creator": "Sky News Australia",
+                    "date": "Feb 19, 2022",
+                    "description": "It is \"insane\" what Canadian Prime Minister Justin Trudeau is now doing, says Sky News host Rowan Dean. \n\n\"Justin Trudeau has declared an emergency act,\" Mr Dean said. \n\n\"The strongest and most repressive tool in his government to try and silence and starve these people \u2013 to stop them getting their hands on their own money, to stop them getting petrol, to stop them getting food.\"\n\nMr Trudeau said the powers were needed to quell the continuing Freedom Convoy protests.\n\n\"This is terrifying,\" Mr Dean said.",
+                    "dislikes": " Unavailable",
+                    "id": "inPEY_PS4kU",
+                    "likes": "31,069 likes",
+                    "title": "'This is terrifying': What Justin Trudeau is doing in Canada is 'insane'",
+                    "url": "https://www.youtube.com/watch?v=inPEY_PS4kU",
+                    "video_length": 133.061,
+                    "views": "501,881 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=zAqcVpl_5QE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=FEpR2cJ9O0M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4_5Z2sHO4oU",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=xcY3AHU7Lfo",
+                  "title": "Trucker protest in Winnipeg wants meeting with PM Trudeau",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,151",
+                    "content creator": "CityNews",
+                    "date": "Feb 20, 2022",
+                    "description": "Leaders with the trucker protest near the Manitoba Legislature say they want a meeting with Prime Minister Justin Trudeau before they tear down the demonstration site. @_MorganModjeski reports.",
+                    "dislikes": " Unavailable",
+                    "id": "xcY3AHU7Lfo",
+                    "likes": "3,340 likes",
+                    "title": "Trucker protest in Winnipeg wants meeting with PM Trudeau",
+                    "url": "https://www.youtube.com/watch?v=xcY3AHU7Lfo",
+                    "video_length": 235.981,
+                    "views": "44,948 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=ou5A8Glngr8",
+              "title": "Tucker: Justin Trudeau is attacking human rights",
+              "video": {
+                "ad": null,
+                "comments": "34,746",
+                "content creator": "Fox News",
+                "date": "Feb 10, 2022",
+                "description": "Fox News host gives his take on the Freedom Convoy protests on 'Tucker Carlson Tonight.' #FoxNews #Tucker",
+                "dislikes": " Unavailable",
+                "id": "ou5A8Glngr8",
+                "likes": "178,344 likes",
+                "title": "Tucker: Justin Trudeau is attacking human rights",
+                "url": "https://www.youtube.com/watch?v=ou5A8Glngr8",
+                "video_length": 1034.321,
+                "views": "4,272,485 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=o-rzoy3xZdM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Y7oBltCMxGc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9dQQq_ltOuw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=bQw-sR033Fo",
+                  "title": "John Mearsheimer and Yan Xuetong Q&A, November 2, 2013",
+                  "video": {
+                    "ad": null,
+                    "comments": "4",
+                    "content creator": "UChicago CPOST",
+                    "date": "Jan 3, 2014",
+                    "description": "John Mearsheimer and Yan Xuetong Debate Q&A.",
+                    "dislikes": " Unavailable",
+                    "id": "bQw-sR033Fo",
+                    "likes": "39 likes",
+                    "title": "John Mearsheimer and Yan Xuetong Q&A, November 2, 2013",
+                    "url": "https://www.youtube.com/watch?v=bQw-sR033Fo",
+                    "video_length": 4165.861,
+                    "views": "5,988 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=-yNVRTVNJ7M",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=nZVIaXFN2lU",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=RTksWA1I2UI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=VPe5f5dcrGE",
+                  "title": "Why Leaders Lie: The Truth About Lying in International Politics with John Mearsheimer",
+                  "video": {
+                    "ad": null,
+                    "comments": "971",
+                    "content creator": "The University of Chicago",
+                    "date": "Mar 1, 2012",
+                    "description": "John Mearsheimer, professor of Political Science at the University of Chicago, provides the first systematic analysis of lying as a tool of statecraft. He identifies the varieties, the reasons, and the potential costs and benefits, arguing that leaders often lie for good strategic reasons, while distinguishing between lying to another state and lying to one's own people.\n\nJohn Mearsheimer is also the co-director of the Program on International Security Policy at the University of Chicago and has written extensively about security issues and international politics.\n\nThe World Beyond the Headlines is a project of the Center for International Studies, which brings scholars, journalists, and world leaders to the University to discuss issues of current global importance. \n\nFor more information on this event, visit ",
+                    "dislikes": " Unavailable",
+                    "id": "VPe5f5dcrGE",
+                    "likes": "6,710 likes",
+                    "title": "Why Leaders Lie: The Truth About Lying in International Politics with John Mearsheimer",
+                    "url": "https://www.youtube.com/watch?v=VPe5f5dcrGE",
+                    "video_length": 5146.641,
+                    "views": "941,703 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=TsonzzAW3Mk",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=wReL9TPffB8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=AlaHGYlXntQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=ESwIVY2oimI",
+                  "title": "John J. Mearsheimer, \u201cThe False Promise of Liberal Hegemony\u201d",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "YaleUniversity",
+                    "date": "Nov 22, 2017",
+                    "description": "Henry L. Stimson Lectures on World Affairs.\nJohn J. Mearsheimer, R. Wendell Harrison Distinguished Service Professor of Political Science and the co-director of the Program on International Security Policy at the University of Chicago, gave a series of three lectures in November on \u201cLiberal Ideals & International Realities\u201d for the Henry L. Stimson Lectures on World Affairs at the Whitney and Betty MacMillan Center for International and Area Studies at Yale.\n \n\u201cThe Roots of Liberal Hegemony,\u201d November 13, 2017  ",
+                    "dislikes": " Unavailable",
+                    "id": "ESwIVY2oimI",
+                    "likes": "5,129 likes",
+                    "title": "John J. Mearsheimer, \u201cThe False Promise of Liberal Hegemony\u201d",
+                    "url": "https://www.youtube.com/watch?v=ESwIVY2oimI",
+                    "video_length": 5022.841,
+                    "views": "329,233 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+              "title": "Why is Ukraine the West's Fault? Featuring John Mearsheimer",
+              "video": {
+                "ad": null,
+                "comments": "15,693",
+                "content creator": "The University of Chicago",
+                "date": "Sep 25, 2015",
+                "description": "UnCommon Core: The Causes and Consequences of the Ukraine Crisis\n\nJohn J. Mearsheimer, the R. Wendell Harrison Distinguished Service Professor in Political Science and Co-director of the Program on International Security Policy at the University of Chicago, assesses the causes of the present Ukraine crisis, the best way to end it, and its consequences for all of the main actors. A key assumption is that in order to come up with the optimum plan for ending the crisis, it is essential to know what caused the crisis. Regarding the all-important question of causes, the key issue is whether Russia or the West bears primary responsibility.\n\n\n\n\u27a1 Subscribe: ",
+                "dislikes": " Unavailable",
+                "id": "JrMiSQAGOS4",
+                "likes": "47,222 likes",
+                "title": "Why is Ukraine the West's Fault? Featuring John Mearsheimer",
+                "url": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                "video_length": 4455.081,
+                "views": "6,046,825 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=8wLCmDtCDAM",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7QRQjrsFnR4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=RRn1f4q__oQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=kxgeevlRElw",
+                  "title": "Jordan Peterson DESTROYS Tom Ballard | Tonightly With Tom Ballard",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "ABC TV & iview",
+                    "date": "Mar 13, 2018",
+                    "description": "Controversial Canadian psychologist Dr Jordan Peterson explains to Tom why keeping his room clean is important, why identity politics suck, and why the ABC should be less Marxist.\nSubscribe now: http://ab.co/subscribe \n\nLike ABC TV: ",
+                    "dislikes": " Unavailable",
+                    "id": "kxgeevlRElw",
+                    "likes": "80,345 likes",
+                    "title": "Jordan Peterson DESTROYS Tom Ballard | Tonightly With Tom Ballard",
+                    "url": "https://www.youtube.com/watch?v=kxgeevlRElw",
+                    "video_length": 473.761,
+                    "views": "5,012,050 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=dvBbxbjFRw4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=_iudkPi4_sY&list=RDLV_iudkPi4_sY&start_radio=1&rv=_iudkPi4_sY",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=f5rUPatnXSE",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+                  "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+                  "video": {
+                    "ad": null,
+                    "comments": "66,247",
+                    "content creator": "Skavlan",
+                    "date": "Oct 29, 2018",
+                    "description": "Watch the complete Skavlan interview with psychologist and professor Jordan B. Peterson.\n\nAlso present in the studio are Swedish politician Annie L\u00f6\u00f6f and Norwegian author Erlend Loe. The show's presenter is Fredrik Skavlan. \n\nMore Skavlan\nTwitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "_iudkPi4_sY",
+                    "likes": "297,826 likes",
+                    "title": "Jordan B. Peterson | Full interview | SVT/TV 2/Skavlan",
+                    "url": "https://www.youtube.com/watch?v=_iudkPi4_sY",
+                    "video_length": 2319.741,
+                    "views": "23,574,713 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=Xm_2zmX6Akc",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=hKUffHXOb8U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Unzc731iCUY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                  "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                  "video": {
+                    "ad": null,
+                    "comments": "14,718",
+                    "content creator": "OxfordUnion",
+                    "date": "Jun 24, 2018",
+                    "description": "SUBSCRIBE for more speakers \u25ba http://is.gd/OxfordUnion\nOxford Union on Facebook: https://www.facebook.com/theoxfordunion\nOxford Union on Twitter: @OxfordUnion\nWebsite: ",
+                    "dislikes": " Unavailable",
+                    "id": "UZMIbo_DxJk",
+                    "likes": "104,667 likes",
+                    "title": "Jordan Peterson | Full Address and Q&A | Oxford Union",
+                    "url": "https://www.youtube.com/watch?v=UZMIbo_DxJk",
+                    "video_length": 4549.861,
+                    "views": "8,997,902 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+              "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+              "video": {
+                "ad": null,
+                "comments": "209,140",
+                "content creator": "Channel 4 News",
+                "date": "Jan 16, 2018",
+                "description": "Channel 4 News\u2019 full, fiery interview with clinical psychologist and professor Jordan B Peterson, whose views on gender have amassed great controversy - and a huge online following. He discusses the pay gap, patriarchy and his new book \"12 Rules for Life.\" Subscribe: ",
+                "dislikes": " Unavailable",
+                "id": "aMcjxSThD54",
+                "likes": "715,768 likes",
+                "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+                "url": "https://www.youtube.com/watch?v=aMcjxSThD54",
+                "video_length": 1795.461,
+                "views": "36,421,127 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=ypN8G3_tb2o",
+          "title": "Tucker: Democrats think our democracy is this fragile",
+          "video": {
+            "ad": null,
+            "comments": "7,273",
+            "content creator": "Fox News",
+            "date": "Feb 16, 2022",
+            "description": "\u2018Tucker Carlson Tonight\u2019 host examines how the left addresses unpopularity with voters. #FoxNews #Tucker",
+            "dislikes": " Unavailable",
+            "id": "ypN8G3_tb2o",
+            "likes": "34,888 likes",
+            "title": "Tucker: Democrats think our democracy is this fragile",
+            "url": "https://www.youtube.com/watch?v=ypN8G3_tb2o",
+            "video_length": 595.521,
+            "views": "859,090 views"
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=3tNft7sv-Zo",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=GG0LY8OLBG8&list=RDCMUCvPXiKxH-eH9xq-80vpgmKQ&start_radio=1&rv=GG0LY8OLBG8",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=0V849ou1yXM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=GG0LY8OLBG8",
+                  "title": "World War One (ALL PARTS) (2021 Re-edit)",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,514",
+                    "content creator": "Epic History TV",
+                    "date": "Jul 1, 2021",
+                    "description": "All 5 parts of Epic History TV's history of World War One in one place (re-edited in 2021). From the Schlieffen Plan to the Versailles Treaty, a global history of the entire conflict.\n\nSupport Epic History TV at Patreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "GG0LY8OLBG8",
+                    "likes": "87,956 likes",
+                    "title": "World War One (ALL PARTS) (2021 Re-edit)",
+                    "url": "https://www.youtube.com/watch?v=GG0LY8OLBG8",
+                    "video_length": 3889.981,
+                    "views": "5,239,861 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=re-zMIOtSk0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=DEGrj1Vg19U",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=SipIKcxkFlY",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=dT5U-JQ8Puw&list=RDCMUCn6_Kza6erL9GCAhOpQLfBg&start_radio=1&rv=dT5U-JQ8Puw",
+                  "title": "How France Fought a Lightning War in Mali (Op Serval)",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,832",
+                    "content creator": "Battle Order",
+                    "date": "Feb 14, 2022",
+                    "description": "Join the Brigade to support us and get access to exclusive perks: https://www.patreon.com/battleorder",
+                    "dislikes": " Unavailable",
+                    "id": "dT5U-JQ8Puw&list",
+                    "likes": "16,141 likes",
+                    "title": "How France Fought a Lightning War in Mali (Op Serval)",
+                    "url": "https://www.youtube.com/watch?v=dT5U-JQ8Puw&list=RDCMUCn6_Kza6erL9GCAhOpQLfBg&start_radio=1&rv=dT5U-JQ8Puw",
+                    "video_length": 988.101,
+                    "views": "392,570 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=oZJqEkamd4Y",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=nmiIqONvHeQ&list=RDCMUCn6_Kza6erL9GCAhOpQLfBg&start_radio=1&rv=nmiIqONvHeQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tuEJGyHrSlM",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=nmiIqONvHeQ",
+                  "title": "Recon with Tanks? (U.S. Armored Cavalry Explained)",
+                  "video": {
+                    "ad": null,
+                    "comments": "318",
+                    "content creator": "Battle Order",
+                    "date": "May 22, 2021",
+                    "description": "Play World of Warships here: https://wo.ws/3ucwj0Z\nThank you World of Warships for sponsoring this video.\nDuring registration use the code BOOM to get for free:\n\u2022 200 doubloons\n\u2022 2 ships: St. Louis and Premium ship Emden\n\u2022 20x Restless Fire Camouflage\n\u2022 2.5 million credits\n\u2022 7 Days of Premium\nThe promo code is only for new players during the registration.\n-------------\nSupport us on Patreon and get access to a variety of exclusive perks like wallpapers, video credits, and priority in future Q&As: ",
+                    "dislikes": " Unavailable",
+                    "id": "nmiIqONvHeQ",
+                    "likes": "5,095 likes",
+                    "title": "Recon with Tanks? (U.S. Armored Cavalry Explained)",
+                    "url": "https://www.youtube.com/watch?v=nmiIqONvHeQ",
+                    "video_length": 945.401,
+                    "views": "137,012 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=dT5U-JQ8Puw",
+              "title": "How France Fought a Lightning War in Mali (Op Serval)",
+              "video": {
+                "ad": null,
+                "comments": "1,831",
+                "content creator": "Battle Order",
+                "date": "Feb 14, 2022",
+                "description": "Join the Brigade to support us and get access to exclusive perks: https://www.patreon.com/battleorder",
+                "dislikes": " Unavailable",
+                "id": "dT5U-JQ8Puw",
+                "likes": "16,120 likes",
+                "title": "How France Fought a Lightning War in Mali (Op Serval)",
+                "url": "https://www.youtube.com/watch?v=dT5U-JQ8Puw",
+                "video_length": 988.101,
+                "views": "392,098 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=P-EY-6YHG_0&list=RDCMUCn6_Kza6erL9GCAhOpQLfBg&start_radio=1&rv=P-EY-6YHG_0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=G4FxssXZC28",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=IWJXH156RUQ",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=P-EY-6YHG_0",
+                  "title": "Guide to Russia's Armored Artillery",
+                  "video": {
+                    "ad": null,
+                    "comments": "642",
+                    "content creator": "Battle Order",
+                    "date": "Aug 27, 2021",
+                    "description": "Today, we take a deep look at Russia's Self-Propelled Artillery Battalions (152mm), which provide fire support to brigades and divisions as part of Russia's artillery centric tactical doctrine.\n\nSupport us on Patreon and get access to a variety of exclusive perks like early access, video credits, and exclusive patches: ",
+                    "dislikes": " Unavailable",
+                    "id": "P-EY-6YHG_0",
+                    "likes": "8,372 likes",
+                    "title": "Guide to Russia's Armored Artillery",
+                    "url": "https://www.youtube.com/watch?v=P-EY-6YHG_0",
+                    "video_length": 939.161,
+                    "views": "199,869 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=_VwcuO51BRw",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=HK_qkyGE4ao",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3TXu7aFQ7Fw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=iPytZsF2Kew",
+                  "title": "Christopher Hitchens on George Orwell",
+                  "video": {
+                    "ad": null,
+                    "comments": "162",
+                    "content creator": "Sam Seal",
+                    "date": "Nov 23, 2020",
+                    "description": "I took this from another youtube channel, improved the sound considerably because it was hard to listen to in its original form and re-posted it.\n\nGreat stuff from the much missed Hitch.",
+                    "dislikes": " Unavailable",
+                    "id": "iPytZsF2Kew",
+                    "likes": "1,298 likes",
+                    "title": "Christopher Hitchens on George Orwell",
+                    "url": "https://www.youtube.com/watch?v=iPytZsF2Kew",
+                    "video_length": 3579.541,
+                    "views": "59,934 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=uDHRnzkr-VE",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=hFijsBQ3Pao",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=l1d3NSMQ7Ok",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=P5epDW6xGWI",
+                  "title": "Nothing to See",
+                  "video": {
+                    "ad": null,
+                    "comments": "7",
+                    "content creator": "CoxClips",
+                    "date": "Feb 19, 2022",
+                    "description": "This dude!\n\nCheck out Dying Light 2 here: ",
+                    "dislikes": " Unavailable",
+                    "id": "P5epDW6xGWI",
+                    "likes": "336 likes",
+                    "title": "Nothing to See",
+                    "url": "https://www.youtube.com/watch?v=P5epDW6xGWI",
+                    "video_length": 23.981,
+                    "views": "3,528 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=r0RAeytjXVE&list=RDCMUCeUJFQ0D9qs6aVNyUt9fkeQ&start_radio=1&rv=r0RAeytjXVE",
+              "title": "Falklands War From Argentina's Perspective | Animated History",
+              "video": {
+                "ad": null,
+                "comments": "2,157",
+                "content creator": "The Armchair Historian",
+                "date": "Feb 18, 2022",
+                "description": "Support this channel by checking our NordVPN exclusive deal at https://nordvpn.com/historyvpn\n\nSign up for Armchair History TV today! https://armchairhistory.tv/",
+                "dislikes": " Unavailable",
+                "id": "r0RAeytjXVE&list",
+                "likes": "17,672 likes",
+                "title": "Falklands War From Argentina's Perspective | Animated History",
+                "url": "https://www.youtube.com/watch?v=r0RAeytjXVE&list=RDCMUCeUJFQ0D9qs6aVNyUt9fkeQ&start_radio=1&rv=r0RAeytjXVE",
+                "video_length": 1461.141,
+                "views": "258,543 views"
+              }
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=wN1q9QktEf0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-KY1pDLulF4",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=S0tPMLOwyYw",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=WrDtRvkGyjY",
+                  "title": "What Happened to German Soldiers After WW2? | Animated History",
+                  "video": {
+                    "ad": null,
+                    "comments": "7,210",
+                    "content creator": "The Armchair Historian",
+                    "date": "Nov 5, 2021",
+                    "description": "Thanks to Keeps for sponsoring this video! Head to https://keeps.com/ArmchairHistorian to get 50% off your first order of Keeps hair loss treatment.\n\nSign up for Armchair History TV today! ",
+                    "dislikes": " Unavailable",
+                    "id": "WrDtRvkGyjY",
+                    "likes": "67,432 likes",
+                    "title": "What Happened to German Soldiers After WW2? | Animated History",
+                    "url": "https://www.youtube.com/watch?v=WrDtRvkGyjY",
+                    "video_length": 1358.861,
+                    "views": "2,006,142 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=7YRDx0JdTSg",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=E2zrqzvtWio",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=KaT8Gf4bws4",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=putm_kpZW4Y&list=RDCMUCeUJFQ0D9qs6aVNyUt9fkeQ&start_radio=1&rv=putm_kpZW4Y",
+                  "title": "Deadliest Battle in History: Stalingrad | Animated History",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,704",
+                    "content creator": "The Armchair Historian",
+                    "date": "Dec 17, 2021",
+                    "description": "Install Raid for Free \u2705 IOS/ANDROID/PC: https://pl.go-ga.me/fnfiysxl  and get a special starter pack \ud83d\udca5 Available only for the next 30 days\n\nSign up for Armchair History TV today! ",
+                    "dislikes": " Unavailable",
+                    "id": "putm_kpZW4Y&list",
+                    "likes": "47,719 likes",
+                    "title": "Deadliest Battle in History: Stalingrad | Animated History",
+                    "url": "https://www.youtube.com/watch?v=putm_kpZW4Y&list=RDCMUCeUJFQ0D9qs6aVNyUt9fkeQ&start_radio=1&rv=putm_kpZW4Y",
+                    "video_length": 1620.681,
+                    "views": "1,129,337 views"
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "id": "https://www.youtube.com/watch?v=75APY0XhtCQ&list=RDCMUCeUJFQ0D9qs6aVNyUt9fkeQ&start_radio=1&rv=75APY0XhtCQ",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=oEHl_oJOuR0",
+                      "title": null,
+                      "video": null
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Hwz56hBW9KI",
+                      "title": null,
+                      "video": null
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=75APY0XhtCQ",
+                  "title": "Battle of the Bulge | Animated History",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,920",
+                    "content creator": "The Armchair Historian",
+                    "date": "Aug 29, 2021",
+                    "description": "Special thanks to our Sponsor, Humankind. We're always delighted to support new, high-quality titles in the history and 4x genres, so be sure to order your copy of Humankind today and support our channel in the process! https://bit.ly/3jfqThX",
+                    "dislikes": " Unavailable",
+                    "id": "75APY0XhtCQ",
+                    "likes": "49,053 likes",
+                    "title": "Battle of the Bulge | Animated History",
+                    "url": "https://www.youtube.com/watch?v=75APY0XhtCQ",
+                    "video_length": 1097.061,
+                    "views": "1,329,502 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=putm_kpZW4Y",
+              "title": "Deadliest Battle in History: Stalingrad | Animated History",
+              "video": {
+                "ad": null,
+                "comments": "3,704",
+                "content creator": "The Armchair Historian",
+                "date": "Dec 17, 2021",
+                "description": "Install Raid for Free \u2705 IOS/ANDROID/PC: https://pl.go-ga.me/fnfiysxl  and get a special starter pack \ud83d\udca5 Available only for the next 30 days\n\nSign up for Armchair History TV today! ",
+                "dislikes": " Unavailable",
+                "id": "putm_kpZW4Y",
+                "likes": "47,719 likes",
+                "title": "Deadliest Battle in History: Stalingrad | Animated History",
+                "url": "https://www.youtube.com/watch?v=putm_kpZW4Y",
+                "video_length": 1620.681,
+                "views": "1,129,314 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=r0RAeytjXVE",
+          "title": "Falklands War From Argentina's Perspective | Animated History",
+          "video": {
+            "ad": null,
+            "comments": "2,158",
+            "content creator": "The Armchair Historian",
+            "date": "Feb 18, 2022",
+            "description": "Support this channel by checking our NordVPN exclusive deal at https://nordvpn.com/historyvpn\n\nSign up for Armchair History TV today! https://armchairhistory.tv/",
+            "dislikes": " Unavailable",
+            "id": "r0RAeytjXVE",
+            "likes": "17,666 likes",
+            "title": "Falklands War From Argentina's Perspective | Animated History",
+            "url": "https://www.youtube.com/watch?v=r0RAeytjXVE",
+            "video_length": 1461.141,
+            "views": "258,314 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=O8UzmLsXGRU",
+      "title": "How Societies Turn Cruel",
+      "video": {
+        "ad": null,
+        "comments": "7,361",
+        "content creator": "Three Arrows",
+        "date": "Jul 24, 2019",
+        "description": "Thank you for watching folks!\n\n=Support me via=\n\u25ba Patreon: ",
+        "dislikes": " Unavailable",
+        "id": "O8UzmLsXGRU",
+        "likes": "45,006 likes",
+        "title": "How Societies Turn Cruel",
+        "url": "https://www.youtube.com/watch?v=O8UzmLsXGRU",
+        "video_length": 1826.381,
+        "views": "820,089 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=VC4sAaV1eBs",
+  "title": "Fox News: How To Whitewash an Atrocity",
+  "video": {
+    "ad": null,
+    "comments": "4,090",
+    "content creator": "Three Arrows",
+    "date": "Dec 1, 2019",
+    "description": "This one's as bad as it gets\n\n\n=Support me via=\n\u25ba Patreon: ",
+    "dislikes": " Unavailable",
+    "id": "VC4sAaV1eBs",
+    "likes": "39,444 likes",
+    "title": "Fox News: How To Whitewash an Atrocity",
+    "url": "https://www.youtube.com/watch?v=VC4sAaV1eBs",
+    "video_length": 1950,
+    "views": "710,642 views"
+  }
+}

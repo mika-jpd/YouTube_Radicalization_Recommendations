@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+                  "sampled_type": "curated",
+                  "title": "Halcyon Dreams: The Legacy of Dragon's Lair",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=wtPZ96oHH-4",
+                    "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+                    "https://www.youtube.com/watch?v=CnPOQr1pxY8&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=CnPOQr1pxY8",
+                    "https://www.youtube.com/watch?v=dVbC0jASJYA",
+                    "https://www.youtube.com/watch?v=JsNm2YLrk30",
+                    "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+                    "https://www.youtube.com/watch?v=xbZMqS-fW-8",
+                    "https://www.youtube.com/watch?v=YKgdjbk4RV0",
+                    "https://www.youtube.com/watch?v=dklVypazQsA",
+                    "https://www.youtube.com/watch?v=jbZo4x0NbbI"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "1,998",
+                    "content creator": "hbomberguy",
+                    "date": "Nov 22, 2017",
+                    "description": "A look into Dragon's Lair's impact on gaming, how long this impact lasted, what its creators did next, and who its creators really are.\n\nMy Twitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "CnPOQr1pxY8",
+                    "likes": "27,056 likes",
+                    "title": "Halcyon Dreams: The Legacy of Dragon's Lair",
+                    "url": "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+                    "video_length": 2596.061,
+                    "views": "756,660 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=I5auJOBC828",
+              "sampled_type": "curated",
+              "title": "Speedrunning Is Awesome, And Here's Why",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+                "https://www.youtube.com/watch?v=JDy95_eNPzM",
+                "https://www.youtube.com/watch?v=Pw0vB4Lm1Tk",
+                "https://www.youtube.com/watch?v=JsNm2YLrk30",
+                "https://www.youtube.com/watch?v=I5auJOBC828&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=I5auJOBC828",
+                "https://www.youtube.com/watch?v=D6OT77T7YlE",
+                "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+                "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+                "https://www.youtube.com/watch?v=dklVypazQsA",
+                "https://www.youtube.com/watch?v=iJyweEcpsGc"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "3,121",
+                "content creator": "hbomberguy",
+                "date": "Aug 31, 2018",
+                "description": "Let's explore the cool stuff that goes into making speedrunning fun!\n\nOh and also let's commit to me destroying my entire life for charity trying to play all of donkey kong 64 in one sitting. Uh oh. Why did I do this\n\nI've gotta change my avatar I actually really don't like bananas. Maybe I hate them because of this game. Or maybe it's because one time I ate some rotten pizza and it tasted just enough like banana that I gag. Lol I wrote all all of this and you read it. The internet is a miracle.\n\nPatreon: ",
+                "dislikes": " Unavailable",
+                "id": "I5auJOBC828",
+                "likes": "49,059 likes",
+                "title": "Speedrunning Is Awesome, And Here's Why",
+                "url": "https://www.youtube.com/watch?v=I5auJOBC828",
+                "video_length": 2628.621,
+                "views": "1,550,469 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+          "sampled_type": "curated",
+          "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=I5auJOBC828",
+            "https://www.youtube.com/watch?v=lS1k88LzjkQ&list=RDCMUCqMG_BBwxrhLG80Y3yuEu-Q&start_radio=1&rv=lS1k88LzjkQ",
+            "https://www.youtube.com/watch?v=7Alen-p6_ak",
+            "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+            "https://www.youtube.com/watch?v=dVbC0jASJYA",
+            "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+            "https://www.youtube.com/watch?v=35P6XSw5HMk",
+            "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+            "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+            "https://www.youtube.com/watch?v=b2d8u2QyvAo"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "Error found",
+            "content creator": "XOXO Festival",
+            "date": "Oct 9, 2019",
+            "description": "Since 2014, Harry Brewis aka \u201cHbomberguy\u201d built a base of over 450k YouTube subscribers with his wry video essays skewering the alt-right, Gamergate, and conspiracy theorists. In January, his Donkey Kong 64 charity stream went viral with cameos by AOC, Chelsea Manning and others, raising over $350,000 for Mermaids, a UK charity supporting gender-diverse and transgender children and young people.\n\nHbomberguy on YouTube: ",
+            "dislikes": " Unavailable",
+            "id": "lS1k88LzjkQ",
+            "likes": "Unavailable",
+            "title": "Harry Brewis, Hbomberguy - XOXO Festival (2019)",
+            "url": "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+            "video_length": 2053.241,
+            "views": "770,993 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+      "sampled_type": "curated",
+      "title": "Climate Denial: A Measured Response",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=lS1k88LzjkQ",
+        "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+        "https://www.youtube.com/watch?v=uqwvf6R1_QY",
+        "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+        "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+        "https://www.youtube.com/watch?v=JsNm2YLrk30",
+        "https://www.youtube.com/watch?v=j7f26gVlDQI",
+        "https://www.youtube.com/watch?v=06yy88tLWlg",
+        "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+        "https://www.youtube.com/watch?v=C8dfiDeJeDU"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "24,280",
+        "content creator": "hbomberguy",
+        "date": "May 31, 2019",
+        "description": "Sponsored in part by CuriosityStream: https://www.curiositystream.com/hbomb...\n\nFacts. What are they good for?\n\nTwitter: ",
+        "dislikes": " Unavailable",
+        "id": "RLqXkYrdmjY",
+        "likes": "167,773 likes",
+        "title": "Climate Denial: A Measured Response",
+        "url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+        "video_length": 2479.601,
+        "views": "4,300,995 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=xMabpBvtXr4",
+                  "sampled_type": "curated",
+                  "title": "The Alt-Right Playbook: The Card Says Moops",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=9bbhJi0NBkk",
+                    "https://www.youtube.com/watch?v=xMabpBvtXr4&list=RDCMUC5fdssPqmmGhkhsJi4VcckA&start_radio=1&rv=xMabpBvtXr4",
+                    "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+                    "https://www.youtube.com/watch?v=yts2F44RqFw",
+                    "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+                    "https://www.youtube.com/watch?v=0dBJIkp7qIg",
+                    "https://www.youtube.com/watch?v=MAbab8aP4_A",
+                    "https://www.youtube.com/watch?v=wmVkJvieaOA",
+                    "https://www.youtube.com/watch?v=I5auJOBC828",
+                    "https://www.youtube.com/watch?v=jbZo4x0NbbI"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "7,972",
+                    "content creator": "Innuendo Studios",
+                    "date": "Jan 25, 2019",
+                    "description": "patreon: http://patreon.com/InnuendoStudios\ntumblr: http://innuendostudios.tumblr.com\ntwitter: https://twitter.com/InnuendoStudios",
+                    "dislikes": " Unavailable",
+                    "id": "xMabpBvtXr4",
+                    "likes": "53,467 likes",
+                    "title": "The Alt-Right Playbook: The Card Says Moops",
+                    "url": "https://www.youtube.com/watch?v=xMabpBvtXr4",
+                    "video_length": 1095.221,
+                    "views": "1,347,626 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=e46uOGQ6RWg",
+              "sampled_type": "curated",
+              "title": "Bonus: Solidarity Lowell Q&A",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=9bbhJi0NBkk",
+                "https://www.youtube.com/watch?v=JDy95_eNPzM",
+                "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+                "https://www.youtube.com/watch?v=xMabpBvtXr4",
+                "https://www.youtube.com/watch?v=7b4WLR0o1RQ",
+                "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+                "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+                "https://www.youtube.com/watch?v=tMVl5U3SlS0",
+                "https://www.youtube.com/watch?v=4N6y6LEwsKc",
+                "https://www.youtube.com/watch?v=dklVypazQsA"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "619",
+                "content creator": "Innuendo Studios",
+                "date": "Dec 2, 2019",
+                "description": "patreon: http://patreon.com/InnuendoStudios\ntumblr: http://innuendostudios.tumblr.com\ntwitter: https://twitter.com/InnuendoStudios",
+                "dislikes": " Unavailable",
+                "id": "e46uOGQ6RWg",
+                "likes": "4,930 likes",
+                "title": "Bonus: Solidarity Lowell Q&A",
+                "url": "https://www.youtube.com/watch?v=e46uOGQ6RWg",
+                "video_length": 1259.661,
+                "views": "127,896 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+          "sampled_type": "curated",
+          "title": "Endnote 4: How the Alt-Right is Like an Abusive Relationship (live)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+            "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+            "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+            "https://www.youtube.com/watch?v=e46uOGQ6RWg",
+            "https://www.youtube.com/watch?v=KS0NtNxlX-s",
+            "https://www.youtube.com/watch?v=9bbhJi0NBkk",
+            "https://www.youtube.com/watch?v=QLq6GEiHqR8",
+            "https://www.youtube.com/watch?v=O5BJVO3PDeQ",
+            "https://www.youtube.com/watch?v=8PUCSyIkEus",
+            "https://www.youtube.com/watch?v=LkoGBOs5ecM"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,970",
+            "content creator": "Innuendo Studios",
+            "date": "Dec 2, 2019",
+            "description": "patreon: http://patreon.com/InnuendoStudios\ntumblr: http://innuendostudios.tumblr.com\ntwitter: https://twitter.com/InnuendoStudios",
+            "dislikes": " Unavailable",
+            "id": "e-MP_yOHiV0",
+            "likes": "22,073 likes",
+            "title": "Endnote 4: How the Alt-Right is Like an Abusive Relationship (live)",
+            "url": "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+            "video_length": 2159.621,
+            "views": "539,975 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+      "sampled_type": "curated",
+      "title": "Endnote 5: A Case Study in Digital Radicalism (UC Merced Talk)",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=9bbhJi0NBkk",
+        "https://www.youtube.com/watch?v=e-MP_yOHiV0",
+        "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+        "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+        "https://www.youtube.com/watch?v=lLYWHpgIoIw&list=RDLVlLYWHpgIoIw&start_radio=1&rv=lLYWHpgIoIw",
+        "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+        "https://www.youtube.com/watch?v=agzNANfNlTs",
+        "https://www.youtube.com/watch?v=a_yfnQPaD_E",
+        "https://www.youtube.com/watch?v=JsNm2YLrk30",
+        "https://www.youtube.com/watch?v=5Luu1Beb8ng"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "4,923",
+        "content creator": "Innuendo Studios",
+        "date": "Aug 23, 2021",
+        "description": "this video was edited with the help of Magdalen Rose, please go sub to her channel: https://www.youtube.com/MagdalenRose",
+        "dislikes": " Unavailable",
+        "id": "lLYWHpgIoIw",
+        "likes": "24,602 likes",
+        "title": "Endnote 5: A Case Study in Digital Radicalism (UC Merced Talk)",
+        "url": "https://www.youtube.com/watch?v=lLYWHpgIoIw",
+        "video_length": 3008.541,
+        "views": "398,607 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                  "sampled_type": "curated",
+                  "title": "Logic | Philosophy Tube",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=fCUTX1jurJ4",
+                    "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+                    "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                    "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                    "https://www.youtube.com/watch?v=5gnlhmaM-dM",
+                    "https://www.youtube.com/watch?v=bFeXJkcKYaU",
+                    "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                    "https://www.youtube.com/watch?v=LRNkDZy30xU",
+                    "https://www.youtube.com/watch?v=SEMB1Ky2n1E",
+                    "https://www.youtube.com/watch?v=x2W7P3wGBI8"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "4,925",
+                    "content creator": "Philosophy Tube",
+                    "date": "Jul 31, 2020",
+                    "description": "Support the show here! https://www.patreon.com/PhilosophyTube \nThanks to Space Baby for the credits song!  https://www.youtube.com/channel/UC__U...",
+                    "dislikes": " Unavailable",
+                    "id": "q8NVy00tfdI",
+                    "likes": "57,124 likes",
+                    "title": "Logic | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                    "video_length": 2063.481,
+                    "views": "931,147 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+              "sampled_type": "curated",
+              "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                "https://www.youtube.com/watch?v=LRNkDZy30xU",
+                "https://www.youtube.com/watch?v=rfYvLlbXj_8&list=RDLVrfYvLlbXj_8&start_radio=1&rv=rfYvLlbXj_8",
+                "https://www.youtube.com/watch?v=KAFbpWVO-ow",
+                "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                "https://www.youtube.com/watch?v=3IG0Y63LkDM",
+                "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+                "https://www.youtube.com/watch?v=Vr-ZeToI4R8"
+              ],
+              "video": {
+                "ad": true,
+                "comments": "8,838",
+                "content creator": "Philosophy Tube",
+                "date": "Jul 1, 2020",
+                "description": "The first 1000 people to use this link will get a 2 month free trial of Skillshare Premium Membership: https://skl.sh/philosophytube3\nSupport the show here! https://www.patreon.com/PhilosophyTube \ud83e\uddec\ud83d\ude49\ud83e\uddec\n\nSubscribe! ",
+                "dislikes": " Unavailable",
+                "id": "rfYvLlbXj_8",
+                "likes": "61,034 likes",
+                "title": "Charles Darwin Vs Karl Marx | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                "video_length": 3686.141,
+                "views": "1,335,169 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=2o3pkoZyYRA",
+          "sampled_type": "curated",
+          "title": "Germany's Demographic Demise?",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+            "https://www.youtube.com/watch?v=IjMESxJdWkg",
+            "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+            "https://www.youtube.com/watch?v=WC6sBJDQbPM",
+            "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+            "https://www.youtube.com/watch?v=gfHXJRqq-qo",
+            "https://www.youtube.com/watch?v=KyD8VIK032o",
+            "https://www.youtube.com/watch?v=I_HdqYCDcVE",
+            "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+            "https://www.youtube.com/watch?v=FJSI7QTAt_o"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "5,712",
+            "content creator": "Three Arrows",
+            "date": "Jan 6, 2019",
+            "description": "Is your favorite transnational organization trying to GENOCIDE your race?  \u0336O\u0336R\u0336D\u0336E\u0336R\u0336 \u0336N\u0336O\u0336W\u0336  Watch to find out!\n\n=Support me via=\n\u25ba Patreon: ",
+            "dislikes": " Unavailable",
+            "id": "2o3pkoZyYRA",
+            "likes": "22,919 likes",
+            "title": "Germany's Demographic Demise?",
+            "url": "https://www.youtube.com/watch?v=2o3pkoZyYRA",
+            "video_length": 2907.821,
+            "views": "532,435 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=VC4sAaV1eBs",
+      "sampled_type": "curated",
+      "title": "Fox News: How To Whitewash an Atrocity",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=6JwEYamjXpA",
+        "https://www.youtube.com/watch?v=2o3pkoZyYRA",
+        "https://www.youtube.com/watch?v=tmk47kh7fiE",
+        "https://www.youtube.com/watch?v=sc-euVL8xQs",
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=I_HdqYCDcVE",
+        "https://www.youtube.com/watch?v=9bbhJi0NBkk",
+        "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+        "https://www.youtube.com/watch?v=8PUCSyIkEus"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "4,084",
+        "content creator": "Three Arrows",
+        "date": "Dec 1, 2019",
+        "description": "This one's as bad as it gets\n\n\n=Support me via=\n\u25ba Patreon: ",
+        "dislikes": " Unavailable",
+        "id": "VC4sAaV1eBs",
+        "likes": "39,324 likes",
+        "title": "Fox News: How To Whitewash an Atrocity",
+        "url": "https://www.youtube.com/watch?v=VC4sAaV1eBs",
+        "video_length": 1950.381,
+        "views": "707,804 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=yCIeow1r0ko",
+                  "sampled_type": "curated",
+                  "title": "Mike From PA Calls In, Gets FURIOUS After Stream Meltdown",
+                  "top_10_recommended": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "video": {
+                    "ad": true,
+                    "comments": "3,277",
+                    "content creator": "Vaush",
+                    "date": "Mar 8, 2021",
+                    "description": "Check Out Eco Gecko! https://www.youtube.com/channel/UCJZV...\n\nWebsite - https://www.vaush.gg/",
+                    "dislikes": " Unavailable",
+                    "id": "yCIeow1r0ko",
+                    "likes": "11,499 likes",
+                    "title": "Mike From PA Calls In, Gets FURIOUS After Stream Meltdown",
+                    "url": "https://www.youtube.com/watch?v=yCIeow1r0ko",
+                    "video_length": 7532.421,
+                    "views": "458,705 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=aPhrTOg1RUk",
+              "sampled_type": "curated",
+              "title": "Envy | ContraPoints",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=yCIeow1r0ko",
+                "https://www.youtube.com/watch?v=aPhrTOg1RUk&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=aPhrTOg1RUk",
+                "https://www.youtube.com/watch?v=I5auJOBC828",
+                "https://www.youtube.com/watch?v=1o2fnTNxE_Q",
+                "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+                "https://www.youtube.com/watch?v=8quWUSZCW5g",
+                "https://www.youtube.com/watch?v=VG_hsUdFkOM",
+                "https://www.youtube.com/watch?v=_HkY7qUqYjI",
+                "https://www.youtube.com/watch?v=eL8rsi1UN8A",
+                "https://www.youtube.com/watch?v=JsNm2YLrk30"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "24,363",
+                "content creator": "ContraPoints",
+                "date": "Aug 7, 2021",
+                "description": "Starting at the surface with celebrity gossip, then spiraling into the inferno of the human psyche. Virgil, get me out of here.\n\nSupport this channel: ",
+                "dislikes": " Unavailable",
+                "id": "aPhrTOg1RUk",
+                "likes": "207,099 likes",
+                "title": "Envy | ContraPoints",
+                "url": "https://www.youtube.com/watch?v=aPhrTOg1RUk",
+                "video_length": 6495.801,
+                "views": "3,856,781 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+          "sampled_type": "curated",
+          "title": "Opulence | ContraPoints",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=aPhrTOg1RUk",
+            "https://www.youtube.com/watch?v=xMNTNDRcQJI",
+            "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+            "https://www.youtube.com/watch?v=jD-PbF3ywGo&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=jD-PbF3ywGo",
+            "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+            "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+            "https://www.youtube.com/watch?v=JsNm2YLrk30",
+            "https://www.youtube.com/watch?v=n9mspMJTNEY",
+            "https://www.youtube.com/watch?v=S6GodWn4XMM",
+            "https://www.youtube.com/watch?v=qzk9N7dJBec"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "13,030",
+            "content creator": "ContraPoints",
+            "date": "Oct 12, 2019",
+            "description": "The aesthetic of owning everything.\nSupport this channel: https://www.patreon.com/contrapoints",
+            "dislikes": " Unavailable",
+            "id": "jD-PbF3ywGo",
+            "likes": "137,615 likes",
+            "title": "Opulence | ContraPoints",
+            "url": "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+            "video_length": 2946.341,
+            "views": "2,802,843 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=aPhrTOg1RUk&t=1230s",
+      "sampled_type": "curated",
+      "title": "Envy | ContraPoints",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+        "https://www.youtube.com/watch?v=smQsfNw_7V4",
+        "https://www.youtube.com/watch?v=aPhrTOg1RUk&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=aPhrTOg1RUk",
+        "https://www.youtube.com/watch?v=8quWUSZCW5g",
+        "https://www.youtube.com/watch?v=UBc7qBS1Ujo",
+        "https://www.youtube.com/watch?v=Qh9KBwqGxTI",
+        "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+        "https://www.youtube.com/watch?v=1o2fnTNxE_Q",
+        "https://www.youtube.com/watch?v=cXZ6BZzQeCQ",
+        "https://www.youtube.com/watch?v=LkoGBOs5ecM"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "24,363",
+        "content creator": "ContraPoints",
+        "date": "Aug 7, 2021",
+        "description": "Starting at the surface with celebrity gossip, then spiraling into the inferno of the human psyche. Virgil, get me out of here.\n\nSupport this channel: ",
+        "dislikes": " Unavailable",
+        "id": "aPhrTOg1RUk&t",
+        "likes": "207,099 likes",
+        "title": "Envy | ContraPoints",
+        "url": "https://www.youtube.com/watch?v=aPhrTOg1RUk&t=1230s",
+        "video_length": 6495.801,
+        "views": "3,856,747 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                  "sampled_type": "curated",
+                  "title": "North Korea: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=OubM8bD9kck",
+                    "https://www.youtube.com/watch?v=TrS0uNBuG9c&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=TrS0uNBuG9c",
+                    "https://www.youtube.com/watch?v=KEbFtMgGhPY",
+                    "https://www.youtube.com/watch?v=opi8X9hQ7q8",
+                    "https://www.youtube.com/watch?v=g6iDZspbRMg",
+                    "https://www.youtube.com/watch?v=0utzB6oDan0",
+                    "https://www.youtube.com/watch?v=UN8bJb8biZU",
+                    "https://www.youtube.com/watch?v=s6MwGeOm8iI",
+                    "https://www.youtube.com/watch?v=5xnZ_CeTqyM",
+                    "https://www.youtube.com/watch?v=dXyO_MC9g3k"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "15,135",
+                    "content creator": "LastWeekTonight",
+                    "date": "Aug 14, 2017",
+                    "description": "As nuclear tensions continue to escalate between the United States and North Korea, John Oliver enlists \"Weird Al\" Yankovic to perform some accordion-based diplomacy.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "TrS0uNBuG9c",
+                    "likes": "215,770 likes",
+                    "title": "North Korea: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                    "video_length": 1619.681,
+                    "views": "19,705,129 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+              "sampled_type": "curated",
+              "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                "https://www.youtube.com/watch?v=LEcbagW4O-s",
+                "https://www.youtube.com/watch?v=wD8AwgO0AQI",
+                "https://www.youtube.com/watch?v=FVFdsl29s_Q",
+                "https://www.youtube.com/watch?v=aw6RsUhw1Q8",
+                "https://www.youtube.com/watch?v=0b_eHBZLM6U",
+                "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+                "https://www.youtube.com/watch?v=XEVlyP4_11M",
+                "https://www.youtube.com/watch?v=J5b_-TZwQ0I&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=J5b_-TZwQ0I",
+                "https://www.youtube.com/watch?v=jYusNNldesc"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "58,329",
+                "content creator": "LastWeekTonight",
+                "date": "Oct 9, 2017",
+                "description": "Confederate symbols are still celebrated despite the ugly history they symbolize. John Oliver suggests some representations of southern pride that involve less racism and more Stephen Colbert.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "J5b_-TZwQ0I",
+                "likes": "342,414 likes",
+                "title": "Confederacy: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+                "video_length": 1298.221,
+                "views": "26,918,919 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=qfjTG6SVjmQ",
+          "sampled_type": "curated",
+          "title": "BBC Transphobia Part 2",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=JDy95_eNPzM",
+            "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+            "https://www.youtube.com/watch?v=dh4G1Gjv7bA",
+            "https://www.youtube.com/watch?v=kYJx5xt2cB0",
+            "https://www.youtube.com/watch?v=L30_hfuZoQ8",
+            "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+            "https://www.youtube.com/watch?v=Xd_nVCWPgiA",
+            "https://www.youtube.com/watch?v=ZHFZOXiM9SM",
+            "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+            "https://www.youtube.com/watch?v=PE84fH_Pc9c"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,995",
+            "content creator": "Shaun",
+            "date": "Dec 3, 2021",
+            "description": "Content warning for transphobia and sexual assault, same as the previous video.\n\nPrevious video: https://youtu.be/b4buJMMiwcg",
+            "dislikes": " Unavailable",
+            "id": "qfjTG6SVjmQ",
+            "likes": "25,550 likes",
+            "title": "BBC Transphobia Part 2",
+            "url": "https://www.youtube.com/watch?v=qfjTG6SVjmQ",
+            "video_length": 936.961,
+            "views": "279,612 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=b4buJMMiwcg",
+      "sampled_type": "curated",
+      "title": "Response to BBC transphobia",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=qHLizp8fARo",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=dT_w5WkFTLo",
+        "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+        "https://www.youtube.com/watch?v=qfjTG6SVjmQ",
+        "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+        "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+        "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+        "https://www.youtube.com/watch?v=BHW3Y_p2llo",
+        "https://www.youtube.com/watch?v=l63nY0AYebI"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "5,563",
+        "content creator": "Shaun",
+        "date": "Nov 12, 2021",
+        "description": "Content warning: extreme transphobia, sexual assault, threats of violence (including sexual violence)\n\nYou don't have to let the TV License people inside.\n\nComplaints page: ",
+        "dislikes": " Unavailable",
+        "id": "b4buJMMiwcg",
+        "likes": "43,000 likes",
+        "title": "Response to BBC transphobia",
+        "url": "https://www.youtube.com/watch?v=b4buJMMiwcg",
+        "video_length": 971.341,
+        "views": "462,772 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=xcwJt4bcnXs",
+                  "sampled_type": "curated",
+                  "title": "Stadiums: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=pX8BXH3SJn0",
+                    "https://www.youtube.com/watch?v=xcwJt4bcnXs&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=xcwJt4bcnXs",
+                    "https://www.youtube.com/watch?v=DlJEt2KU33I",
+                    "https://www.youtube.com/watch?v=WA0wKeokWUU",
+                    "https://www.youtube.com/watch?v=i8xwLWb0lLY",
+                    "https://www.youtube.com/watch?v=J6lyURyVz7k",
+                    "https://www.youtube.com/watch?v=BgyqAD5Z6_A",
+                    "https://www.youtube.com/watch?v=qr6ar3xJL_Q",
+                    "https://www.youtube.com/watch?v=hxUAntt1z2c",
+                    "https://www.youtube.com/watch?v=Mq785nJ0FXQ"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "9,900",
+                    "content creator": "LastWeekTonight",
+                    "date": "Jul 13, 2015",
+                    "description": "Cities spend massive amounts of public money on privately-owned stadiums. Cities issue tax-exempt municipal bonds that \u2014 wait, don\u2019t fall asleep!\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "xcwJt4bcnXs",
+                    "likes": "125,237 likes",
+                    "title": "Stadiums: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=xcwJt4bcnXs",
+                    "video_length": 1147.801,
+                    "views": "15,135,071 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+              "sampled_type": "curated",
+              "title": "The Power Grid: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+                "https://www.youtube.com/watch?v=xcwJt4bcnXs",
+                "https://www.youtube.com/watch?v=Ezv8sdTLxKo",
+                "https://www.youtube.com/watch?v=qBpiXcyB7wU&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=qBpiXcyB7wU",
+                "https://www.youtube.com/watch?v=liptMbjF3EE",
+                "https://www.youtube.com/watch?v=uaCaIhfETsM",
+                "https://www.youtube.com/watch?v=OjPYmEZxACM",
+                "https://www.youtube.com/watch?v=27FpoRiStgk",
+                "https://www.youtube.com/watch?v=AjqaNQ018zU",
+                "https://www.youtube.com/watch?v=3y1QA6OeAcQ"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "12,138",
+                "content creator": "LastWeekTonight",
+                "date": "Nov 8, 2021",
+                "description": "John Oliver discusses the current state of the nation\u2019s power grid, why it needs fixing, and, of course, how fun balloons are.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "qBpiXcyB7wU",
+                "likes": "122,020 likes",
+                "title": "The Power Grid: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+                "video_length": 1348.741,
+                "views": "4,622,894 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+          "sampled_type": "curated",
+          "title": "Union Busting: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=qBpiXcyB7wU",
+            "https://www.youtube.com/watch?v=mXQuto1fMp4",
+            "https://www.youtube.com/watch?v=liptMbjF3EE",
+            "https://www.youtube.com/watch?v=9Y18-07g39g",
+            "https://www.youtube.com/watch?v=Gk8dUXRpoy8&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=Gk8dUXRpoy8",
+            "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+            "https://www.youtube.com/watch?v=oDPCmmZifE8",
+            "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+            "https://www.youtube.com/watch?v=1Y1ya-yF35g",
+            "https://www.youtube.com/watch?v=yCIeow1r0ko"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "13,194",
+            "content creator": "LastWeekTonight",
+            "date": "Nov 15, 2021",
+            "description": "John Oliver discusses the mechanics of union busting, why the companies who do it face so few consequences, and what it really means when your manager wants to talk to you about \u201cyour attendance.\u201d\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "Gk8dUXRpoy8",
+            "likes": "130,302 likes",
+            "title": "Union Busting: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+            "video_length": 1416.781,
+            "views": "4,800,305 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=PC2GtkGBEWU",
+      "sampled_type": "curated",
+      "title": "Crowder's Racist Covid-Denying Freak-Out Made His Producer Cringe",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+        "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+        "https://www.youtube.com/watch?v=SiijS_9hPkM",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=7VJ5VY610O0",
+        "https://www.youtube.com/watch?v=XMGxxRRtmHc",
+        "https://www.youtube.com/watch?v=evy9zETscDI",
+        "https://www.youtube.com/watch?v=oCqO2oFjWrg",
+        "https://www.youtube.com/watch?v=t6rHHnABoT8"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "1,667",
+        "content creator": "The Majority Report w/ Sam Seder",
+        "date": "Dec 15, 2021",
+        "description": "Steven Crowder makes absolutely racist comments about rapper Megan Thee Stallion and singer Lizzo when comparing Covid strains. The Majority Report crew discuss and clarify Crowder\u2019s misconception of the Omicron variant being a less lethal godsend. \n\nWe stream our live show every day at 12 PM ET.\n\nWe need your help to keep providing free videos! Support the Majority Report's video content by going to ",
+        "dislikes": " Unavailable",
+        "id": "PC2GtkGBEWU",
+        "likes": "5,373 likes",
+        "title": "Crowder's Racist Covid-Denying Freak-Out Made His Producer Cringe",
+        "url": "https://www.youtube.com/watch?v=PC2GtkGBEWU",
+        "video_length": 408.941,
+        "views": "142,127 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

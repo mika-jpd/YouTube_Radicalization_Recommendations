@@ -1,0 +1,809 @@
+{
+  "children": [
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=fCUTX1jurJ4",
+                  "sampled_type": "curated",
+                  "title": "Data | Philosophy Tube",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=3IG0Y63LkDM",
+                    "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                    "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                    "https://www.youtube.com/watch?v=BNhj_s8flUk",
+                    "https://www.youtube.com/watch?v=tmk47kh7fiE",
+                    "https://www.youtube.com/watch?v=yyzd_a6vLWY",
+                    "https://www.youtube.com/watch?v=q8NVy00tfdI",
+                    "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+                    "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                    "https://www.youtube.com/watch?v=rfYvLlbXj_8"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "5,983",
+                    "content creator": "Philosophy Tube",
+                    "date": "Premiered Jan 31, 2020",
+                    "description": "When all you have is a hammer all your problems look like nails - https://www.patreon.com/PhilosophyTube",
+                    "dislikes": " Unavailable",
+                    "id": "fCUTX1jurJ4",
+                    "likes": "61,151 likes",
+                    "title": "Data | Philosophy Tube",
+                    "url": "https://www.youtube.com/watch?v=fCUTX1jurJ4",
+                    "video_length": 1573.761,
+                    "views": "745,964 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+              "sampled_type": "curated",
+              "title": "Climate Grief | Philosophy Tube",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=fCUTX1jurJ4",
+                "https://www.youtube.com/watch?v=oENI8NnTx0w",
+                "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+                "https://www.youtube.com/watch?v=IYkLVU5UGM8",
+                "https://www.youtube.com/watch?v=k-ZfPYRkEGk",
+                "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+                "https://www.youtube.com/watch?v=AeGEv0YVLtw",
+                "https://www.youtube.com/watch?v=5gnlhmaM-dM",
+                "https://www.youtube.com/watch?v=TDcwIZzaf-k",
+                "https://www.youtube.com/watch?v=q8NVy00tfdI"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "5,601",
+                "content creator": "Philosophy Tube",
+                "date": "Premiered Aug 22, 2019",
+                "description": "rip \ud83c\udf0dhttps://www.patreon.com/PhilosophyTube\n\nSubscribe! http://tinyurl.com/pr99a46",
+                "dislikes": " Unavailable",
+                "id": "CqCx9xU_-Fw",
+                "likes": "61,970 likes",
+                "title": "Climate Grief | Philosophy Tube",
+                "url": "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+                "video_length": 1770.681,
+                "views": "953,804 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+          "sampled_type": "curated",
+          "title": "Climate Denial: A Measured Response",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=jH5rNlWiPFM",
+            "https://www.youtube.com/watch?v=CqCx9xU_-Fw",
+            "https://www.youtube.com/watch?v=uqwvf6R1_QY",
+            "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+            "https://www.youtube.com/watch?v=dklVypazQsA",
+            "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+            "https://www.youtube.com/watch?v=KkMfKihy33w",
+            "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+            "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+            "https://www.youtube.com/watch?v=b2d8u2QyvAo"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "24,280",
+            "content creator": "hbomberguy",
+            "date": "May 31, 2019",
+            "description": "Sponsored in part by CuriosityStream: https://www.curiositystream.com/hbomb...\n\nFacts. What are they good for?\n\nTwitter: ",
+            "dislikes": " Unavailable",
+            "id": "RLqXkYrdmjY",
+            "likes": "167,777 likes",
+            "title": "Climate Denial: A Measured Response",
+            "url": "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+            "video_length": 2479.601,
+            "views": "4,301,102 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=8BIcAZxFfrc&t=1s",
+      "sampled_type": "curated",
+      "title": "Vaccines: A Measured Response",
+      "top_10_recommended": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "video": {
+        "ad": true,
+        "comments": "33,763",
+        "content creator": "hbomberguy",
+        "date": "May 26, 2021",
+        "description": "What is the science behind the anti-vaccine movement, and is it any good? Let\u2019s find out!\n\nMy Twitter: https://twitter.com/hbomberguy",
+        "dislikes": " Unavailable",
+        "id": "8BIcAZxFfrc&t",
+        "likes": "190,584 likes",
+        "title": "Vaccines: A Measured Response",
+        "url": "https://www.youtube.com/watch?v=8BIcAZxFfrc&t=1s",
+        "video_length": 6249.241,
+        "views": "3,699,344 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=xbZMqS-fW-8&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=xbZMqS-fW-8",
+                  "sampled_type": "opposing",
+                  "title": "The Power Of VHS | SCANLINE",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=xbZMqS-fW-8&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=1",
+                    "https://www.youtube.com/watch?v=D6OT77T7YlE&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=2",
+                    "https://www.youtube.com/watch?v=CnPOQr1pxY8&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=3",
+                    "https://www.youtube.com/watch?v=4xRDiUD1a8c&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=4",
+                    "https://www.youtube.com/watch?v=C6NiXAdMzEk&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=5",
+                    "https://www.youtube.com/watch?v=Ozf2hwEOWHE&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=6",
+                    "https://www.youtube.com/watch?v=wtPZ96oHH-4&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=7",
+                    "https://www.youtube.com/watch?v=TebCHHCw9rY&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=8",
+                    "https://www.youtube.com/watch?v=YGbnAJR-vZA&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=9",
+                    "https://www.youtube.com/watch?v=l8u8wZ0WvxI&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&index=10"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "2,275",
+                    "content creator": "hbomberguy",
+                    "date": "Sep 30, 2017",
+                    "description": "Let's have a look at the long-lasting effects tape and its particular properties had on movie language and the cultural landscape of film!\n\nSCANLINE is a video essay series about film's form, cultural impact, and philosophy, written and edited by Harris Bomberguy and Shannon Strucci.\n\nShannon's Twitter: ",
+                    "dislikes": " Unavailable",
+                    "id": "xbZMqS-fW-8&list",
+                    "likes": "31,372 likes",
+                    "title": "The Power Of VHS | SCANLINE",
+                    "url": "https://www.youtube.com/watch?v=xbZMqS-fW-8&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=xbZMqS-fW-8",
+                    "video_length": 1760.861,
+                    "views": "844,210 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=xbZMqS-fW-8",
+              "sampled_type": "opposing",
+              "title": "The Power Of VHS | SCANLINE",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=D6OT77T7YlE",
+                "https://www.youtube.com/watch?v=CnPOQr1pxY8",
+                "https://www.youtube.com/watch?v=xbZMqS-fW-8&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=xbZMqS-fW-8",
+                "https://www.youtube.com/watch?v=LkoGBOs5ecM",
+                "https://www.youtube.com/watch?v=dklVypazQsA",
+                "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+                "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+                "https://www.youtube.com/watch?v=dVbC0jASJYA",
+                "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+                "https://www.youtube.com/watch?v=06yy88tLWlg"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "2,275",
+                "content creator": "hbomberguy",
+                "date": "Sep 30, 2017",
+                "description": "Let's have a look at the long-lasting effects tape and its particular properties had on movie language and the cultural landscape of film!\n\nSCANLINE is a video essay series about film's form, cultural impact, and philosophy, written and edited by Harris Bomberguy and Shannon Strucci.\n\nShannon's Twitter: ",
+                "dislikes": " Unavailable",
+                "id": "xbZMqS-fW-8",
+                "likes": "31,372 likes",
+                "title": "The Power Of VHS | SCANLINE",
+                "url": "https://www.youtube.com/watch?v=xbZMqS-fW-8",
+                "video_length": 1760.861,
+                "views": "844,208 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=TebCHHCw9rY",
+          "sampled_type": "opposing",
+          "title": "CTRL+ALT+DEL | SLA:3",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+            "https://www.youtube.com/watch?v=I5auJOBC828",
+            "https://www.youtube.com/watch?v=TebCHHCw9rY&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=TebCHHCw9rY",
+            "https://www.youtube.com/watch?v=06yy88tLWlg",
+            "https://www.youtube.com/watch?v=2gFsOoKAHZg",
+            "https://www.youtube.com/watch?v=qzk9N7dJBec",
+            "https://www.youtube.com/watch?v=dklVypazQsA",
+            "https://www.youtube.com/watch?v=cj5bo0PCunQ",
+            "https://www.youtube.com/watch?v=3Oco4WYRdaU",
+            "https://www.youtube.com/watch?v=4xRDiUD1a8c"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "7,304",
+            "content creator": "hbomberguy",
+            "date": "Apr 27, 2018",
+            "description": "In attempting to go fast, Hareton Splimby suffers a great loss, and must move past it and heal.\n\nMy Twitter: https://twitter.com/hbomberguy",
+            "dislikes": " Unavailable",
+            "id": "TebCHHCw9rY",
+            "likes": "63,828 likes",
+            "title": "CTRL+ALT+DEL | SLA:3",
+            "url": "https://www.youtube.com/watch?v=TebCHHCw9rY",
+            "video_length": 2050.321,
+            "views": "1,731,842 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=XYXkHIsslD0",
+      "sampled_type": "opposing",
+      "title": "Soy Boy Diet Aftermath",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=R_wscUcbynk",
+        "https://www.youtube.com/watch?v=C8dfiDeJeDU",
+        "https://www.youtube.com/watch?v=B-8zmGr0geQ",
+        "https://www.youtube.com/watch?v=xbZMqS-fW-8",
+        "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+        "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+        "https://www.youtube.com/watch?v=06yy88tLWlg",
+        "https://www.youtube.com/watch?v=sAmM872874A",
+        "https://www.youtube.com/watch?v=JOp28hQb_Xw",
+        "https://www.youtube.com/watch?v=rc24YtUslCU"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "6,400",
+        "content creator": "hbomberguy",
+        "date": "Feb 12, 2018",
+        "description": "Here's a quick look at what it was like eating a bunch of Soy for 2 months for a silly stunt\n\nMy Twitter: https://twitter.com/hbomberguy",
+        "dislikes": " Unavailable",
+        "id": "XYXkHIsslD0",
+        "likes": "41,649 likes",
+        "title": "Soy Boy Diet Aftermath",
+        "url": "https://www.youtube.com/watch?v=XYXkHIsslD0",
+        "video_length": 1302.061,
+        "views": "1,138,837 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+                  "sampled_type": "curated",
+                  "title": "Gender Critical | ContraPoints",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=8quWUSZCW5g",
+                    "https://www.youtube.com/watch?v=1pTPuoGjQsI&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=1pTPuoGjQsI",
+                    "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+                    "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+                    "https://www.youtube.com/watch?v=qtj7LDYaufM",
+                    "https://www.youtube.com/watch?v=Gk8dUXRpoy8",
+                    "https://www.youtube.com/watch?v=JsNm2YLrk30",
+                    "https://www.youtube.com/watch?v=aDMjgOYOcDw",
+                    "https://www.youtube.com/watch?v=jbZo4x0NbbI",
+                    "https://www.youtube.com/watch?v=g6iDZspbRMg"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "21,442",
+                    "content creator": "ContraPoints",
+                    "date": "Mar 30, 2019",
+                    "description": "Let's go adult human females.\nSupport this channel: https://www.patreon.com/contrapoints",
+                    "dislikes": " Unavailable",
+                    "id": "1pTPuoGjQsI",
+                    "likes": "162,927 likes",
+                    "title": "Gender Critical | ContraPoints",
+                    "url": "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+                    "video_length": 2028.961,
+                    "views": "3,416,135 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=qtj7LDYaufM",
+              "sampled_type": "curated",
+              "title": "The Darkness | ContraPoints",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+                "https://www.youtube.com/watch?v=qtj7LDYaufM&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=qtj7LDYaufM",
+                "https://www.youtube.com/watch?v=8quWUSZCW5g",
+                "https://www.youtube.com/watch?v=KSXKzPOcYDU",
+                "https://www.youtube.com/watch?v=wkd8Ct1OPtk",
+                "https://www.youtube.com/watch?v=EODW78T4cNM",
+                "https://www.youtube.com/watch?v=lF-D8tfMsFY",
+                "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+                "https://www.youtube.com/watch?v=VG_hsUdFkOM",
+                "https://www.youtube.com/watch?v=QK0Qo-UAvc0"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "10,034",
+                "content creator": "ContraPoints",
+                "date": "Mar 2, 2019",
+                "description": "Some like it dark.\nSupport this channel: https://www.patreon.com/contrapoints",
+                "dislikes": " Unavailable",
+                "id": "qtj7LDYaufM",
+                "likes": "104,747 likes",
+                "title": "The Darkness | ContraPoints",
+                "url": "https://www.youtube.com/watch?v=qtj7LDYaufM",
+                "video_length": 1761.521,
+                "views": "1,897,462 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=S6GodWn4XMM",
+          "sampled_type": "curated",
+          "title": "The Apocalypse | ContraPoints",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=H0AGjuuX1q8",
+            "https://www.youtube.com/watch?v=qtj7LDYaufM",
+            "https://www.youtube.com/watch?v=hyaftqCORT4",
+            "https://www.youtube.com/watch?v=rfYvLlbXj_8",
+            "https://www.youtube.com/watch?v=z1afqR5QkDM",
+            "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+            "https://www.youtube.com/watch?v=hW4U_lfgPac",
+            "https://www.youtube.com/watch?v=Vr-ZeToI4R8",
+            "https://www.youtube.com/watch?v=9bbINLWtMKI",
+            "https://www.youtube.com/watch?v=smQsfNw_7V4"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "10,136",
+            "content creator": "ContraPoints",
+            "date": "Dec 1, 2018",
+            "description": "Is it hot in here or is the world just like this now?\nSupport this channel: https://www.patreon.com/contrapoints",
+            "dislikes": " Unavailable",
+            "id": "S6GodWn4XMM",
+            "likes": "78,101 likes",
+            "title": "The Apocalypse | ContraPoints",
+            "url": "https://www.youtube.com/watch?v=S6GodWn4XMM",
+            "video_length": 1483.581,
+            "views": "1,465,856 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=smQsfNw_7V4",
+      "sampled_type": "curated",
+      "title": "Justice (Part 1) | ContraPoints",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=S6GodWn4XMM",
+        "https://www.youtube.com/watch?v=jD-PbF3ywGo",
+        "https://www.youtube.com/watch?v=smQsfNw_7V4&list=RDCMUCNvsIonJdJ5E4EXMa65VYpA&start_radio=1&rv=smQsfNw_7V4",
+        "https://www.youtube.com/watch?v=4fVOF2PiHnc",
+        "https://www.youtube.com/watch?v=8quWUSZCW5g",
+        "https://www.youtube.com/watch?v=p4AdFD3E2ok",
+        "https://www.youtube.com/watch?v=wO6uD3c2qMo",
+        "https://www.youtube.com/watch?v=1pTPuoGjQsI",
+        "https://www.youtube.com/watch?v=0XDiWYFGGqY",
+        "https://www.youtube.com/watch?v=L30_hfuZoQ8"
+      ],
+      "video": {
+        "ad": null,
+        "comments": "14,391",
+        "content creator": "ContraPoints",
+        "date": "Sep 4, 2020",
+        "description": "Let's talk about justice uwu\nSupport this channel: https://www.patreon.com/contrapoints",
+        "dislikes": " Unavailable",
+        "id": "smQsfNw_7V4",
+        "likes": "132,324 likes",
+        "title": "Justice (Part 1) | ContraPoints",
+        "url": "https://www.youtube.com/watch?v=smQsfNw_7V4",
+        "video_length": 2583.561,
+        "views": "2,281,881 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=d9m7d07k22A",
+                  "sampled_type": "curated",
+                  "title": "Warehouses: Last Week Tonight with John Oliver (HBO)",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=hnoMsftQPY8",
+                    "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                    "https://www.youtube.com/watch?v=hWQiXv0sn9Y",
+                    "https://www.youtube.com/watch?v=XEVlyP4_11M",
+                    "https://www.youtube.com/watch?v=AjqaNQ018zU",
+                    "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+                    "https://www.youtube.com/watch?v=0lTczPEG8iI",
+                    "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                    "https://www.youtube.com/watch?v=d9m7d07k22A&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=d9m7d07k22A",
+                    "https://www.youtube.com/watch?v=qMGn9T37eR8"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "20,523",
+                    "content creator": "LastWeekTonight",
+                    "date": "Jul 1, 2019",
+                    "description": "It\u2019s easy to buy things online, and even easier not to think about how they get to you. John Oliver discusses what happens when you click \u201cbuy now.\u201d\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                    "dislikes": " Unavailable",
+                    "id": "d9m7d07k22A",
+                    "likes": "173,213 likes",
+                    "title": "Warehouses: Last Week Tonight with John Oliver (HBO)",
+                    "url": "https://www.youtube.com/watch?v=d9m7d07k22A",
+                    "video_length": 1277.921,
+                    "views": "12,020,997 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+              "sampled_type": "curated",
+              "title": "Everest: Last Week Tonight with John Oliver (HBO)",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=d9m7d07k22A",
+                "https://www.youtube.com/watch?v=WhMGcp9xIhY",
+                "https://www.youtube.com/watch?v=oDPCmmZifE8",
+                "https://www.youtube.com/watch?v=hnoMsftQPY8",
+                "https://www.youtube.com/watch?v=Yq7Eh6JTKIg",
+                "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+                "https://www.youtube.com/watch?v=UnSILVWDKL8",
+                "https://www.youtube.com/watch?v=TrS0uNBuG9c",
+                "https://www.youtube.com/watch?v=A-XlyB_QQYs",
+                "https://www.youtube.com/watch?v=Bchx0mS7XOY&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=Bchx0mS7XOY"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "10,495",
+                "content creator": "LastWeekTonight",
+                "date": "Jun 24, 2019",
+                "description": "Climbing Mount Everest has become dangerously popular. John Oliver explains why.\n\nConnect with Last Week Tonight online...\n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+                "dislikes": " Unavailable",
+                "id": "Bchx0mS7XOY",
+                "likes": "159,840 likes",
+                "title": "Everest: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+                "video_length": 1322.341,
+                "views": "10,084,040 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+          "sampled_type": "curated",
+          "title": "Gurbanguly Berdimuhamedov: Last Week Tonight with John Oliver (HBO)",
+          "top_10_recommended": [
+            "https://www.youtube.com/watch?v=Bchx0mS7XOY",
+            "https://www.youtube.com/watch?v=-9QYu8LtH2E&list=RDCMUC3XTzVzaHQEd30rQbuvCtTQ&start_radio=1&rv=-9QYu8LtH2E",
+            "https://www.youtube.com/watch?v=tXqnRMU1fTs",
+            "https://www.youtube.com/watch?v=UN8bJb8biZU",
+            "https://www.youtube.com/watch?v=LdhQzXHYLZ4",
+            "https://www.youtube.com/watch?v=w5nPM0HX7u0",
+            "https://www.youtube.com/watch?v=OubM8bD9kck",
+            "https://www.youtube.com/watch?v=-YkLPxQp_y0",
+            "https://www.youtube.com/watch?v=mXQuto1fMp4",
+            "https://www.youtube.com/watch?v=LEcbagW4O-s"
+          ],
+          "video": {
+            "ad": null,
+            "comments": "14,752",
+            "content creator": "LastWeekTonight",
+            "date": "Aug 12, 2019",
+            "description": "John Oliver takes a look at the president of Turkmenistan, a dangerous autocrat with some notably strange obsessions.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: ",
+            "dislikes": " Unavailable",
+            "id": "-9QYu8LtH2E",
+            "likes": "251,032 likes",
+            "title": "Gurbanguly Berdimuhamedov: Last Week Tonight with John Oliver (HBO)",
+            "url": "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+            "video_length": 1240.621,
+            "views": "12,604,325 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=NVH7JewfgJg",
+      "sampled_type": "curated",
+      "title": "Why South Africa is still so segregated",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=-9QYu8LtH2E",
+        "https://www.youtube.com/watch?v=Mn4VDwaV-oo",
+        "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+        "https://www.youtube.com/watch?v=pKGzw8GROf0",
+        "https://www.youtube.com/watch?v=Wehsz38P74g",
+        "https://www.youtube.com/watch?v=xX0ozxrZlEQ",
+        "https://www.youtube.com/watch?v=r5Ps1TZXAN8",
+        "https://www.youtube.com/watch?v=zqllxbPWKNI",
+        "https://www.youtube.com/watch?v=JU4m8hkf-O0",
+        "https://www.youtube.com/watch?v=J5b_-TZwQ0I"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "21,973",
+        "content creator": "Vox",
+        "date": "Apr 12, 2021",
+        "description": "How centuries of division built one of the most unequal countries on earth.\n\nSubscribe to our channel and turn on notifications (\ud83d\udd14) http://goo.gl/0bsAjO",
+        "dislikes": " Unavailable",
+        "id": "NVH7JewfgJg",
+        "likes": "120,350 likes",
+        "title": "Why South Africa is still so segregated",
+        "url": "https://www.youtube.com/watch?v=NVH7JewfgJg",
+        "video_length": 615.761,
+        "views": "6,516,259 views"
+      }
+    },
+    {
+      "actual_video_type": "random",
+      "children": [
+        {
+          "actual_video_type": "random",
+          "children": [
+            {
+              "actual_video_type": "random",
+              "children": [
+                {
+                  "actual_video_type": "random",
+                  "id": "https://www.youtube.com/watch?v=IZ1y75vxO0o",
+                  "sampled_type": "random",
+                  "title": "The Quiet Sadness of Mario Galaxy",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=oca8BnDMin4",
+                    "https://www.youtube.com/watch?v=IZ1y75vxO0o&list=RDLVIZ1y75vxO0o&start_radio=1&rv=IZ1y75vxO0o",
+                    "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+                    "https://www.youtube.com/watch?v=YkXZOFBb-jc",
+                    "https://www.youtube.com/watch?v=1yTIhtfgDwY",
+                    "https://www.youtube.com/watch?v=Pp2wbyLoEtM",
+                    "https://www.youtube.com/watch?v=dmLSJrA0n9w",
+                    "https://www.youtube.com/watch?v=1o2fnTNxE_Q",
+                    "https://www.youtube.com/watch?v=nTp_0jUgsPU",
+                    "https://www.youtube.com/watch?v=TYPCcsF08Fk"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "5,975",
+                    "content creator": "Jacob Geller",
+                    "date": "Feb 15, 2019",
+                    "description": "\u201cWhere are the people?\u201d resumed the little prince at last. \u201cIt\u2019s a little lonely in the desert\u2026\u201d \u201cIt is lonely when you\u2019re among people, too,\u201d said the snake.\n\nFollow me at ",
+                    "dislikes": " Unavailable",
+                    "id": "IZ1y75vxO0o",
+                    "likes": "125,155 likes",
+                    "title": "The Quiet Sadness of Mario Galaxy",
+                    "url": "https://www.youtube.com/watch?v=IZ1y75vxO0o",
+                    "video_length": 676.841,
+                    "views": "1,803,223 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=4Bv45aPMGyI",
+              "sampled_type": "random",
+              "title": "The Power of Video Game HUDs",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=bHdi5Ar8GXw",
+                "https://www.youtube.com/watch?v=e5jx9aYSG1c",
+                "https://www.youtube.com/watch?v=rlmVxrq-3Go",
+                "https://www.youtube.com/watch?v=bE_ZuNp1CTI",
+                "https://www.youtube.com/watch?v=4Bv45aPMGyI&list=RDCMUCqJ-Xo29CKyLTjn6z2XwYAw&start_radio=1&rv=4Bv45aPMGyI",
+                "https://www.youtube.com/watch?v=IZ1y75vxO0o",
+                "https://www.youtube.com/watch?v=5_3BUU9ZmNo",
+                "https://www.youtube.com/watch?v=fMFkd7edBR0",
+                "https://www.youtube.com/watch?v=9bbhJi0NBkk",
+                "https://www.youtube.com/watch?v=Lm_AzK27mZY"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "1,652",
+                "content creator": "Game Maker's Toolkit",
+                "date": "Apr 29, 2021",
+                "description": "GMTK is powered by Patreon - https://www.patreon.com/GameMakersToo...\n\nThe heads-up display can change how a game works, feels, looks, and is made. Let's find out how.\n\n=== Before you watch === \n\nContent warning: Some blood\n\n=== Sources and Resources ===\n\nSources\n\n[1] How We Made The Last of Us's Interface Work So Well | Kotaku",
+                "dislikes": " Unavailable",
+                "id": "4Bv45aPMGyI",
+                "likes": "36,256 likes",
+                "title": "The Power of Video Game HUDs",
+                "url": "https://www.youtube.com/watch?v=4Bv45aPMGyI",
+                "video_length": 989.381,
+                "views": "536,214 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=6HZuSzlN2eI",
+          "sampled_type": "random",
+          "title": "The Power of Invisible Choices",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": null,
+            "comments": "1,291",
+            "content creator": "Game Maker's Toolkit",
+            "date": "Jan 13, 2022",
+            "description": "GMTK is powered by Patreon - https://www.patreon.com/GameMakersToo...\n\nAction games typically borrow from RPGs and adventure games when it comes to making choices. But there are significant advantages when using the normal verbs of the games. I call these \u201cinvisible choices\u201d.\n\n=== Before you watch ===\n\nContent warning: Scenes of a violent nature\n\nSpoiler warning: Light Mass Effect 2, Spec Ops: The Line, Deus Ex: Human Revolution, Metal Gear Solid, Silent Hill 2 spoilers\n\n=== Sources and Resources ===\n\n- Sources\n\n[1] Do You Copy? Dialog System and Tools in 'Firewatch'",
+            "dislikes": " Unavailable",
+            "id": "6HZuSzlN2eI",
+            "likes": "31,123 likes",
+            "title": "The Power of Invisible Choices",
+            "url": "https://www.youtube.com/watch?v=6HZuSzlN2eI",
+            "video_length": 777.041,
+            "views": "407,802 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=NYj3DnI81AQ",
+      "sampled_type": "random",
+      "title": "Ten years ago, I predicted 2022. Did I get it right?",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=L-x8DYTOv7w",
+        "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+        "https://www.youtube.com/watch?v=FJSI7QTAt_o",
+        "https://www.youtube.com/watch?v=9dnN82DsQ2k",
+        "https://www.youtube.com/watch?v=NYj3DnI81AQ&list=RDCMUCBa659QWEk1AI4Tg--mrJ2A&start_radio=1&rv=NYj3DnI81AQ",
+        "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+        "https://www.youtube.com/watch?v=hid7EJkwDNk",
+        "https://www.youtube.com/watch?v=3c584TGG7jQ",
+        "https://www.youtube.com/watch?v=Cqbleas1mmo",
+        "https://www.youtube.com/watch?v=B-8zmGr0geQ"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "9,233",
+        "content creator": "Tom Scott",
+        "date": "Jan 10, 2022",
+        "description": "Predicting the future is a fool's errand, but I tried it: talking about phones, lifelogging, and social changes. And on top of that: what do I think's coming in 2032?\n\n2012 photo credits:\nAndy Davidson, IMG_1790, ",
+        "dislikes": " Unavailable",
+        "id": "NYj3DnI81AQ",
+        "likes": "246,428 likes",
+        "title": "Ten years ago, I predicted 2022. Did I get it right?",
+        "url": "https://www.youtube.com/watch?v=NYj3DnI81AQ",
+        "video_length": 647.961,
+        "views": "4,246,940 views"
+      }
+    },
+    {
+      "actual_video_type": "curated",
+      "children": [
+        {
+          "actual_video_type": "curated",
+          "children": [
+            {
+              "actual_video_type": "curated",
+              "children": [
+                {
+                  "actual_video_type": "curated",
+                  "id": "https://www.youtube.com/watch?v=rc24YtUslCU",
+                  "sampled_type": "curated",
+                  "title": "Antifeminism VS FACTS",
+                  "top_10_recommended": [
+                    "https://www.youtube.com/watch?v=KZokQov_aH0",
+                    "https://www.youtube.com/watch?v=rc24YtUslCU&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=rc24YtUslCU",
+                    "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+                    "https://www.youtube.com/watch?v=SpgBkpb7xlU",
+                    "https://www.youtube.com/watch?v=YGbnAJR-vZA",
+                    "https://www.youtube.com/watch?v=dVbC0jASJYA",
+                    "https://www.youtube.com/watch?v=vYQo6LI3Y7c",
+                    "https://www.youtube.com/watch?v=RLqXkYrdmjY",
+                    "https://www.youtube.com/watch?v=XmKGPRXE-xw",
+                    "https://www.youtube.com/watch?v=1t_Bs-8L4Mo"
+                  ],
+                  "video": {
+                    "ad": null,
+                    "comments": "16,552",
+                    "content creator": "hbomberguy",
+                    "date": "Jun 18, 2016",
+                    "description": "Let's look at some studies into sexual assault and see how the smartest, most 'rational' antifeminist on the internet debunks them, shall we?\n\nMy Patreon: ",
+                    "dislikes": " Unavailable",
+                    "id": "rc24YtUslCU",
+                    "likes": "85,343 likes",
+                    "title": "Antifeminism VS FACTS",
+                    "url": "https://www.youtube.com/watch?v=rc24YtUslCU",
+                    "video_length": 1030.301,
+                    "views": "2,220,988 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+              "sampled_type": "curated",
+              "title": "Fallout 3 Is Garbage, And Here's Why",
+              "top_10_recommended": [
+                "https://www.youtube.com/watch?v=A34poZ6paGs",
+                "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+                "https://www.youtube.com/watch?v=mLJ1gyIzg78&list=RDCMUClt01z1wHHT7c5lKcU8pxRQ&start_radio=1&rv=mLJ1gyIzg78",
+                "https://www.youtube.com/watch?v=rc24YtUslCU",
+                "https://www.youtube.com/watch?v=dklVypazQsA",
+                "https://www.youtube.com/watch?v=b2d8u2QyvAo",
+                "https://www.youtube.com/watch?v=SRTfcMeqhig",
+                "https://www.youtube.com/watch?v=l8u8wZ0WvxI",
+                "https://www.youtube.com/watch?v=I5auJOBC828",
+                "https://www.youtube.com/watch?v=1n3kHyIejbw"
+              ],
+              "video": {
+                "ad": null,
+                "comments": "54,570",
+                "content creator": "hbomberguy",
+                "date": "May 12, 2016",
+                "description": "This is a review of Fallout 3, featuring retrospectives on the series as a whole, analysis of gameplay and storytelling mechanics, discussion of the games' initial critical reception, and the ability to absorb 1.5 hours of your human life right through the screen.\n\nIt is also feature-length. Literally the length of numerous good films you could watch instead. Oops!\n\nPatreon: ",
+                "dislikes": " Unavailable",
+                "id": "mLJ1gyIzg78",
+                "likes": "162,041 likes",
+                "title": "Fallout 3 Is Garbage, And Here's Why",
+                "url": "https://www.youtube.com/watch?v=mLJ1gyIzg78",
+                "video_length": 5376.881,
+                "views": "7,287,475 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+          "sampled_type": "curated",
+          "title": "Fallout: New Vegas Is Genius, And Here's Why",
+          "top_10_recommended": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "video": {
+            "ad": null,
+            "comments": "23,443",
+            "content creator": "hbomberguy",
+            "date": "Dec 19, 2020",
+            "description": "(Spoilers for New Vegas, obviously)\n\nMy Twitter: https://twitter.com/hbomberguy",
+            "dislikes": " Unavailable",
+            "id": "gzF7aHxk4Y4",
+            "likes": "184,307 likes",
+            "title": "Fallout: New Vegas Is Genius, And Here's Why",
+            "url": "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+            "video_length": 5861.901,
+            "views": "5,076,352 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=9ES9G6brWZw",
+      "sampled_type": "curated",
+      "title": "Breaking Points Brings On Glenn Greenwald, Stupidity Ensues",
+      "top_10_recommended": [
+        "https://www.youtube.com/watch?v=n30zO0ABFqc",
+        "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "https://www.youtube.com/watch?v=gzF7aHxk4Y4",
+        "https://www.youtube.com/watch?v=6oi_R5s5P7U",
+        "https://www.youtube.com/watch?v=PTsz0s424gk",
+        "https://www.youtube.com/watch?v=yCIeow1r0ko",
+        "https://www.youtube.com/watch?v=qVDAFEPVWf4",
+        "https://www.youtube.com/watch?v=lJx-m6v4bTU",
+        "https://www.youtube.com/watch?v=RZe9tBsLF8o",
+        "https://www.youtube.com/watch?v=CdKYEf8Ybng"
+      ],
+      "video": {
+        "ad": true,
+        "comments": "1,292",
+        "content creator": "Vaush",
+        "date": "Jan 8, 2022",
+        "description": "Krystal, Saagar and the gang are all here!\n\n\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...",
+        "dislikes": " Unavailable",
+        "id": "9ES9G6brWZw",
+        "likes": "4,141 likes",
+        "title": "Breaking Points Brings On Glenn Greenwald, Stupidity Ensues",
+        "url": "https://www.youtube.com/watch?v=9ES9G6brWZw",
+        "video_length": 3214.721,
+        "views": "109,307 views"
+      }
+    }
+  ],
+  "id": "dummy"
+}

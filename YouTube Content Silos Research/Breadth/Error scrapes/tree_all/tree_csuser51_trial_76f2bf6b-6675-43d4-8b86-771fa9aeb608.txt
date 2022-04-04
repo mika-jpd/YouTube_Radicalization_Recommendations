@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=rmtK2BgmGCw",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=HESOat2iPzU",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=Na7Bp4frYGw",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=ti_E2ZKZpC4",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=uFQdcKJUijQ&list=RDCMUCYeF244yNGuFefuFKqxIAXw&start_radio=1&rv=uFQdcKJUijQ",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=U6fI3brP8V4",
+                          "title": "2. Experimental Facts of Life",
+                          "video": {
+                            "ad": null,
+                            "comments": "618",
+                            "content creator": "MIT OpenCourseWare",
+                            "date": "May 10, 2016",
+                            "description": "MIT 8.04 Quantum Physics I, Spring 2013\nView the complete course: http://ocw.mit.edu/8-04S13\nInstructor: Allan Adams\n\nIn this lecture, Prof. Adams gives a panoramic view on various experimental evidence that indicates the inadequacy of pre-quantum physics. He concludes the lecture with a short discussion on Bell's inequality.\n\nLicense: Creative Commons BY-NC-SA\nMore information at ",
+                            "dislikes": " Unavailable",
+                            "id": "U6fI3brP8V4",
+                            "likes": "9,104 likes",
+                            "title": "2. Experimental Facts of Life",
+                            "url": "https://www.youtube.com/watch?v=U6fI3brP8V4",
+                            "video_length": 4812.001,
+                            "views": "781,016 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=lZ3bPUKo5zc",
+                          "title": "1. Introduction to Superposition",
+                          "video": {
+                            "ad": null,
+                            "comments": "3,214",
+                            "content creator": "MIT OpenCourseWare",
+                            "date": "Jun 18, 2014",
+                            "description": "MIT 8.04 Quantum Physics I, Spring 2013\nView the complete course: http://ocw.mit.edu/8-04S13\nInstructor: Allan Adams\n\nIn this lecture, Prof. Adams discusses a series of thought experiments involving \"box apparatus\" to illustrate the concepts of uncertainty and superposition, which are central to quantum mechanics. The first ten minutes are devoted to course information.\n\nLicense: Creative Commons BY-NC-SA\nMore information at ",
+                            "dislikes": " Unavailable",
+                            "id": "lZ3bPUKo5zc&list",
+                            "likes": "40,792 likes",
+                            "title": "1. Introduction to Superposition",
+                            "url": "https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=RDCMUCEBb1b_L6zDS3xTUrIALZOw&start_radio=1&rv=lZ3bPUKo5zc",
+                            "video_length": 4566.061,
+                            "views": "3,170,389 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=Ijst4g5KFN0",
+                          "title": "26. Chernobyl \u2014 How It Happened",
+                          "video": {
+                            "ad": null,
+                            "comments": "2,083",
+                            "content creator": "MIT OpenCourseWare",
+                            "date": "Sep 20, 2019",
+                            "description": "MIT 22.01 Introduction to Nuclear Engineering and Ionizing Radiation, Fall 2016\nInstructor: Michael Short\nView the complete course: https://ocw.mit.edu/22-01F16",
+                            "dislikes": " Unavailable",
+                            "id": "Ijst4g5KFN0",
+                            "likes": "23,990 likes",
+                            "title": "26. Chernobyl \u2014 How It Happened",
+                            "url": "https://www.youtube.com/watch?v=Ijst4g5KFN0",
+                            "video_length": 3263.141,
+                            "views": "1,256,428 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=B1J2RMorJXM",
+                          "title": "Light Years Ahead | The 1969 Apollo Guidance Computer",
+                          "video": {
+                            "ad": null,
+                            "comments": "4,868",
+                            "content creator": "tnmoc",
+                            "date": "Feb 4, 2020",
+                            "description": "Half a century ago, on 20 July 1969, Neil Armstrong was in the final stages of the lunar descent, just a few thousand feet above the surface, when suddenly his on-board computer indicated a critical alarm. For three nail-biting seconds it looked as if the mission would have to be aborted. However, Armstrong was given a \"go\" to continue, and after several more alarms the Eagle touched down safely on the Moon.\n\nRobert Wills introduces the amazing hardware and software that made up the Apollo Guidance Computer, walks you through the landing procedure step-by-step, and talks about the pioneering design principles that were used to make the landing software robust against any failure. He also explains the problems that occurred during the Apollo 11 landing, and shows you how the Apollo Guidance Computer played its part in saving the mission.\n\nChapters:",
+                            "dislikes": " Unavailable",
+                            "id": "B1J2RMorJXM",
+                            "likes": "30,954 likes",
+                            "title": "Light Years Ahead | The 1969 Apollo Guidance Computer",
+                            "url": "https://www.youtube.com/watch?v=B1J2RMorJXM",
+                            "video_length": 4882,
+                            "views": "1,582,628 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=uFQdcKJUijQ",
+                          "title": "Explosive Science - with Chris Bishop",
+                          "video": {
+                            "ad": null,
+                            "comments": "914",
+                            "content creator": "The Royal Institution",
+                            "date": "Nov 1, 2012",
+                            "description": "Distinguished Scientist, Ri Vice President and explosives expert Chris Bishop presents another action-packed demonstration lecture.\n\nFollowing on from his explorations of Chemistry and the world of Fireworks, Professor Bishop turns his attention to the use, origins and properties of explosives.\n\nThe Ri is on Twitter: ",
+                            "dislikes": " Unavailable",
+                            "id": "uFQdcKJUijQ",
+                            "likes": "17,467 likes",
+                            "title": "Explosive Science - with Chris Bishop",
+                            "url": "https://www.youtube.com/watch?v=uFQdcKJUijQ",
+                            "video_length": 3608,
+                            "views": "1,283,219 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+                      "title": "Math Has a Fatal Flaw",
+                      "video": {
+                        "ad": null,
+                        "comments": "42,702",
+                        "content creator": "Veritasium",
+                        "date": "May 22, 2021",
+                        "description": "Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer. This video is sponsored by Brilliant. The first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. \n\nSpecial thanks to Prof. Asaf Karagila for consultation on set theory and specific rewrites, to Prof. Alex Kontorovich for reviews of earlier drafts, Prof. Toby \u2018Qubit\u2019 Cubitt for the help with the spectral gap, to Henry Reich for the helpful feedback and comments on the video. \n\n\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580 \nReferences:\n\nDunham, W. (2013, July). A Note on the Origin of the Twin Prime Conjecture. In Notices of the International Congress of Chinese Mathematicians (Vol. 1, No. 1, pp. 63-65). International Press of Boston.  \u2014 ",
+                        "dislikes": " Unavailable",
+                        "id": "HeQX2HjkcNo",
+                        "likes": "556,496 likes",
+                        "title": "Math Has a Fatal Flaw",
+                        "url": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+                        "video_length": 2039.201,
+                        "views": "15,733,298 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Ll6-eGDpimU&list=RDCMUCy0tKL1T7wFoYcxCe0xjN6Q&start_radio=1&rv=Ll6-eGDpimU",
+                      "title": "I messed up. You're using too much detergent.",
+                      "video": {
+                        "ad": null,
+                        "comments": "14,902",
+                        "content creator": "Technology Connections",
+                        "date": "Sep 20, 2021",
+                        "description": "New rule: instructions on how to use the consumable thing from those who are incentivized to keep selling it to you ought not be trusted.\nLinks 'n Stuff\nPrevious video:",
+                        "dislikes": " Unavailable",
+                        "id": "Ll6-eGDpimU&list",
+                        "likes": "99,128 likes",
+                        "title": "I messed up. You're using too much detergent.",
+                        "url": "https://www.youtube.com/watch?v=Ll6-eGDpimU&list=RDCMUCy0tKL1T7wFoYcxCe0xjN6Q&start_radio=1&rv=Ll6-eGDpimU",
+                        "video_length": 2904.261,
+                        "views": "1,998,487 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=zi3_A1Oj6Nw",
+                      "title": "How Pok\u00e9mon Became a Logistical Nightmare of Design",
+                      "video": {
+                        "ad": null,
+                        "comments": "5,830",
+                        "content creator": "Foxcade",
+                        "date": "Jun 13, 2021",
+                        "description": "Pokemon.\n\nTwitter: https://twitter.com/SuperFoxcade",
+                        "dislikes": " Unavailable",
+                        "id": "zi3_A1Oj6Nw",
+                        "likes": "40,232 likes",
+                        "title": "How Pok\u00e9mon Became a Logistical Nightmare of Design",
+                        "url": "https://www.youtube.com/watch?v=zi3_A1Oj6Nw",
+                        "video_length": 2451,
+                        "views": "961,140 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=8YUWDrLazCg",
+                      "title": "A Million Dollars vs A Billion Dollars, Visualized: A Road Trip",
+                      "video": {
+                        "ad": null,
+                        "comments": "15,055",
+                        "content creator": "Tom Scott",
+                        "date": "Jul 13, 2020",
+                        "description": "There are lots of ways to compare a million to a billion, but most of them use volume. And I think that's a mistake, because volume just isn't something the human brain is great at. So instead, here's the difference between a million and a billion, in a more one-dimensional way: distance.\n\n\nREFERENCES:\nHumphrey Yang's rice TikTok: ",
+                        "dislikes": " Unavailable",
+                        "id": "8YUWDrLazCg",
+                        "likes": "178,543 likes",
+                        "title": "A Million Dollars vs A Billion Dollars, Visualized: A Road Trip",
+                        "url": "https://www.youtube.com/watch?v=8YUWDrLazCg",
+                        "video_length": 4748,
+                        "views": "5,953,920 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=lZ3bPUKo5zc",
+                      "title": "1. Introduction to Superposition",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,214",
+                        "content creator": "MIT OpenCourseWare",
+                        "date": "Jun 18, 2014",
+                        "description": "MIT 8.04 Quantum Physics I, Spring 2013\nView the complete course: http://ocw.mit.edu/8-04S13\nInstructor: Allan Adams\n\nIn this lecture, Prof. Adams discusses a series of thought experiments involving \"box apparatus\" to illustrate the concepts of uncertainty and superposition, which are central to quantum mechanics. The first ten minutes are devoted to course information.\n\nLicense: Creative Commons BY-NC-SA\nMore information at ",
+                        "dislikes": " Unavailable",
+                        "id": "lZ3bPUKo5zc",
+                        "likes": "40,792 likes",
+                        "title": "1. Introduction to Superposition",
+                        "url": "https://www.youtube.com/watch?v=lZ3bPUKo5zc",
+                        "video_length": 4566.061,
+                        "views": "3,170,362 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=fj28UtF0-Fs",
+                  "title": "Minecraft, But It's The World Record...",
+                  "video": {
+                    "ad": null,
+                    "comments": "19,803",
+                    "content creator": "Dream",
+                    "date": "Mar 24, 2020",
+                    "description": "Minecraft, But It's The World Record... My old record was beaten by IlluminaHD, so I had to come back and attempt to take the record back!\n\nFollow my socials:\n\u27bd Twitter - @dreamwastaken\n\u27bd Instagram - @dreamwastaken\n\u27bd Snapchat - @dreampublic\n\nFor anyone watching any of my old \"professional speedruns\", this run was officially valid and was world record for a short period of time! These runs were done on vanilla Minecraft/Optifine and did not have any mods. If you're coming here due to an invalid run from 2020, that was for a 1.16 run that was never on my Youtube and was done on \"fabric\"! People confuse them sometimes, as that run is not counted towards the leaderboard and the runs on my Youtube all were. Any records on my Youtube were beaten a long time ago though! Really awesome for memories sake :) I don't speedrun competitively anymore, and the records you'll see on my channel were before speedrunning Minecraft competitively was a huge thing, so don't take these half decent times too seriously haha\n\nThis is a Minecraft World Record for Minecraft RANDOM SEED, glitches, on versions 1.9+.\n\nPrevious WR was ",
+                    "dislikes": " Unavailable",
+                    "id": "fj28UtF0-Fs",
+                    "likes": "598,920 likes",
+                    "title": "Minecraft, But It's The World Record...",
+                    "url": "https://www.youtube.com/watch?v=fj28UtF0-Fs",
+                    "video_length": 1650.901,
+                    "views": "15,970,737 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU&list=RDCMUCSju5G2aFaWMqn-_0YBtq5A&start_radio=1&rv=8Ko3TdPy0TU",
+                  "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                  "video": {
+                    "ad": null,
+                    "comments": "26,482",
+                    "content creator": "Stand-up Maths",
+                    "date": "Feb 4, 2021",
+                    "description": "Buy my book Humble Pi now!\nhttps://www.penguinrandomhouse.com/bo...\nUPDATE: Harvard Book Store have totally sold out.\n\nMy talk on 4 February 2021 at Harvard Book Store:",
+                    "dislikes": " Unavailable",
+                    "id": "8Ko3TdPy0TU&list",
+                    "likes": "264,755 likes",
+                    "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                    "url": "https://www.youtube.com/watch?v=8Ko3TdPy0TU&list=RDCMUCSju5G2aFaWMqn-_0YBtq5A&start_radio=1&rv=8Ko3TdPy0TU",
+                    "video_length": 2386.941,
+                    "views": "4,605,563 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=G3Yzk-3SZfs",
+                  "title": "Dream's Cheating Confession: Uncovering The Truth",
+                  "video": {
+                    "ad": null,
+                    "comments": "20,653",
+                    "content creator": "Karl Jobst",
+                    "date": "Jun 30, 2021",
+                    "description": "The first 1,000 legends to use this link will get a 1 month free trial of Skillshare: https://skl.sh/karljobst06211",
+                    "dislikes": " Unavailable",
+                    "id": "G3Yzk-3SZfs",
+                    "likes": "128,440 likes",
+                    "title": "Dream's Cheating Confession: Uncovering The Truth",
+                    "url": "https://www.youtube.com/watch?v=G3Yzk-3SZfs",
+                    "video_length": 4544,
+                    "views": "1,697,836 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=GVhFBujPlVo",
+                  "title": "Why it\u2019s mathematically impossible to share fair",
+                  "video": {
+                    "ad": null,
+                    "comments": "3,345",
+                    "content creator": "Stand-up Maths",
+                    "date": "Nov 25, 2021",
+                    "description": "Thanks to Brilliant! Go to https://brilliant.org/standupmaths and the first 200 of you will get 20% off an annual subscriptions; including gift subscriptions! They are amazing sponsors and I love them.\n\nThis site was super helpful at explaining the history and math of apportionment. As always though, verify the specifics of the data yourself (but all the general points are definitely correct). ",
+                    "dislikes": " Unavailable",
+                    "id": "GVhFBujPlVo",
+                    "likes": "28,880 likes",
+                    "title": "Why it\u2019s mathematically impossible to share fair",
+                    "url": "https://www.youtube.com/watch?v=GVhFBujPlVo",
+                    "video_length": 2528,
+                    "views": "771,950 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=Ll6-eGDpimU",
+                  "title": "I messed up. You're using too much detergent.",
+                  "video": {
+                    "ad": null,
+                    "comments": "14,902",
+                    "content creator": "Technology Connections",
+                    "date": "Sep 20, 2021",
+                    "description": "New rule: instructions on how to use the consumable thing from those who are incentivized to keep selling it to you ought not be trusted.\nLinks 'n Stuff\nPrevious video:",
+                    "dislikes": " Unavailable",
+                    "id": "Ll6-eGDpimU",
+                    "likes": "99,127 likes",
+                    "title": "I messed up. You're using too much detergent.",
+                    "url": "https://www.youtube.com/watch?v=Ll6-eGDpimU",
+                    "video_length": 2904.261,
+                    "views": "1,998,447 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=S7G-ruj22Uo",
+              "title": "Astrology: Fact or Fiction?",
+              "video": {
+                "ad": null,
+                "comments": "4,236",
+                "content creator": "Professor Dave Explains",
+                "date": "Apr 3, 2019",
+                "description": "A significant percentage of the population believes in astrology. This is the notion that the positions of the stars and planets in the sky at the moment of your birth have an influence on your characteristics, and that their positions over time influence daily events. Can this be possible? By what mechanism does this influence propagate? If it's true, why haven't we encountered anything like this in our study of astronomy? Shouldn't we be able to do experiments to test its validity? We sure can. Let's take a real good look at what astrology proposes, and see if we can to the bottom of whether there is any truth to it or not.\n\nLarge-scale study showing no correlation between date of birth and personality: ",
+                "dislikes": " Unavailable",
+                "id": "S7G-ruj22Uo",
+                "likes": "17,110 likes",
+                "title": "Astrology: Fact or Fiction?",
+                "url": "https://www.youtube.com/watch?v=S7G-ruj22Uo",
+                "video_length": 1113.801,
+                "views": "405,767 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=vmVdPgkudC8",
+              "title": "The SAFIRE Project Is Not Real Science (Electric Sun Model Debunked)",
+              "video": {
+                "ad": null,
+                "comments": "4,151",
+                "content creator": "Professor Dave Explains",
+                "date": "Jul 10, 2020",
+                "description": "It would seem that I've really struck a nerve by debunking some of these \"alternative cosmologies\", and exposing the frauds that push them. In the very persistent and vocal criticisms that have been brought against me by the people who have fallen for these hoaxes, the most consistent thing they cite as though it is evidence of anything whatsoever is the SAFIRE Project. What is this circus sideshow masquerading as science? What is it that they pretend to do? Let's tell the whole story.\n\nMy original Electric Universe debunk: ",
+                "dislikes": " Unavailable",
+                "id": "vmVdPgkudC8",
+                "likes": "9,849 likes",
+                "title": "The SAFIRE Project Is Not Real Science (Electric Sun Model Debunked)",
+                "url": "https://www.youtube.com/watch?v=vmVdPgkudC8",
+                "video_length": 1529.941,
+                "views": "254,655 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Q6FknMOlU_w",
+              "title": "Lies People Tell About Water \u2013 Part 3: Structured/Hexagonal Water, Water Memory",
+              "video": {
+                "ad": null,
+                "comments": "2,803",
+                "content creator": "Professor Dave Explains",
+                "date": "Sep 2, 2021",
+                "description": "We've covered water fluoridation and special waters, so let's move on to the properties of water! Did you know that the water in your body is special? It's called structured water, or hexagonal water. Or at least that's what some would have you believe so that they can sell you devices that will \"structure\" the water you drink and make it better for you. Also, did you know that water responds to emotions, and has memory, just like humans? No wait, that's another lie with zero substantiation. Man, people really lie a lot about water, don't they? Let's wrap up the trilogy and debunk some charlatans, shall we?\n\nMasaru Emoto's hoax: ",
+                "dislikes": " Unavailable",
+                "id": "Q6FknMOlU_w",
+                "likes": "11,254 likes",
+                "title": "Lies People Tell About Water \u2013 Part 3: Structured/Hexagonal Water, Water Memory",
+                "url": "https://www.youtube.com/watch?v=Q6FknMOlU_w",
+                "video_length": 1702.181,
+                "views": "263,643 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=NNnIGh9g6fA",
+              "title": "1. Introduction to Human Behavioral Biology",
+              "video": {
+                "ad": null,
+                "comments": "14,434",
+                "content creator": "Stanford",
+                "date": "Feb 1, 2011",
+                "description": "(March 29, 2010) Stanford professor Robert Sapolsky gave the opening lecture of the course entitled Human Behavioral Biology and explains the basic premise of the course and how he aims to avoid categorical thinking.\n\nStanford University",
+                "dislikes": " Unavailable",
+                "id": "NNnIGh9g6fA",
+                "likes": "262,683 likes",
+                "title": "1. Introduction to Human Behavioral Biology",
+                "url": "https://www.youtube.com/watch?v=NNnIGh9g6fA",
+                "video_length": 3434.161,
+                "views": "12,019,169 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+              "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+              "video": {
+                "ad": null,
+                "comments": "26,482",
+                "content creator": "Stand-up Maths",
+                "date": "Feb 4, 2021",
+                "description": "Buy my book Humble Pi now!\nhttps://www.penguinrandomhouse.com/bo...\nUPDATE: Harvard Book Store have totally sold out.\n\nMy talk on 4 February 2021 at Harvard Book Store:",
+                "dislikes": " Unavailable",
+                "id": "8Ko3TdPy0TU",
+                "likes": "264,754 likes",
+                "title": "How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained",
+                "url": "https://www.youtube.com/watch?v=8Ko3TdPy0TU",
+                "video_length": 2386.941,
+                "views": "4,605,490 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=1tSqSMOyNFE",
+          "title": "How We\u2019re Fooled By Statistics",
+          "video": {
+            "ad": null,
+            "comments": "4,649",
+            "content creator": "Veritasium",
+            "date": "Nov 23, 2013",
+            "description": "Is punishment or reward more effective as feedback? Do new medical treatments really work? What about streaks in sport? Without considering regression to the mean, we are prone to making significant errors.\n\nCheck out Audible.com: ",
+            "dislikes": " Unavailable",
+            "id": "1tSqSMOyNFE",
+            "likes": "99,262 likes",
+            "title": "How We\u2019re Fooled By Statistics",
+            "url": "https://www.youtube.com/watch?v=1tSqSMOyNFE",
+            "video_length": 457,
+            "views": "3,004,757 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wgWNtlz-2vM",
+          "title": "Does math belong in the courtroom?",
+          "video": {
+            "ad": null,
+            "comments": "1,332",
+            "content creator": "Zach Star",
+            "date": "Mar 31, 2020",
+            "description": "Sign up with brilliant and get 20% off your annual subscription: https://brilliant.org/ZachStar/\n\nSTEMerch Store: https://stemerch.com/",
+            "dislikes": " Unavailable",
+            "id": "wgWNtlz-2vM",
+            "likes": "14,688 likes",
+            "title": "Does math belong in the courtroom?",
+            "url": "https://www.youtube.com/watch?v=wgWNtlz-2vM",
+            "video_length": 1360,
+            "views": "497,068 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bVG2OQp6jEQ&list=RDCMUCpCSAcbqs-sjEVfk_hMfY9w&start_radio=1&rv=bVG2OQp6jEQ",
+          "title": "This is How Easy It Is to Lie With Statistics",
+          "video": {
+            "ad": null,
+            "comments": "16,537",
+            "content creator": "Zach Star",
+            "date": "Feb 4, 2019",
+            "description": "STEMerch Store: https://stemerch.com/\nSupport the Channel: https://www.patreon.com/zachstar\nPayPal(one time donation): https://www.paypal.me/ZachStarYT",
+            "dislikes": " Unavailable",
+            "id": "bVG2OQp6jEQ&list",
+            "likes": "239,549 likes",
+            "title": "This is How Easy It Is to Lie With Statistics",
+            "url": "https://www.youtube.com/watch?v=bVG2OQp6jEQ&list=RDCMUCpCSAcbqs-sjEVfk_hMfY9w&start_radio=1&rv=bVG2OQp6jEQ",
+            "video_length": 1134.061,
+            "views": "4,497,433 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ioxWuCd-mn0",
+          "title": "This is how easy it is to manipulate public perception",
+          "video": {
+            "ad": null,
+            "comments": "1,829",
+            "content creator": "Zach Star",
+            "date": "Jun 28, 2019",
+            "description": "Sign up with the investing app Webull and get one free stock (valued between $8 and $1000) by making an initial deposit of $100 or more within the first 30 days: https://act.webull.com/kol-us/share.h...",
+            "dislikes": " Unavailable",
+            "id": "ioxWuCd-mn0",
+            "likes": "28,248 likes",
+            "title": "This is how easy it is to manipulate public perception",
+            "url": "https://www.youtube.com/watch?v=ioxWuCd-mn0",
+            "video_length": 1415.961,
+            "views": "598,842 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aQTWor_2nu4",
+          "title": "Quantum Mysticism is Stupid (Deepak Chopra, Spirit Science, Actualized.org)",
+          "video": {
+            "ad": null,
+            "comments": "11,345",
+            "content creator": "Professor Dave Explains",
+            "date": "Mar 19, 2021",
+            "description": "This just in! Quantum physics tells us that consciousness creates reality! The physical realm is just a mental construct! This means you can heal yourself with your mind, you can manifest your desires, and you can commune with the universe to achieve ultimate transcendence! At least that's what some would have you believe. In actuality, physics says nothing of the sort. This is all just a ridiculous narrative spewed by con men that has come to be known as quantum mysticism. Together let's identify its origin, with figures like Deepak Chopra, and trace its development over the past few decades, culminating in YouTube channels like Spirit Science and Actualized.org, which go beyond mere pseudoscience and act as literal cults. Cults are bad, don't you agree? Let's expose and disarm them together.\n\nThanks to Chester Ho for help researching Actualized.org, check out his channel: ",
+            "dislikes": " Unavailable",
+            "id": "aQTWor_2nu4",
+            "likes": "31,464 likes",
+            "title": "Quantum Mysticism is Stupid (Deepak Chopra, Spirit Science, Actualized.org)",
+            "url": "https://www.youtube.com/watch?v=aQTWor_2nu4",
+            "video_length": 3236.081,
+            "views": "780,311 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=mNSAd_65WVc",
+      "title": "Seattle mayor says barriers in 'CHOP' zone will come down Sunday",
+      "video": {
+        "ad": null,
+        "comments": "1,637",
+        "content creator": "KING 5",
+        "date": "Jun 27, 2020",
+        "description": "Seattle Mayor Jenny Durkan says the barriers in the 'CHOP' zone will come down this weekend following tense interactions Friday between protesters and SDOT crews.  Read more: https://www.king5.com/article/news/lo...",
+        "dislikes": " Unavailable",
+        "id": "mNSAd_65WVc",
+        "likes": "1,871 likes",
+        "title": "Seattle mayor says barriers in 'CHOP' zone will come down Sunday",
+        "url": "https://www.youtube.com/watch?v=mNSAd_65WVc",
+        "video_length": 166.881,
+        "views": "149,121 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FUqFJbSk4qA",
+      "title": "Saadia VS Kematu, Who Is Telling The TRUTH & Who Is LYING? - Elder Scrolls Detective",
+      "video": {
+        "ad": null,
+        "comments": "5,764",
+        "content creator": "Camelworks",
+        "date": "Apr 28, 2020",
+        "description": "\ud83d\udc2b MERCH - camelworks.creator-spring.com\n\ud83d\udc2b https://twitter.com/Camelworks\n\ud83d\udc2b https://www.instagram.com/camelworks_...",
+        "dislikes": " Unavailable",
+        "id": "FUqFJbSk4qA",
+        "likes": "28,841 likes",
+        "title": "Saadia VS Kematu, Who Is Telling The TRUTH & Who Is LYING? - Elder Scrolls Detective",
+        "url": "https://www.youtube.com/watch?v=FUqFJbSk4qA",
+        "video_length": 3144.841,
+        "views": "763,640 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+      "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+      "video": {
+        "ad": null,
+        "comments": "206,018",
+        "content creator": "Channel 4 News",
+        "date": "Jan 16, 2018",
+        "description": "Channel 4 News\u2019 full, fiery interview with clinical psychologist and professor Jordan B Peterson, whose views on gender have amassed great controversy - and a huge online following. He discusses the pay gap, patriarchy and his new book \"12 Rules for Life.\" Subscribe: ",
+        "dislikes": " Unavailable",
+        "id": "aMcjxSThD54",
+        "likes": "698,344 likes",
+        "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+        "url": "https://www.youtube.com/watch?v=aMcjxSThD54",
+        "video_length": 1795.461,
+        "views": "35,536,939 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+      "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+      "video": {
+        "ad": null,
+        "comments": "31,655",
+        "content creator": "GQ",
+        "date": "Jan 17, 2020",
+        "description": "Retired Navy SEAL Jocko Willink breaks down combat scenes from movies, including 'American Sniper,' 'Zero Dark Thirty,' 'Captain Phillips,' 'Navy SEALS,' 'Act of Valor' and 'Lone Survivor.' \n\nJocko's new audiobook and book, Leadership Strategy and Tactics: Field Manual, is out now: ",
+        "dislikes": " Unavailable",
+        "id": "-L7o6HtX8Vg",
+        "likes": "552,340 likes",
+        "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+        "url": "https://www.youtube.com/watch?v=-L7o6HtX8Vg",
+        "video_length": 1607,
+        "views": "30,690,757 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+      "title": "This is How Easy It Is to Lie With Statistics",
+      "video": {
+        "ad": null,
+        "comments": "16,537",
+        "content creator": "Zach Star",
+        "date": "Feb 4, 2019",
+        "description": "STEMerch Store: https://stemerch.com/\nSupport the Channel: https://www.patreon.com/zachstar\nPayPal(one time donation): https://www.paypal.me/ZachStarYT",
+        "dislikes": " Unavailable",
+        "id": "bVG2OQp6jEQ",
+        "likes": "239,547 likes",
+        "title": "This is How Easy It Is to Lie With Statistics",
+        "url": "https://www.youtube.com/watch?v=bVG2OQp6jEQ",
+        "video_length": 1134,
+        "views": "4,497,433 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=XcV1AVNz8P8",
+  "title": "The CHAZ Funniest Home Videos",
+  "video": {
+    "ad": null,
+    "comments": "5,667",
+    "content creator": "Michael Knowles",
+    "date": "Jun 27, 2020",
+    "description": "LIKE & SUBSCRIBE for new videos everyday. http://bit.ly/2QA8RbN \n\nMichael takes a look back on the best moments from The Captial Hill Autonomous Zone. Post your favorite moment from CHAZ in the comment section! \n\nSpecial thanks and clips referenced: \nJohn Ward: Welcome to Chaz! ",
+    "dislikes": " Unavailable",
+    "id": "XcV1AVNz8P8",
+    "likes": "78,218 likes",
+    "title": "The CHAZ Funniest Home Videos",
+    "url": "https://www.youtube.com/watch?v=XcV1AVNz8P8",
+    "video_length": 330,
+    "views": "1,636,998 views"
+  }
+}

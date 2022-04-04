@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=RTksWA1I2UI",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=m6pJd6O_NT0",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=ESwIVY2oimI",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=hzQAHITIUhg",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=fhamV-zUcl8",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=7HDFEbsGRlA",
+                          "title": "Stephen Ilardi: Therapeutic Lifestyle Change for Depression",
+                          "video": {
+                            "ad": null,
+                            "comments": "945",
+                            "content creator": "KU College of Liberal Arts & Sciences",
+                            "date": "Jan 8, 2013",
+                            "description": "Stephen Ilardi, associate professor of psychology at the University of Kansas, delivers an engaging, interactive presentation about depression -- something that affects all of us. Professor Ilardi talks about his clinical research in developing Therapeutic Lifestyle Change (TLC), which has shown great promise as an alternative (or addition) to antidepressant medication. Learn how a few simple changes to your daily routine can help you banish the blues and live a healthier lifestyle.",
+                            "dislikes": " Unavailable",
+                            "id": "7HDFEbsGRlA",
+                            "likes": "12,810 likes",
+                            "title": "Stephen Ilardi: Therapeutic Lifestyle Change for Depression",
+                            "url": "https://www.youtube.com/watch?v=7HDFEbsGRlA",
+                            "video_length": 6279,
+                            "views": "1,401,905 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=e2-CHC-0B_Q",
+                          "title": "Living with Aspergers - What is it REALLY like day to day?",
+                          "video": {
+                            "ad": null,
+                            "comments": "2,481",
+                            "content creator": "Adam Wonders",
+                            "date": "Jun 12, 2019",
+                            "description": "Hello everyone! Thanks for joining me. In this video I talk about some of the real-world experiences of living with Aspergers Syndrome. I use examples from my own life, and from others with Aspergers Syndrome to give a picture of how it feels to live with this condition, and the struggles we face day to day.\n\nMy hope is that videos like this help people to understand Autism, particularly Autism Spectrum Disorders such as Aspergers syndrome, as better mental health awareness is definitely needed.\n\nIf you really want to show your support for the channel, I have a Patreon page  --  ",
+                            "dislikes": " Unavailable",
+                            "id": "e2-CHC-0B_Q",
+                            "likes": "10,000 likes",
+                            "title": "Living with Aspergers - What is it REALLY like day to day?",
+                            "url": "https://www.youtube.com/watch?v=e2-CHC-0B_Q",
+                            "video_length": 1020.161,
+                            "views": "248,366 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=34m0sXqfDxU",
+                          "title": "Bill Gross on His Asperger's Diagnosis and its Advantages",
+                          "video": {
+                            "ad": null,
+                            "comments": "166",
+                            "content creator": "Bloomberg Markets and Finance",
+                            "date": "Mar 1, 2019",
+                            "description": "Mar.01 -- Even after one of the most storied careers in financial markets, Bill Gross has a few surprises left.  Bill Gross, portfolio manager at Janus Henderson Group spoke with Bloomberg's Erik Schatzker in Newport Beach, California, about being diagnosed with Asperger's syndrome, the autism-spectrum disorder, politics and if there will be another bond market king.",
+                            "dislikes": " Unavailable",
+                            "id": "34m0sXqfDxU",
+                            "likes": "1,182 likes",
+                            "title": "Bill Gross on His Asperger's Diagnosis and its Advantages",
+                            "url": "https://www.youtube.com/watch?v=34m0sXqfDxU",
+                            "video_length": 585.281,
+                            "views": "57,258 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=JRZgW1YjCKk",
+                          "title": "General Relativity Lecture 1",
+                          "video": {
+                            "ad": null,
+                            "comments": "1,929",
+                            "content creator": "Stanford",
+                            "date": "Oct 17, 2012",
+                            "description": "(September 24, 2012) Leonard Susskind gives a broad introduction to general relativity, touching upon the equivalence principle.\n\nThis series is the fourth installment of a six-quarter series that explore the foundations of modern physics. In this quarter, Leonard Susskind focuses on Einstein's General Theory of Relativity. \n\n\nStanford University:",
+                            "dislikes": " Unavailable",
+                            "id": "JRZgW1YjCKk",
+                            "likes": "25,794 likes",
+                            "title": "General Relativity Lecture 1",
+                            "url": "https://www.youtube.com/watch?v=JRZgW1YjCKk",
+                            "video_length": 6567.081,
+                            "views": "3,118,700 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                          "title": "Why is Ukraine the West's Fault? Featuring John Mearsheimer",
+                          "video": {
+                            "ad": null,
+                            "comments": "6,859",
+                            "content creator": "The University of Chicago",
+                            "date": "Sep 25, 2015",
+                            "description": "UnCommon Core: The Causes and Consequences of the Ukraine Crisis\n\nJohn J. Mearsheimer, the R. Wendell Harrison Distinguished Service Professor in Political Science and Co-director of the Program on International Security Policy at the University of Chicago, assesses the causes of the present Ukraine crisis, the best way to end it, and its consequences for all of the main actors. A key assumption is that in order to come up with the optimum plan for ending the crisis, it is essential to know what caused the crisis. Regarding the all-important question of causes, the key issue is whether Russia or the West bears primary responsibility.\n\n\n\n\u27a1 Subscribe: ",
+                            "dislikes": " Unavailable",
+                            "id": "JrMiSQAGOS4",
+                            "likes": "12,448 likes",
+                            "title": "Why is Ukraine the West's Fault? Featuring John Mearsheimer",
+                            "url": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+                            "video_length": 4455.081,
+                            "views": "867,133 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=MWePrOuSeSY",
+                      "title": "Temple Grandin: \"The Autistic Brain\"",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,193",
+                        "content creator": "Chicago Humanities Festival",
+                        "date": "Nov 19, 2013",
+                        "description": "Temple Grandin is one of the world's most iconic scientists. A leading expert on animal behavior, she has even been the subject of a movie, in which Claire Danes played her in an award-winning performance. Her accomplishments are legion, including her creation of livestock-handling facilities based on animals' natural behavior. But her greatest impact might be as one of the most prominent adults with autism. The condition has given Grandin unique insights, orienting her work on animals and allowing her to rethink human nature. The result is a series of best-selling books\u2014\"Animals Make Us Human,\" \"Animals in Translation,\" and \"Thinking in Pictures,\" among many others\u2014as well as the hug (or \"squeeze\") machine, used for calming hypersensitive patients. More recently, autism itself has become the subject of her research. Her most recent book, \"The Autistic Brain,\" presents the latest physiological research and charts the shift from neurological to genetic approaches to the condition. Grandin shares this new work with her trademark intelligence and accessibility.\n\nThis program is generously underwritten by Rose L. Shure.",
+                        "dislikes": " Unavailable",
+                        "id": "MWePrOuSeSY",
+                        "likes": "17,438 likes",
+                        "title": "Temple Grandin: \"The Autistic Brain\"",
+                        "url": "https://www.youtube.com/watch?v=MWePrOuSeSY",
+                        "video_length": 3816.801,
+                        "views": "1,107,740 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=4tzAkr7vXqs",
+                      "title": "High-Functioning Autism & Asperger's Syndrome: Diagnosis, Current Research, & Treatment Options (08)",
+                      "video": {
+                        "ad": null,
+                        "comments": "91",
+                        "content creator": "UC Davis MIND Institute",
+                        "date": "Sep 10, 2018",
+                        "description": "In this \"Minds Behind the MIND\" session (recorded in 2008), three clinicians and researchers who are experts in HFA and Asperger's syndrome discuss the distinctions between these two disorders and other types of autism. They also address the best ways to support and maximize the success of children and adults living with these diagnoses.",
+                        "dislikes": " Unavailable",
+                        "id": "4tzAkr7vXqs",
+                        "likes": "413 likes",
+                        "title": "High-Functioning Autism & Asperger's Syndrome: Diagnosis, Current Research, & Treatment Options (08)",
+                        "url": "https://www.youtube.com/watch?v=4tzAkr7vXqs",
+                        "video_length": 5776.401,
+                        "views": "39,792 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=-n6IWTRVGeg",
+                      "title": "Dr Tony Attwood - Good Mental Health for Autistic Girls and Women (taken from full video)",
+                      "video": {
+                        "ad": null,
+                        "comments": "418",
+                        "content creator": "Yellow Ladybugs",
+                        "date": "Apr 29, 2019",
+                        "description": "Excerpt from the Symposium on good mental health for autistic girls and women thanks to Yellow Ladybugs and the Victorian Government. \n\nDr Tony Attwood is a Clinical Psychologist, Ph.D., and one of the world\u2019s expert psychologists specialising in autistic girls and women.  As a best selling author with sales topping 1 million, Dr Tony Attwood will share his experience today.",
+                        "dislikes": " Unavailable",
+                        "id": "-n6IWTRVGeg",
+                        "likes": "4,350 likes",
+                        "title": "Dr Tony Attwood - Good Mental Health for Autistic Girls and Women (taken from full video)",
+                        "url": "https://www.youtube.com/watch?v=-n6IWTRVGeg",
+                        "video_length": 2358.721,
+                        "views": "119,303 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=o8mhr1PcZ4Q",
+                      "title": "7 Signs of Autism in Men (DSM-5 Symptoms of Autism/Aspergers in High Functioning Autistic Adults)",
+                      "video": {
+                        "ad": null,
+                        "comments": "8,704",
+                        "content creator": "Aspergers from the Inside",
+                        "date": "Premiered May 22, 2020",
+                        "description": "Signs of autism in adults are often not immediately obvious. The symptoms of autism in high functioning autistic men are often masked by superficial success or intelligence in one area. In this video we'll look at how common autistic behaviour in men corresponds to the DSM-5 autism diagnosis criteria.\n\nThink you might be on the Spectrum? These videos will help!\nAre You Undiagnosed Autistic? How To Tell If You're On The Autism Spectrum - ",
+                        "dislikes": " Unavailable",
+                        "id": "o8mhr1PcZ4Q",
+                        "likes": "46,258 likes",
+                        "title": "7 Signs of Autism in Men (DSM-5 Symptoms of Autism/Aspergers in High Functioning Autistic Adults)",
+                        "url": "https://www.youtube.com/watch?v=o8mhr1PcZ4Q",
+                        "video_length": 855,
+                        "views": "1,829,207 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=gdSzM3MHfOA",
+                      "title": "What Is Asperger's Syndrome?",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,126",
+                        "content creator": "The National Center for Learning Disabilities",
+                        "date": "Mar 5, 2013",
+                        "description": "This Ask the Expert video provides an overview of Asperger's Syndrome and offers insights into the characteristics of individuals and how they differ from, or overlap with, other disorders that impact learning, attention and behavior. For more information on Asperger's syndrome, please visit: ",
+                        "dislikes": " Unavailable",
+                        "id": "gdSzM3MHfOA",
+                        "likes": "19,524 likes",
+                        "title": "What Is Asperger's Syndrome?",
+                        "url": "https://www.youtube.com/watch?v=gdSzM3MHfOA",
+                        "video_length": 402.901,
+                        "views": "1,401,924 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+                  "title": "The Earth is Definitely Not Flat",
+                  "video": {
+                    "ad": null,
+                    "comments": "23,274",
+                    "content creator": "Professor Dave Explains",
+                    "date": "Mar 27, 2019",
+                    "description": "Anti-science mentality is rampant in this day and age, and one of the more peculiar aspects of this trend is the current fad that is the Flat Earth model. There exists a group of people who believe that against everything we have come to learn throughout the scientific revolution, the world is actually flat, and the center of the universe. That's not all, there's a big cover up, with NASA, and all the governments, like some real sci-fi stuff. Let's go through some of the talking points of this model and see if we can deconstruct it, shall we?\n\nWatch the whole Astronomy/Astrophysics playlist: ",
+                    "dislikes": " Unavailable",
+                    "id": "tC5RalYWZ5Y",
+                    "likes": "42,831 likes",
+                    "title": "The Earth is Definitely Not Flat",
+                    "url": "https://www.youtube.com/watch?v=tC5RalYWZ5Y",
+                    "video_length": 787,
+                    "views": "1,247,553 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=dBnniua6-oM",
+                  "title": "Sugar: The Bitter Truth",
+                  "video": {
+                    "ad": null,
+                    "comments": "16,879",
+                    "content creator": "University of California Television (UCTV)",
+                    "date": "Jul 30, 2009",
+                    "description": "(1:06 - Start of Presentation) Robert H. Lustig, MD, UCSF Professor of Pediatrics in the Division of Endocrinology, explores the damage caused by sugary foods. He argues that fructose (too much) and fiber (not enough) appear to be cornerstones of the obesity epidemic through their effects on insulin. Recorded on 05/26/2009. [7/2009] [Show ID: 16717]\n\nMini Medical School for the Public\n(",
+                    "dislikes": " Unavailable",
+                    "id": "dBnniua6-oM",
+                    "likes": "162,387 likes",
+                    "title": "Sugar: The Bitter Truth",
+                    "url": "https://www.youtube.com/watch?v=dBnniua6-oM",
+                    "video_length": 5376,
+                    "views": "15,902,268 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+                  "title": "Debunking the Electric Universe",
+                  "video": {
+                    "ad": null,
+                    "comments": "10,641",
+                    "content creator": "Professor Dave Explains",
+                    "date": "May 1, 2020",
+                    "description": "I know that I've become known for my flat earth destructions, but now that I've driven that one so far into the ground that it's coming out the other side of the spherical earth, it's time to tackle some other topics. There exists an obscure fad called the electric universe, which tends to attract exemplars of the Dunning-Kruger effect who think they understand physics better than Einstein. Literally. Although not quite as ridiculous as the flat earth, it's still pretty ridiculous, so let's go through the finer points of precisely why that is the case, shall we?\n\nWatch my other debunks: ",
+                    "dislikes": " Unavailable",
+                    "id": "T9q-v4lBGuw",
+                    "likes": "16,880 likes",
+                    "title": "Debunking the Electric Universe",
+                    "url": "https://www.youtube.com/watch?v=T9q-v4lBGuw",
+                    "video_length": 1566.641,
+                    "views": "555,944 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=IwJzsE8CvzQ",
+                  "title": "Why People Think the World is Flat",
+                  "video": {
+                    "ad": null,
+                    "comments": "77,174",
+                    "content creator": "Johnny Harris",
+                    "date": "Feb 18, 2020",
+                    "description": "It's not just about the shape of the globe.\n\nThe first 500 people to use this link will get 2 free months of Skillshare Premium: ",
+                    "dislikes": " Unavailable",
+                    "id": "IwJzsE8CvzQ",
+                    "likes": "192,511 likes",
+                    "title": "Why People Think the World is Flat",
+                    "url": "https://www.youtube.com/watch?v=IwJzsE8CvzQ",
+                    "video_length": 1122.801,
+                    "views": "6,927,138 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=LuZFThlOiJI",
+                  "title": "Could It Be Aspergers?",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "Generation Next",
+                    "date": "Jan 25, 2016",
+                    "description": "In this empowering lecture Professor Tony Attwood discusses defining characteristics of 'Aspies' - people with Asperger's Syndrome - how these change from early childhood to adulthood & vary by gender. Buy the book feat. \"Could it be Asperger's\": https://www.generationnext.com.au/pro... \n\nProfessor Tony Attwood challenges you to imagine life through the eyes of an Aspie, and recognise the invaluable and unique contribution they make to society and intellectual development.\n\n********************************************************************\n\nGeneration Next provides education and information about the prevention and management of mental illness in youth to professionals, young people and the wider community. Our objective is to raise community awareness of mental illness through increasing mental health literacy, reducing associated sigma and positively influencing individual and community behaviour to improve the mental health of young people. \n\nGET THE BOOKS: \u201cGrowing Happy, Healthy Young Minds\u201d and \u201cNurturing Young Minds\u201d. Each self-contained chapter can be read in separate bites with additional resources available at the end of each chapter for more in-depth information. Buy your copy here: ",
+                    "dislikes": " Unavailable",
+                    "id": "LuZFThlOiJI",
+                    "likes": "37,606 likes",
+                    "title": "Could It Be Aspergers?",
+                    "url": "https://www.youtube.com/watch?v=LuZFThlOiJI",
+                    "video_length": 2041.141,
+                    "views": "1,766,417 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=dVG1dNygOgA",
+              "title": "An Amusing \"Discussion\" With Jesse Lee Peterson",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Professor Dave Explains",
+                "date": "May 15, 2020",
+                "description": "Jesse Lee Peterson is an evangelist, commentator, and all-around bizarre person. He and I exchanged some words regarding racism, politics, and psychology, and hilarity ensued. As a disclaimer, there is no educational merit to this exchange whatsoever. This is 90 minutes of Jesse saying the dumbest things imaginable, and me mocking him relentlessly in response. Only watch this if that sounds entertaining to you.\n\nNote: I turned off comments because I got tired of spending 1-2 hours a day explaining basic logic to ignorant bigots. If you were planning to drop a comment on another video, or message me on some other platform, please first read the following:\n1) Out of wedlock does not mean single. You don't have be married to raise children together, and in fact, black couples disproportionately don't marry. Out of wedlock does not equal single parent. Read that sentence as  many times as you need to in order to get it into your skull. Jesse misrepresented the statistic, and then piled other claims on top regarding crime and drug use with no basis. He was wrong. Let me repeat. He was wrong.\n2) Jesse's ancestors were indeed slaves. He was lying. He is a liar. Google it.\n3) The history of slavery is irrelevant, so stop acting like you're a history scholar. It doesn't matter if there were times that slavery wasn't racist. When one race enslaves another race, it's racist.\n4) If you were planning on saying nothing but spewing Jesse's catch phrases, congratulations, you are among the dumbest people alive.\n\nWatch my other debunks/debates/discussions: ",
+                "dislikes": " Unavailable",
+                "id": "dVG1dNygOgA",
+                "likes": "9,949 likes",
+                "title": "An Amusing \"Discussion\" With Jesse Lee Peterson",
+                "url": "https://www.youtube.com/watch?v=dVG1dNygOgA",
+                "video_length": 5544,
+                "views": "649,728 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=z6kgvhG3AkI",
+              "title": "Bill Nye Debates Ken Ham - HD (Official)",
+              "video": {
+                "ad": null,
+                "comments": "Error found",
+                "content creator": "Answers in Genesis",
+                "date": "Streamed live on Feb 4, 2014",
+                "description": "Starts at 13:14\n\nIs Creation a Viable Model of Origins in Today\u2019s Modern, Scientific Era?\n\nLeading creation apologist and bestselling Christian author Ken Ham hosted Emmy Award-winning science educator and CEO of the Planetary Society Bill Nye at the Creation Museum in February of 2014 for a live broadcast viewed by millions of people. \n\nWe've posted a list of recommended articles, videos, radio broadcasts, books, and other resources that answer the majority of Nye\u2019s statements and questions:",
+                "dislikes": " Unavailable",
+                "id": "z6kgvhG3AkI",
+                "likes": "58,707 likes",
+                "title": "Bill Nye Debates Ken Ham - HD (Official)",
+                "url": "https://www.youtube.com/watch?v=z6kgvhG3AkI",
+                "video_length": 9932.961,
+                "views": "8,831,808 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=JZRcYaAYWg4",
+              "title": "The Catholic Church is a Force for Good in the World - Full Version",
+              "video": {
+                "ad": null,
+                "comments": "26,917",
+                "content creator": "Intelligence Squared",
+                "date": "Sep 15, 2015",
+                "description": "Want to join the debate? Check out the Intelligence Squared website to hear about future live events and podcasts: http://www.intelligencesquared.com \n__________________________\n\nStephen Fry and Christopher Hitchens battle it out with Archbishop John Onaiyekan and Ann Widdecombe over the motion \"The Catholic Church is a Force for Good in the World\" in our debate from 2009. \n\nStephen Fry's clash with Anne Widdecombe was turned into an an iq2 Short, which can be seen here: ",
+                "dislikes": " Unavailable",
+                "id": "JZRcYaAYWg4",
+                "likes": "43,088 likes",
+                "title": "The Catholic Church is a Force for Good in the World - Full Version",
+                "url": "https://www.youtube.com/watch?v=JZRcYaAYWg4",
+                "video_length": 7151.921,
+                "views": "4,840,052 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+              "title": "The God Debate II: Harris vs. Craig",
+              "video": {
+                "ad": null,
+                "comments": "40,044",
+                "content creator": "University of Notre Dame",
+                "date": "Apr 12, 2011",
+                "description": "The second annual God Debate features atheist neuroscientist Sam Harris and Evangelical Christian apologist William Lane Craig as they debate the topic: \"Is Good From God?\" The debate was sponsored in large part by the Notre Dame College of Arts and Letters: The Henkels Lecturer Series, The Center for Philosophy of Religion and the Institute for Scholarship in the Liberal Arts.",
+                "dislikes": " Unavailable",
+                "id": "yqaHXKLRKzg",
+                "likes": "44,118 likes",
+                "title": "The God Debate II: Harris vs. Craig",
+                "url": "https://www.youtube.com/watch?v=yqaHXKLRKzg",
+                "video_length": 7614.961,
+                "views": "10,177,176 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=KyD8VIK032o",
+              "title": "The 10 Things That All Flat Earthers Say",
+              "video": {
+                "ad": null,
+                "comments": "73,674",
+                "content creator": "Professor Dave Explains",
+                "date": "Jul 2, 2019",
+                "description": "So it's been a minute since I made my response to the Globebusters, and for two months now I've had to listen to flat earthers spew the same nonsense in the comment section of that video, day after day. Now that I'm intimately familiar with their most popular and most ridiculous talking points, I thought I would put them all together in one clip for a vigorous debunking.\n\nMy original flat earth video:",
+                "dislikes": " Unavailable",
+                "id": "KyD8VIK032o",
+                "likes": "146,355 likes",
+                "title": "The 10 Things That All Flat Earthers Say",
+                "url": "https://www.youtube.com/watch?v=KyD8VIK032o",
+                "video_length": 1110.401,
+                "views": "4,047,391 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=ghJGnMwRHCs",
+          "title": "Response to James Tour: 700 Papers and Still Clueless (Part 1 of 2)",
+          "video": {
+            "ad": null,
+            "comments": "4,323",
+            "content creator": "Professor Dave Explains",
+            "date": "May 5, 2021",
+            "description": "Last year I made a video about James Tour, a chemist and creationist who speaks out against origin of life research. He didn't like it much, so he decided to make a 14-part series about how dumb I am. He really pulled out all the stops, parading all of his classic fallacious talking points, with plenty of bald-faced lies and deliberate misrepresentations of scientific research peppered in for good measure. Honestly, I was rather shocked at how stupid it was. With so much material to work with, I ended up with quite a lot to say in response, and had to split it into two parts.\n\nIn this Part 1, we discuss how James pretends to be an expert on origin of life research but objectively isn't, and how he deliberately ignores mountains of research regarding the emergence of homochirality.\n\nPart 2 of this response: ",
+            "dislikes": " Unavailable",
+            "id": "ghJGnMwRHCs",
+            "likes": "11,537 likes",
+            "title": "Response to James Tour: 700 Papers and Still Clueless (Part 1 of 2)",
+            "url": "https://www.youtube.com/watch?v=ghJGnMwRHCs",
+            "video_length": 3560.581,
+            "views": "383,153 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vCVUvTdHAQI",
+          "title": "Gutfeld: The messaging isn't working",
+          "video": {
+            "ad": null,
+            "comments": "890",
+            "content creator": "Fox News",
+            "date": "Jan 11, 2022",
+            "description": "'Gutfeld!' panel discusses the media's failed messaging and how Americans are seeing through their dishonesty. \n#FoxNews #Gutfeld",
+            "dislikes": " Unavailable",
+            "id": "vCVUvTdHAQI",
+            "likes": "5,480 likes",
+            "title": "Gutfeld: The messaging isn't working",
+            "url": "https://www.youtube.com/watch?v=vCVUvTdHAQI",
+            "video_length": 830,
+            "views": "111,036 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Zi_mQ0sKOfo",
+          "title": "Pierre-Marie Robitaille Is Clueless (Sky Scholar Debunked)",
+          "video": {
+            "ad": null,
+            "comments": "4,981",
+            "content creator": "Professor Dave Explains",
+            "date": "Oct 30, 2020",
+            "description": "Keeping in the theme of debunking all kinds of cranks and con men in the realm of \"alternate cosmology\", let's add one more nutjob to the mix. Pierre-Marie Robitaille is a former radiologist who likes to pretend that he understands astrophysics better than astrophysicists. He doesn't. When he talks, he makes ridiculous claims and blatant errors that can be spotted by anyone with a basic understanding of physics and astronomy. Nevertheless, many gullible people speak about him like he's a genius, so I thought I'd explain quite thoroughly how he definitely isn't. If you're someone who has fallen for his lies, please watch.\n\nOther debunks in this genre:\nDebunking the SAFIRE Project: ",
+            "dislikes": " Unavailable",
+            "id": "Zi_mQ0sKOfo",
+            "likes": "11,235 likes",
+            "title": "Pierre-Marie Robitaille Is Clueless (Sky Scholar Debunked)",
+            "url": "https://www.youtube.com/watch?v=Zi_mQ0sKOfo",
+            "video_length": 2878.741,
+            "views": "333,556 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+          "title": "10 Challenges For Flat Earthers",
+          "video": {
+            "ad": null,
+            "comments": "71,015",
+            "content creator": "Professor Dave Explains",
+            "date": "Feb 28, 2020",
+            "description": "I can't count how many people have asked for another one of these, and I figured it's been quite a while, so why not mock the flatties one more time? In this video I point out ten blatantly obvious and trivial things any flat earther could do to substantiate their model, that they totally never and will never do. It's hard to fathom that there are a few hundred of them left, maybe I can pick a few off with this one.\n\nMy original flat earth debunk: ",
+            "dislikes": " Unavailable",
+            "id": "AQl8h7Aa75s",
+            "likes": "205,345 likes",
+            "title": "10 Challenges For Flat Earthers",
+            "url": "https://www.youtube.com/watch?v=AQl8h7Aa75s",
+            "video_length": 774.441,
+            "views": "4,288,133 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+          "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+          "video": {
+            "ad": null,
+            "comments": "37,409",
+            "content creator": "Professor Dave Explains",
+            "date": "Jan 26, 2020",
+            "description": "A channel named Modern Day Debate reached out to me based on my flat earth debunking to see if I would debate someone named Kent Hovind about Young Earth Creationism. Normally I stay out of religion, but I dug into this guy a little, and he is a total scumbag. The epitome of a con man. Nothing but lies and misrepresentations of science out of his mouth for several decades now. He's really no different than the flat earthers, manipulating people to make money. So I decided to take a chunk out of him. He's a slippery little greased pig, watch for his signature move, the gish gallop.\n\nWatch my other debunks/debates: ",
+            "dislikes": " Unavailable",
+            "id": "lbB7AhwaZy8",
+            "likes": "39,737 likes",
+            "title": "Professor Dave Destroys Kent Hovind (Young Earth Creationism Debunk)",
+            "url": "https://www.youtube.com/watch?v=lbB7AhwaZy8",
+            "video_length": 6465.861,
+            "views": "1,598,533 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=3O9dgfMTUv4",
+      "title": "Ted Cruz Humiliates Himself by Groveling to Tucker Carlson on Fox News: A Closer Look",
+      "video": {
+        "ad": null,
+        "comments": "4,353",
+        "content creator": "Late Night with Seth Meyers",
+        "date": "Jan 10, 2022",
+        "description": "Seth takes a closer look at Congressman Jim Jordan refusing to cooperate with the January 6 investigation and Sen. Ted Cruz debasing himself on Fox News.\n\nLate Night with Seth Meyers is supporting God\u2019s Love We Deliver to help those in need during the COVID-19 pandemic. God\u2019s Love We Deliver is a New York City-based organization that for over 30 years has provided personalized meals and nutrition counseling, free of charge, to those living with severe illnesses. With the help of 17,000 volunteers, God\u2019s Love We Deliver provides over 2 million free meals each year to thousands of New York\u2019s most vulnerable. Click the button on the above/below to donate or visit www.glwd.org.\n\nLate Night with Seth Meyers.  Stream now on Peacock: ",
+        "dislikes": " Unavailable",
+        "id": "3O9dgfMTUv4",
+        "likes": "31,663 likes",
+        "title": "Ted Cruz Humiliates Himself by Groveling to Tucker Carlson on Fox News: A Closer Look",
+        "url": "https://www.youtube.com/watch?v=3O9dgfMTUv4",
+        "video_length": 800,
+        "views": "1,284,082 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+      "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+      "video": {
+        "ad": null,
+        "comments": "226,480",
+        "content creator": "British GQ",
+        "date": "Oct 30, 2018",
+        "description": "As part of our 30th-anniversary dissection of masculinity, Helen Lewis interviews controversial Canadian academic and bestselling author Jordan Peterson about the patriarchy, the alt-right, gay parenting, fascist ideologies, his all-beef diet and much more...\n\nSubscribe to British GQ\u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "yZYQpge1W5s",
+        "likes": "695,446 likes",
+        "title": "Jordan Peterson: \u201cThere was plenty of motivation to take me out. It just didn't work\" | British GQ",
+        "url": "https://www.youtube.com/watch?v=yZYQpge1W5s",
+        "video_length": 6133.181,
+        "views": "47,656,109 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=aMcjxSThD54",
+      "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+      "video": {
+        "ad": null,
+        "comments": "205,828",
+        "content creator": "Channel 4 News",
+        "date": "Jan 16, 2018",
+        "description": "Channel 4 News\u2019 full, fiery interview with clinical psychologist and professor Jordan B Peterson, whose views on gender have amassed great controversy - and a huge online following. He discusses the pay gap, patriarchy and his new book \"12 Rules for Life.\" Subscribe: ",
+        "dislikes": " Unavailable",
+        "id": "aMcjxSThD54",
+        "likes": "697,036 likes",
+        "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+        "url": "https://www.youtube.com/watch?v=aMcjxSThD54",
+        "video_length": 1795.461,
+        "views": "35,473,751 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+      "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+      "video": {
+        "ad": null,
+        "comments": "112,785",
+        "content creator": "PowerfulJRE",
+        "date": "Jun 20, 2019",
+        "description": "Bob Lazar is a physicist who worked at Los Alamos National Laboratory in New Mexico, and also on reverse engineering extraterrestrial technology at a site called S-4 near the Area 51 Groom Lake operating location. Jeremy Corbell is a contemporary artist and documentary filmmaker. Watch the documentary \"Bob Lazar: Area 51 & Flying Saucers\" now streaming on Netflix.",
+        "dislikes": " Unavailable",
+        "id": "BEWz4SXfyCQ",
+        "likes": "352,403 likes",
+        "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+        "url": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+        "video_length": 8084.321,
+        "views": "22,173,397 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "video": {
+        "ad": null,
+        "comments": "114,071",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "230,396 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713.401,
+        "views": "8,420,264 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=gmOTjyUVaNI",
+  "title": "m o d e r n i t y 5",
+  "video": {
+    "ad": null,
+    "comments": "10,212",
+    "content creator": "Paul Joseph Watson",
+    "date": "Mar 26, 2021",
+    "description": "Dante's Inferno edition.\n\nBrand new merch available here! https://www.pjwshop.com/",
+    "dislikes": " Unavailable",
+    "id": "gmOTjyUVaNI",
+    "likes": "81,647 likes",
+    "title": "m o d e r n i t y 5",
+    "url": "https://www.youtube.com/watch?v=gmOTjyUVaNI",
+    "video_length": 928.121,
+    "views": "738,445 views"
+  }
+}

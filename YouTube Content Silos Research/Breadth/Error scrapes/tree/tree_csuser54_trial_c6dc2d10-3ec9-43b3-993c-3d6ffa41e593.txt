@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=Fvg5RTrFLfI",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=_nanclEnpn4&list=RDCMUCtoaZpBnrd0lhycxYJ4MNOQ&start_radio=1&rv=_nanclEnpn4",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=QPXRMMEp3tI",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=vjluqyN7SNk",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=nrdD8IcQ11w",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=TpimNx4PJoY",
+                          "title": "Hasan Piker - H3 Podcast #207",
+                          "video": {
+                            "ad": null,
+                            "comments": "8,696",
+                            "content creator": "H3 Podcast",
+                            "date": "Aug 17, 2020",
+                            "description": "Become a member:  *EXTRA FRIDAY LIVE EPISODE! *EARLY ACCESS TO ALL EPISODES!\n*NO ADS! http://youtube.com/h3podcast/join",
+                            "dislikes": " Unavailable",
+                            "id": "TpimNx4PJoY",
+                            "likes": "40,874 likes",
+                            "title": "Hasan Piker - H3 Podcast #207",
+                            "url": "https://www.youtube.com/watch?v=TpimNx4PJoY",
+                            "video_length": 9294,
+                            "views": "1,441,402 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=bnjJkVcayac",
+                          "title": "Steven Crowder Freaks Out Over Black James Bond - Leftovers #2",
+                          "video": {
+                            "ad": null,
+                            "comments": "7,327",
+                            "content creator": "H3 Podcast",
+                            "date": "Oct 3, 2021",
+                            "description": "Thank you to http://harrys.com/leftovers for sponsoring this episode!\nBecome a member for access to the episodes a day early with no ads and no cuts: http://youtube.com/h3podcast/join",
+                            "dislikes": " Unavailable",
+                            "id": "bnjJkVcayac",
+                            "likes": "49,322 likes",
+                            "title": "Steven Crowder Freaks Out Over Black James Bond - Leftovers #2",
+                            "url": "https://www.youtube.com/watch?v=bnjJkVcayac",
+                            "video_length": 5745,
+                            "views": "1,226,101 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=_nanclEnpn4&list=RDLVHv30Jhr-iDE&start_radio=1&rv=Hv30Jhr-iDE",
+                          "title": "Talking With Ethan Klein from H3H3",
+                          "video": {
+                            "ad": null,
+                            "comments": "3,437",
+                            "content creator": "HasanAbi",
+                            "date": "Jun 21, 2021",
+                            "description": "Ethan Klein from the H3H3 Podcast came on the show to talk about the recent debate with Steven Crowder. Turned into a great conversation about a lot of topics ranging from billionaires, Dogecoin, and conservative grifting.\n\nH3H3 v CROWDER DEBATE: ",
+                            "dislikes": " Unavailable",
+                            "id": "_nanclEnpn4&list",
+                            "likes": "33,034 likes",
+                            "title": "Talking With Ethan Klein from H3H3",
+                            "url": "https://www.youtube.com/watch?v=_nanclEnpn4&list=RDLVHv30Jhr-iDE&start_radio=1&rv=Hv30Jhr-iDE",
+                            "video_length": 2721.541,
+                            "views": "710,370 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=KSXKzPOcYDU",
+                          "title": "Why Is Conservative Comedy So\u2026 Not Very Good? - SOME MORE NEWS",
+                          "video": {
+                            "ad": null,
+                            "comments": "12,545",
+                            "content creator": "Some More News",
+                            "date": "Nov 2, 2021",
+                            "description": "Hi. In today's episode, we discuss Gutfeld, Dennis Miller, Babylon Bee, and why conservatives aren't funny. \n\nCheck out our new series, SOME THIS! - ",
+                            "dislikes": " Unavailable",
+                            "id": "KSXKzPOcYDU",
+                            "likes": "56,757 likes",
+                            "title": "Why Is Conservative Comedy So\u2026 Not Very Good? - SOME MORE NEWS",
+                            "url": "https://www.youtube.com/watch?v=KSXKzPOcYDU",
+                            "video_length": 4739.421,
+                            "views": "1,214,549 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=_nanclEnpn4",
+                          "title": "Talking With Ethan Klein from H3H3",
+                          "video": {
+                            "ad": null,
+                            "comments": "3,437",
+                            "content creator": "HasanAbi",
+                            "date": "Jun 21, 2021",
+                            "description": "Ethan Klein from the H3H3 Podcast came on the show to talk about the recent debate with Steven Crowder. Turned into a great conversation about a lot of topics ranging from billionaires, Dogecoin, and conservative grifting.\n\nH3H3 v CROWDER DEBATE: ",
+                            "dislikes": " Unavailable",
+                            "id": "_nanclEnpn4",
+                            "likes": "33,034 likes",
+                            "title": "Talking With Ethan Klein from H3H3",
+                            "url": "https://www.youtube.com/watch?v=_nanclEnpn4",
+                            "video_length": 2721.541,
+                            "views": "710,370 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=HxGI4AsHbQE",
+                      "title": "WOKE GENERALS WANT A TRANS ARMY!? | Debate With A Radical Centrist",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,236",
+                        "content creator": "Vaush",
+                        "date": "Sep 1, 2021",
+                        "description": "We touch on just about every topic related to trans issues here. This one got surprisingly chaotic. \n\n\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...",
+                        "dislikes": " Unavailable",
+                        "id": "HxGI4AsHbQE",
+                        "likes": "7,907 likes",
+                        "title": "WOKE GENERALS WANT A TRANS ARMY!? | Debate With A Radical Centrist",
+                        "url": "https://www.youtube.com/watch?v=HxGI4AsHbQE",
+                        "video_length": 5027,
+                        "views": "218,333 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=7iVQOSS5ZCk",
+                      "title": "REACTING TO HUNTER AVALLONE VS MIKE FROM PA (BIG MEMES)",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,624",
+                        "content creator": "Vaush",
+                        "date": "Jul 9, 2021",
+                        "description": "Is Hunter Avallone actually a GRIFTER? My thoughts on this debate & more. Can someone explain what a TIF is? \n\n\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - ",
+                        "dislikes": " Unavailable",
+                        "id": "7iVQOSS5ZCk",
+                        "likes": "7,683 likes",
+                        "title": "REACTING TO HUNTER AVALLONE VS MIKE FROM PA (BIG MEMES)",
+                        "url": "https://www.youtube.com/watch?v=7iVQOSS5ZCk",
+                        "video_length": 6305,
+                        "views": "235,534 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=1hW_s0GGEPw",
+                      "title": "HasanAbi Reacts to Trading Spouses \"God Warrior\"",
+                      "video": {
+                        "ad": null,
+                        "comments": "220",
+                        "content creator": "Triblex",
+                        "date": "Jul 29, 2020",
+                        "description": "Original video - https://www.youtube.com/watch?v=6KoAk...\n\nHasan:\nTwitch - ",
+                        "dislikes": " Unavailable",
+                        "id": "1hW_s0GGEPw",
+                        "likes": "1,169 likes",
+                        "title": "HasanAbi Reacts to Trading Spouses \"God Warrior\"",
+                        "url": "https://www.youtube.com/watch?v=1hW_s0GGEPw",
+                        "video_length": 7313.661,
+                        "views": "61,382 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=fNLddXkLCzQ",
+                      "title": "Debate Review: Charlie Kirk Faces Off Against Sam Seder at Politicon",
+                      "video": {
+                        "ad": null,
+                        "comments": "985",
+                        "content creator": "The Vaush Pit",
+                        "date": "Jul 28, 2021",
+                        "description": "The Charlie Kirk debate is right around the corner... I'm going back to review some of his older debates! First up, Sam Seder at Politicon in 2018.\n\nStreamed on Jul 20, 2021\n\n\ud83d\udd34 Website  - ",
+                        "dislikes": " Unavailable",
+                        "id": "fNLddXkLCzQ",
+                        "likes": "4,958 likes",
+                        "title": "Debate Review: Charlie Kirk Faces Off Against Sam Seder at Politicon",
+                        "url": "https://www.youtube.com/watch?v=fNLddXkLCzQ",
+                        "video_length": 5618.541,
+                        "views": "155,622 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Hv30Jhr-iDE",
+                      "title": "Hasanabi Reacts to Ethan Klein Debates Steven Crowder (Ft. Sam Seder)",
+                      "video": {
+                        "ad": null,
+                        "comments": "1,612",
+                        "content creator": "Hasanabi Clips",
+                        "date": "Jun 21, 2021",
+                        "description": "Hasanabi Reacts to Ethan Klein Debates Steven Crowder (Ft. Sam Seder)\n\nAll the links: https://linktr.ee/HasanabiClips",
+                        "dislikes": " Unavailable",
+                        "id": "Hv30Jhr-iDE",
+                        "likes": "7,442 likes",
+                        "title": "Hasanabi Reacts to Ethan Klein Debates Steven Crowder (Ft. Sam Seder)",
+                        "url": "https://www.youtube.com/watch?v=Hv30Jhr-iDE",
+                        "video_length": 4253.061,
+                        "views": "152,176 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=Lt9qS5CrfxA",
+                  "title": "Dan's First ANIMATRONIC Furry Experience - Five Nights at Freddy's",
+                  "video": {
+                    "ad": null,
+                    "comments": "4,242",
+                    "content creator": "GameGrumps",
+                    "date": "Oct 27, 2021",
+                    "description": "The sparking cables and GRINDING gears make it really exciting.\n\nMERCH \u25ba\u25ba http://gamegrumps.com/merch",
+                    "dislikes": " Unavailable",
+                    "id": "Lt9qS5CrfxA",
+                    "likes": "41,990 likes",
+                    "title": "Dan's First ANIMATRONIC Furry Experience - Five Nights at Freddy's",
+                    "url": "https://www.youtube.com/watch?v=Lt9qS5CrfxA",
+                    "video_length": 1837,
+                    "views": "751,939 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=JtyzxaMX91o",
+                  "title": "Tips On Socializing After Covid | Incel Crisis Followup",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,322",
+                    "content creator": "Vaush",
+                    "date": "Mar 29, 2021",
+                    "description": "Website - https://www.vaush.gg/\nPatreon - https://www.patreon.com/vaush\nDonate - https://www.paypal.me/vaush",
+                    "dislikes": " Unavailable",
+                    "id": "JtyzxaMX91o",
+                    "likes": "5,054 likes",
+                    "title": "Tips On Socializing After Covid | Incel Crisis Followup",
+                    "url": "https://www.youtube.com/watch?v=JtyzxaMX91o",
+                    "video_length": 3127,
+                    "views": "104,509 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=_BWsF7zEhsY",
+                  "title": "\"Christian Values\": The Twisted Truths of the Duggar Family | Corporate Casket",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,530",
+                    "content creator": "iilluminaughtii",
+                    "date": "Jan 7, 2022",
+                    "description": "Go to http://mintmobile.com/casket to cut your wireless bill to $15 a month.\nGo to http://hellofresh.com/casket16 and use code casket16 for up to 16 free meals AND 3 free gifts.\n\nWelcome to the Corporate Casket, a semiweekly series where bad businesses go to die. We will discuss any and everything from bad charities, terrible CEOs, and businesses that have a lot to hide. \n\nConnect with me: ",
+                    "dislikes": " Unavailable",
+                    "id": "_BWsF7zEhsY",
+                    "likes": "14,200 likes",
+                    "title": "\"Christian Values\": The Twisted Truths of the Duggar Family | Corporate Casket",
+                    "url": "https://www.youtube.com/watch?v=_BWsF7zEhsY",
+                    "video_length": 2243.321,
+                    "views": "302,195 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=5lR1FdFefcA",
+                  "title": "HE HUNG UP - Absurd Debate w/ NonCompete Quickly Derails",
+                  "video": {
+                    "ad": null,
+                    "comments": "2,227",
+                    "content creator": "Vaush",
+                    "date": "Jan 11, 2022",
+                    "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+                    "dislikes": " Unavailable",
+                    "id": "5lR1FdFefcA",
+                    "likes": "4,079 likes",
+                    "title": "HE HUNG UP - Absurd Debate w/ NonCompete Quickly Derails",
+                    "url": "https://www.youtube.com/watch?v=5lR1FdFefcA",
+                    "video_length": 6450.281,
+                    "views": "88,869 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=NtqOt5Xuxvw",
+                  "title": "CROWDER RUNS FROM SAM SEDER ON THE H3 PODCAST",
+                  "video": {
+                    "ad": null,
+                    "comments": "6,377",
+                    "content creator": "Vaush",
+                    "date": "Jun 22, 2021",
+                    "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\nWebsite - https://www.vaush.gg/",
+                    "dislikes": " Unavailable",
+                    "id": "NtqOt5Xuxvw",
+                    "likes": "22,032 likes",
+                    "title": "CROWDER RUNS FROM SAM SEDER ON THE H3 PODCAST",
+                    "url": "https://www.youtube.com/watch?v=NtqOt5Xuxvw",
+                    "video_length": 5062.981,
+                    "views": "484,616 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=X_tYf-nYPZg",
+              "title": "Dylan Burns vs Jabson Ankles Debate Goes FERAL | Vaush Reacts",
+              "video": {
+                "ad": null,
+                "comments": "1,893",
+                "content creator": "Vaush",
+                "date": "Oct 1, 2021",
+                "description": "Like playing chess with a pigeon.\n\nOriginal Video: https://www.youtube.com/watch?v=h8-rt...",
+                "dislikes": " Unavailable",
+                "id": "X_tYf-nYPZg",
+                "likes": "5,647 likes",
+                "title": "Dylan Burns vs Jabson Ankles Debate Goes FERAL | Vaush Reacts",
+                "url": "https://www.youtube.com/watch?v=X_tYf-nYPZg",
+                "video_length": 11325.861,
+                "views": "280,071 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=Olj9Q_wLV28",
+              "title": "The Debate So Vile I Had To End It",
+              "video": {
+                "ad": null,
+                "comments": "5,127",
+                "content creator": "The Vaush Pit",
+                "date": "Dec 23, 2021",
+                "description": "\ud83d\udd34 Website  - https://www.vaush.gg/\n\ud83d\udcb5 Patreon  - https://www.patreon.com/vaush",
+                "dislikes": " Unavailable",
+                "id": "Olj9Q_wLV28",
+                "likes": "8,533 likes",
+                "title": "The Debate So Vile I Had To End It",
+                "url": "https://www.youtube.com/watch?v=Olj9Q_wLV28",
+                "video_length": 3797.401,
+                "views": "251,384 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+              "title": "Vaccines: A Measured Response",
+              "video": {
+                "ad": null,
+                "comments": "33,511",
+                "content creator": "hbomberguy",
+                "date": "May 26, 2021",
+                "description": "What is the science behind the anti-vaccine movement, and is it any good? Let\u2019s find out!\n\nMy Twitter: https://twitter.com/hbomberguy",
+                "dislikes": " Unavailable",
+                "id": "8BIcAZxFfrc",
+                "likes": "189,319 likes",
+                "title": "Vaccines: A Measured Response",
+                "url": "https://www.youtube.com/watch?v=8BIcAZxFfrc",
+                "video_length": 6249.241,
+                "views": "3,649,204 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=8yxrX2bMhqI",
+              "title": "DON'T Watch This Debate If You Value Your Brain Cells",
+              "video": {
+                "ad": null,
+                "comments": "1,539",
+                "content creator": "Vaush",
+                "date": "Dec 31, 2021",
+                "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+                "dislikes": " Unavailable",
+                "id": "8yxrX2bMhqI",
+                "likes": "5,053 likes",
+                "title": "DON'T Watch This Debate If You Value Your Brain Cells",
+                "url": "https://www.youtube.com/watch?v=8yxrX2bMhqI",
+                "video_length": 6239.281,
+                "views": "158,664 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=RcRU8VrYUfM",
+              "title": "The Rate Of Male Virginity Is SKYROCKETING | Incel Crisis",
+              "video": {
+                "ad": null,
+                "comments": "8,595",
+                "content creator": "Vaush",
+                "date": "Mar 24, 2021",
+                "description": "Website - https://www.vaush.gg/\nPatreon - https://www.patreon.com/vaush\nDonate - https://www.paypal.me/vaush",
+                "dislikes": " Unavailable",
+                "id": "RcRU8VrYUfM",
+                "likes": "15,321 likes",
+                "title": "The Rate Of Male Virginity Is SKYROCKETING | Incel Crisis",
+                "url": "https://www.youtube.com/watch?v=RcRU8VrYUfM",
+                "video_length": 2716.421,
+                "views": "363,445 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=ap3KewPv2pM",
+          "title": "This Debate Went WILD - Debating \u201cSuperstraights\u201d vs TJump",
+          "video": {
+            "ad": null,
+            "comments": "4,958",
+            "content creator": "Vaush",
+            "date": "May 27, 2021",
+            "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\nWebsite - https://www.vaush.gg/",
+            "dislikes": " Unavailable",
+            "id": "ap3KewPv2pM",
+            "likes": "9,112 likes",
+            "title": "This Debate Went WILD - Debating \u201cSuperstraights\u201d vs TJump",
+            "url": "https://www.youtube.com/watch?v=ap3KewPv2pM",
+            "video_length": 6998.661,
+            "views": "272,968 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YTwAHVbzsQA",
+          "title": "\"You're Gonna Get Clipped For That...\" INSANE Rematch w/ Canadian Supernazi",
+          "video": {
+            "ad": null,
+            "comments": "3,237",
+            "content creator": "Vaush",
+            "date": "Mar 28, 2021",
+            "description": "Reviewing this debate: https://www.youtube.com/watch?v=b6NjW...\n\nWebsite - https://www.vaush.gg/",
+            "dislikes": " Unavailable",
+            "id": "YTwAHVbzsQA",
+            "likes": "8,967 likes",
+            "title": "\"You're Gonna Get Clipped For That...\" INSANE Rematch w/ Canadian Supernazi",
+            "url": "https://www.youtube.com/watch?v=YTwAHVbzsQA",
+            "video_length": 5215.241,
+            "views": "257,735 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fpvrVfDns7c",
+          "title": "\"They Like Genocide, You Like Genocide\" - Vaush Debate Roller-Coaster",
+          "video": {
+            "ad": null,
+            "comments": "1,914",
+            "content creator": "Destiny",
+            "date": "Apr 2, 2021",
+            "description": "Destiny reviews Vaush's debate with a Tankie (ChaosIsMel) and cannot stop laughing at how wacky things get during the debate with all the debate tactics being wheeled out by all sides...\n\nFollow Destiny\n\u25baSTREAM - ",
+            "dislikes": " Unavailable",
+            "id": "fpvrVfDns7c",
+            "likes": "4,480 likes",
+            "title": "\"They Like Genocide, You Like Genocide\" - Vaush Debate Roller-Coaster",
+            "url": "https://www.youtube.com/watch?v=fpvrVfDns7c",
+            "video_length": 7540.501,
+            "views": "254,990 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lUnwRbqseMs",
+          "title": "\"I have NO idea where this conversation is going\" Discussing Men's Vs Women's Issues",
+          "video": {
+            "ad": null,
+            "comments": "2,259",
+            "content creator": "Vaush",
+            "date": "May 10, 2021",
+            "description": "His YouTube - http://youtube.com/RealDylanVolkTV\n\nWebsite - https://www.vaush.gg/",
+            "dislikes": " Unavailable",
+            "id": "lUnwRbqseMs",
+            "likes": "6,042 likes",
+            "title": "\"I have NO idea where this conversation is going\" Discussing Men's Vs Women's Issues",
+            "url": "https://www.youtube.com/watch?v=lUnwRbqseMs",
+            "video_length": 3692.281,
+            "views": "174,084 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GAyuPQMdxAI",
+          "title": "Watching Sargon\u2019s Two Brain Cells Collide As He \u201cFights Degeneracy\u201d On The Subway",
+          "video": {
+            "ad": null,
+            "comments": "1,366",
+            "content creator": "Vaush",
+            "date": "Dec 23, 2021",
+            "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+            "dislikes": " Unavailable",
+            "id": "GAyuPQMdxAI",
+            "likes": "5,212 likes",
+            "title": "Watching Sargon\u2019s Two Brain Cells Collide As He \u201cFights Degeneracy\u201d On The Subway",
+            "url": "https://www.youtube.com/watch?v=GAyuPQMdxAI",
+            "video_length": 2612.601,
+            "views": "148,721 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=5l90-mO6KC8",
+      "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+      "video": {
+        "ad": null,
+        "comments": "1,781",
+        "content creator": "The Vaush Pit",
+        "date": "Oct 4, 2021",
+        "description": "Original video: https://www.youtube.com/watch?v=nSrLp...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+        "dislikes": " Unavailable",
+        "id": "5l90-mO6KC8",
+        "likes": "3,654 likes",
+        "title": "DrHeemedOut vs Professor Flowers Debate Review | Vaush Reacts",
+        "url": "https://www.youtube.com/watch?v=5l90-mO6KC8",
+        "video_length": 4674.681,
+        "views": "113,909 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=b5fNif_WGdc",
+      "title": "Willem Dafoe Breaks Down His Career, from 'The Boondock Saints' to 'Spider-Man' | Vanity Fair",
+      "video": {
+        "ad": null,
+        "comments": "12,962",
+        "content creator": "Vanity Fair",
+        "date": "Nov 5, 2019",
+        "description": "Willem Dafoe discusses the roles that make up his film career, including \"The Wooster Group,\" \"Heaven's Gate,\" \"The Loveless,\" \"Platoon,\" \"The Last Temptation of Christ,\" \"Wild at Heart,\" \"The Boondock Saints,\" \"Shadow of the Vampire,\" \"Spider-Man,\" \"The Life Aquatic with Steve Zissou,\" \"Antichrist,\" \"The Florida Project,\" \"At Eternity's Gate,\" \"The Lighthouse\" and \"Motherless Brooklyn.\" \n\nYou can see Willem Dafoe in The Lighthouse and Motherless Brooklyn in theaters now! \n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+        "dislikes": " Unavailable",
+        "id": "b5fNif_WGdc",
+        "likes": "229,006 likes",
+        "title": "Willem Dafoe Breaks Down His Career, from 'The Boondock Saints' to 'Spider-Man' | Vanity Fair",
+        "url": "https://www.youtube.com/watch?v=b5fNif_WGdc",
+        "video_length": 1032.141,
+        "views": "5,903,924 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=xri9PWEHY5E",
+      "title": "The Best of Vaush: 2 Hours of the Best and Funniest Debate Moments",
+      "video": {
+        "ad": null,
+        "comments": "1,975",
+        "content creator": "Vaush",
+        "date": "Aug 9, 2021",
+        "description": "This is it! The DEFINITIVE compilation of the greatest debate moments from Vaush. This video documents the best moments from the very earliest debates all the way to the most recent ones. Watch Vaush use FACTS and LOGIC to destroy everyone from MAGA chuds, ancaps, tankies, conspiracy theorists, AND MORE!\n\n\ud83d\udd34 Website  - ",
+        "dislikes": " Unavailable",
+        "id": "xri9PWEHY5E",
+        "likes": "13,763 likes",
+        "title": "The Best of Vaush: 2 Hours of the Best and Funniest Debate Moments",
+        "url": "https://www.youtube.com/watch?v=xri9PWEHY5E",
+        "video_length": 7821.721,
+        "views": "457,599 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=XVzH82K4M28",
+      "title": "The Professor Flowers DRAMA Retrospective",
+      "video": {
+        "ad": null,
+        "comments": "2,822",
+        "content creator": "Vaush",
+        "date": "Oct 9, 2021",
+        "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+        "dislikes": " Unavailable",
+        "id": "XVzH82K4M28",
+        "likes": "6,562 likes",
+        "title": "The Professor Flowers DRAMA Retrospective",
+        "url": "https://www.youtube.com/watch?v=XVzH82K4M28",
+        "video_length": 3539,
+        "views": "159,672 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JdYcGp03_oQ",
+      "title": "\"Why Can't I Have An Ethnostate?\" | Debating a Lunatic",
+      "video": {
+        "ad": null,
+        "comments": "5,216",
+        "content creator": "Vaush",
+        "date": "Apr 7, 2021",
+        "description": "Website - https://www.vaush.gg/\nPatreon - https://www.patreon.com/vaush\nDonate - https://www.paypal.me/vaush",
+        "dislikes": " Unavailable",
+        "id": "JdYcGp03_oQ",
+        "likes": "10,127 likes",
+        "title": "\"Why Can't I Have An Ethnostate?\" | Debating a Lunatic",
+        "url": "https://www.youtube.com/watch?v=JdYcGp03_oQ",
+        "video_length": 5367,
+        "views": "348,228 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=5O3Xp7A0q24",
+  "title": "Talking With Professor Flowers About Black Nationalism and Her Video Criticizing Me",
+  "video": {
+    "ad": null,
+    "comments": "9,614",
+    "content creator": "Vaush",
+    "date": "Sep 8, 2021",
+    "description": "\ud83d\udd25 BRAND NEW SECOND CHANNEL \ud83d\udd25 - https://www.youtube.com/channel/UCdUD...\n\n\ud83d\udd34 Website  - https://www.vaush.gg/",
+    "dislikes": " Unavailable",
+    "id": "5O3Xp7A0q24",
+    "likes": "10,211 likes",
+    "title": "Talking With Professor Flowers About Black Nationalism and Her Video Criticizing Me",
+    "url": "https://www.youtube.com/watch?v=5O3Xp7A0q24",
+    "video_length": 11835,
+    "views": "311,157 views"
+  }
+}

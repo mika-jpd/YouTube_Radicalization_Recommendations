@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=r4wQsmAtZoc",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=bHdoAhZyP3I",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=TEJqqllAKPE",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=uaPZH8zmB7U",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=9NoiXEL6KIw",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+                          "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+                          "video": {
+                            "ad": null,
+                            "comments": "112,744",
+                            "content creator": "PowerfulJRE",
+                            "date": "Jun 20, 2019",
+                            "description": "Bob Lazar is a physicist who worked at Los Alamos National Laboratory in New Mexico, and also on reverse engineering extraterrestrial technology at a site called S-4 near the Area 51 Groom Lake operating location. Jeremy Corbell is a contemporary artist and documentary filmmaker. Watch the documentary \"Bob Lazar: Area 51 & Flying Saucers\" now streaming on Netflix.",
+                            "dislikes": " Unavailable",
+                            "id": "BEWz4SXfyCQ",
+                            "likes": "352,217 likes",
+                            "title": "Joe Rogan Experience #1315 - Bob Lazar & Jeremy Corbell",
+                            "url": "https://www.youtube.com/watch?v=BEWz4SXfyCQ",
+                            "video_length": 8084.321,
+                            "views": "22,143,979 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=mPqWstVnRjQ",
+                          "title": "Joe Rogan Experience #1035 - Paul Stamets",
+                          "video": {
+                            "ad": null,
+                            "comments": "18,516",
+                            "content creator": "PowerfulJRE",
+                            "date": "Streamed live on Nov 7, 2017",
+                            "description": "Paul Stamets is a mycologist, author and advocate of bioremediation and medicinal fungi. Check out https://www.youtube.com/paulstamets",
+                            "dislikes": " Unavailable",
+                            "id": "mPqWstVnRjQ",
+                            "likes": "155,533 likes",
+                            "title": "Joe Rogan Experience #1035 - Paul Stamets",
+                            "url": "https://www.youtube.com/watch?v=mPqWstVnRjQ",
+                            "video_length": 8028.029,
+                            "views": "9,055,563 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                          "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+                          "video": {
+                            "ad": null,
+                            "comments": "6,645",
+                            "content creator": "92nd Street Y",
+                            "date": "Feb 21, 2013",
+                            "description": "Your support helps us keep our content free for all. Donate now: https://www.92y.org/donate",
+                            "dislikes": " Unavailable",
+                            "id": "rYzBxo3hbYQ",
+                            "likes": "35,646 likes",
+                            "title": "Neil DeGrasse Tyson: Blackholes and Other Cosmic Quandries",
+                            "url": "https://www.youtube.com/watch?v=rYzBxo3hbYQ",
+                            "video_length": 6017,
+                            "views": "8,643,187 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=HqrCkCDkvfo",
+                          "title": "Tim Dillon on the Ghislaine Maxwell Trial",
+                          "video": {
+                            "ad": null,
+                            "comments": "6,846",
+                            "content creator": "PowerfulJRE",
+                            "date": "Dec 24, 2021",
+                            "description": "Taken from JRE #1753 w/Tim Dillon:\nhttps://open.spotify.com/episode/2HQZ...",
+                            "dislikes": " Unavailable",
+                            "id": "HqrCkCDkvfo",
+                            "likes": "65,800 likes",
+                            "title": "Tim Dillon on the Ghislaine Maxwell Trial",
+                            "url": "https://www.youtube.com/watch?v=HqrCkCDkvfo",
+                            "video_length": 662.881,
+                            "views": "3,848,861 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=tiQevGDPgRY",
+                          "title": "Joe Rogan - Why Obese People Can't Lose Weight",
+                          "video": {
+                            "ad": null,
+                            "comments": "18,413",
+                            "content creator": "JRE Clips",
+                            "date": "Apr 24, 2018",
+                            "description": "Peter Attia breaksdown the difference between an how an obese person processes food, and how a normal person does.",
+                            "dislikes": " Unavailable",
+                            "id": "tiQevGDPgRY",
+                            "likes": "140,263 likes",
+                            "title": "Joe Rogan - Why Obese People Can't Lose Weight",
+                            "url": "https://www.youtube.com/watch?v=tiQevGDPgRY",
+                            "video_length": 419.321,
+                            "views": "8,396,761 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=uXyS-74sRTE",
+                      "title": "Joe Rogan Experience #835 - Louis Theroux",
+                      "video": {
+                        "ad": null,
+                        "comments": "7,306",
+                        "content creator": "PowerfulJRE",
+                        "date": "Streamed live on Aug 22, 2016",
+                        "description": "Louis Theroux is best known for his documentaries in the television series \"Louis Theroux's Weird Weekends\" and \"When Louis Met...\", as well as his Louis Theroux's BBC Two specials.",
+                        "dislikes": " Unavailable",
+                        "id": "uXyS-74sRTE",
+                        "likes": "54,614 likes",
+                        "title": "Joe Rogan Experience #835 - Louis Theroux",
+                        "url": "https://www.youtube.com/watch?v=uXyS-74sRTE",
+                        "video_length": 8625.841,
+                        "views": "9,141,420 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=pwaWilO_Pig",
+                      "title": "Joe Rogan Experience #1109 - Matthew Walker",
+                      "video": {
+                        "ad": null,
+                        "comments": "10,629",
+                        "content creator": "PowerfulJRE",
+                        "date": "Streamed live on Apr 25, 2018",
+                        "description": "Matthew Walker is Professor of Neuroscience and Psychology at the University of California, Berkeley, and Founder and Director of the Center for Human Sleep Science. Check out his book \"Why We Sleep: Unlocking the Power of Sleep and Dreams\" on Amazon. ",
+                        "dislikes": " Unavailable",
+                        "id": "pwaWilO_Pig",
+                        "likes": "123,286 likes",
+                        "title": "Joe Rogan Experience #1109 - Matthew Walker",
+                        "url": "https://www.youtube.com/watch?v=pwaWilO_Pig",
+                        "video_length": 6932.321,
+                        "views": "7,983,988 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=DZCBRHOg3PQ",
+                      "title": "Joe Rogan Experience #1258 - Jack Dorsey, Vijaya Gadde & Tim Pool",
+                      "video": {
+                        "ad": null,
+                        "comments": "70,721",
+                        "content creator": "PowerfulJRE",
+                        "date": "Streamed live on Mar 5, 2019",
+                        "description": "Jack Dorsey is a computer programmer and Internet entrepreneur who is co-founder and CEO of Twitter, and founder and CEO of Square, a mobile payments company. Vijaya Gadde serves as the global lead for legal, policy, and trust and safety at Twitter. Tim Pool is an independent journalist. His work can currently be found  at ",
+                        "dislikes": " Unavailable",
+                        "id": "DZCBRHOg3PQ",
+                        "likes": "121,825 likes",
+                        "title": "Joe Rogan Experience #1258 - Jack Dorsey, Vijaya Gadde & Tim Pool",
+                        "url": "https://www.youtube.com/watch?v=DZCBRHOg3PQ",
+                        "video_length": 12310.541,
+                        "views": "6,355,966 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=tSoe5v5Qlec",
+                      "title": "Forrest Galante's Crazy Stories from the Amazon | Joe Rogan",
+                      "video": {
+                        "ad": null,
+                        "comments": "6,287",
+                        "content creator": "JRE Clips",
+                        "date": "Feb 6, 2019",
+                        "description": "Taken from Joe Rogan Experience #1240 w/Forrest Galante: https://youtu.be/OT0ZIq-yWEM",
+                        "dislikes": " Unavailable",
+                        "id": "tSoe5v5Qlec",
+                        "likes": "72,027 likes",
+                        "title": "Forrest Galante's Crazy Stories from the Amazon | Joe Rogan",
+                        "url": "https://www.youtube.com/watch?v=tSoe5v5Qlec",
+                        "video_length": 967.241,
+                        "views": "6,591,690 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=3RG5pXTpLBI",
+                      "title": "Joe Rogan Experience #1425 - Garrett Reisman",
+                      "video": {
+                        "ad": null,
+                        "comments": "14,565",
+                        "content creator": "PowerfulJRE",
+                        "date": "Feb 7, 2020",
+                        "description": "Garrett Reisman is a former NASA Astronaut. He is currently a Professor of Astronautical Engineering at USC and a Senior Advisor at SpaceX.",
+                        "dislikes": " Unavailable",
+                        "id": "3RG5pXTpLBI",
+                        "likes": "110,276 likes",
+                        "title": "Joe Rogan Experience #1425 - Garrett Reisman",
+                        "url": "https://www.youtube.com/watch?v=3RG5pXTpLBI",
+                        "video_length": 7932.401,
+                        "views": "11,316,607 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=HM8WDZIhs3M",
+                  "title": "Joe Rogan Experience #1136 - Hamilton Morris",
+                  "video": {
+                    "ad": null,
+                    "comments": "17,894",
+                    "content creator": "PowerfulJRE",
+                    "date": "Streamed live on Jun 26, 2018",
+                    "description": "Hamilton Morris is a writer, documentarian, psychonaut and scientific researcher. His show \"Hamilton's Pharmacopeia\" is available on VICELAND and iTunes.",
+                    "dislikes": " Unavailable",
+                    "id": "HM8WDZIhs3M",
+                    "likes": "121,175 likes",
+                    "title": "Joe Rogan Experience #1136 - Hamilton Morris",
+                    "url": "https://www.youtube.com/watch?v=HM8WDZIhs3M",
+                    "video_length": 10416.981,
+                    "views": "13,024,489 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=AJ0-VeWMr-A",
+                  "title": "Joe Rogan Experience #908 - Leah Remini",
+                  "video": {
+                    "ad": null,
+                    "comments": "24,943",
+                    "content creator": "PowerfulJRE",
+                    "date": "Jan 30, 2017",
+                    "description": "Leah Remini is an actress, producer, author, and comedian. Her new show \"Leah Remini: Scientology and the Aftermath\" is a documentary series that can be seen on A&E.",
+                    "dislikes": " Unavailable",
+                    "id": "AJ0-VeWMr-A",
+                    "likes": "111,865 likes",
+                    "title": "Joe Rogan Experience #908 - Leah Remini",
+                    "url": "https://www.youtube.com/watch?v=AJ0-VeWMr-A",
+                    "video_length": 8229.981,
+                    "views": "10,480,668 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=jdVso9FSkmE",
+                  "title": "Joe Rogan Experience #1555 - Alex Jones & Tim Dillon",
+                  "video": {
+                    "ad": null,
+                    "comments": "160,746",
+                    "content creator": "PowerfulJRE",
+                    "date": "Oct 27, 2020",
+                    "description": "Tim Dillon is a standup comedian, actor, and host of the Tim Dillon Show. Alex Jones is a filmmaker, writer, and host of the Alex Jones Show.  @The Tim Dillon Show",
+                    "dislikes": " Unavailable",
+                    "id": "jdVso9FSkmE",
+                    "likes": "461,074 likes",
+                    "title": "Joe Rogan Experience #1555 - Alex Jones & Tim Dillon",
+                    "url": "https://www.youtube.com/watch?v=jdVso9FSkmE",
+                    "video_length": 11468.641,
+                    "views": "21,341,972 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=xPBejhoKlb8",
+                  "title": "Joe Rogan Experience #1408 - Ed Calderon",
+                  "video": {
+                    "ad": null,
+                    "comments": "13,907",
+                    "content creator": "PowerfulJRE",
+                    "date": "Jan 8, 2020",
+                    "description": "Ed Calderon is a security specialist and combatives instructor with over 10 years experience in public safety along the northern border area of Mexico. Follow him online @EdsManifesto http://edsmanifesto.com",
+                    "dislikes": " Unavailable",
+                    "id": "xPBejhoKlb8",
+                    "likes": "80,177 likes",
+                    "title": "Joe Rogan Experience #1408 - Ed Calderon",
+                    "url": "https://www.youtube.com/watch?v=xPBejhoKlb8",
+                    "video_length": 6913.101,
+                    "views": "6,480,012 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=tCRjz1fyOE4",
+                  "title": "Joe Rogan Experience #1403 - Forrest Galante",
+                  "video": {
+                    "ad": null,
+                    "comments": "9,602",
+                    "content creator": "PowerfulJRE",
+                    "date": "Dec 19, 2019",
+                    "description": "Forrest Galante is an international wildlife adventurer and conservationist. He\u2019s also the host of \u201cExtinct of Alive\u201d on The Animal Planet. https://www.instagram.com/forrest.gal...",
+                    "dislikes": " Unavailable",
+                    "id": "tCRjz1fyOE4",
+                    "likes": "87,053 likes",
+                    "title": "Joe Rogan Experience #1403 - Forrest Galante",
+                    "url": "https://www.youtube.com/watch?v=tCRjz1fyOE4",
+                    "video_length": 9963.721,
+                    "views": "8,706,142 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=L6IonRH1-ow",
+              "title": "Blaire White Tells Joe About Her DMT Experience",
+              "video": {
+                "ad": null,
+                "comments": "9,160",
+                "content creator": "PowerfulJRE",
+                "date": "Dec 10, 2021",
+                "description": "Taken from JRE #1747 w/Blaire White:\nhttps://open.spotify.com/episode/1qU8...",
+                "dislikes": " Unavailable",
+                "id": "L6IonRH1-ow",
+                "likes": "26,444 likes",
+                "title": "Blaire White Tells Joe About Her DMT Experience",
+                "url": "https://www.youtube.com/watch?v=L6IonRH1-ow",
+                "video_length": 843.061,
+                "views": "1,431,145 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=L9HqHzA3atQ",
+              "title": "Malice, or the Establishment? | Michael Malice | The Jordan B. Peterson Podcast - S4: E30",
+              "video": {
+                "ad": null,
+                "comments": "10,675",
+                "content creator": "Jordan B Peterson",
+                "date": "Jun 14, 2021",
+                "description": "On Season 4 Episode 30 of the Jordan Peterson Podcast, Jordan Peterson is joined by Michael Malice. \n\nMichael Malice is a New York City-based author, podcaster, columnist, and media personality. He is a champion and proponent of free speech, anarchy, and many other non-mainstream ideals.\n\nFind more of Michael Malice on Twitter @michaelmalice, on his Youtube Channel Michael Malice, and check out his books\n\nThe Jordan B. Peterson Podcast can be found at ",
+                "dislikes": " Unavailable",
+                "id": "L9HqHzA3atQ",
+                "likes": "43,708 likes",
+                "title": "Malice, or the Establishment? | Michael Malice | The Jordan B. Peterson Podcast - S4: E30",
+                "url": "https://www.youtube.com/watch?v=L9HqHzA3atQ",
+                "video_length": 7860,
+                "views": "1,236,657 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=4jl6tK0gU28",
+              "title": "Reacting To Trans People Who HATE Me!",
+              "video": {
+                "ad": null,
+                "comments": "11,123",
+                "content creator": "Blaire White",
+                "date": "Apr 7, 2020",
+                "description": "Reacting to videos of trans people who HATE me :X\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite\n\u25cf TikTok: @imblairewhite\n\u25cf NEW! Merch: ",
+                "dislikes": " Unavailable",
+                "id": "4jl6tK0gU28",
+                "likes": "78,563 likes",
+                "title": "Reacting To Trans People Who HATE Me!",
+                "url": "https://www.youtube.com/watch?v=4jl6tK0gU28",
+                "video_length": 731.721,
+                "views": "1,213,341 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=RsiqmDEWAtI",
+              "title": "Comedian Reacts to Crazy Woke TikToks",
+              "video": {
+                "ad": null,
+                "comments": "4,260",
+                "content creator": "Isaac Butterfield",
+                "date": "Sep 13, 2021",
+                "description": "Isaac Butterfield is a Comedian from the great land of Australia, For Exclusive Extra Content Join Buttsmarn Premium -https://www.isaacbutterfield.shop/but...",
+                "dislikes": " Unavailable",
+                "id": "RsiqmDEWAtI",
+                "likes": "37,240 likes",
+                "title": "Comedian Reacts to Crazy Woke TikToks",
+                "url": "https://www.youtube.com/watch?v=RsiqmDEWAtI",
+                "video_length": 798,
+                "views": "698,356 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=83ysf_GO2aw",
+              "title": "Joe Rogan Experience #1407 - Michael Malice",
+              "video": {
+                "ad": null,
+                "comments": "12,670",
+                "content creator": "PowerfulJRE",
+                "date": "Jan 7, 2020",
+                "description": "Michael Malice is an author and also hosts a podcast called \u201cYour Welcome with Michael Malice\u201d available on the GaS Digital Network. His new book called  \u201cThe New Right\u201d is available now.",
+                "dislikes": " Unavailable",
+                "id": "83ysf_GO2aw",
+                "likes": "63,287 likes",
+                "title": "Joe Rogan Experience #1407 - Michael Malice",
+                "url": "https://www.youtube.com/watch?v=83ysf_GO2aw",
+                "video_length": 9920.141,
+                "views": "6,356,905 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=Ta40ZPTIAlA",
+          "title": "\"Date Me Or You're Transphobic!\" - Trans Activist",
+          "video": {
+            "ad": null,
+            "comments": "10,255",
+            "content creator": "Blaire White",
+            "date": "Jul 15, 2020",
+            "description": "Reacting to people who think that those without a preference for trans people are inherently transphobic.\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite",
+            "dislikes": " Unavailable",
+            "id": "Ta40ZPTIAlA",
+            "likes": "62,718 likes",
+            "title": "\"Date Me Or You're Transphobic!\" - Trans Activist",
+            "url": "https://www.youtube.com/watch?v=Ta40ZPTIAlA",
+            "video_length": 626.361,
+            "views": "943,874 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KTybcHbX3ks&list=RDCMUCDmCBKaKOtOrEqgsL4-3C8Q&start_radio=1&rv=KTybcHbX3ks",
+          "title": "Demi Lovato: Trans or Trend Hopper?",
+          "video": {
+            "ad": null,
+            "comments": "5,302",
+            "content creator": "Blaire White",
+            "date": "Premiered Oct 5, 2021",
+            "description": "Demi Lovato has come out as non-binary and is now one of the most famous trans activists- but is it genuine or another celebrity stunt for attention?\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite",
+            "dislikes": " Unavailable",
+            "id": "KTybcHbX3ks&list",
+            "likes": "30,856 likes",
+            "title": "Demi Lovato: Trans or Trend Hopper?",
+            "url": "https://www.youtube.com/watch?v=KTybcHbX3ks&list=RDCMUCDmCBKaKOtOrEqgsL4-3C8Q&start_radio=1&rv=KTybcHbX3ks",
+            "video_length": 740.621,
+            "views": "466,280 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JDW53q0-0PM",
+          "title": "Exposing Trans Predator: Alok Vaid-Menon",
+          "video": {
+            "ad": null,
+            "comments": "4,995",
+            "content creator": "Blaire White",
+            "date": "Premiered Jul 14, 2021",
+            "description": "Today we're diving into past predatory posts from famous trans activist Alok Vaid Menon. I don't know how I missed this before..\n-Use code BLAIRE to get 30% off your first month at Scentbird https://sbird.co/3xsH2WX",
+            "dislikes": " Unavailable",
+            "id": "JDW53q0-0PM",
+            "likes": "34,123 likes",
+            "title": "Exposing Trans Predator: Alok Vaid-Menon",
+            "url": "https://www.youtube.com/watch?v=JDW53q0-0PM",
+            "video_length": 853.661,
+            "views": "455,382 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+          "title": "Well, I guess SOMEBODY had to read \u201cTrigger Warning\u201d",
+          "video": {
+            "ad": null,
+            "comments": "23,556",
+            "content creator": "Jenny Nicholson",
+            "date": "Jan 20, 2019",
+            "description": "The little story of a big man.\n\nClick the character you relate to the most:\n\nJake Rivers, a big man with an old soul - ",
+            "dislikes": " Unavailable",
+            "id": "qMgMr0JcYJ4",
+            "likes": "100,250 likes",
+            "title": "Well, I guess SOMEBODY had to read \u201cTrigger Warning\u201d",
+            "url": "https://www.youtube.com/watch?v=qMgMr0JcYJ4",
+            "video_length": 5318.961,
+            "views": "4,529,845 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+          "title": "Reacting to the MOST INSANE Woke Tik Toks (ft. Michael Malice)",
+          "video": {
+            "ad": null,
+            "comments": "4,711",
+            "content creator": "Blaire White",
+            "date": "Premiered Nov 16, 2021",
+            "description": "Today I needed to sit my friend Michael Malice down and show him the depths of WOKE TIK TOK. He will never be the same.\n\u25cf Check out FloraCBD and use code BLAIRE for 25% off!: https://bit.ly/3wSvSMe",
+            "dislikes": " Unavailable",
+            "id": "yvQ6ppE7tKo",
+            "likes": "30,862 likes",
+            "title": "Reacting to the MOST INSANE Woke Tik Toks (ft. Michael Malice)",
+            "url": "https://www.youtube.com/watch?v=yvQ6ppE7tKo",
+            "video_length": 1077.421,
+            "views": "503,914 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=w1vuhrFfEkE",
+      "title": "The White Savior Trope, Explained",
+      "video": {
+        "ad": null,
+        "comments": "7,133",
+        "content creator": "The Take",
+        "date": "Jul 1, 2020",
+        "description": "Why do so many stories about racism revolve around the White Savior? In 2020, as the Movement for Black Lives grew in the wake of the killings of George Floyd, Breonna Taylor, and others, The Help experienced a resurgence in popularity, becoming one of the most-streamed movies on Netflix. The 2011 film about a white woman confronting racism may be well-intentioned, but\u2014like Green Book, The Blind Side, and other White Savior movies before it\u2014The Help centers its story on benevolent white characters, rather than on firsthand black perspectives. How did this trope become so persistent? Here\u2019s our Take on the dangers of the White Savior, and how we can change our own narratives and conversations to become more anti-racist ourselves. If you like this video, subscribe to our channel or support us on Patreon: ",
+        "dislikes": " Unavailable",
+        "id": "w1vuhrFfEkE",
+        "likes": "53,531 likes",
+        "title": "The White Savior Trope, Explained",
+        "url": "https://www.youtube.com/watch?v=w1vuhrFfEkE",
+        "video_length": 1270,
+        "views": "943,760 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7ly9xWo4al8",
+      "title": "Reacting To CRINGEY TRANS TIK TOKS",
+      "video": {
+        "ad": null,
+        "comments": "9,368",
+        "content creator": "Blaire Black",
+        "date": "Mar 17, 2020",
+        "description": "\u2022 Follow me on TikTok!: @imblairewhite\n\u2022 My Main Channel: https://www.youtube.com/blairewhitex\n\u2022 Twitter & Insta: @msblairewhite\n\u2022 MERCH: ",
+        "dislikes": " Unavailable",
+        "id": "7ly9xWo4al8",
+        "likes": "53,323 likes",
+        "title": "Reacting To CRINGEY TRANS TIK TOKS",
+        "url": "https://www.youtube.com/watch?v=7ly9xWo4al8",
+        "video_length": 772,
+        "views": "867,216 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FYL3pQI76hM",
+      "title": "The Rise of the NeoPronoun Trans (they/them, bunny/bunnyself, ze/zir)",
+      "video": {
+        "ad": null,
+        "comments": "7,767",
+        "content creator": "Blaire White",
+        "date": "Premiered Apr 23, 2021",
+        "description": "Today we're talking about those within the trans community who use and fight for the normalization of NEOPRONOUNS, which are alternatives to male and female pronouns.\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite",
+        "dislikes": " Unavailable",
+        "id": "FYL3pQI76hM",
+        "likes": "26,869 likes",
+        "title": "The Rise of the NeoPronoun Trans (they/them, bunny/bunnyself, ze/zir)",
+        "url": "https://www.youtube.com/watch?v=FYL3pQI76hM",
+        "video_length": 684.601,
+        "views": "375,373 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=-SeCD8tJUhU",
+      "title": "Heated Debate w/ Genderqueer Feminist",
+      "video": {
+        "ad": null,
+        "comments": "16,881",
+        "content creator": "Blaire White",
+        "date": "Streamed live on Apr 19, 2017",
+        "description": "\u26ab Twitter: https://twitter.com/MsBlaireWhite\n\u26ab Patreon (new): https://www.patreon.com/blairewhite\n\u26ab Instagram: http://instagram.com/msblairewhite",
+        "dislikes": " Unavailable",
+        "id": "-SeCD8tJUhU",
+        "likes": "33,997 likes",
+        "title": "Heated Debate w/ Genderqueer Feminist",
+        "url": "https://www.youtube.com/watch?v=-SeCD8tJUhU",
+        "video_length": 5684.621,
+        "views": "1,497,882 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=KTybcHbX3ks",
+      "title": "Demi Lovato: Trans or Trend Hopper?",
+      "video": {
+        "ad": null,
+        "comments": "5,302",
+        "content creator": "Blaire White",
+        "date": "Premiered Oct 5, 2021",
+        "description": "Demi Lovato has come out as non-binary and is now one of the most famous trans activists- but is it genuine or another celebrity stunt for attention?\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite",
+        "dislikes": " Unavailable",
+        "id": "KTybcHbX3ks",
+        "likes": "30,856 likes",
+        "title": "Demi Lovato: Trans or Trend Hopper?",
+        "url": "https://www.youtube.com/watch?v=KTybcHbX3ks",
+        "video_length": 740.621,
+        "views": "466,274 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=70wdkfGJNpE",
+  "title": "The Woke White Saviors of TikTok",
+  "video": {
+    "ad": null,
+    "comments": "5,229",
+    "content creator": "Blaire White",
+    "date": "Premiered Jun 8, 2021",
+    "description": "Today we're reacting to & discussing the new phenomenon known as the Woke White Saviors- white people so can't help but post cringe as they try to save all the minorities.\n\u25cf MY NEW PODCAST!!: https://www.patreon.com/blairewhite",
+    "dislikes": " Unavailable",
+    "id": "70wdkfGJNpE",
+    "likes": "33,482 likes",
+    "title": "The Woke White Saviors of TikTok",
+    "url": "https://www.youtube.com/watch?v=70wdkfGJNpE",
+    "video_length": 756,
+    "views": "477,787 views"
+  }
+}

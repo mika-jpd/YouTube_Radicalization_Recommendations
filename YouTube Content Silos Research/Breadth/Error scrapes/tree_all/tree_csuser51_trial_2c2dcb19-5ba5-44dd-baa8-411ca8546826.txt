@@ -1,0 +1,597 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "id": "https://www.youtube.com/watch?v=gzALIXcY4pg",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=ewLpXw6uN28&list=RDCMUCNIuvl7V8zACPpTmmNIqP2A&start_radio=1&rv=ewLpXw6uN28",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=zqllxbPWKNI",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+                              "title": null,
+                              "video": null
+                            },
+                            {
+                              "id": "https://www.youtube.com/watch?v=Q_qA89dmGco",
+                              "title": null,
+                              "video": null
+                            }
+                          ],
+                          "id": "https://www.youtube.com/watch?v=-k-ztNsBM54",
+                          "title": "Dan Carlin: Hardcore History | Lex Fridman Podcast #136",
+                          "video": {
+                            "ad": null,
+                            "comments": "4,811",
+                            "content creator": "Lex Fridman",
+                            "date": "Nov 2, 2020",
+                            "description": "Dan Carlin is a historian, political thinker, and podcaster. Please support this podcast by checking out our sponsors:\n- Athletic Greens: https://athleticgreens.com/lex and use code LEX to get free vitamin D\n- SimpliSafe: ",
+                            "dislikes": " Unavailable",
+                            "id": "-k-ztNsBM54",
+                            "likes": "40,765 likes",
+                            "title": "Dan Carlin: Hardcore History | Lex Fridman Podcast #136",
+                            "url": "https://www.youtube.com/watch?v=-k-ztNsBM54",
+                            "video_length": 12085.081,
+                            "views": "3,120,395 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=6JipQNWuYnA",
+                          "title": "Alexander Fridman: My Dad, the Plasma Physicist | Lex Fridman Podcast #100",
+                          "video": {
+                            "ad": null,
+                            "comments": "5,428",
+                            "content creator": "Lex Fridman",
+                            "date": "Jun 3, 2020",
+                            "description": "Alexander Fridman is a professor at Drexel University and the director of the Nyheim Plasma Institute. He is one of the top plasma physicists and plasma chemists in the world. And most importantly to me, he is my dad.\n\nSupport this podcast by supporting our sponsors:\n- The Jordan Harbinger Show: ",
+                            "dislikes": " Unavailable",
+                            "id": "6JipQNWuYnA",
+                            "likes": "51,679 likes",
+                            "title": "Alexander Fridman: My Dad, the Plasma Physicist | Lex Fridman Podcast #100",
+                            "url": "https://www.youtube.com/watch?v=6JipQNWuYnA",
+                            "video_length": 13113.121,
+                            "views": "2,665,660 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=WXuK6gekU1Y",
+                          "title": "AlphaGo - The Movie | Full award-winning documentary",
+                          "video": {
+                            "ad": null,
+                            "comments": "19,392",
+                            "content creator": "DeepMind",
+                            "date": "Mar 13, 2020",
+                            "description": "With more board configurations than there are atoms in the universe, the ancient Chinese game of Go has long been considered a grand challenge for artificial intelligence. \n\nOn March 9, 2016, the worlds of Go and artificial intelligence collided in South Korea for an extraordinary best-of-five-game competition, coined The DeepMind Challenge Match. Hundreds of millions of people around the world watched as a legendary Go master took on an unproven AI challenger for the first time in history.\n\nDirected by Greg Kohs and with an original score by Academy Award nominee Hauschka, AlphaGo had its premiere at the Tribeca Film Festival. It has since gone on to win countless awards and near universal praise for a story that chronicles a journey from the halls of Oxford, through the backstreets of Bordeaux, past the coding terminals of DeepMind in London, and ultimately, to the seven-day tournament in Seoul. As the drama unfolds, more questions emerge: What can artificial intelligence reveal about a 3000-year-old game? What can it teach us about humanity?\n\nFind out more: ",
+                            "dislikes": " Unavailable",
+                            "id": "WXuK6gekU1Y",
+                            "likes": "213,667 likes",
+                            "title": "AlphaGo - The Movie | Full award-winning documentary",
+                            "url": "https://www.youtube.com/watch?v=WXuK6gekU1Y",
+                            "video_length": 5427.801,
+                            "views": "30,105,594 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=lNlR3lfnLR8",
+                          "title": "Former Mafia Captain Michael Franzese | Hotboxin' with Mike Tyson",
+                          "video": {
+                            "ad": null,
+                            "comments": "16,872",
+                            "content creator": "Mike Tyson",
+                            "date": "Premiered Apr 2, 2020",
+                            "description": "Never call a Made Man a liar at a sit down, never gamble with money you don't have, and NEVER, EVER open Al Capone's Vault. \n\nBuy Official Hotboxin' Gear: ",
+                            "dislikes": " Unavailable",
+                            "id": "lNlR3lfnLR8",
+                            "likes": "138,284 likes",
+                            "title": "Former Mafia Captain Michael Franzese | Hotboxin' with Mike Tyson",
+                            "url": "https://www.youtube.com/watch?v=lNlR3lfnLR8",
+                            "video_length": 5592.741,
+                            "views": "10,930,522 views"
+                          }
+                        },
+                        {
+                          "id": "https://www.youtube.com/watch?v=ewLpXw6uN28",
+                          "title": "Henry VIII - OverSimplified",
+                          "video": {
+                            "ad": null,
+                            "comments": "37,438",
+                            "content creator": "OverSimplified",
+                            "date": "Premiered May 4, 2020",
+                            "description": "Get the best deals while shopping online \u25b8 http://joinhoney.com/oversimplified\nHoney is FREE and finds coupons with the click of a button. Thanks Honey for sponsoring!\n\nFor every OverSimplified face mask you purchase, Crowdmade will donate a mask to a medical worker for a limited time:",
+                            "dislikes": " Unavailable",
+                            "id": "ewLpXw6uN28",
+                            "likes": "518,522 likes",
+                            "title": "Henry VIII - OverSimplified",
+                            "url": "https://www.youtube.com/watch?v=ewLpXw6uN28",
+                            "video_length": 1606.101,
+                            "views": "24,414,189 views"
+                          }
+                        }
+                      ],
+                      "id": "https://www.youtube.com/watch?v=4qlb5jVX6cI",
+                      "title": "The Cold War Beneath The Waves | Submarines In Enemy Depths | Timeline",
+                      "video": {
+                        "ad": null,
+                        "comments": "659",
+                        "content creator": "Timeline - World History Documentaries",
+                        "date": "Nov 2, 2021",
+                        "description": "The Cold War was a deadly game in the depths of the oceans. More than 20 collisions between American and Soviet submarines are only the tip of the iceberg as far as these secret operations are concerned. The underwater interface was perhaps the most merciless frontier between East and West. This documentary reveals previously unknown information from the military apparatus of both sides, and shows that submarines continue to be an important weapon in the espionage war even today.\n\n\n\n\ud83d\udcfa It's like Netflix for history... Sign up to History Hit, the world's best history documentary service and get 50% off using the code 'TIMELINE' ",
+                        "dislikes": " Unavailable",
+                        "id": "4qlb5jVX6cI",
+                        "likes": "7,659 likes",
+                        "title": "The Cold War Beneath The Waves | Submarines In Enemy Depths | Timeline",
+                        "url": "https://www.youtube.com/watch?v=4qlb5jVX6cI",
+                        "video_length": 3150.581,
+                        "views": "591,978 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=iy2ToEiXeHU&list=RDCMUC0woBco6Dgcxt0h8SwyyOmw&start_radio=1&rv=iy2ToEiXeHU",
+                      "title": "The Lockheed S-3 Viking: America's Submarine Hunting Plane",
+                      "video": {
+                        "ad": null,
+                        "comments": "362",
+                        "content creator": "Megaprojects",
+                        "date": "Jan 10, 2022",
+                        "description": "Get Surfshark VPN at https://Surfshark.deals/mega - Enter promo code MEGA for 83% off and 3 extra months for free!  \n\n\nGot a beard? Good. I've got something for you: ",
+                        "dislikes": " Unavailable",
+                        "id": "iy2ToEiXeHU&list",
+                        "likes": "5,910 likes",
+                        "title": "The Lockheed S-3 Viking: America's Submarine Hunting Plane",
+                        "url": "https://www.youtube.com/watch?v=iy2ToEiXeHU&list=RDCMUC0woBco6Dgcxt0h8SwyyOmw&start_radio=1&rv=iy2ToEiXeHU",
+                        "video_length": 964.821,
+                        "views": "87,663 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+                      "title": "Disney's FastPass: A Complicated History",
+                      "video": {
+                        "ad": null,
+                        "comments": "16,248",
+                        "content creator": "Defunctland",
+                        "date": "Nov 21, 2021",
+                        "description": "Pre-order Shapeland merch today and help support the channel: https://defunctland.myshopify.com/",
+                        "dislikes": " Unavailable",
+                        "id": "9yjZpBq1XBE",
+                        "likes": "219,813 likes",
+                        "title": "Disney's FastPass: A Complicated History",
+                        "url": "https://www.youtube.com/watch?v=9yjZpBq1XBE",
+                        "video_length": 6179.141,
+                        "views": "5,541,480 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=kd2KEHvK-q8",
+                      "title": "The Vanishing of Flight 370",
+                      "video": {
+                        "ad": null,
+                        "comments": "48,050",
+                        "content creator": "LEMMiNO",
+                        "date": "Apr 14, 2019",
+                        "description": "[Credits, References, and More]\nhttps://www.lemmi.no/p/the-vanishing-...",
+                        "dislikes": " Unavailable",
+                        "id": "kd2KEHvK-q8",
+                        "likes": "497,164 likes",
+                        "title": "The Vanishing of Flight 370",
+                        "url": "https://www.youtube.com/watch?v=kd2KEHvK-q8",
+                        "video_length": 1493.881,
+                        "views": "19,082,044 views"
+                      }
+                    },
+                    {
+                      "id": "https://www.youtube.com/watch?v=Udh22kuLebg",
+                      "title": "Roger Reaves: Smuggling Drugs for Pablo Escobar and the Medellin Cartel | Lex Fridman Podcast #199",
+                      "video": {
+                        "ad": null,
+                        "comments": "3,433",
+                        "content creator": "Lex Fridman",
+                        "date": "Jul 11, 2021",
+                        "description": "Roger Reaves is one of the most prolific drug smugglers in history. Please support this podcast by checking out our sponsors:\n- Noom: https://trynoom.com/lex",
+                        "dislikes": " Unavailable",
+                        "id": "Udh22kuLebg",
+                        "likes": "24,861 likes",
+                        "title": "Roger Reaves: Smuggling Drugs for Pablo Escobar and the Medellin Cartel | Lex Fridman Podcast #199",
+                        "url": "https://www.youtube.com/watch?v=Udh22kuLebg",
+                        "video_length": 7787.861,
+                        "views": "1,093,882 views"
+                      }
+                    }
+                  ],
+                  "id": "https://www.youtube.com/watch?v=QtFybK9n1EM",
+                  "title": "Psychiatrist Breaks Down Psychopaths From Movies & TV, Part 2 | GQ",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,108",
+                    "content creator": "GQ",
+                    "date": "Nov 11, 2021",
+                    "description": "Forensic psychiatrist Eric Bender is back to break down more psychopaths from movies and TV, including 'The Dark Knight,' 'The Godfather,' 'A Clockwork Orange,' 'Wall Street,' ''No Country For Old Men,' 'Basic Instinct' and 'Ozark.'",
+                    "dislikes": " Unavailable",
+                    "id": "QtFybK9n1EM",
+                    "likes": "27,530 likes",
+                    "title": "Psychiatrist Breaks Down Psychopaths From Movies & TV, Part 2 | GQ",
+                    "url": "https://www.youtube.com/watch?v=QtFybK9n1EM",
+                    "video_length": 1445.181,
+                    "views": "944,106 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=ZKAWtNW-Xfk",
+                  "title": "Psychiatrist Breaks Down Psychopaths From Movies & TV | GQ",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,439",
+                    "content creator": "GQ",
+                    "date": "Oct 28, 2021",
+                    "description": "Forensic psychiatrist Eric Bender breaks down psychopaths from movies and TV, including 'American Psycho,' 'Star Wars Ep III: Revenge of the Sith,' 'Silence of the Lambs,' 'You,' 'Blue Velvet' and 'Misery.' ",
+                    "dislikes": " Unavailable",
+                    "id": "ZKAWtNW-Xfk",
+                    "likes": "41,917 likes",
+                    "title": "Psychiatrist Breaks Down Psychopaths From Movies & TV | GQ",
+                    "url": "https://www.youtube.com/watch?v=ZKAWtNW-Xfk",
+                    "video_length": 1349.541,
+                    "views": "1,358,818 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=BVITuSz390M&pp=sAQB",
+                  "title": "The Dark Knight",
+                  "video": {
+                    "ad": null,
+                    "comments": "Error found",
+                    "content creator": "YouTube Movies & Shows",
+                    "date": "May 1, 2021",
+                    "description": "Christian Bale and director Christopher Nolan reunite following their blockbuster success with Batman Begins! This time, Heath Ledger joins the cast as The Joker, and Aaron Eckhart stars as Harvey Dent in an all-new adventure of The Dark Knight. With the help of Lieutenant Jim Gordon (Gary Oldman) and new district attorney Harvey Dent (Eckhart--Thank You for Smoking), Batman sets out to destroy organized crime in Gotham City forever. The three enjoy early success, but they soon find themselves prey to a rising criminal mastermind known as The Joker (Ledger--Brokeback Mountain), who throws Gotham into anarchy and forces Batman ever closer to crossing the line between hero and vigilante.",
+                    "dislikes": " Unavailable",
+                    "id": "BVITuSz390M&pp",
+                    "likes": "88 likes",
+                    "title": "The Dark Knight",
+                    "url": "https://www.youtube.com/watch?v=BVITuSz390M&pp=sAQB",
+                    "video_length": 9129,
+                    "views": "Error found"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=CIWKjBMYfBw",
+                  "title": "Linoleum flooring is cool, actually",
+                  "video": {
+                    "ad": null,
+                    "comments": "1,033",
+                    "content creator": "Vox",
+                    "date": "Jan 6, 2022",
+                    "description": "Everything HGTV told you about linoleum is wrong. \n\nSubscribe to our channel and turn on notifications (\ud83d\udd14) so you don't miss any videos: ",
+                    "dislikes": " Unavailable",
+                    "id": "CIWKjBMYfBw",
+                    "likes": "36,255 likes",
+                    "title": "Linoleum flooring is cool, actually",
+                    "url": "https://www.youtube.com/watch?v=CIWKjBMYfBw",
+                    "video_length": 404.601,
+                    "views": "910,389 views"
+                  }
+                },
+                {
+                  "id": "https://www.youtube.com/watch?v=iy2ToEiXeHU",
+                  "title": "The Lockheed S-3 Viking: America's Submarine Hunting Plane",
+                  "video": {
+                    "ad": null,
+                    "comments": "362",
+                    "content creator": "Megaprojects",
+                    "date": "Jan 10, 2022",
+                    "description": "Get Surfshark VPN at https://Surfshark.deals/mega - Enter promo code MEGA for 83% off and 3 extra months for free!  \n\n\nGot a beard? Good. I've got something for you: ",
+                    "dislikes": " Unavailable",
+                    "id": "iy2ToEiXeHU",
+                    "likes": "5,908 likes",
+                    "title": "The Lockheed S-3 Viking: America's Submarine Hunting Plane",
+                    "url": "https://www.youtube.com/watch?v=iy2ToEiXeHU",
+                    "video_length": 964.821,
+                    "views": "87,534 views"
+                  }
+                }
+              ],
+              "id": "https://www.youtube.com/watch?v=DgQIOLBx3fs",
+              "title": "Pro Pool Player Breaks Down Pool Scenes from Movies & TV | GQ",
+              "video": {
+                "ad": null,
+                "comments": "2,011",
+                "content creator": "GQ",
+                "date": "Dec 23, 2020",
+                "description": "Professional pool player Tony Robles breaks down pool scene from movies and TV, including 'Boardwalk Empire,' 'Seinfeld,' 'The Color of Money,' 'The Hustler,' 'The Doll,' 'Mystic Pizza,' 'Bedazzled' and 'Poolhall Junkies.' \n\nOfficial Website: TonyRobles.com\nTony on Social:\nTwitter: @TonyRoblesNYC\nInstagram: ",
+                "dislikes": " Unavailable",
+                "id": "DgQIOLBx3fs",
+                "likes": "36,063 likes",
+                "title": "Pro Pool Player Breaks Down Pool Scenes from Movies & TV | GQ",
+                "url": "https://www.youtube.com/watch?v=DgQIOLBx3fs",
+                "video_length": 1825.441,
+                "views": "2,040,679 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=lEvFvi9QO3Q",
+              "title": "The Casino Chip Forgers Who Scammed Vegas For Millions | Cheating Vegas S1 EP3 | Wonder",
+              "video": {
+                "ad": null,
+                "comments": "3,909",
+                "content creator": "Wonder",
+                "date": "Feb 4, 2020",
+                "description": "Two men create fantastically fake poker chips, a cheat and his cronies manipulate payouts by reprogramming slot machines and a thief on a motorcycle robs the Bellagio at gunpoint snatching $1.5 million in chips.\n\nSubscribe to WONDER to watch more documentaries: ",
+                "dislikes": " Unavailable",
+                "id": "lEvFvi9QO3Q",
+                "likes": "33,048 likes",
+                "title": "The Casino Chip Forgers Who Scammed Vegas For Millions | Cheating Vegas S1 EP3 | Wonder",
+                "url": "https://www.youtube.com/watch?v=lEvFvi9QO3Q",
+                "video_length": 2863.621,
+                "views": "5,321,405 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=3eDnKct5XAw",
+              "title": "Money-Laundering Expert Rates 8 Money-Laundering Scams In Movies and TV | How Real Is It?",
+              "video": {
+                "ad": null,
+                "comments": "4,797",
+                "content creator": "Insider",
+                "date": "Jun 8, 2021",
+                "description": "Retired FBI investigator Jerri Williams looks at eight money-laundering scams from popular TV shows and movies and rates them based on realism. \n\nShe looks at \"Ozark\" S1E4 (2017), \"The Wolf of Wall Street\" (2013), \"Narcos\" (2015-2017), \"Breaking Bad\" S5E8 (2012), \"Scarface\" (1983), \"Mickey Blue Eyes\" (1999), \"American Made\" (2017), and \"The Girl With the Dragon Tattoo\" (2011). In the video, Williams analyzes scenes where money is being laundered through businesses. Another form of money laundering is simply spending more than $10,000 of illegally-obtained funds. \n\nWilliams served as an FBI special agent for 26 years, working on major economic fraud investigations. She is the recipient of four United States Attorney Awards for Distinguished Service. She now hosts the true-crime podcast \"FBI Retired Case File Review\" and works as a technical consultant for TV shows and movies depicting the FBI. \n\nWilliams is the author of \"FBI Myths and Misconceptions: A Manual for Armchair Detectives\": ",
+                "dislikes": " Unavailable",
+                "id": "3eDnKct5XAw",
+                "likes": "89,565 likes",
+                "title": "Money-Laundering Expert Rates 8 Money-Laundering Scams In Movies and TV | How Real Is It?",
+                "url": "https://www.youtube.com/watch?v=3eDnKct5XAw",
+                "video_length": 1011.221,
+                "views": "3,652,729 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+              "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+              "video": {
+                "ad": null,
+                "comments": "4,394",
+                "content creator": "Vanity Fair",
+                "date": "Sep 30, 2021",
+                "description": "Casino game protection expert Sal Piacente reviews notorious card counting and casino game cheating scenes from films including 'Rain Man,' 'Rounders,' 'The Sting,' 'Austin Powers,' 'Casino,' 'Ocean's Thirteen,' 'The Cooler,' 'Runner Runner,' 'Now You See Me 2,' 'Shade' and '21.'\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+                "dislikes": " Unavailable",
+                "id": "ki4Fbctwnjs",
+                "likes": "180,697 likes",
+                "title": "Casino Cheating Expert Reviews Card Counting and Casino Scams From Movies | Vanity Fair",
+                "url": "https://www.youtube.com/watch?v=ki4Fbctwnjs",
+                "video_length": 1404.421,
+                "views": "7,712,555 views"
+              }
+            },
+            {
+              "id": "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+              "title": "Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",
+              "video": {
+                "ad": null,
+                "comments": "19,279",
+                "content creator": "Vanity Fair",
+                "date": "Mar 24, 2020",
+                "description": "Retired astronaut and engineer Chris Hadfield fact checks notable space movies using his NASA experience and vast knowledge of outer space, including \u2019Gravity,\u2019 \u2018Passengers,\u2019 \u2018Armageddon,\u2019 \u2018The Martian,\u2019 \u2018Interstellar,\u2019 \u2018First Man,\u2019 \u2018Hidden Figures,\u2019 \u2018Ad Astra,\u2019 \u20182001: A Space Odyssey,\u2019 'Sunshine' and \u2018WALL-E.\u2019\n\nChris Hadfield's New York Times bestseller 'An Astronaut's Guide To Life On Earth' has been translated into 25 different languages. Visit chrishadfield.ca for more information.\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+                "dislikes": " Unavailable",
+                "id": "3RkhZgRNC1k",
+                "likes": "320,824 likes",
+                "title": "Astronaut Chris Hadfield Reviews Space Movies, from 'Gravity' to 'Interstellar' | Vanity Fair",
+                "url": "https://www.youtube.com/watch?v=3RkhZgRNC1k",
+                "video_length": 2156.941,
+                "views": "10,424,876 views"
+              }
+            }
+          ],
+          "id": "https://www.youtube.com/watch?v=HB0CZ_5sPPw",
+          "title": "Special Ops Sniper Rates 11 Sniper Scenes In Movies | How Real Is It?",
+          "video": {
+            "ad": null,
+            "comments": "32,381",
+            "content creator": "Insider",
+            "date": "Aug 11, 2020",
+            "description": "Nicholas Irving, author, and former soldier rates 11 sniper scenes for realism in movies. Known as \"The Reaper,\" Irving says he killed 33 enemies as a sniper for the US 3rd Ranger Battalion. He is the co-author of \"Reaper: Drone Strike: A Sniper Novel.\"\n\nIrving rates the realism of classic war movies such as \"Clear and Present Danger\" (1994), \"Enemy at the Gates\" (2001), and \"Saving Private Ryan\" (1998). He breaks down long-range-sniping scenes featuring Will Smith in \"Gemini Man\" (2019) and Mark Wahlberg in \"Shooter\" (2007). \nHe also looks at modern-day war movies set in Iraq and Afghanistan, such as \"American Sniper\" (2014), \"Jarhead\" (2005), \"Lone Survivor\" (2013), and \"The Hurt Locker\" (2009). Irving rates the realism of the weapons used, along with body position, stealth, and environment. \n\nMORE HOW REAL IS IT VIDEOS:\nForensic Pathologist Rates 11 Autopsy Scenes In Movies | How Real Is It?",
+            "dislikes": " Unavailable",
+            "id": "HB0CZ_5sPPw",
+            "likes": "589,664 likes",
+            "title": "Special Ops Sniper Rates 11 Sniper Scenes In Movies | How Real Is It?",
+            "url": "https://www.youtube.com/watch?v=HB0CZ_5sPPw",
+            "video_length": 1334.861,
+            "views": "31,849,175 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=89oJojtDVJk",
+          "title": "Master Pickpocket Breaks Down 12 Pickpocketing Tricks In Movies | How Real Is It?",
+          "video": {
+            "ad": null,
+            "comments": "3,839",
+            "content creator": "Insider",
+            "date": "Jun 15, 2021",
+            "description": "Professional pickpocket Lee Thompson looks at 12 pickpocketing scenes from popular TV shows and movies and rates them based on realism. \nHe looks at \"Birds of Prey\" (2020), \"The Take\" (2016), \"Ocean's Eleven\" (2001), \"Now You See Me\" (2013), \"Killing Eve\" (2018), \"Gangs of New York\" (2002), \"Pickpocket\" (1959), \"Pickpockets\" (2018), \"Focus\" (2015), \"The Adventures of Tintin\" (2011), and \"Sleight\" (2016).\n\nThompson is a professional pickpocket magician and a member of the Inner Magic Circle with gold-star status. He's taken part in Mugler Follies shows in Paris and toured for 18 months, performing 1,700 shows, with Cirque Du Soleil Kooz\u00e5. He's performed live on ITV's \"Good Morning Britain\" and BBC's \"The One Show,\" and he was a consultant pickpocket magician for \"Holmes and Watson\" (2018). Thompson has worked with the UK police and Revenue and Customs in public-awareness campaigns about pickpocketing.\n\nMORE HOW REAL IS IT?\nSpecial Ops Sniper Rates 11 Sniper Scenes In Movies | How Real Is It?",
+            "dislikes": " Unavailable",
+            "id": "89oJojtDVJk",
+            "likes": "107,738 likes",
+            "title": "Master Pickpocket Breaks Down 12 Pickpocketing Tricks In Movies | How Real Is It?",
+            "url": "https://www.youtube.com/watch?v=89oJojtDVJk",
+            "video_length": 987.461,
+            "views": "7,571,571 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CtWqv0Z3ErM",
+          "title": "Former Jewel Thief Reviews Famous Heist Movies, From \u2018Ocean\u2019s Eleven\u2019 to \u2018Heat\u2019",
+          "video": {
+            "ad": null,
+            "comments": "9,915",
+            "content creator": "Vanity Fair",
+            "date": "Nov 7, 2019",
+            "description": "Former jewel thief, Larry Lawton, reviews scenes from famous heist movies including 'Ocean's Eleven,' 'The Italian Job,' 'Heat,' 'Fast Times at Ridgemont High,' 'The Thomas Crown Affair,' 'Come Hell or High Water,' and 'Snatch' and analyzes their probability, craft, and execution.\n\nStill haven\u2019t subscribed to Vanity Fair on YouTube? \u25ba\u25ba ",
+            "dislikes": " Unavailable",
+            "id": "CtWqv0Z3ErM",
+            "likes": "244,263 likes",
+            "title": "Former Jewel Thief Reviews Famous Heist Movies, From \u2018Ocean\u2019s Eleven\u2019 to \u2018Heat\u2019",
+            "url": "https://www.youtube.com/watch?v=CtWqv0Z3ErM",
+            "video_length": 1188.021,
+            "views": "10,837,857 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AzGs26X86i4",
+          "title": "Former Art Thief And Detective Rate 9 Art Heists In Movies And TV | How Real Is It?",
+          "video": {
+            "ad": null,
+            "comments": "1,438",
+            "content creator": "Insider",
+            "date": "Sep 21, 2021",
+            "description": "Former burglar Octave \"Oky\" Durham and art detective Arthur Brand look at nine art-theft scenes from popular TV shows and movies and rate them based on realism. Octave Durham is no longer involved in criminal activity. Since he has reformed and spent time in prison, he works with detective Arthur Brand to solve international art and jewellery heists. \n\nThey look at \"The Thomas Crown Affair\" (1999), \"The Monuments Men\" (2014), \"The Art of the Steal\" (2013), \"Topkapi\" (1964), \"Ocean's Twelve\" (2004), \"Dr. No\" (1962), \"Black Panther\" (2018), \"Hudson Hawk\" (1991), and \"The Blacklist\" S2E14 (2015). \n\nCould anyone walk out of a gallery with a piece of art? How are gallery security guards trained? Is gallery CCTV actually monitored? Do thieves ever abseil in from the ceiling? And does Interpol actively chase down stolen paintings?\n\nFind out more about Arthur Brand: ",
+            "dislikes": " Unavailable",
+            "id": "AzGs26X86i4",
+            "likes": "42,305 likes",
+            "title": "Former Art Thief And Detective Rate 9 Art Heists In Movies And TV | How Real Is It?",
+            "url": "https://www.youtube.com/watch?v=AzGs26X86i4",
+            "video_length": 1125.241,
+            "views": "1,600,341 views"
+          }
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NNWEWFWtJ1Q",
+          "title": "Casino Boss Breaks Down Gambling Scenes from Movies | GQ",
+          "video": {
+            "ad": null,
+            "comments": "6,189",
+            "content creator": "GQ",
+            "date": "Nov 19, 2020",
+            "description": "Casino Operations Director Dustin Boshers breaks down gambling scenes from movies, including 'Casino Royale,' 'The Hangover,' 'Ocean's 13,' 'Casino,' '21,' 'Swingers,' 'Rounders' and 'Vegas Vacation.' \n\nFollow Dustin and Red Rock Casino on Social:\n@RedRockCasino @DustinBoshers \nWebsite: ",
+            "dislikes": " Unavailable",
+            "id": "NNWEWFWtJ1Q",
+            "likes": "109,025 likes",
+            "title": "Casino Boss Breaks Down Gambling Scenes from Movies | GQ",
+            "url": "https://www.youtube.com/watch?v=NNWEWFWtJ1Q",
+            "video_length": 1950.201,
+            "views": "6,521,296 views"
+          }
+        }
+      ],
+      "id": "https://www.youtube.com/watch?v=hYlb06pLBMc",
+      "title": "Inside Chaz, Seattle's police-free zone: 'We're proving the world can change'",
+      "video": {
+        "ad": null,
+        "comments": "Error found",
+        "content creator": "Guardian News",
+        "date": "Jun 16, 2020",
+        "description": "The Capitol Hill Autonomous Zone (otherwise known as Chaz or Chop) was established by George Floyd protestors after the Seattle Police Department vacated its East Precinct building on the site. Over the past week, organizers have created a community garden, painted murals, opened free co-op grocery stores \u2013 all in an effort to push the message of Black Lives Matter forward\nSubscribe to Guardian News on YouTube \u25ba ",
+        "dislikes": " Unavailable",
+        "id": "hYlb06pLBMc",
+        "likes": "3,166 likes",
+        "title": "Inside Chaz, Seattle's police-free zone: 'We're proving the world can change'",
+        "url": "https://www.youtube.com/watch?v=hYlb06pLBMc",
+        "video_length": 289.201,
+        "views": "553,918 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+      "title": "Response to Globebusters - The Earth Still Isn't Flat",
+      "video": {
+        "ad": null,
+        "comments": "114,100",
+        "content creator": "Professor Dave Explains",
+        "date": "May 22, 2019",
+        "description": "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel \"Globebusters\" decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth \"model\" is, as well as some of the finer points about the conspiracy. Enjoy!\n\nMy original video: ",
+        "dislikes": " Unavailable",
+        "id": "JDy95_eNPzM",
+        "likes": "230,262 likes",
+        "title": "Response to Globebusters - The Earth Still Isn't Flat",
+        "url": "https://www.youtube.com/watch?v=JDy95_eNPzM",
+        "video_length": 2713.401,
+        "views": "8,413,917 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=wp3wQhDpQG8",
+      "title": "How The Americans Outproduced Everyone Else In WW2 | War Factories | Timeline",
+      "video": {
+        "ad": null,
+        "comments": "6,614",
+        "content creator": "Timeline - World History Documentaries",
+        "date": "Jul 25, 2021",
+        "description": "How the Americans, once they were provoked into war, out-produced the rest of the world so quickly and by such a huge margin, including the likes of General Motors.\n\n\ud83d\udcfa It's like Netflix for history... Sign up to History Hit, the world's best history documentary service and get 50% off using the code 'TIMELINE' ",
+        "dislikes": " Unavailable",
+        "id": "wp3wQhDpQG8",
+        "likes": "38,270 likes",
+        "title": "How The Americans Outproduced Everyone Else In WW2 | War Factories | Timeline",
+        "url": "https://www.youtube.com/watch?v=wp3wQhDpQG8",
+        "video_length": 2595.981,
+        "views": "3,235,243 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=tsxmyL7TUJg",
+      "title": "The American Civil War - OverSimplified (Part 1)",
+      "video": {
+        "ad": null,
+        "comments": "51,114",
+        "content creator": "OverSimplified",
+        "date": "Premiered Jan 31, 2020",
+        "description": "Get 70% off NordVPN! Only $3.49/mo, plus you get an additional month FREE at: https://nordvpn.com/oversimplified or use a coupon code 'oversimplified' at the checkout.\n\nPART 2 HERE - ",
+        "dislikes": " Unavailable",
+        "id": "tsxmyL7TUJg",
+        "likes": "533,515 likes",
+        "title": "The American Civil War - OverSimplified (Part 1)",
+        "url": "https://www.youtube.com/watch?v=tsxmyL7TUJg",
+        "video_length": 1792.841,
+        "views": "36,490,024 views"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Fgvdl87lqc8",
+      "title": "Former Bank Robber Breaks Down 11 Bank Heists In Movies | How Real Is It?",
+      "video": {
+        "ad": null,
+        "comments": "10,742",
+        "content creator": "Insider",
+        "date": "Apr 27, 2021",
+        "description": "Former bank robber Cain Vincent Dyer looks at 11 bank-robbery scenes from popular TV shows and movies and rates them based on realism. \nDyer breaks down \"Heat\" (1995), \"The Place Beyond the Pines\" (2012), \"The Dark Knight\" (2008), \"Cherry\" (2021), \"Den of Thieves\" (2018), \"Dog Day Afternoon\" (1975), \"Baby Driver\" (2017), \"Out of Sight\" (1998), \"Money Heist\" (2017), \"The Town\" (2010), and \"Inside Man\" (2006).\n\nDyer served in the United States Marine Corps. He turned to bank robbery after threats to his family by a Mexican cartel. He was nicknamed the \"kangaroo bandit,\" having been captured on CCTV stuffing cash into a backpack worn on his chest. He says he robbed over 100 banks across California between 1999 and 2001. He eventually turned himself in and served nine years in prison after pleading guilty to six robberies. He now works as a life coach and motivational speaker, helping newly released prisoners reintegrate into society. He's also a partner in two production companies. \n\nAnyone who has been affected by violent crime can contact the National Center for Victims of Crime on 1 (202) 467-8700 or ",
+        "dislikes": " Unavailable",
+        "id": "Fgvdl87lqc8",
+        "likes": "180,951 likes",
+        "title": "Former Bank Robber Breaks Down 11 Bank Heists In Movies | How Real Is It?",
+        "url": "https://www.youtube.com/watch?v=Fgvdl87lqc8",
+        "video_length": 1197.301,
+        "views": "9,516,518 views"
+      }
+    }
+  ],
+  "id": "https://www.youtube.com/watch?v=XcV1AVNz8P8",
+  "title": "The CHAZ Funniest Home Videos",
+  "video": {
+    "ad": null,
+    "comments": "5,656",
+    "content creator": "Michael Knowles",
+    "date": "Jun 27, 2020",
+    "description": "LIKE & SUBSCRIBE for new videos everyday. http://bit.ly/2QA8RbN \n\nMichael takes a look back on the best moments from The Captial Hill Autonomous Zone. Post your favorite moment from CHAZ in the comment section! \n\nSpecial thanks and clips referenced: \nJohn Ward: Welcome to Chaz! ",
+    "dislikes": " Unavailable",
+    "id": "XcV1AVNz8P8",
+    "likes": "78,045 likes",
+    "title": "The CHAZ Funniest Home Videos",
+    "url": "https://www.youtube.com/watch?v=XcV1AVNz8P8",
+    "video_length": 330,
+    "views": "1,631,186 views"
+  }
+}
