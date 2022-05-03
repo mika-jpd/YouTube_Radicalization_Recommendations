@@ -32,16 +32,16 @@ For the chapter data, all the relevant data and graphs are in "\YouTube Content 
 3. We travers the recommendation space in three different ways to mimmick three different traversals.
 
 
-    i. *Breadth-First*:
+    i. *Breadth-First* ([code here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/YouTube%20Content%20Silos%20Research/Scripts/breadth_youtubescraper.py)):
     We begin by selecting a YouTube video from a curated list, then we explore the recommendation space in bread-first order with 3 leaves and a depth of 4. We pick the first three videos (regardless of their content), save their meta-data, and then proceeed to watch each of their recommended videos. The script takes a screenshot of the webpage after all videos at each *depth level* have been watched. 
     
     
-    ii. *Depth-First*:
+    ii. *Depth-First*([code here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/YouTube%20Content%20Silos%20Research/Scripts/depth_youtubescraper.py)):
     
     We begin by selecting a YouTube video from a curated list, then we explore the recommendation space in depth-first order. We will watch the first 5 recommended videos of the root video and then only the first video for the subsequent recommended videos for a tree depth of 6. We call going down the recommended space of a recommended video of the root video a dive. After each dive we take a screenshot of the homepage videos.
     
     
-    iii. *Common-cycle procedure*:
+    iii. *Common-cycle procedure*([code here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/YouTube%20Content%20Silos%20Research/Scripts/survey_youtubescraper.py)):
 
 For this scrape we surveyed 187 YouTube users and extracted common YouTube uses to create a scraper which mimicked trends.
 The algorithm will start by determining the user’s intentby using the following rule: 
