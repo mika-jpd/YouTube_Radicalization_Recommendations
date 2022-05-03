@@ -34,6 +34,7 @@ For the chapter data, all the relevant data and graphs are in "\YouTube Content 
 
     i. *Breadth-First* ([code here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/YouTube%20Content%20Silos%20Research/Scripts/breadth_youtubescraper.py)):
     We begin by selecting a YouTube video from a curated list, then we explore the recommendation space in bread-first order with 3 leaves and a depth of 4. We pick the first three videos (regardless of their content), save their meta-data, and then proceeed to watch each of their recommended videos. The script takes a screenshot of the webpage after all videos at each *depth level* have been watched. 
+    The webscraping done for the Comp 396: Undergraduate Research Project course followed a breadth-first expansion of the recommendation space.
     
     
     ii. *Depth-First* ([code here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/YouTube%20Content%20Silos%20Research/Scripts/depth_youtubescraper.py)):
