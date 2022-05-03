@@ -42,7 +42,8 @@ For the chapter data, all the relevant data and graphs are in "\YouTube Content 
     
     
     iii. *Common-cycle procedure*:
-    
+
+For this scrape we surveyed 187 YouTube users and extracted common YouTube uses to create a scraper which mimicked trends.
 The algorithm will start by determining the user’s intentby using the following rule: 
 * 80% of the time it will choose to start with an initial left-/right-wing seed from the curated list of videos to generate the root recommendations of interest, based on its initial bias.
 * 10 % of the time itwill choose a video from the first 25 videos automatically presented to it when it first logged in (called the homepage-videos).
@@ -51,3 +52,4 @@ The algorithm will start by determining the user’s intentby using the followin
 This will be repeated 6 times
 
 ## Findings
+For more details about our findings please refer to the (to-be published) book and data analysis notebook referred to above.
