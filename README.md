@@ -24,7 +24,7 @@ For the chapter data, all the relevant data and graphs are in "\YouTube Content 
 - the notebook with relevant analysis can be found in "YouTube Content Silos\Analysis of all experiments.ipynb"
 - the data for the different scrapes can be found in "YouTube Content Silos\[Depth, Breadth, Survey]" folders
 
-(*Note: As the Chapter content is propery of CRC Press Taylor & Francis Group, I am not able to include it in the repository. I will update the repo with a link for purchase once it is available for purchase.*)
+(*Note: As the Chapter content is propery of CRC Press Taylor & Francis Group, I am not able to include it in the repository.*)
 
 ## Data Collection
 1. We first start by logging in to one of the accounts we created for this purpose
@@ -53,4 +53,4 @@ The algorithm will start by determining the user’s intentby using the followin
 This will be repeated 6 times
 
 ## Findings
-For more details about our findings please refer to the (to-be published) book and data analysis notebook referred to above.
+For more details about our findings please refer to the book and data analysis notebook referred to above. The link to the chapter can be found [here](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003261247-6/analysis-impact-algorithms-siloing-users-special-focus-youtube-joseph-vybihal-mika-desblancs?context=ubx&refId=12c02a41-5e92-4e23-b30e-11c994b58944)
