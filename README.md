@@ -24,7 +24,7 @@ For the chapter data, all the relevant data and graphs are in "\YouTube Content 
 - the notebook with relevant analysis can be found in "YouTube Content Silos\Analysis of all experiments.ipynb"
 - the data for the different scrapes can be found in "YouTube Content Silos\[Depth, Breadth, Survey]" folders
 
-(*Note: As the Chapter content is propery of CRC Press Taylor & Francis Group, I am not able to include it in the repository.*)
+(*Note: As the Chapter content is propery of CRC Press Taylor & Francis Group, I am not able to include it in the repository. However, the scraping algorithms and data analysis conducted for the chapter are all in the folder, \YouTube Content Silos Research*)
 
 ## Data Collection
 1. We first start by logging in to one of the accounts we created for this purpose
