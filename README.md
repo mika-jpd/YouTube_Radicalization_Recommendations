@@ -50,7 +50,7 @@ The algorithm will start by determining the user’s intentby using the followin
     * 10 % of the time itwill choose a video from the first 25 videos automatically presented to it when it first logged in (called the homepage-videos).
     * 10% of the time it will scan the homepage-videos for an opposing point of view, choosing a random homepage video if no partisan video is found. The algorithm then performs a depth-first search of the recommendation space guided by the user’s intent for a ply depth of 2. 
 
-This will be repeated 6 times
+    This will be repeated 6 times
 
 ## Findings
 For more details about our findings please refer to the book and data analysis notebook referred to above. The link to the chapter can be found [here](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003261247-6/analysis-impact-algorithms-siloing-users-special-focus-youtube-joseph-vybihal-mika-desblancs?context=ubx&refId=12c02a41-5e92-4e23-b30e-11c994b58944)
