@@ -44,7 +44,7 @@ For the chapter data, all the relevant data and graphs are in "\YouTube Content 
     
     iii. *Common-cycle procedure* ([code here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/YouTube%20Content%20Silos%20Research/Scripts/survey_youtubescraper.py)):
 
-For this scrape we surveyed 187 YouTube users and extracted common YouTube uses to create a scraper which mimicked trends.
+    For this scrape we surveyed 187 YouTube users and extracted common YouTube uses to create a scraper which mimicked trends.
 The algorithm will start by determining the user’s intentby using the following rule: 
 * 80% of the time it will choose to start with an initial left-/right-wing seed from the curated list of videos to generate the root recommendations of interest, based on its initial bias.
 * 10 % of the time itwill choose a video from the first 25 videos automatically presented to it when it first logged in (called the homepage-videos).
