@@ -12,7 +12,7 @@ Welcome to the repo containing the work for both my individual research project 
 In the chapter, we present a software probing method to examine the behaviour of a recommendation system and present how our method can be used to analyze the YouTube recommendation system. We describe three ways of traversing the recommendation expansion and using a set of novel metrics we measure the level of siloing over the course of the different recommendation expansion traversals. We present our results and find that political siloing is present in YouTube, however the recommendation system is sensitive to selection change (intentional attempts to watch opposing political content cause quick changes in the videos recommended).
 
 ## Repository Organization
-For my Comp 396 project (Undergraduate Research Project Course): 
+For my Comp 396 project (Undergraduate Research Project Course, earned an A - the highest mark): 
 - the Final Report can be found in the "\Comp 396 Final Report.[pdf/docx]"([here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/Comp%20396%20Research%20Project/Comp%20396%20Final%20Report.pdf)),
 - the Jupyter notebook with data used in the report can be found at "Comp 396 Research Project\Tree Analysys of YouTube Scraper.ipynb" ([here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/Comp%20396%20Research%20Project/Tree%20Analysys%20of%20YouTube%20Scraper.ipynb))
 - the webscraper code used can be found at "\Comp 396 Research Project\YouTubeScraper.py" ([here](https://github.com/mika-jpd/YouTube_Radicalization_Recommendations/blob/master/Comp%20396%20Research%20Project/YouTubeScraper.py))
