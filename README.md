@@ -46,9 +46,9 @@ For the chapter data, all the relevant data and graphs are in "\YouTube Content 
 
     For this scrape we surveyed 187 YouTube users and extracted common YouTube uses to create a scraper which mimicked trends.
 The algorithm will start by determining the user’s intentby using the following rule: 
-* 80% of the time it will choose to start with an initial left-/right-wing seed from the curated list of videos to generate the root recommendations of interest, based on its initial bias.
-* 10 % of the time itwill choose a video from the first 25 videos automatically presented to it when it first logged in (called the homepage-videos).
-* 10% of the time it will scan the homepage-videos for an opposing point of view, choosing a random homepage video if no partisan video is found. The algorithm then performs a depth-first search of the recommendation space guided by the user’s intent for a ply depth of 2. 
+    * 80% of the time it will choose to start with an initial left-/right-wing seed from the curated list of videos to generate the root recommendations of interest, based on its initial bias.
+    * 10 % of the time itwill choose a video from the first 25 videos automatically presented to it when it first logged in (called the homepage-videos).
+    * 10% of the time it will scan the homepage-videos for an opposing point of view, choosing a random homepage video if no partisan video is found. The algorithm then performs a depth-first search of the recommendation space guided by the user’s intent for a ply depth of 2. 
 
 This will be repeated 6 times
 
